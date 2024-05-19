@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@66.81.247.19:8443?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-66.81.247.19:8443
-vless://10716279-b1ee-41d8-b63e-87782088305b@190.93.244.18:443?security=tls&sni=MamAne-FiLTerCHi.pageS.DEV&type=ws&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.244.18:443
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.64.144:443?security=tls&sni=www.data.gov.uk&type=ws&host=binance.co.kp#🔒 VL-WS-TLS 🇺🇸 US-151.101.64.144:443
 vless://664f5f11-1231-486d-b416-b7b3ecdae76a@104.17.42.10:443?security=tls&sni=HETZNER-D.pages.DEV&type=ws&host=HETZNER-D.pages.DEV&path=%2F%3Fed%3D2048&fp=randomized&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.42.10:443
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@34.105.49.234:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇺🇸 US-34.105.49.234:443
@@ -83,3 +81,5 @@ vless://de44b044-8f90-4e18-b742-16591667ff96@8.218.235.84:23393?security=tls&sni
 vless://71dce9af-d790-4b38-a1fd-7745e0923bd3@104.21.16.169:443?security=tls&sni=uciranir-uciranir-uciranir-uciranir-uciranir-uiranir-uciranir2.marol78205.workers.dev&type=ws&host=uciranir-uciranir-uciranir-uciranir-uciranir-uiranir-uciranir2.marol78205.workers.dev&path=%2F-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR%2F%3Fed%3D2047#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.16.169:443
 vless://988bbd3d-2822-47ab-ad1e-d2b4109fe30a@104.21.94.85:2052?security=none&sni=de3.vlessx.xyz&type=ws#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.94.85:2052
 vless://2a3263e2-891c-4446-b474-a8c63acb6e25@173.245.58.154:2096?security=tls&sni=swe2.mbh-meti.com&type=ws&host=swe2.mbh-meti.com&path=%2F&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-173.245.58.154:2096
+vless://664f5f11-1231-486d-b416-b7b3ecdae76a@104.22.2.79:443?security=tls&sni=HETZNER-D.pages.DEV&type=ws#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.2.79:443
+vless://b7e13552-a221-43ad-86e7-ee047ae9ac00@104.21.23.243:443?security=tls&sni=ch.bo3kot.com&type=grpc&serviceName=%40MxV2ray%2C%40MxV2ray%2C%40MxV2ray%2C%40MxV2ray&fp=safari&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.23.243:443

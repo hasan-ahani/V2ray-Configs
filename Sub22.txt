@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://09833a6f-4d46-426e-87fe-7793a5489f84@foreign01.lovehjq.xyz:46521?security=tls&sni=lovehjq.xyz&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%203
-trojan://pjdnqv@aws-us-dallas-1.f1rocketnode.com:443?security=tls&sni=aws-us-dallas-1.f1rocketnode.com&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20294
 trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@download1tw.windowsupdatea.com:443?security=tls&sni=glc-tw1.windowsupdatea.com&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3%20Taiwan%208
 trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@141.193.68.81:443?security=tls&sni=glc-us3.windowsupdatea.com&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20303
 
@@ -83,3 +81,5 @@ vless://c584aa40-feab-415f-9917-885993ac60d0@190.93.246.241:8080?security=realit
 vless://d5e775de-0530-4062-a654-25dd2ba648d2@77.221.143.183:33000?security=reality&sni=www.speedtest.net&type=grpc&serviceName=b&fp=chrome&pbk=JrN7nZEbUeBJFHTAKwtz5Dmd10SGgA8UCHEMLA2xOg0&sid=be7f13dd#🔒 VL-GRPC-RLT 🇸🇪 SE-77.221.143.183:33000
 vless://cb38f3a8-4258-4722-b62a-8af9a443acf1@179.61.251.238:8443?security=reality&sni=flutter.dev&type=tcp&fp=chrome&pbk=HWlARwnjdY9TQOW_jJZtTFNNgV-4PL2aoZ3XwZ8xAR8&sid=a66923d4#🔒 VL-TCP-RLT 🇩🇪 DE-179.61.251.238:8443
 vless://fbe02c0b-775f-4431-8615-a9497255c876@199.59.243.225:443?security=reality&flow=xtls-rprx-vision&sni=none.felinetest.site&type=tcp&fp=chrome&pbk=fabWUdBWxh7NsMaqOF35petD3ljQbKf6OSDnROV9jDs&sid=6f9deca7#🔒 VL-TCP-RLT 🇺🇸 US-199.59.243.225:443
+vless://a0562dec-26ac-43d4-ba1d-785c334e644f@37.27.21.47:443?security=reality&sni=greenpepper.ir&type=grpc&serviceName=@ipV2Ray&fp=chrome&pbk=FVe7_gsA7lnuX9z_V0vZXI9gD5outBiWIWZQsBpIzlI&sid=fada4f5f#🔒 VL-GRPC-RLT 🇫🇮 FI-37.27.21.47:443
+vless://354a4626-918f-4f4d-a603-89e18718d92d@172.232.154.185:443?security=reality&sni=ghbi.ir&type=grpc&fp=chrome&pbk=rW_BTQ5EiomL4nMuvj3EbxqjRdLYt9Q0rpCaS9Iy8Eo&sid=804894e8#🔒 VL-GRPC-RLT 🇸🇪 SE-172.232.154.185:443

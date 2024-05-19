@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.195.62.65:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇫🇮 FI-45.195.62.65:443
-vless://8c9cb6e5-1be1-4e35-9ed3-d0d5280479a9@104.18.15.19:2096?security=tls&sni=tp6.zedmodeon.lat&type=grpc&serviceName=@ZEDMODEON-@ZEDMODEON-@ZEDMODEON&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.15.19:2096
 vless://4989199e-2346-45dd-9e68-561bd2606359@104.21.12.150:2095?security=none&sni=nl8.vlessx.us&type=ws&path=CHANNEL-@ARCHIVE_ANDROID-@ARCHIVE_ANDROIDTelegram-@Archive_Android-Telegram-@Archive_Android-Telegram-@Archive_Android-Telegram-@Archive_Android#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.12.150:2095
 vless://caacbab-baca-bcaa-bdca-cabbacacbcba@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
 vmess://eyJhZGQiOiAiMTI3LjAuMC4xIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogImNjYmFiYWEtY2JhYS1hYWJjLWJjZGEtYWNiYWJjYmNhY2FiIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6IDEwODAsICJwcyI6ICJcdWQ4M2RcdWRkMDQgTEFURVNULVVQREFURSBcdWQ4M2RcdWRjYzUgU1VOLTMwLU9SRElCRUhFU0hULTE0MDMgXHVkODNkXHVkZDUxIDE3OjU0IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==
@@ -83,3 +81,5 @@ trojan://e5f9c753-d401-487f-a77b-1004b7f0f439@64.110.68.141:20102?security=tls&s
 trojan://pUxG77WPOZ@104.18.203.232:80?security=none&type=ws&host=s9.in01.tech&path=/#🔒 TR-WS-NONE 🏴‍☠️ NA-104.18.203.232:80
 trojan://auto@172.67.205.219:443?security=tls&sni=esetsecuritylicense.nzuwcx.workers.dev&type=ws&host=esetsecuritylicense.nzuwcx.workers.dev&path=%2F%3Fed%3D2560&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.205.219:443
 trojan://telegram-id-privatevpns@99.81.100.41:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-99.81.100.41:22222
+trojan://a36dfa0e-5a34-4e77-8513-87350f38e0a6@104.16.35.201:443?security=tls&sni=lmtsg3.cfyun01.sbs&type=ws&host=lmtsg3.cfyun01.sbs&path=/CFYUN#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.35.201:443
+trojan://telegram-id-privatevpns@52.214.67.216:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-52.214.67.216:22222
