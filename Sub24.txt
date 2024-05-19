@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://a492d040-7600-408e-93e0-4fea68681ec7@104.21.76.37:2096?security=tls&sni=wedbaz-vip-uk-all.mobailemax.ir&type=grpc&serviceName=abc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.76.37:2096
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@89.116.180.130:2053?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F#🔒 VL-WS-TLS 🇱🇹 LT-89.116.180.130:2053
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@194.36.55.180:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇬🇧 GB-194.36.55.180:443
 vless://c9ace106-ae66-46e6-8be3-2c54b40d73df@188.114.98.225:8443?security=tls&sni=SAmV2ray.naziitness.com&type=ws&host=SAmV2ray.naziitness.com&path=%2F%3Fed%3D1024&headerType=@KAFING_2@KAFING_2@KAFING_2@KAFING_2@KAFING_2@KAFING_2@KAFING_2@KAFING_2@KAFING_2@KAFING_2@KAFING_2@KAFING_2@KAFING_2@KAFING_2@KAFING_2@KAFING_2@KAFING_2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.225:8443
 vless://0d5cdec3-ff6c-49cb-9d7d-206d7c7d1437@2.189.110.9:443?security=none&type=tcp&host=www.speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-2.189.110.9:443
 vless://1d1a7193-61a9-4fc1-9778-dd517cf9f919@172.67.136.208:443?security=tls&sni=workerr.mcgrooge12.workers.dev&type=ws&host=workerr.mcgrooge12.workers.dev&path=%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.136.208:443
@@ -80,6 +83,3 @@ vless://e120d010-301f-49d7-bdb4-7568f9ab9782@91.193.58.1:2052?security=none&type
 vless://ec3570c1-0d04-43df-a944-7808e935c45a@104.18.203.232:8080?security=none&type=ws&host=mcii.过滤器.store.&path=/melov2ray#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.203.232:8080
 vless://7ae8705b-f1a5-4ad1-abb6-65ae1584085c@104.18.90.232:443?security=tls&sni=gateway.rustbridge.site&type=ws&host=gateway.rustbridge.site#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.90.232:443
 vless://98268aee-f8c1-41f1-8c9f-0273ada3af8c@162.159.130.233:443?security=tls&sni=PORiYa-WaRPHidDIFy-PANel.pAGeS.deV&type=ws&host=poRiYa-WARpHiddIFy-PAnel.pAgeS.DEV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.130.233:443
-vless://ee3fda1f-d8ec-44c7-942e-7e980b0b941c@104.24.234.35:2052?security=none&type=ws&host=P.a.n.jetupnet.sbs.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.234.35:2052
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.17.245.203:443?security=tls&sni=3k.pureboy.eu.org&type=ws&host=3k.pureboy.eu.org#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.245.203:443
-vless://61958b98-d52a-420e-bb42-a3fd22985895@104.17.249.203:2096?security=tls&sni=italia.dalixw.fun&type=grpc&serviceName=.....&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.249.203:2096
