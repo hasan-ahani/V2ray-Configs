@@ -22,17 +22,17 @@ https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub1.txt
 
 - Subscription 2: 
 ```
-https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub2.txt
+https://raw.githubusercontent.com/hasan-ahani/V2ray-Configs/main/Sub2.txt
 ```
 
 - Subscription 3: 
 ```
-https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub3.txt
+https://raw.githubusercontent.com/hasan-ahani/V2ray-Configs/main/Sub3.txt
 ```
 
 - Subscription 4: 
 ```
-https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub4.txt
+https://raw.githubusercontent.com/hasan-ahani/V2ray-Configs/main/Sub4.txt
 ```
 
 - Subscription 5: 
@@ -42,7 +42,7 @@ https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub5.txt
 
 - Subscription 6: 
 ```
-https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub6.txt
+https://raw.githubusercontent.com/hasan-ahani/V2ray-Configs/main/Sub6.txt
 ```
 
 - Subscription 7: 
@@ -52,17 +52,64 @@ https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub7.txt
 
 - Subscription 8: 
 ```
-https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub8.txt
+https://raw.githubusercontent.com/hasan-ahani/V2ray-Configs/main/Sub8.txt
 ```
 
 - Subscription 9: 
 ```
-https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub9.txt
+https://raw.githubusercontent.com/hasan-ahani/V2ray-Configs/main/Sub9.txt
 ```
 
 - Subscription 10: 
 ```
-https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub10.txt
+https://raw.githubusercontent.com/hasan-ahani/V2ray-Configs/main/Sub10.txt
+```
+
+- Subscription 11: 
+```
+https://raw.githubusercontent.com/hasan-ahani/V2ray-Configs/main/Sub11.txt
+```
+
+- Subscription 12: 
+```
+https://raw.githubusercontent.com/hasan-ahani/V2ray-Configs/main/Sub12.txt
+```
+
+- Subscription 13: 
+```
+https://raw.githubusercontent.com/hasan-ahani/V2ray-Configs/main/Sub13.txt
+```
+
+- Subscription 14: 
+```
+https://raw.githubusercontent.com/hasan-ahani/V2ray-Configs/main/Sub14.txt
+```
+
+- Subscription 15: 
+```
+https://raw.githubusercontent.com/hasan-ahani/V2ray-Configs/main/Sub15.txt
+```
+
+- Subscription 16: 
+```
+https://raw.githubusercontent.com/hasan-ahani/V2ray-Configs/main/Sub16.txt
+```
+
+- Subscription 17: 
+```
+https://raw.githubusercontent.com/hasan-ahani/V2ray-Configs/main/Sub17.txt
+```
+- Subscription 18: 
+```
+https://raw.githubusercontent.com/hasan-ahani/V2ray-Configs/main/Sub18.txt
+```
+- Subscription 19: 
+```
+https://raw.githubusercontent.com/hasan-ahani/V2ray-Configs/main/Sub19.txt
+```
+- Subscription 20: 
+```
+https://raw.githubusercontent.com/hasan-ahani/V2ray-Configs/main/Sub20.txt
 ```
 
 🔒 To ensure the best possible performance and security, we recommend subscribing to our latest configurations using the subscription link feature. Simply copy the subscription link from the configs.txt file and paste it into your V2ray client to receive automatic updates every 10 minutes.
