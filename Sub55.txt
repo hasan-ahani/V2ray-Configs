@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://664f5f11-1231-486d-b416-b7b3ecdae76a@104.17.42.10:443?security=tls&sni=HETZNER-D.pages.DEV&type=ws&host=HETZNER-D.pages.DEV&path=%2F%3Fed%3D2048&fp=randomized&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.42.10:443
+vless://9dba67d5-5398-4ad9-a848-55c673846644@104.21.8.177:2053?security=tls&sni=orientation-da1639422ad8f355d2371428.mitowear.com&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.8.177:2053
+vless://ddb00f36-d544-4e35-afbf-64297aa68d03@188.114.97.2:2083?security=tls&sni=sisana.muzres.WoRkeRS.DEv&type=ws&host=sisana.muzres.WoRkeRS.DEv&path=vless-ws%2F%3Fed%3D2048&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.2:2083
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.47.175:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.47.175:443
 vless://1bab0961-b22c-411f-b955-09c4aed2d2c1@185.146.173.29:443?security=tls&sni=us1.hnkkt.top&type=ws&path=/gsjc/us1#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.29:443
 vless://62f6b891-7988-4392-88c7-14134bb3ffa9@104.21.94.28:2083?security=tls&sni=yasin-godrat13.yasinsamieiuu.workers.dev&type=ws&host=yasin-godrat13.yasinsamieiuu.workers.dev&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.94.28:2083
@@ -80,6 +83,3 @@ vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@103.20.199.101:30860?security=tls&s
 vless://aa81e188-a979-411e-a10b-08287646cc43@172.67.221.199:443?security=tls&sni=vl26.rnd.biz.id&type=ws#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.221.199:443
 vless://2ca42987-551b-4494-a854-da2d9178f4cd@172.67.141.99:2087?security=tls&sni=IxHiWwAs22.zImBa-zUlA.OrG&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.141.99:2087
 vless://bd700852-b4e5-5acf-8463-e0af5835ff07@172.67.170.223:443?security=tls&sni=moon-yellow-dust-553a-f.fayez-jotham.WorKers.deV&type=ws&host=moon-yellow-dust-553a-f.fayez-jotham.WorKers.deV&path=vless-ws%2F%3Fed%3D2048&fp=firefox&alpn=h3,h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.170.223:443
-vless://9e67f15c-178f-494c-a843-f371e3b3fa5d@172.67.138.50:8080?security=none&sni=king1980.b91sptsl.workers.dev&type=ws&host=king1980.b91sptsl.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.138.50:8080
-vless://bfad1a25-f5b5-41e6-98b3-438de77b524e@190.93.247.155:2095?security=none&type=ws&host=hamrah.academiwollf.sbs&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-190.93.247.155:2095
-vless://195a6525-3e82-4a03-9fa8-0462db52bfd2@158.58.190.122:21344?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-158.58.190.122:21344

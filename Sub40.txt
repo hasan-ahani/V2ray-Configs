@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://b0138d55-a493-4dc3-9932-c6f0391707c1@141.101.123.151:2082?type=ws#🔒 VL-WS-NA 🏴‍☠️ NA-141.101.123.151:2082
+vless://5357a880-962d-4d37-8466-0bd382bc0ea0@104.21.47.221:443?security=tls&sni=cloud-unique.buqyglgw.woRKerS.DeV&type=ws&host=cloud-unique.buqyglgw.woRKerS.DeV&path=vless-ws%2F%3Fed%3D2048&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.47.221:443
+vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@172.64.22.170:443?security=tls&sni=bia-pain-bAche.PaGES.DEV&type=ws&host=biA-pAIn-bacHe.pageS.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.22.170:443
 vless://2d1ffe11-8087-496f-9270-180f8ee7d98b@188.114.98.224:8080?security=none&type=ws&host=V2ray-_-_-_-_-MdVpnSec.TelegramChannelJoinBede.com.&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.98.224:8080
 vless://7733d96d-5cd2-4a15-91b2-60b06c27cee0@45.140.31.171:46769?security=none&type=tcp&host=telewebion.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-45.140.31.171:46769
 vless://7e29f2e2-e0ec-47c5-94ec-38ef90f7a106@104.18.15.19:2053?security=tls&sni=qopyz.oxnetirz11.ONfLashDrIVE.app&type=ws&host=qopyz.oxnetirz11.ONfLashDrIVE.app&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.15.19:2053
@@ -80,6 +83,3 @@ vless://e6aae0f8-e19a-4bc5-a3f4-efe82ad83673@172.67.214.179:443?security=tls&sni
 vless://bf7e1009-1574-44f7-86df-6cbecd338477@172.66.44.150:443?security=tls&sni=pardazeshvpn-tg18.pages.dev&type=ws&path=/?ed&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.150:443
 vless://33818a00-cbdb-4ae0-a31a-e7de094e7aec@104.21.8.66:443?security=tls&sni=uciranir-uciranir-uiranir-uciranir-uciranir-uciranir-uciranir1.detixi1932.workers.dev&type=ws&host=uciranir-uciranir-uiranir-uciranir-uciranir-uciranir-uciranir1.detixi1932.workers.dev&path=%2F-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR%2F%3Fed%3D2047&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.8.66:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.227.60:443?security=tls&sni=936a99B4.Vde5-MlX81LANeo.pAgES.dEv&type=ws&host=936a99B4.vDE5-MLx81LANeO.pAgeS.DEV&path=%2FKkhHL0gsSoZ7M6id%2FZGU1Lm1lcmxpbm56Lmxpbms%3D%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.227.60:443
-vless://9e67f15c-178f-494c-a843-f371e3b3fa5d@141.101.115.199:8080?security=none&sni=king1980.b91sptsl.workers.dev&type=ws&host=king1980.b91sptsl.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-141.101.115.199:8080
-vless://734072e0-82af-4ca9-979e-3f84c6b66b97@104.16.2.189:80?security=none&type=ws&host=%E4%B8%8D%E8%A6%81%E5%AF%B9%E4%B8%96newlife.%E7%AB%99%E9%95%BFbadho.silence2.%E5%A4%9C%E7%8C%AB%E5%AD%90%E9%85%92%E5%90%A7%E6%9E%AA%E6%88%98.suonycars.buzz.&path=%2Ft.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.2.189:80
-vless://90315e1e-21da-49df-b9cf-c0202f3a208e@62.60.178.72:443?type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NA 🇺🇸 US-62.60.178.72:443
