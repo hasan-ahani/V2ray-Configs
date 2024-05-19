@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://d4e4f972-15fb-4748-85ef-f5c77438ee91@162.159.137.232:2096?security=tls&sni=poy-uk.sg-forum.info&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.137.232:2096
-vless://e8a6ab24-ac50-457c-9053-de6836401191@23.227.60.130:80?security=none&type=ws&host=bia-channel-hajimamadvpn.timeclassic.ir#🔒 VL-WS-NONE 🇨🇦 CA-23.227.60.130:80
-vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@104.22.11.129:443?security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&type=ws#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.11.129:443
 vless://69256407-66b7-45eb-ad2b-8e879407291f@66.235.200.1:80?security=none&type=ws&path=%2FTeleGram%40Free_V2rng%3Fed#🔒 VL-WS-NONE 🇺🇸 US-66.235.200.1:80
 vless://d2369f28-4eea-41fe-998c-14bf8b5e1914@172.67.214.179:2083?security=tls&sni=le.bo3kot.com&type=grpc&serviceName=@MxV2ray,@MxV2ray,@MxV2ray,&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.214.179:2083
 vless://31ee875d-63cf-4d85-839e-2def5ca4f794@104.18.15.242:2053?security=tls&sni=031c08e8175b0def.greenbook.monster&type=ws&host=031c08e8175b0def.greenbook.monster&path=%2F&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.15.242:2053
@@ -83,3 +80,6 @@ vless://a6d17b00-b262-41a4-afe3-0ed8051fe8db@88.198.84.145:46948?security=none&t
 vless://dd777f39-2996-4269-b88f-0b64436d0274@23.227.60.12:2096?security=tls&sni=joinchannel.sameasyou.sbs&type=ws&host=capitalnet.sameasyou.sbs&path=/&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇨🇦 CA-23.227.60.12:2096
 vless://e2ed91fe-808a-4d63-bcd9-1487769bfaaa@185.146.173.22:2083?security=tls&sni=forward222.maryam1500.top&type=grpc&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🇸🇪 SE-185.146.173.22:2083
 vless://54c5f9f1-1f0d-4d61-9eb8-db65a1f62d56@104.17.177.51:443?security=tls&sni=salad.1945157171.workers.dev&type=ws&host=salad.1945157171.workers.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.177.51:443
+vless://de0a955c-dd4a-4e30-94f2-084f3b26a88c@172.67.190.127:8080?security=none&type=ws&host=spdnet-ok-.1.1.1.1.1.snapp.com.xn--blqw2a5no5ed8cm6xw0gw2i6ooehteuz1wcw61apn4a.com.&path=%2FspdNET-spdNET-spdNET-spdNET-spdNET-spdNET-spdNET-%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.190.127:8080
+vless://e7cc88ba-b1e5-44fc-91f4-bbf3829f5ce2@84.47.235.69:51392?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-84.47.235.69:51392
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.64.35.70:443?security=tls&sni=worker-noisy-salad-00fe.geloyit451.workers.Dev&type=ws&host=worker-noisy-salad-00fe.geloyit451.workers.Dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.35.70:443
