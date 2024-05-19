@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://f54c1c56-d3b2-41b3-9974-78bdd8807939@190.93.247.155:8880?security=none&type=ws&host=liV2raya.善良的闪电.monster&path=/@LIGHTNING6#🔒 VL-WS-NONE 🏴‍☠️ NA-190.93.247.155:8880
-vless://9a39f63e-28c8-4560-af18-b01b9916ef1b@104.18.13.229:8443?security=tls&sni=pardazesh-tgws.pages.dev&type=ws&host=pardazesh-tgws.pages.dev&path=%2F%3Fed#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.13.229:8443
 vless://9ad6196e-9332-4ba8-a60f-efd3bba1f37b@23.227.39.179:443?security=tls&sni=n2vpn.projectis.ir&type=ws&host=n2vpn.projectis.ir&path=/@n2vpn&fp=chrome#🔒 VL-WS-TLS 🇨🇦 CA-23.227.39.179:443
 vless://c4d98ed1-69a5-49ad-b785-25fd2e081326@172.67.219.166:2053?security=tls&sni=Poshtiban.ehsa0535.top&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.219.166:2053
 vless://f4674168-f45c-45ed-8e6c-78ed71d3114f@66.235.200.1:2087?security=tls&sni=mAh3.irAnWeB.ShOP&type=ws&host=mAh3.irAnWeB.ShOP&path=/@mahsa_net+@azadi_az_inja_migzare&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🇺🇸 US-66.235.200.1:2087
@@ -83,3 +81,5 @@ vless://61b8beb5-c2f5-4bae-9046-658bd8cba724@104.16.103.112:2087?security=tls&sn
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@216.38.168.34:16384?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇺🇸 US-216.38.168.34:16384
 vless://bfa8fd6e-34fb-4957-84b1-bc6d99bc3dbe@104.31.16.74:2087?security=tls&sni=kyyugkuyuygutf.mic-mokhaderat-shatel-irancel-digikala.shop&type=grpc&serviceName=IP_CF&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.31.16.74:2087
 vless://01ab9337-f478-4765-9534-88f009f83ddb@158.180.231.216:443?security=tls&sni=aut022.ylks.link&type=ws&path=/?ed#🔒 VL-WS-TLS 🇮🇹 IT-158.180.231.216:443
+vless://486c2641-9156-42e2-a43c-3004f9b74dc4@172.67.194.207:443?security=tls&sni=swedenhvgjeyhe5hye.may-the-force-be-with-you.sbs&type=ws&host=swedenhvgjeyhe5hye.may-the-force-be-with-you.sbs&path=/&alpn=http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.194.207:443
+vless://d0be39fd-4bca-4e37-80d5-715d512aad7e@104.18.244.192:443?security=tls&sni=server17.aibox.tv&type=ws&host=server17.aibox.tv&path=/ws/&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.244.192:443

@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://e7a059ea-a24d-4be4-a1d5-eeb5f4d7f821@45.131.4.134:2052?security=none&type=ws&host=3.v2ray.mihanyas.ir.mbj.farsroid.com.savarkaraan.Ir.#🔒 VL-WS-NONE 🇳🇱 NL-45.131.4.134:2052
-vless://c14f397e-682b-4949-fbdd-96b6020e137a@190.93.244.103:2083?security=tls&sni=liV2helj.LIGHTNING6.IR&type=grpc&serviceName=@LIGHTNING6&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-190.93.244.103:2083
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@221.162.188.134:10102?security=tls&sni=v222.ylks.link&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇰🇷 KR-221.162.188.134:10102
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@47.243.169.63:2053?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇭🇰 HK-47.243.169.63:2053
 vless://51baeda8-1288-458a-b5ae-b8b080b937b6@104.27.1.52:8880?security=none&type=ws&host=cherry.berry.strawberry.%E6%88%91%E4%BB%AC%E7%94%9F%E6%B4%BB%E5%9C%A8%E8%AF%A5%E6%AD%BB%E7%9A%84%E5%9C%B0%E7%8B%B1%E9%87%8C.shop.&path=%2FTelegram%3A%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%3Fed%3D1024#🔒 VL-WS-NONE 🏴‍☠️ NA-104.27.1.52:8880
@@ -83,3 +81,5 @@ vless://d578a1d0-6544-4eb7-81f7-6a30e355aad5@104.21.74.214:80?security=none&type
 vless://3ab1e793-7cd7-49a1-bb14-b68043888482@104.21.4.8:2086?type=ws#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.4.8:2086
 vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@59.187.242.236:14661?security=tls&sni=2022585a-86a7-4231-b3a0-eeda14f77f4d.8f18237c-8e5f-4ffb-a434-1b2948c87be3.ddnsfree.com&type=ws&path=%2Fpasge.pages.dev%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇰🇷 KR-59.187.242.236:14661
 vless://9eed4ef6-fd5e-40d5-8f2c-4e90c92011ca@172.67.156.210:8443?security=tls&sni=re1.v2logy.xyz&type=grpc&fp=safari&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.156.210:8443
+vless://7638faf9-9111-4c8b-9160-ccd27605dec4@66.235.200.123:8443?security=tls&sni=vmessorg.xn--54qv00ez5ar77g.co&type=ws&host=vmessorg.xn--54qv00ez5ar77g.co&path=%2F&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-66.235.200.123:8443
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@77.37.33.242:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇩🇪 DE-77.37.33.242:8443

@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://378387d5-4370-4e38-9661-25796e8630ba@143.47.241.46:16097?security=reality&flow=xtls-rprx-vision&sni=www.amazon.com&type=tcp&fp=chrome&pbk=qMH_7IYKzR0mOLN35mnQijwzN8IiWdudhryTHaQzWS0#🔒 VL-TCP-RLT 🇬🇧 GB-143.47.241.46:16097
-vless://184d0948-6d59-4d35-8414-3a40653300fa@95.179.209.182:39655?security=reality&sni=canva.com&type=http&path=%2F&fp=chrome&pbk=ufhhvLT3OZTFY_PvQvNGhGHYJNfpKfc3ZZReToimgnc&sid=a0b24709af#🔒 VL-HTTP-RLT 🇫🇷 FR-95.179.209.182:39655
 vless://52a2db26-73f5-43d9-9fd0-bc5afa3fc7ac@104.168.107.230:7550?security=reality&flow=xtls-rprx-vision&sni=pixabay.com&type=tcp&fp=chrome&pbk=kt-d9jx_cCmvmWiL4CP5IPAKHhjAF-oBmsGhyG1U704&sid=7a06db71e78640de#🔒 VL-TCP-RLT 🇺🇸 US-104.168.107.230:7550
 vless://9ea79dd6-fb8c-4bc2-9581-afdbabee500a@104.168.107.230:6855?security=reality&flow=xtls-rprx-vision&sni=squadhelp.com&type=tcp&fp=chrome&pbk=kt-d9jx_cCmvmWiL4CP5IPAKHhjAF-oBmsGhyG1U704&sid=7a06db71e78640de#🔒 VL-TCP-RLT 🇺🇸 US-104.168.107.230:6855
 vless://9326c0ee-8393-4bf6-bcff-2bd5462652bd@49.12.193.246:443?security=reality&sni=www.iranserver.com&type=grpc&fp=chrome&pbk=JkoHaVaou4cTuQk5kbG2lwQx7Z5nzFiKbTDXbr-fdFQ&sid=9a6deee9#🔒 VL-GRPC-RLT 🇩🇪 DE-49.12.193.246:443
@@ -83,3 +81,5 @@ vless://4ad7a8cf-bd7a-4da0-b862-c0b6f91ab583@51.75.30.8:443?security=tls&sni=fr.
 vless://c6a979db-09de-4b47-88c2-fb89c0335049@104.21.74.214:443?security=tls&sni=moein.savarkaraan.ir&type=grpc&serviceName=@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.74.214:443
 vless://e7cc88ba-b1e5-44fc-91f4-bbf3829f5ce2@84.47.235.69:51392?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-84.47.235.69:51392
 vless://f04ac048-0a6d-4ce7-a23f-9b9722002af2@172.64.150.28:8080?security=none&type=ws&host=mci.melov2ray.store.&path=/melov2ray#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.150.28:8080
+vless://79a571fb-4fd2-4b87-9876-1b7d9728bb5c@173.245.58.31:8880?security=none&type=ws&host=tel-irn-vpn.irnvpn.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-173.245.58.31:8880
+vless://51baeda8-1288-458a-b5ae-b8b080b937b6@198.41.194.136:8880?security=none&type=ws&host=cherry.berry.strawberry.%E6%88%91%E4%BB%AC%E7%94%9F%E6%B4%BB%E5%9C%A8%E8%AF%A5%E6%AD%BB%E7%9A%84%E5%9C%B0%E7%8B%B1%E9%87%8C.shop.&path=%2FTelegram%3A%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%3Fed%3D1024#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.194.136:8880

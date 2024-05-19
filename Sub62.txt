@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://060b45cb-e660-4bda-8cc4-dbff626cc4ca@104.31.16.65:2096?security=tls&sni=tm.bestv2rang.space&type=ws&host=tm.bestv2rang.space&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-104.31.16.65:2096
-vless://b3b18cbe-96e5-4504-b3a5-7e41b5e53769@104.17.148.252:80?security=none&sni=bia-to-channel.unlimiteddev.xyz&type=ws&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.148.252:80
 vless://7ac736b4-1773-46d8-a12f-6993d6e0158c@78.157.36.154:43257?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-78.157.36.154:43257
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.40.169:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.40.169:443
 vless://1c5be426-aa10-4af9-9a7d-4e2e3975bc87@94.247.142.2:2095?security=none&type=ws&host=%D0%BE%D1%8F-nawi-%D8%B2%D8%AF%D9%85%D9%88%D8%AF%D8%A2%D9%86-%E9%96%83%E9%9B%BBd.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&path=%2F%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+JOIN+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+JOIN+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+JOIN+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+%40ZeV2ray#🔒 VL-WS-NONE 🇺🇸 US-94.247.142.2:2095
@@ -83,3 +81,5 @@ vless://c32b1429-92aa-4be7-912e-4d63b0a31fc7@172.67.110.29:443?security=tls&sni=
 vless://f9e0b36b-f1d5-4f3f-87dd-1e14919915b9@104.19.174.68:443?security=tls&sni=c.cm8.rr.nu&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.174.68:443
 vless://f7d2e53e-0728-49b0-89f7-ad730ee0cc49@172.67.190.251:2083?security=tls&sni=uciran-uciran-uciran-uciran-uciran-uciran-uciran.wamivah516.workers.dev&type=ws&host=uciran-uciran-uciran-uciran-uciran-uciran-uciran.wamivah516.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.190.251:2083
 vless://c255f68f-18f7-488a-b7fc-06a5676564f0@104.21.4.8:2052?type=ws#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.4.8:2052
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.18.12.101:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.12.101:443
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.18.251.250:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.251.250:443
