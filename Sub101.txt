@@ -3,22 +3,26 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://telegram-id-privatevpns@3.69.160.182:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | DE🇩🇪 | 0️⃣1️⃣
-trojan://telegram-id-privatevpns@51.21.77.0:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | SE🇸🇪 | 0️⃣3️⃣
-trojan://telegram-id-privatevpns@51.20.160.179:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | SE🇸🇪 | 0️⃣4️⃣
-trojan://telegram-id-privatevpns@52.214.115.250:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | IE🇮🇪 | 0️⃣5️⃣
-trojan://telegram-id-privatevpns@52.208.194.0:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | IE🇮🇪 | 0️⃣6️⃣
-trojan://telegram-id-privatevpns@3.11.111.187:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | GB🇬🇧 | 0️⃣7️⃣
-trojan://telegram-id-directvpn@3.133.233.66:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @DirectVPN | US🇺🇸 | 0️⃣1️⃣
-trojan://telegram-id-directvpn@3.97.146.23:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @DirectVPN | CA🇨🇦 | 0️⃣2️⃣
-trojan://telegram-id-directvpn@15.222.88.184:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @DirectVPN | CA🇨🇦 | 0️⃣4️⃣
+trojan://telegram-id-privatevpns@52.58.139.44:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | DE🇩🇪 | 0️⃣2️⃣
+trojan://telegram-id-privatevpns@3.69.160.182:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | DE🇩🇪 | 0️⃣3️⃣
+trojan://telegram-id-privatevpns@51.21.77.0:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | SE🇸🇪 | 0️⃣5️⃣
+trojan://telegram-id-privatevpns@51.20.160.179:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | SE🇸🇪 | 0️⃣6️⃣
+trojan://telegram-id-privatevpns@52.214.115.250:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | IE🇮🇪 | 0️⃣7️⃣
+trojan://telegram-id-directvpn@35.80.130.112:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @DirectVPN | US🇺🇸 | 0️⃣1️⃣
+trojan://telegram-id-directvpn@3.128.41.16:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @DirectVPN | US🇺🇸 | 0️⃣2️⃣
+trojan://telegram-id-directvpn@3.133.233.66:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @DirectVPN | US🇺🇸 | 0️⃣3️⃣
+trojan://telegram-id-directvpn@3.97.146.23:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @DirectVPN | CA🇨🇦 | 0️⃣4️⃣
+trojan://telegram-id-directvpn@15.222.88.184:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @DirectVPN | CA🇨🇦 | 0️⃣6️⃣
 trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?security=tls&serviceName=443trojan&sni=cdn-21.gsmxreality.com&type=grpc#رایگان | TROJAN | @oneclickvpnkeys | US🇺🇸 | 0️⃣1️⃣
 trojan://4732adfa16c6450bbef87264e41332db@[::ffff:6810:9f07]:443?host=bangladeshipatri.com&path=%2F6b777a91&security=tls&sni=bangladeshipatri.com&type=ws#رایگان | TROJAN | @v2ray_swhil | US🇺🇸 | 0️⃣1️⃣
 trojan://2cba4104747d49d18319e5ade1b93ab5@198.41.220.10:443?host=jobscareerforstudent.com&path=6b777a91&security=tls&sni=jobscareerforstudent.com&type=ws#رایگان | TROJAN | @v2ray_swhil | US🇺🇸 | 0️⃣2️⃣
 trojan://4732adfa16c6450bbef87264e41332db@104.16.159.7:443?host=bangladeshipatri.com&path=%2F6b777a91&security=tls&sni=bangladeshipatri.com&type=ws#رایگان | TROJAN | @VmessProtocol | US🇺🇸 | 0️⃣1️⃣
 trojan://lrdxw@trojan-lrdxw.ala1-f11.workers.dev:443?fp=randomized&host=trojan-lrdxw.ala1-f11.workers.dev&path=%2F%3Fed%3D2560&security=tls&sni=trojan-lrdxw.ala1-f11.workers.dev&type=ws#رایگان | TROJAN | @VmessProtocol | US🇺🇸 | 0️⃣2️⃣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40VmessProtocol+%7C+GB%F0%9F%87%AC%F0%9F%87%A7+%7C+0%EF%B8%8F%E2%83%A31%EF%B8%8F%E2%83%A3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40VmessProtocol+%7C+GB%F0%9F%87%AC%F0%9F%87%A7+%7C+0%EF%B8%8F%E2%83%A33%EF%B8%8F%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40VmessProtocol+%7C+BH%F0%9F%87%A7%F0%9F%87%AD+%7C+0%EF%B8%8F%E2%83%A32%EF%B8%8F%E2%83%A3
+ss://Y2hhY2hhMjAtcG9seTEzMDU6Qm9nMEVMbU1NOURTeERkUQ==@series-a2-me.samanehha.co:443#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40VmessProtocol+%7C+BH%F0%9F%87%A7%F0%9F%87%AD+%7C+0%EF%B8%8F%E2%83%A33%EF%B8%8F%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40VmessProtocol+%7C+GB%F0%9F%87%AC%F0%9F%87%A7+%7C+0%EF%B8%8F%E2%83%A35%EF%B8%8F%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40VmessProtocol+%7C+AE%F0%9F%87%A6%F0%9F%87%AA+%7C+0%EF%B8%8F%E2%83%A36%EF%B8%8F%E2%83%A3
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.110.1.197:5003#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40OutlineVpnOfficial+%7C+US%F0%9F%87%BA%F0%9F%87%B8+%7C+0%EF%B8%8F%E2%83%A31%EF%B8%8F%E2%83%A3
 ss://YWVzLTI1Ni1nY206ZWVORXhaUUpQdkhCaE9KVw==@95.164.116.101:35152#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40OutlineVpnOfficial+%7C+TR%F0%9F%87%B9%F0%9F%87%B7+%7C+0%EF%B8%8F%E2%83%A32%EF%B8%8F%E2%83%A3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZ1VRMmNRVFB0QkdOamJDWEtNS2VI@5.42.72.241:30482#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40OutlineVpnOfficial+%7C+SE%F0%9F%87%B8%F0%9F%87%AA+%7C+0%EF%B8%8F%E2%83%A33%EF%B8%8F%E2%83%A3
@@ -26,6 +30,7 @@ ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@51.77.53.200:4444#%D8%B1%D8%A7%DB%8C%D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.227:8080#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40OutlineVpnOfficial+%7C+NL%F0%9F%87%B3%F0%9F%87%B1+%7C+0%EF%B8%8F%E2%83%A35%EF%B8%8F%E2%83%A3
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@145.239.6.202:8008#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40OutlineVpnOfficial+%7C+GB%F0%9F%87%AC%F0%9F%87%A7+%7C+0%EF%B8%8F%E2%83%A36%EF%B8%8F%E2%83%A3
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@149.202.82.172:9101#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40OutlineVpnOfficial+%7C+FR%F0%9F%87%AB%F0%9F%87%B7+%7C+0%EF%B8%8F%E2%83%A37%EF%B8%8F%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40ROMAX_VPN+%7C+AE%F0%9F%87%A6%F0%9F%87%AA+%7C+0%EF%B8%8F%E2%83%A31%EF%B8%8F%E2%83%A3
 tuic://
 hy2://
 hy2://
@@ -78,8 +83,3 @@ vless://2b2e0856-e571-4b4b-a8f0-24de86848cdb@104.168.107.230:2085?encryption=non
 vless://efd36b2b-48cb-49b3-89e3-da9847df3c8e@104.168.107.230:2086?encryption=none&flow=xtls-rprx-vision&security=reality&sni=proxmox.com&fp=chrome&pbk=E3Esk4KgczuRmH8yJRZbI4QSTIanzuDMr5hczr-W9UY&sid=02b711641792f60c&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-2086 | 75.86ms
 vless://db18e4d3-74a1-40d5-8f6e-4ad07dfe6716@104.168.107.230:2087?encryption=none&flow=xtls-rprx-vision&security=reality&sni=flightradar24.com&fp=chrome&pbk=E3Esk4KgczuRmH8yJRZbI4QSTIanzuDMr5hczr-W9UY&sid=02b711641792f60c&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-2087 | 85.33ms
 vless://1e218375-f2a2-4399-88e4-23d8302ccd7c@104.168.107.230:2095?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sovrn.com&fp=chrome&pbk=E3Esk4KgczuRmH8yJRZbI4QSTIanzuDMr5hczr-W9UY&sid=02b711641792f60c&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-2095 | 71.69ms
-vless://9f77c5c0-6d6e-4f37-b70c-4c9d7907983f@104.168.107.230:2096?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cj.com&fp=chrome&pbk=E3Esk4KgczuRmH8yJRZbI4QSTIanzuDMr5hczr-W9UY&sid=02b711641792f60c&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-2096 | 71.85ms
-vless://6a21bff9-f6ab-437d-b4a7-5d800d42ba99@104.168.107.230:2983?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradedoubler.com&fp=chrome&pbk=E3Esk4KgczuRmH8yJRZbI4QSTIanzuDMr5hczr-W9UY&sid=02b711641792f60c&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-2983 | 75.9ms
-vless://354e8447-1835-4a10-aef8-86251b511822@104.168.107.230:3462?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cookiebot.com&fp=chrome&pbk=E3Esk4KgczuRmH8yJRZbI4QSTIanzuDMr5hczr-W9UY&sid=02b711641792f60c&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-3462 | 78.75ms
-vless://3249272f-2c1a-4598-8d8a-0acca13fb1d6@104.168.107.230:3492?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sloanreview.mit.edu&fp=chrome&pbk=E3Esk4KgczuRmH8yJRZbI4QSTIanzuDMr5hczr-W9UY&sid=02b711641792f60c&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-3492 | 75.58ms
-vless://af005938-6ec3-4c23-bb7f-7b49a2130646@104.168.107.230:4212?encryption=none&flow=xtls-rprx-vision&security=reality&sni=poynter.org&fp=chrome&pbk=E3Esk4KgczuRmH8yJRZbI4QSTIanzuDMr5hczr-W9UY&sid=02b711641792f60c&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-4212 | 92ms
