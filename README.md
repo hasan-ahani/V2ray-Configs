@@ -17,7 +17,7 @@ Just Copy these links to your client to use :
 
 - Subscription 1:
 ```
-https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub1.txt
+https://raw.githubusercontent.com/hasan-ahani/V2ray-Configs/main/Sub1.txt
 ```
 
 - Subscription 2: 
@@ -37,7 +37,7 @@ https://raw.githubusercontent.com/hasan-ahani/V2ray-Configs/main/Sub4.txt
 
 - Subscription 5: 
 ```
-https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub5.txt
+https://raw.githubusercontent.com/hasan-ahani/V2ray-Configs/main/Sub5.txt
 ```
 
 - Subscription 6: 
@@ -47,7 +47,7 @@ https://raw.githubusercontent.com/hasan-ahani/V2ray-Configs/main/Sub6.txt
 
 - Subscription 7: 
 ```
-https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub7.txt
+https://raw.githubusercontent.com/hasan-ahani/V2ray-Configs/main/Sub7.txt
 ```
 
 - Subscription 8: 
@@ -118,22 +118,22 @@ https://raw.githubusercontent.com/hasan-ahani/V2ray-Configs/main/Sub20.txt
 
 - Vmess: 
 ```
-https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Splitted-By-Protocol/vmess.txt
+https://raw.githubusercontent.com/hasan-ahani/V2ray-Configs/main/Splitted-By-Protocol/vmess.txt
 ```
 
 - Vless: 
 ```
-https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Splitted-By-Protocol/vless.txt
+https://raw.githubusercontent.com/hasan-ahani/V2ray-Configs/main/Splitted-By-Protocol/vless.txt
 ```
 
 - Trojan: 
 ```
-https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Splitted-By-Protocol/trojan.txt
+https://raw.githubusercontent.com/hasan-ahani/V2ray-Configs/main/Splitted-By-Protocol/trojan.txt
 ```
 
 - ShadowSocks: 
 ```
-https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Splitted-By-Protocol/ss.txt
+https://raw.githubusercontent.com/hasan-ahani/V2ray-Configs/main/Splitted-By-Protocol/ss.txt
 ```
 
 - ShadowSocksR: 
@@ -143,17 +143,17 @@ https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Splitted-By-Proto
 
 - Tuic:
 ```
-https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Splitted-By-Protocol/tuic.txt
+https://raw.githubusercontent.com/hasan-ahani/V2ray-Configs/main/Splitted-By-Protocol/tuic.txt
 ```
 
 - hy2:
 ```
-https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Splitted-By-Protocol/hysteria2.txt
+https://raw.githubusercontent.com/hasan-ahani/V2ray-Configs/main/Splitted-By-Protocol/hysteria2.txt
 ```
 
 - Warp (Only Hiddify):
 ```
-https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Warp_sub.txt
+https://raw.githubusercontent.com/hasan-ahani/V2ray-Configs/main/Warp_sub.txt
 ```
 
 ❕If upper links didnt work for you , Checkout this folder: [Base64 Folder](https://github.com/barry-far/V2ray-Configs/tree/dev/Base64)
