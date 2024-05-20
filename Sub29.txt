@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.21.228.200:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.228.200:443
 vless://696f52ca-f9cc-4fd1-baf3-66f40ca2ca2f@104.25.254.88:8443?security=tls&sni=im.jomong.space&type=grpc&serviceName=Tel:+@NT_Safe&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.25.254.88:8443
 vless://9f3d6a0a-492c-47dc-b2c5-6889eabeb940@104.21.44.86:443?security=tls&sni=vip.alonext.com&type=grpc&serviceName=@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2&fp=chrome&alpn=h2,http/1.1,h3#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.44.86:443
 vless://775213ac-3976-439a-8977-3277c0e4735d@185.174.138.141:8443?security=tls&sni=fq521.6789.cloudns.be&type=ws&path=twitterfreecodes#🔒 VL-WS-TLS 🇷🇺 RU-185.174.138.141:8443
@@ -82,4 +83,3 @@ vless://10716279-b1ee-41d8-b63e-87782088305b@190.93.245.219:443?security=tls&sni
 vless://1be4f0b1-61c7-4ae6-8daa-b8b6a7ec8e4e@104.21.69.44:80?security=none&type=ws&host=supercelllfulll-26598856685465465464684861546384648.xn--blqw2a5no5ed8cm6xw0gw2i6ooehteuz1wcw61apn4a.com.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.69.44:80
 vless://e5f38cb2-d25c-464c-9aa6-a8890148bbb9@162.159.130.234:80?type=ws&host=mnvxar.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&path=%2FZEDMODEON-%40ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.130.234:80
 vless://cc986068-8ecd-4f20-a00e-d5405302c33d@104.17.145.25:80?security=none&type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co.&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.145.25:80
-vless://b8f8ecd4-b3f1-4945-ad90-6953aa48f083@104.21.20.148:80?security=none&type=ws&path=%2Fbackup#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.20.148:80
