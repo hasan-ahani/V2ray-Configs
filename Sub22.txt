@@ -3,6 +3,15 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@108.181.24.37:443?security=tls&sni=glc-us1.windowsupdatea.com&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8US-108.181.24.37-0090
+trojan://09833a6f-4d46-426e-87fe-7793a5489f84@144.24.87.186:46521?security=tls&sni=lovehjq.xyz&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7KR-144.24.87.186-8278
+trojan://09833a6f-4d46-426e-87fe-7793a5489f84@144.24.87.186:46527?security=tls&sni=lovehjq.xyz&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7KR-144.24.87.186-8279
+trojan://09833a6f-4d46-426e-87fe-7793a5489f84@144.24.87.186:46521?security=tls&sni=lovehjq.xyz&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7KR-144.24.87.186-8278
+trojan://28c79056-ccfd-4cc1-93d4-c337cc782e65@89.221.224.94:80?security=tls&sni=is2-t.sshmax.xyz&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%B8IS-89.221.224.94-0076
+trojan://28c79056-ccfd-4cc1-93d4-c337cc782e65@89.221.224.94:80?security=tls&sni=is2-t.sshmax.xyz&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%B8IS-89.221.224.94-0076
+trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@108.181.24.37:443?security=tls&sni=glc-us1.windowsupdatea.com&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8US-108.181.24.37-0090
+trojan://telegram-id-privatevpns@34.254.88.91:22222?security=tls&sni=trj.rollingnext.co.uk&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%AAIE-34.254.88.91-0120
+trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@108.181.24.37:443?security=tls&sni=glc-us1.windowsupdatea.com&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2012
 trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@108.181.22.161:443?security=tls&sni=glc-us2.windowsupdatea.com&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2011
 trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@89.163.220.99:443?security=tls&sni=glc-de1.windowsupdatea.com&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%204
 trojan://28c79056-ccfd-4cc1-93d4-c337cc782e65@89.221.224.94:80?security=tls&sni=is2-t.sshmax.xyz&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%205
@@ -74,12 +83,3 @@ vless://58ca27ef-0719-4704-85c0-85d3314ccd3f@66.245.194.207:8443?security=realit
 vless://b524a41e-c80d-4743-a280-353aeb04078a@104.168.107.230:9631?security=reality&flow=xtls-rprx-vision&sni=ftp.debian.org&type=tcp&fp=chrome&pbk=8BiQIRM0TBZUpRwiB6vsfTPOj4AJoYd1dvX65GhfFW4&sid=a41cc82f29d6308c#🔒 VL-TCP-RLT 🇺🇸 US-104.168.107.230:9631
 vless://77540057-4504-43f7-b229-765f9b7bf35d@5.75.197.175:443?security=reality&flow=xtls-rprx-vision&sni=search.itunes.apple.com&type=tcp&fp=chrome&pbk=9D4FoKRukUuWRV8jx5ya5HHTmKC4sYH2Tk5RGWjGSmI&sid=ce#🔒 VL-TCP-RLT 🇩🇪 DE-5.75.197.175:443
 vless://addae374-74c8-430f-f7a6-20f2dfc0743e@217.69.7.202:37178?security=reality&sni=dash.cloudflare.com&type=grpc&serviceName=@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar&fp=chrome&pbk=Uhk-VmrYXDRHsc3dvK3C4P38XzsrM-8N9ui9cJ59iTA&sid=ad5d#🔒 VL-GRPC-RLT 🇫🇷 FR-217.69.7.202:37178
-vless://dde728a3-6792-4ed4-8d53-f4bcf685f8ef@104.168.107.230:7970?security=reality&flow=xtls-rprx-vision&sni=tandfonline.com&type=tcp&fp=chrome&pbk=kt-d9jx_cCmvmWiL4CP5IPAKHhjAF-oBmsGhyG1U704&sid=7a06db71e78640de#🔒 VL-TCP-RLT 🇺🇸 US-104.168.107.230:7970
-vless://2c058d4f-0f6c-4802-9f53-bc319ef5fc7f@37.27.43.167:10559?security=reality&sni=yahoo.com&type=tcp&fp=randomized&pbk=JTt7Au4cLeKLnQfD8O-yO19nS5u2CgP3fIO1DHlej1c&sid=c5f1f156#🔒 VL-TCP-RLT 🇫🇮 FI-37.27.43.167:10559
-vless://423456a7-7895-49fc-8589-d4d5ebc26b3d@128.140.44.61:443?security=reality&sni=baharan.net&type=grpc&serviceName=@ipV2Ray&fp=chrome&pbk=mgAFVACxJq3PAcJ-MotpvLU8jRYZ30nYXgekSUL5gH8&sid=420f8f45#🔒 VL-GRPC-RLT 🇩🇪 DE-128.140.44.61:443
-vless://a2db6566-32c7-4e6e-89d7-b258ff55959f@111.251.186.238:5442?security=reality&flow=xtls-rprx-vision&sni=www.yam.com&type=tcp#🔒 VL-TCP-RLT 🇹🇼 TW-111.251.186.238:5442
-vless://fce0f0e4-425a-4cf6-a0ca-e7513517ff38@151.232.67.12:4004?security=reality&flow=xtls-rprx-vision&sni=www.speedtest.net&type=tcp&fp=chrome&pbk=ui0fGumZiFhEhGU13KYIcR3coPPVHuGQMvK-_TThCVc&sid=e3631859#🔒 VL-TCP-RLT 🇮🇷 IR-151.232.67.12:4004
-vless://ae5aed77-be23-4f6c-bd51-c73745038952@185.142.238.222:8443?security=reality&flow=xtls-rprx-vision&sni=maps.google.com&type=tcp&fp=chrome&pbk=NbtOWq_km9k_SKgCJatXla3Jl7gGKVbjQ-GAtGg4bEk&sid=bfde1c85a6a4112a#🔒 VL-TCP-RLT 🇳🇱 NL-185.142.238.222:8443
-vless://a0562dec-26ac-43d4-ba1d-785c334e644f@37.27.21.47:443?security=reality&sni=greenpepper.ir&type=grpc&serviceName=@ipV2Ray&fp=chrome&pbk=FVe7_gsA7lnuX9z_V0vZXI9gD5outBiWIWZQsBpIzlI&sid=fada4f5f#🔒 VL-GRPC-RLT 🇫🇮 FI-37.27.21.47:443
-vless://eefcf749-fcfc-4321-b974-2828d4acb15c@185.142.238.222:443?security=reality&flow=xtls-rprx-vision&sni=guerrilla-games.com&type=tcp&fp=chrome&pbk=imTeVCUujulNZ2LJNaZrWlOGcN0tgm0km15N8jc55j4&sid=dcd651ed#🔒 VL-TCP-RLT 🇳🇱 NL-185.142.238.222:443
-vless://365ec4f6-53cb-43d1-ac2b-3ef7c6ea187f@5.161.117.73:443?security=reality&flow=xtls-rprx-vision&sni=medium.com&type=tcp&fp=chrome&pbk=kMx-bxE7gxQkMtx-MID5ERj5FWMfiyD7QXGqcB0ON3M&sid=a2490c7e829f3d40#🔒 VL-TCP-RLT 🇺🇸 US-5.161.117.73:443
