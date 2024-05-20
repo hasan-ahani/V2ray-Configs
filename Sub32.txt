@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://669ad826-af8a-434b-8e61-d8d7caa230c2@104.21.74.139:443?security=tls&sni=forwarder.aurorainiceland.com&type=ws&path=%2Fnimws#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.74.139:443
-vless://fb301d2e-4430-4b41-95d6-764460b8ef13@172.66.44.249:2053?security=tls&sni=9b56CFEe5b258C44c45bA18FA122293.mIToweAr.cOm&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.66.44.249:2053
-vless://69b6d557-f883-4606-8fd3-a7a678d4c885@193.162.129.235:8071?security=none&type=tcp&serviceName=-Telegram:@UraniumVpn-Telegram:@UraniumVpn-Telegram:@UraniumVpn-Telegram:@UraniumVpn-Telegram:@UraniumVpn-Telegram:@Uranium&host=upload.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-193.162.129.235:8071
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.16.5.189:443?security=tls&sni=gOdZillA-mR-DaRKarSha-ONETOpKIng.PaGEs.dEV&type=ws&host=GodZiLla-Mr-darkarsha-ONeTOPKING.pAGes.DEv&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.5.189:443
-vless://010da807-b050-42ce-8fac-4afb2f17a21f@104.21.46.129:443?security=tls&sni=kinG-kinG-KinG-king.pagEs.dev&type=ws&host=KIng-KING-kING-kING.pages.deV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.46.129:443
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.50.101:443?security=tls&sni=936a99B4.Vde5-MlX81LANeo.pAgES.dEv&type=ws&host=936a99B4.vDE5-MLx81LANeO.pAgeS.DEV&path=%2FKkhHL0gsSoZ7M6id%2FZGU1Lm1lcmxpbm56Lmxpbms%3D%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.50.101:443
 vless://cceceb28-5761-4a01-b5b1-29d7581529bc@104.18.203.232:2083?security=tls&sni=all3.savagev2ray.site&type=grpc&serviceName=@SavageV2ray,@SavageV2ray#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.203.232:2083
 vless://010da807-b050-42ce-8fac-4afb2f17a21f@188.114.98.252:443?security=tls&sni=KIng-kiNg-kinG-kiNG.PaGEs.deV&type=ws&host=kING-KIng-kiNg-KInG.pAges.dev&path=%2F55QKYttKLi9LRkZv%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.252:443
 vless://c70afac6-13fa-4080-ae16-cad65d7b4080@136.244.83.88:56673?security=none&type=tcp#🔒 VL-TCP-NONE 🇩🇪 DE-136.244.83.88:56673
@@ -83,3 +77,9 @@ vless://10716279-b1ee-41d8-b63e-87782088305b@104.18.71.193:443?security=tls&sni=
 vless://1702734a-fe43-4b45-8a03-1ef12c5709e5@172.67.143.102:443?security=tls&sni=worker-super-cake-c026.gogoligogoli26.workers.dev&type=ws&host=worker-super-cake-c026.gogoligogoli26.workers.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.143.102:443
 vless://0859b63e-cb81-4c01-bf5a-739f90e72f92@104.21.73.45:2095?security=none&type=ws&host=v2ray-_-_-_-_-_-vpn.frev2ray.kellekcollection.myname.houselife.IR.&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.73.45:2095
 vless://678ac895-92c2-4f27-a9d4-f1a89c5f5365@154.197.121.13:8443?security=tls&sni=mositr.freenods.sbs&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇸🇨 SC-154.197.121.13:8443
+vless://f61b9661-baef-4feb-a449-cfbdec6c3d37@104.21.62.144:2053?security=tls&sni=varda.manwe.ir&type=ws&host=varda.manwe.ir&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.62.144:2053
+vless://c085eef1-b5f1-44ed-b7f1-a0b28279af34@104.21.18.64:443?security=tls&sni=de1vless.vpnhack.xyz&type=ws&host=de1-vless.vpnhack.xyz&path=%2Fvless#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.18.64:443
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@216.116.134.16:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-216.116.134.16:443
+vless://6e30870e-42e8-4fb1-9413-2f52869d2ba9@185.146.173.169:2095?security=none&type=ws&host=2.V2ray.debian.org.fxp.debian.org.speedtest.net.らわなさらわ.mralpha-vpn.com#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.169:2095
+vless://a492d040-7600-408e-93e0-4fea68681ec7@172.67.186.152:2096?security=tls&sni=wedbaz-vip-uk-all.mobailemax.ir&type=grpc&serviceName=abc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.186.152:2096
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@65.75.193.187:34237?security=tls&sni=v022.ylks.link&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-65.75.193.187:34237
