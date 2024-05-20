@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.128.144:80?security=none&type=ws&host=binance.co.kp#🔒 VL-WS-NONE 🇺🇸 US-151.101.128.144:80
 vless://30b3ecdf-64da-4b0e-b214-db5139b2ac59@172.67.136.197:2052?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.136.197:2052
 vless://111a4a5b-cbda-45c5-a774-77327698f076@185.146.173.1:80?security=none&type=ws&host=svm.zula.ir.gta.ir.zula.com.mast.com.rast.com.shoplfooioood.らわなさkarsovalomn.atkfood.com.#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.1:80
 vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@5.161.244.43:443?security=tls&sni=mt1.nabsk.com&type=ws&alpn=http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🇺🇸 US-5.161.244.43:443
@@ -83,3 +82,4 @@ vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@188.42.145.159:8443?security=tls&sn
 vless://c0b6d423-db2a-4065-8572-1b4c2eb4f6fd@45.82.137.145:443?security=none&type=tcp&host=zula.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-45.82.137.145:443
 vless://9c5c65f0-698b-4731-95eb-7fb3050657b5@185.146.173.122:8443?security=tls&sni=shjhjb.servernet.cfd&type=ws&host=shjhjb.servernet.cfd.&path=%2F&fp=random&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.122:8443
 vless://ee2960f8-2e78-4832-9c1f-3be20897cd30@31.43.179.183:80?security=none&type=ws&host=rayanconf.irayanconfig.ir#🔒 VL-WS-NONE 🇰🇿 KZ-31.43.179.183:80
+vless://b7e13552-a221-43ad-86e7-ee047ae9ac00@172.67.214.179:443?security=tls&sni=ch.bo3kot.com&type=grpc&serviceName=%40MxV2ray%2C%40MxV2ray%2C%40MxV2ray%2C%40MxV2ray&fp=safari&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.214.179:443
