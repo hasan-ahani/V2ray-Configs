@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://13be7b64-8a46-4724-9cf2-4c7eddd4c56b@104.16.195.52:2096?security=tls&sni=sPeEd.vbox778.info.&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.195.52:2096
-vless://ab4ab2e9-f385-4a5e-9a37-517ca0ccf434@172.64.175.75:80?security=none&type=ws&host=sacha.sachaii.%C3%BCzeildfj.fie4939.nursiii.shop&path=%2F%40Netmassk#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.175.75:80
-vless://64492cd4-b921-4ccb-a56d-c446550e0ee4@172.67.181.245:443?security=tls&sni=a.helga1.space&type=grpc&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.181.245:443
-vless://8d21d838-d899-4293-9c36-7223adcfea82@172.67.171.96:443?security=tls&sni=no1-vless.sshmax.xyz&type=ws&host=no1-vless.sshmax.xyz&path=%2Fvless#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.171.96:443
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@43.153.80.208:443?security=tls&sni=v022.ylks.link&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-43.153.80.208:443
 vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@8.219.86.200:2083?security=tls&sni=fc071d49-af91-42d6-a20e-5a64e24a53bc.71a45835-dd0c-4d51-8bd4-9ccf9f223662.casacam.net&type=ws&path=%2Fpasge.pages.dev%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇸🇬 SG-8.219.86.200:2083
 vless://a4659740-c90b-4572-e062-d77209cca299@65.109.191.96:443?security=tls&sni=fin.bolagskontaktstockholm.se&type=tcp&allowInsecure=1#🔒 VL-TCP-TLS 🇫🇮 FI-65.109.191.96:443
 vless://f189beb3-12b1-430b-a270-c759c9e29810@185.146.173.32:2096?security=tls&sni=ch.amshviip.ir&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇸🇪 SE-185.146.173.32:2096
@@ -83,3 +78,8 @@ vless://fb301d2e-4430-4b41-95d6-764460b8ef13@172.66.47.7:2053?security=tls&sni=9
 vless://b0446189-b05d-4f64-acef-e43f13432a43@104.21.56.202:80?security=none&type=ws&host=mahdi-hector-wind-8655.sahegaw957.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.56.202:80
 vless://76713785-a539-4c35-998d-e246c499c37a@45.67.215.83:80?security=none&type=ws&host=8.v2ray.n.speedtest.net.check-host.net.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B778.wiki.&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER%3Fed%3D2048#🔒 VL-WS-NONE 🇷🇺 RU-45.67.215.83:80
 vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@47.236.93.176:2096?security=tls&sni=vless.pagess.filegear-sg.me&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇸🇬 SG-47.236.93.176:2096
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@94.247.142.245:2096?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz#🔒 VL-WS-TLS 🇬🇧 GB-94.247.142.245:2096
+vless://3cf9e6e1-dbf6-49b2-bb69-10c9035b508a@188.114.96.3:8443?security=tls&sni=ChanelcipcV2ray.Snappfoodd.site&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-188.114.96.3:8443
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.20.5.134:443?security=tls&sni=V2FIveTEL.pAGes.dev&type=ws&host=V2FiVeTeL.pAges.Dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.5.134:443
+vless://f3897686-1b0c-48a1-9b12-87e48929289d@104.19.247.91:8880?security=none&type=ws&host=Daily-ConfigsV2rayGmSix6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.vigilantecollection.com.&path=/Tel:@Daily_ConfigsTel:@Daily_ConfigsTel:@Daily_ConfigsTel:@Daily_ConfigsTel:@Daily_Configs#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.247.91:8880
+vless://13be7b64-8a46-4724-9cf2-4c7eddd4c56b@172.67.115.35:2096?security=tls&sni=sPeEd.vbox778.info.&type=grpc&fp=firefox&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.115.35:2096
