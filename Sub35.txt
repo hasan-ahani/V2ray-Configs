@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://82f05100-0f5e-4efc-9f87-4ea66056b773@190.93.247.155:2096?security=tls&sni=hopev2ray.accme.link&type=grpc&serviceName=@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-190.93.247.155:2096
 vless://db8248ba-7652-41bb-dbd0-6bcfe406ecb2@172.67.175.112:443?security=tls&sni=test.hotshellow.com&type=ws&path=/lg582228486#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.175.112:443
 vless://de70c2ab-3b16-44c2-8579-9b05fedc3b36@104.26.12.54:443?security=tls&sni=pardazeshvpn-tg3.pages.dev&type=ws&host=pardazeshvpn-tg3.pages.dev&path=Telegram@Freakconfig&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.12.54:443
 vless://eab1d836-bd54-464f-8478-03f799af9fd8@104.21.24.215:2096?security=tls&sni=sina.gufniv.workers.dev&type=ws&host=sina.gufniv.workers.dev&path=vless-ws%2F%3Fed%3D2048&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.24.215:2096
@@ -82,4 +83,3 @@ vless://b61e0fed-b970-4625-923c-cdadf1d56637@91.195.110.64:8080?security=none&ty
 vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@104.16.23.29:443?security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&type=ws#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.23.29:443
 vless://6d196ba1-569f-4b2c-9160-998b3b1b19af@104.22.30.97:8880?type=ws&host=baghead%E5%88%9D%E5%90%BB%E6%97%B6%E7%9A%84%E7%88%B1%E6%83%85%E5%A5%87%E8%BF%B9%E4%B9%8B%E4%B9%A6.suonycars.buzz.&path=%2Ft.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro#🔒 VL-WS-NA 🏴‍☠️ NA-104.22.30.97:8880
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@194.36.55.36:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇬🇧 GB-194.36.55.36:443
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.136.128:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.136.128:443
