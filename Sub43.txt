@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://88a1823f-b2e7-43eb-beed-2d8f692eaa0a@172.64.35.205:80?security=none&type=ws&host=2.V2raygrizzlyvpn.org.fxp.debian.org.speedtest.net.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95%E3%82%89%E3%82%8F.kholochel.sHoP.&path=%2Ftelegram-Grizzlypn%2Ctelegram-Grizzlypn%2Ctelegram-Grizzlypn%2Ctelegram-Grizzlypn%2Ctelegram-Grizzlypn%2Ctelegram-Grizzlypn%2Ctelegram-Grizzlypn%2Ctelegram-Grizzlypn%2Ctelegram-Grizzlypn%2Ctelegram-Grizzlypn%2Ctelegram-Grizzlypn%2Ctelegram-Grizzlypn%2Ctelegram-Grizzlypn%2Ctelegram-Grizzlypn%2Ctelegram-Lookivpn%2CGrizzlypn-Grizzlypn-telegram-Grizzlypn-v2ray%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.35.205:80
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@216.116.134.145:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-216.116.134.145:443
-vless://19cf8872-7f7d-42d0-a7be-73f8654265ba@135.125.247.170:443?security=tls&sni=inconcinnity.norwaylovers.com&type=tcp&allowInsecure=1#🔒 VL-TCP-TLS 🇫🇷 FR-135.125.247.170:443
-vless://ab1b4f44-6469-4c11-950b-c5c94e452dbf@104.20.68.32:8443?security=tls&sni=AntiV2ray.godratmand.link&serviceName=@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2&fp=chrome#🔒 VL-TCP-TLS 🏴‍☠️ NA-104.20.68.32:8443
 vless://fb301d2e-4430-4b41-95d6-764460b8ef13@104.18.167.45:2053?security=tls&sni=9b56CFEe5b258C44c45bA18FA122293.mIToweAr.cOm&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.167.45:2053
 vless://d7f36d12-2ae1-42c0-9fd5-84d8f4efbb02@172.66.44.67:443?security=tls&sni=161f5c4e.mahdiserver-cmr.pages.dev&type=ws&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.67:443
 vless://30b3ecdf-64da-4b0e-b214-db5139b2ac59@172.67.136.197:2052?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.136.197:2052
@@ -83,3 +79,7 @@ vless://a348ba81-9ef2-4f80-e4ff-b58b22c4db8b@173.245.59.100:2052?security=none&t
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.22.116.225:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇬🇧 GB-31.22.116.225:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@188.42.88.130:443?security=tls&sni=kk022.ylks.link&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇱🇺 LU-188.42.88.130:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@79.99.30.51:2087?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇳🇱 NL-79.99.30.51:2087
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.84.68:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=/?ed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.84.68:443
+vless://e5f38cb2-d25c-464c-9aa6-a8890148bbb9@162.159.135.234:80?type=ws&host=mnvxar.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&path=%2FZEDMODEON-%40ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.135.234:80
+vless://b0138d55-a493-4dc3-9932-c6f0391707c1@108.162.193.239:2082?type=ws#🔒 VL-WS-NA 🏴‍☠️ NA-108.162.193.239:2082
+vless://7996f9c3-ac10-4b38-8de5-225cf3ef496a@104.20.205.66:8443?security=tls&sni=unlimiteddev.xn--9iqr0tm1r4wg.co&type=ws&host=unlimiteddev.xn--9iqr0tm1r4wg.co&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.205.66:8443
