@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh7Plub/kuJwyIiwiYWRkIjoiZGF0YS1oay12MS51c2Fib29rcy5jb20uY24iLCJwb3J0IjoiMjAyMDYiLCJpZCI6ImIxNDc4ZTI0LTQ5MTYtM2FiZS04ZjE3LTE1OTMxMDEyZWNiZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJkYXRhLWhrLXYxLnVzYWJvb2tzLmNvbS5jbiIsInBhdGgiOiIvZGViaWFuIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoi8J+HqPCfh7Plub/kuJwyIn0=
-trojan://7b06d62b-25ed-45ed-ac0d-bc28a4779ef9@172.67.132.6:2096?type=grpc&sni=channel.v2bamdad.tech#%E6%9C%AA%E7%9F%A5733
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEOXhSMjQ1R2RqQ202U3ls@4.158.71.193:443#%E6%9C%AA%E7%9F%A5734
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.107.226.238:2375#US256%201.7MB%2Fs
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNRVlKVWlRdTJzVDBmdkhiMnk0T0lq@45.159.249.42:7843#%E6%9C%AA%E7%9F%A5735
 ss://YWVzLTI1Ni1jZmI6Y3A4cFJTVUF5TGhUZlZXSA==@103.172.116.103:9064#%E6%9C%AA%E7%9F%A5736%20271.9KB%2Fs
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.19:8888#US257%20259.8KB%2Fs
@@ -83,3 +79,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNTAxYzgyYzcyZDc5MGI4@119.23.104.213:8474#%E
 trojan://telegram-id-privatevpns@34.248.236.85:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#爱尔兰+都柏林Amazon数据中心
 trojan://59b0cb90-0cc0-11ef-a261-1239d0255272@51.210.182.170:443#英国+社会保险安全部
 trojan://jLfCohX2khdI@3.96.196.46:15362?sni=appsvs.shop#美国+Amazon+EC2服务器
+trojan://telegram-id-privatevpns@13.50.54.219:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#美国+Xerox
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU1ZTdmXHU0ZTFjXHU3NzAxXHU2YzU1XHU1OTM0XHU1ZTAyIFx1NzlmYlx1NTJhOCIsICJhZGQiOiAiMTgzLjI0MC4xNzkuMTk1IiwgInBvcnQiOiAiMTU2MDEiLCAiaWQiOiAiYWFhYWFhYWEtYWFhYS1hYWFhLWFhYWEtZGFhYWFhYWFhYWFkIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiIsICJhbHBuIjogIiJ9
+trojan://telegram-id-directvpn@3.98.32.109:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#美国+Amazon+EC2服务器
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.121.43.71:9102#%E7%BE%8E%E5%9B%BD%2B%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8

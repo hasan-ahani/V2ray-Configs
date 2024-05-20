@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@20.75.178.96:443?security=tls&sni=zdy022.kpcloud.eu.org&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-20.75.178.96:443
-vless://54a47217-b810-4017-adb7-237e273c35ce@104.21.71.210:8443?security=tls&sni=r.donekaftr.ir&type=grpc&serviceName=abc&fp=ios&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.71.210:8443
-vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@172.67.186.98:443?security=tls&sni=bypass-filter2.sczfymb.workers.dev&type=ws&host=bypass-filter2.sczfymb.workers.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.186.98:443
-vless://ae8e1a57-75fc-4d8d-b186-bfa92e547311@104.18.16.130:2083?security=tls&sni=isa.kasler.sbs&type=grpc&serviceName=%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%40ev2rayy&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.16.130:2083
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.221.160:443?security=tls&sni=jd.wxgqlfx.top&type=ws&host=jd.wxgqlfx.top&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.221.160:443
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@8.210.245.224:2083?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇭🇰 HK-8.210.245.224:2083
 vless://9e67f15c-178f-494c-a843-f371e3b3fa5d@172.67.88.174:8080?security=none&sni=king1980.b91sptsl.workers.dev&type=ws&host=king1980.b91sptsl.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.88.174:8080
@@ -83,3 +79,7 @@ vless://9cd6e660-fa72-415d-a60d-64aa16574ab0@172.66.213.38:8080?security=none&ty
 vless://f69d4594-2d18-4266-abc4-eeb9c5604ca5@172.67.220.64:443?security=tls&sni=www.12reddddddd.bf&type=ws&host=www.12reddddddd.bf&path=%2F975e3406-9ac4-45fc-a12b-30fbe810c75f#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.220.64:443
 vless://a3cd08f3-5aec-4736-f582-7f92311cbf76@185.143.233.5:8080?security=none&type=ws&host=jytdjytdkjytdk.ir&path=/#🔒 VL-WS-NONE 🇮🇷 IR-185.143.233.5:8080
 vless://9e67f15c-178f-494c-a843-f371e3b3fa5d@172.67.118.180:8080?security=none&sni=king1980.b91sptsl.workers.dev&type=ws&host=king1980.b91sptsl.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.118.180:8080
+vless://76241e82-8ded-416a-9d4c-84d5a0989149@162.159.153.2:443?path=/Telegram-@V2rayi_net#🔒 VL-TCP-NA 🏴‍☠️ NA-162.159.153.2:443
+vless://1cee36ed-5b67-4d62-cb83-01c783ef6fa2@190.93.246.241:8443?security=tls&sni=antiV2ray-poV2ray-gRPC-WS.AhV2ray.fun&type=grpc&serviceName=@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-190.93.246.241:8443
+vless://766e9ecb-0e1c-4fbd-a54c-25199187dcbb@104.21.69.44:2086?type=ws#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.69.44:2086
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.119.3:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.119.3:443

@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://90fb9114-e01b-49fe-b24c-7a2b3884baca@nl2-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20Vless%20WS%20@V2rayStore
-vless://47f9be0a-24eb-44c1-931d-9a6244d1b5d6@ca-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20Vless%20WS%20@V2rayStore
-vless://b5ccae17-75a0-47bf-b7f9-8c60cf4536e0@in-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%AE%F0%9F%87%B3%20India%20Vless%20WS%20@V2rayStore
-vless://2e066f54-8f75-43a8-ad2b-c10b59fe5f9b@jp-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20Vless%20WS%20@V2rayStore
-vless://d8062a4c-4fe9-49cf-b273-dfcdd78bca0a@fr-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%AB%F0%9F%87%B7%20France%20Vless%20WS%20@V2rayStore
-vless://fc29b2cf-da56-4ea5-aab8-e25ab40702eb@fr2-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%AB%F0%9F%87%B7%20France%20Vless%20WS%20@V2rayStore
 vless://454f84df-724d-442a-a4a2-698a6d63f946@fr3-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fvless&headerType=none#%F0%9F%87%AB%F0%9F%87%B7%20France%20Vless%20WS%20@V2rayStore
 vmess://eyJhZGQiOiAiNDcuMjQyLjIyLjE3MSIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiM2IxMDcyY2UtZDA5Ni00NmMyLWEzZTctMDhiNGY1ODUzOGY1IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6IDI4NjgxLCAicHMiOiAiJUYwJTlGJTg3JUFEJUYwJTlGJTg3JUIwJTIwSG9uZyUyMEtvbmclMjBWbWVzcyUyMEBWMnJheVN0b3JlIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIn0=
 vmess://eyJhZGQiOiAidHcxZy5mb3JsaXZlLmxpdmUiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAidG1zLmRpbmd0YWxrLmNvbSIsICJpZCI6ICI0Y2NjOTIzZS04NDUyLTQxOGMtOTIyMi04N2VlOGYyOTVlMTQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICIlRjAlOUYlODclQjklRjAlOUYlODclQkMlMjBUYWl3YW4lMjBWbWVzcyUyMEBWMnJheVN0b3JlIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==
@@ -83,3 +77,9 @@ vless://666b5d18-4e2e-47fe-b6bf-cbb35d10b33c@188.114.98.224:2095?path=%2F&securi
 vless://666b5d18-4e2e-47fe-b6bf-cbb35d10b33c@185.146.173.94:2095?path=%2F&security=none&encryption=none&host=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&type=ws#All
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.156.147.196:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇦
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@172.67.199.233:443?security=tls&sni=kk022.ylks.link&type=ws&path=/youtube-由零開始#@Hope_Net-join-us-on-Telegram
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@170.114.45.25:443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=/#@Hope_Net-join-us-on-Telegram
+vless://6d6cab4a-13e9-4c2f-b1c2-d34cdd28215d@172.66.47.55:443?security=tls&sni=pardazeshvpn-tg19.pages.dev&type=ws&host=pardazeshvpn-tg19.pages.dev&fp=chrome#@Hope_Net-join-us-on-Telegram
+vless://54b58d1e-5423-4e7b-8d2d-db1ad73f03db@104.18.203.232:8443?security=tls&sni=varzesh3org.vip-svg.sbs&type=grpc&serviceName=@Vpnmasi,@Vpnmasi,@Vpnmasi,@Vpnmasi#@Hope_Net-join-us-on-Telegram
+vless://51173257-308e-5fa6-97a8-ab8c63d56c75@104.18.202.232:2095?security=none&type=ws&host=www.zula.ir.www.iranseda.ir.%E8%87%AA%E5%B7%B1%E4%B8%8D%E5%8E%BB%E7%9C%8B%E5%95%A5%E4%BA%8B%E6%83%85%E5%9F%BA%E6%9C%AC%E6%B2%A1%E5%95%A5%E4%BA%8B.website.&path=/DIGIV2RAY-digiv2ray?ed%3D1024#@Hope_Net-join-us-on-Telegram
+vless://1675964d-6099-4f73-9814-fac67ad7fd26@185.148.105.52:80?type=ws&host=7fe600d3b53c4bb9de9c863cad96d1.nv2ron.ir&path=%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.157.161.179:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇦
