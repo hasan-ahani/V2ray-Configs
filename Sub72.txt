@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://918eba0d3ff04abc803fb00e18d0fcb5@202.64.1.143:443?security=tls&sni=www.gpt123.one&type=tcp#🔒 TR-TCP-TLS 🇭🇰 HK-202.64.1.143:443
-trojan://984e400bf5d541b7b0815913fe0c432a@104.19.171.7:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.171.7:443
-trojan://telegram-id-directvpn@15.157.163.64:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇨🇦 CA-15.157.163.64:22222
-trojan://a6292090-afe1-4640-97a7-4f1d1d877cf1@95.179.128.114:443?security=tls&sni=hdfy8d1.cpi1.eu.org&type=grpc&serviceName=8bHUAD5IX0lC5KffvrsN6rqb&fp=chrome&alpn=h2#🔒 TR-GRPC-TLS 🇳🇱 NL-95.179.128.114:443
-trojan://242a3d8eee5e4ed1a6bfa4141d549a25@198.41.220.2:443?security=tls&sni=jobscareerfortoday.com&type=ws&host=jobscareerfortoday.com&path=/6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.2:443
-trojan://auto@172.67.203.52:443?security=tls&sni=esetsecuritylicense.tobavo5084.workers.dev&type=ws&host=esetsecuritylicense.tobavo5084.workers.dev&path=%2F%3Fed%3D2560&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.203.52:443
 trojan://66101086-51c5-4437-9ff4-a00096cefc78@104.21.82.13:2053?security=tls&sni=promoapi.sensorpage.com&type=ws&host=promoapi.sensorpage.com&path=/yaNf9QdW9c8AvuTzAlEAJseJ96b&fp=firefox&alpn=http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.82.13:2053
 trojan://b14fde68-131b-4911-9c82-04ec3cb5c964@195.123.213.46:443?#🔒 TR-TCP-NA 🇱🇻 LV-195.123.213.46:443
 trojan://656bcdfe-ae09-4170-a36e-1685ee10b26f@162.159.137.232:2083?security=tls&sni=missyousir.segaro.tech&type=ws&host=missyousir.segaro.tech&path=/OVmkPBATL0FijQ3AWVBo&fp=chrome&alpn=http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.137.232:2083
@@ -83,3 +77,9 @@ trojan://e8105dfd24414268b6c7652c63731097@198.41.220.83:443?security=tls&sni=job
 trojan://telegram-id-privatevpns@15.236.172.4:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-15.236.172.4:22222
 trojan://0fd9b883-0551-4ed1-b978-528183b459a2@138.2.36.157:8443?sni=591.591haoka.com&type=ws&host=591.591haoka.com#🔒 TR-WS-NA 🇯🇵 JP-138.2.36.157:8443
 trojan://62b9172d-cc3a-4001-8172-7804fbf1a09b@146.19.247.183:443?sni=aka.ms&type=ws&host=de1.trojanvpn.xyz&path=%2F#🔒 TR-WS-NA 🇩🇪 DE-146.19.247.183:443
+trojan://951bbbc9-c5fd-441e-ac3d-c7fcfbf4a751@173.245.59.100:443?security=tls&sni=se1.trojanvpn.de&type=ws&host=se1.trojanvpn.de&path=/websocket#🔒 TR-WS-TLS 🏴‍☠️ NA-173.245.59.100:443
+trojan://auto@104.18.202.232:443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.202.232:443
+trojan://auto@104.21.69.44:2087?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.69.44:2087
+trojan://abec4b16-8fee-420f-b728-538fdd7b3d08@69.164.203.163:443?#🔒 TR-TCP-NA 🇺🇸 US-69.164.203.163:443
+trojan://WxgHAZG4zf@178.128.88.41:443?security=tls&sni=aka.ms&type=tcp&alpn=h2,http/1.1#🔒 TR-TCP-TLS 🇸🇬 SG-178.128.88.41:443
+trojan://9Mdw86d7Cz@132.145.208.20:443?sni=no.09.ijg.cc&type=tcp&allowInsecure=1#🔒 TR-TCP-NA 🇺🇸 US-132.145.208.20:443
