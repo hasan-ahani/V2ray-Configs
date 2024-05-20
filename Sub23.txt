@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://fce0f0e4-425a-4cf6-a0ca-e7513517ff38@45.90.162.6:4004?security=reality&flow=xtls-rprx-vision&sni=www.speedtest.net&type=tcp&fp=chrome&pbk=ui0fGumZiFhEhGU13KYIcR3coPPVHuGQMvK-_TThCVc&sid=e3631859#🔒 VL-TCP-RLT 🇫🇷 FR-45.90.162.6:4004
+vless://c1272294-cba2-4fe2-8663-93cf92bab9be@167.235.130.134:443?security=reality&flow=xtls-rprx-vision&sni=none.felinefreedom.site&type=tcp&fp=chrome&pbk=It8T_WWejuo-QOwZsYWbe5gRBDQOLXp9wfnWDo_FIFQ&sid=4e69ed37#🔒 VL-TCP-RLT 🇩🇪 DE-167.235.130.134:443
 vless://aaabbcc-caab-aabc-cdba-caaaccbbacbb@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
 vless://bcabaca-baca-acab-bdca-babcbcccaaba@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 MON-31-ORDIBEHESHT-1403 🕑 15:47
 vless://03a9c9ee-1e6e-4779-8171-b2aac2357d0c@104.21.45.154:8443?security=tls&sni=Tigoo.dignity-19.com&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.45.154:8443
@@ -81,5 +83,3 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.22.116.198:443?security=tls&sni=
 vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@104.16.67.38:80?security=none&type=ws&host=ada36.qvqag.com&path=%2Fusers%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.67.38:80
 vless://10716279-b1ee-41d8-b63e-87782088305b@195.85.59.161:443?security=tls&sni=MAMANe-fiLTERChi.pAges.DEv&type=ws&host=MamANe-FILTeRcHi.paGEs.DEv&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇨🇾 CY-195.85.59.161:443
 vless://4045c6b7-1d53-4574-98cd-df21db40b0dc@172.67.154.63:2053?security=tls&sni=itcenteriran.blog&type=ws&host=itcenteriran.blog&path=%2Fp%3D19#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.154.63:2053
-vless://ebf17637-f974-4141-81ee-e56e24dbff1a@45.147.76.117:2607?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-45.147.76.117:2607
-vless://c8ec1280-9aac-4234-a958-0e0ffd6f7fb6@185.213.167.45:43633?security=none&type=grpc#🔒 VL-GRPC-NONE 🇮🇷 IR-185.213.167.45:43633
