@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://f21e1b2d-71e6-4f50-b921-acd4e89ef19a@50.7.85.221:8443?security=tls&sni=hello-world-nameless-morning-b71b.bojipar202.workers.dev&type=ws&host=hello-world-nameless-morning-b71b.bojipar202.workers.dev#🔒 VL-WS-TLS 🇩🇪 DE-50.7.85.221:8443
+vless://f8f5dce2-e66b-45bd-957e-53c1ecdda37a@104.21.3.182:443?security=tls&sni=jAVIdshAh.PageS.deV&type=ws&host=JAvIdsHAH.PaGes.DEV&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.3.182:443
+vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.16.178.157:443?security=tls&sni=current.iraniancp.click&type=ws#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.178.157:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.22.116.225:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🔒 VL-WS-TLS 🇬🇧 GB-31.22.116.225:443
 vless://52de3fa6-1673-4918-a90d-21d2b69de98e@172.66.1.85:443?security=tls&sni=eb8c0c64.888766.pages.dev&type=ws&host=eb8c0c64.888766.pages.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.1.85:443
 vless://891d999f-7864-45c5-8db9-3c69f35dcb96@104.21.29.75:443?security=tls&sni=uciranir-uciranir-uciranir-uciranir-uciranir-uiranir-uciranir4.bopidi6268.workers.dev&type=ws&host=uciranir-uciranir-uciranir-uciranir-uciranir-uiranir-uciranir4.bopidi6268.workers.dev&path=%2F-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR%2F%3Fed%3D2047#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.29.75:443
@@ -80,6 +83,3 @@ vless://cd37e48f-b356-4bc2-9104-c4ed5b4abe8c@139.162.49.215:443?security=tls&sni
 vless://7e333f65-09bc-4ecb-bb47-b9e9aead2742@162.159.134.234:2096?security=tls&sni=re4.v2logy.xyz&type=grpc&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.134.234:2096
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@108.162.192.198:443?security=tls&sni=bia-PaiN-baCHE.PAGeS.DeV&type=ws&host=bia-pAin-bAChE.PaGeS.dEV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.192.198:443
 vless://adbb17ae-b8cb-4aee-a890-6329965abcac@104.21.96.84:2053?security=tls&sni=newworkfaridshahrivardo.abza.workers.dev&type=ws&host=newworkfaridshahrivardo.abza.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.96.84:2053
-vless://c6812323-833b-454d-80c0-e1ccc22e9fc5@104.21.14.115:2086?security=none&sni=app----23.dl2nextflix-inbound3html-dldl1direct2d-1.com&type=ws&host=app----23.dl2nextflix-inbound3html-dldl1direct2d-1.com&fp=chrome&alpn=h2#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.14.115:2086
-vless://f6df22c8-4221-4d4b-8076-a1bf695aea24@162.159.133.234:80?security=none&type=ws&host=ShhProxyFreViP.免费上网85.org.&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.133.234:80
-vless://eb3ad716-faf4-417e-85d2-b0504e3a7912@162.159.133.234:8443?security=tls&sni=discord.gg&type=grpc&serviceName=@u3erVpn&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.133.234:8443

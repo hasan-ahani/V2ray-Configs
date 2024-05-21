@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://ead6b74b-c156-5b2d-8f9a-9fc1a83a531e@104.21.93.56:2053?security=tls&sni=web.v2ray-ab-841-vpn.workERS.dEv&type=ws&host=web.v2ray-ab-841-vpn.workERS.dEv&path=vless-ws%2F%3Fed%3D2048&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.93.56:2053
+vless://505094ea-297c-496a-af29-ed33db58f820@172.66.47.19:80?path=@V2rayi_net#🔒 VL-TCP-NA 🏴‍☠️ NA-172.66.47.19:80
+vless://e8c93760-b133-4fa6-a297-4bb67841e15d@46.245.65.28:19196?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-46.245.65.28:19196
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.42.88.26:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇱🇺 LU-188.42.88.26:443
 vless://01ab9337-f478-4765-9534-88f009f83ddb@192.18.134.231:443?security=tls&sni=aut022.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-192.18.134.231:443
 vless://e1a5cc95-a43b-4cb9-93ce-16f2bdaf49d6@5.10.244.228:2095?security=none&type=ws&host=a.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&path=%2FZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON#🔒 VL-WS-NONE 🇳🇱 NL-5.10.244.228:2095
@@ -80,6 +83,3 @@ vless://7fd7c15d-95cd-4f5c-bf59-f21e5eb27580@104.21.2.189:2087?security=tls&sni=
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@121.144.224.35:32768?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇰🇷 KR-121.144.224.35:32768
 vless://04672bf7-9d44-4edf-9222-dfbfb8f74a1f@91.194.11.168:443?security=tls&sni=ca-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇨🇦 CA-91.194.11.168:443
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@20.239.29.247:34237?security=tls&sni=xin022.ylks.link&type=ws&path=/proxyip#🔒 VL-WS-TLS 🇭🇰 HK-20.239.29.247:34237
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.68:443?security=tls&sni=MAHdIServER-2VR.PAgeS.Dev&type=ws&host=maHdIsErver-2Vr.pAGEs.dEv&path=%2FLP15HLh25g9sf9Pz%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.68:443
-vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@104.18.189.219:443?security=tls&sni=w1.sylar8.eu.org&type=ws&host=w1.sylar8.eu.org#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.189.219:443
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@47.236.83.239:2083?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇸🇬 SG-47.236.83.239:2083
