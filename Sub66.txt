@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://8545c44f-b1b4-4295-ae98-f0b6301a537f@172.66.45.42:2053?security=tls&sni=ios-azadnet.pages.dev&type=ws&path=%2F%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.45.42:2053
-vless://0814dc8c-3cfc-4e06-9561-98d23dd0bf66@104.21.28.94:443?security=tls&sni=nl1-vless.sshmax.xyz&type=ws&host=nl1-vless.sshmax.xyz&path=%2Fvless#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.28.94:443
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@65.75.194.18:13888?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-65.75.194.18:13888
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.249.58:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.249.58:443
 vless://f4233780-4342-4791-899f-75c2d35ee3f3@172.67.2.238:443?security=tls&sni=hossei.pages.Dev&type=ws&host=hossei.pages.Dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.2.238:443
@@ -83,3 +81,5 @@ vless://d39ab667-829c-4db5-95d8-d8232dfb0b1b@46.102.137.45:4440?security=none&ty
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@129.146.213.36:80?security=tls&sni=v022.ylks.link&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-129.146.213.36:80
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.42.88.69:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇱🇺 LU-188.42.88.69:443
 vless://8d6a34ae-0fa2-4c9c-9438-d521a70a2333@104.21.12.193:443?security=tls&sni=v2rayfree.amiroo22.top&type=grpc&serviceName=@V2RAY_VMES@V2RAY_VMES@V2RAY_VMES@V2RAY_VMES@V2RAY_VMES@V2RAY_VMES@V2RAY_VMES@V2RAY_VMES@V2RAY_VMES@V2RAY_VMES@V2RAY_VMES@V2RAY_VMES&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.12.193:443
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@47.242.157.96:2096?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇭🇰 HK-47.242.157.96:2096
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@20.185.28.234:44056?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇺🇸 US-20.185.28.234:44056

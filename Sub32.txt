@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@162.159.152.41:2052?security=none&type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai_8+%2F%3Fed#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.152.41:2052
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.42.89.34:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇱🇺 LU-188.42.89.34:443
 vless://ae8e1a57-75fc-4d8d-b186-bfa92e5473cc@104.25.196.220:2083?security=tls&sni=isa.kasler.sbs&type=grpc&serviceName=%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%40ev2rayy&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.25.196.220:2083
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.7.174:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=/?ed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.7.174:443
 vless://c32b1429-92aa-4be7-912e-4d63b0a31fc7@172.67.110.29:443?security=tls&sni=can01.nimserver.top&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.110.29:443
@@ -83,3 +81,5 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@192.65.217.57:443?security=tls&sni=
 vless://f9ff7099-34b6-4fb9-b9aa-2bd06ad06b93@104.26.15.85:2096?security=tls&sni=kanal-falcunargo-spina.falcunar.asso.eu.org&type=ws&host=kanal-falcunargo-spina.falcunar.asso.eu.org&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.15.85:2096
 vless://e76fda5e-2783-4772-9af5-cea1a35b4316@172.67.171.99:80?security=none&type=ws&host=Be2-vless.sshmax.xyz.&path=/vless#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.171.99:80
 vless://b38fa3a4-3dfc-4037-aaa6-1543b06eecc4@185.146.173.208:2095?security=none&type=ws&host=a.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&path=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.208:2095
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@45.66.129.95:21010?security=tls&sni=xin022.ylks.link&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇯🇵 JP-45.66.129.95:21010
+vless://92b934bb-7007-4439-a8e4-ad44cb1e263f@65.109.205.184:443?security=none&type=tcp#🔒 VL-TCP-NONE 🇫🇮 FI-65.109.205.184:443

@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://d6f79630-aa94-4536-b2ef-899b5acb3b49@104.16.67.38:8443?security=tls&sni=vless-sub.n7p8ri7j.workers.dev&type=ws&host=vless-sub.n7p8ri7j.workers.dev&path=%2Funmanliest.appreviewcenter.com%2Fnimws#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.67.38:8443
-vless://f9e0b36b-f1d5-4f3f-87dd-1e14919915b9@192.133.11.1:443?security=tls&sni=c.cm8.rr.nu&type=ws&path=twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-192.133.11.1:443
 vless://64f38424-c7a6-4b4a-bc0e-2ee4b3f1291e@92.223.84.84:443?security=tls&sni=speedtest.gcore.com&type=ws&host=accelerattemanamnmyss.com&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇫🇷 FR-92.223.84.84:443
 vless://52a49c8b-680d-4e13-9799-7fb384d5c88b@172.67.138.107:443?security=tls&sni=fast-cd.iraniposhal.ir&type=ws&host=fast-cd.iraniposhal.ir&path=%2F&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.138.107:443
 vless://3cbaf436-93cc-4db1-be69-c5353076be15@172.67.128.217:80?type=ws&path=/graphql#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.128.217:80
@@ -83,3 +81,5 @@ vless://f0719911-2e64-47bc-ac2c-18f6d3f2eb75@104.23.135.255:8443?security=tls&sn
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.131.252:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.131.252:443
 vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@172.67.161.104:2096?security=tls&sni=tnetplus.pages.dev&type=ws&host=tnetplus.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.161.104:2096
 vless://bd700852-b4e5-5acf-8463-e0af5835ff07@172.67.170.223:443?security=tls&sni=moon-yellow-dust-553a-f.fayez-jotham.WorKers.deV&type=ws&host=moon-yellow-dust-553a-f.fayez-jotham.WorKers.deV&path=vless-ws%2F%3Fed%3D2048&fp=firefox&alpn=h3,h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.170.223:443
+vless://d23b1993-5083-493d-bde1-28eb3aa8fc4f@162.159.138.232:2086?security=none&type=ws&host=cfhax.v3nom.top#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.138.232:2086
+vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@199.181.197.115:443?security=tls&sni=tg.dns68.cloudns.nz&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-199.181.197.115:443

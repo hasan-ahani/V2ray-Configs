@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://4028f169-ae1d-4492-b264-95f16e436534@185.162.228.118:2087?security=tls&sni=uciranir-arvanclud.detixi1932.workers.dev&type=ws#🔒 VL-WS-TLS 🇦🇲 AM-185.162.228.118:2087
-vless://ba7611bd-90af-4c0f-aad2-190b873b3caf@104.21.19.202:443?security=tls&sni=de1.v2vless.xyz&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.19.202:443
 vless://2b2268a7-5f8f-4947-a5a2-018340df3e1c@172.67.171.49:443?security=tls&sni=de3-vless.sshmax.xyz&type=ws&host=de3-vless.sshmax.xyz&path=/vless#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.171.49:443
 vless://f4397322-d5fa-11ee-aaa8-00505603e70d@172.67.158.12:443?security=tls&sni=st-pl-1.brocdn.com&type=ws&host=st-pl-1.brocdn.com&path=%2Fwebsocket#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.158.12:443
 vless://1bab0961-b22c-411f-b955-09c4aed2d2c1@23.227.39.158:443?security=tls&sni=fr1.hnkkt.top&type=ws&path=/gsjc/fr1#🔒 VL-WS-TLS 🇨🇦 CA-23.227.39.158:443
@@ -83,3 +81,5 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.125.245:443?security=tls&sni
 vless://321264ab-44ce-4599-a303-7d9a56e67018@185.146.173.100:2082?security=none&host=xn-_-_-_-_-_-_-_-_-_sms&path=/FreeV2RAYTEL@Alfred_ConfigTEL@Alfred_ConfigTEL@Alfred_ConfigTEL@Alfred_ConfigTEL@Alfred_Config#🔒 VL-TCP-NONE 🇸🇪 SE-185.146.173.100:2082
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.18.251.250:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.251.250:443
 vless://d92f2c5c-5fe5-4034-b48a-6e50ff820877@104.17.248.203:2086?security=none&sni=de7.vlessx.us&type=ws#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.248.203:2086
+vless://704e71a4-ded1-4704-82f1-b96ed6e93dcb@104.21.77.101:2053?security=tls&sni=nl.RxV2ray.space&type=ws&host=nl.RxV2ray.space&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.77.101:2053
+vless://4f6d5821-2bf8-40ff-ad2f-1794c962f27a@104.21.24.72:2053?security=tls&sni=kanal-ma-falcunargo.johiki7549.workers.dev&type=ws&host=kanal-ma-falcunargo.johiki7549.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.24.72:2053
