@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://1582135f-ce66-4fcc-a231-4253db4ad098@162.159.134.233:8443?security=tls&sni=Nocdn.revil.link&type=grpc&serviceName=ORB&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.134.233:8443
+vless://f68b1ea9-3c4e-405a-98b1-35ee3db36000@172.67.147.38:80?type=ws&path=/graphql#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.147.38:80
 vless://c79cdf6c-67a6-4e09-b018-dff7d92b7a6a@209.38.226.214:2045?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-209.38.226.214:2045
 vless://a70e4c16-319a-49e4-bbe1-aa8c34d1380b@66.235.200.51:2053?security=tls&sni=figr1.blackflag.blog&type=grpc&serviceName=jkrv2ry&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🇺🇸 US-66.235.200.51:2053
 vless://714c776d-ccf4-57db-97b2-3628ae1f1b3d@104.19.216.72:443?security=tls&sni=ztv2ray.teyekas893.wORKeRS.DEV&type=ws&host=ztv2ray.teyekas893.wORKeRS.DEV&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h3,h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.216.72:443
@@ -81,5 +83,3 @@ vless://d1df4137-80cb-45b9-9292-36409ff7a88b@172.66.44.126:8443?security=tls&sni
 vless://1d86846c-5a27-43c8-8981-57bb75c82195@172.67.130.66:443?security=tls&sni=qqqqu.mmsorri.info&type=ws&host=qqqqu.mmsorri.info&path=/paradise#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.130.66:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.204.183:443?security=tls&sni=936a99B4.Vde5-MlX81LANeo.pAgES.dEv&type=ws&host=936a99B4.vDE5-MLx81LANeO.pAgeS.DEV&path=%2FKkhHL0gsSoZ7M6id%2FZGU1Lm1lcmxpbm56Lmxpbms%3D%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.204.183:443
 vless://213acced-2c20-405a-9742-226caa911199@172.67.217.127:443?security=tls&sni=Joinmahdiserver.jaiktzw.workers.dev&type=ws&host=Joinmahdiserver.jaiktzw.workers.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.217.127:443
-vless://454f84df-724d-442a-a4a2-698a6d63f946@193.70.112.90:443?security=tls&sni=fr3-full.privateip.net&type=ws&path=%2fvless&allowInsecure=1#🔒 VL-WS-TLS 🇫🇷 FR-193.70.112.90:443
-vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.17.195.136:443?security=tls&sni=BiA-Pain-Bache.PAges.dEV&type=ws&host=BIa-pAIN-bAChE.PageS.dEV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.195.136:443

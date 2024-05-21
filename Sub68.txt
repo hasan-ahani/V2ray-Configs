@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@182.231.142.84:32564?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇰🇷 KR-182.231.142.84:32564
+vless://74ee8b58-b56f-4145-b61c-9fbc1952208a@104.20.185.180:2082?security=none&type=ws&host=sg1.vlessx.us#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.185.180:2082
 vless://61817e64-10ca-47be-97e8-9d6ff6aa2a5d@172.67.147.142:443?security=tls&sni=rsfrndc.foriran.trade&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.147.142:443
 vless://f922a88b-d4f5-4371-924e-c0335c990569@173.245.58.31:2087?security=tls&sni=ConneCtion-Ir-021.digiv2ray1.store&type=ws&host=ConneCtion-Ir-021.digiv2ray1.store&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-173.245.58.31:2087
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@185.176.26.61:2087?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F#🔒 VL-WS-TLS 🇰🇿 KZ-185.176.26.61:2087
@@ -81,5 +83,3 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.88.15:443?security=tls&sni=m
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@58.182.218.190:3003?security=tls&sni=a.ssll.gay&type=ws&path=telegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai_8%2F%3Fed#🔒 VL-WS-TLS 🇸🇬 SG-58.182.218.190:3003
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@66.81.247.19:2083?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-66.81.247.19:2083
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@150.230.63.93:443?security=tls&sni=v022.ylks.link&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇯🇵 JP-150.230.63.93:443
-vless://4045c6b7-1d53-4574-98cd-df21db40b0dc@172.67.112.247:2053?security=tls&sni=itcenteriran.blog&type=ws&host=itcenteriran.blog&path=%2Fp%3D19#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.112.247:2053
-vless://57255984-4656-45de-b6b5-0e1acfd3c135@172.66.213.5:80?security=none&type=ws&host=1.ftp.debian.org.www.speedtest.net.%E5%85%8D%E8%B4%B9%E4%B8%8A%E7%BD%9167.Site.&path=%2F%2Ftelegram-proxy-mtm-telegram-proxy-mtm-telegram-proxy-mtm%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.213.5:80

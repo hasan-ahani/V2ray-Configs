@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.36.36:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.36.36:443
+vless://42cd7fff-39c8-4efd-88b0-75df7c88e894@[::ffff:ac40:6f94]:443?security=tls&sni=de2.v2vless.xyz&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-[::ffff:ac40:6f94]:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.20.239:443?security=tls&sni=gOdZillA-mR-DaRKarSha-ONETOpKIng.PaGEs.dEV&type=ws&host=GodZiLla-Mr-darkarsha-ONeTOPKING.pAGes.DEv&path=%2FhmBvkyQIpkFvHI5p%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.20.239:443
 vless://82d62728-dc1e-4f00-85d2-2db88cba187d@2.189.89.177:47527?security=none&type=tcp&host=iranserver.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-2.189.89.177:47527
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.9.138:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=/?ed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.9.138:443
@@ -81,5 +83,3 @@ vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@104.21.31.170:8443?security=tls&sni
 vless://f68b1ea9-3c4e-405a-98b1-35ee3db36000@172.64.160.36:80?type=ws&path=/graphql#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.160.36:80
 vless://fa5d0f68-9c5f-4436-896f-e8a4cc588623@190.93.245.137:8443?security=tls&sni=20ns2-V2ray.Vpncustomize.Com&type=grpc&serviceName=@VPNCUSTOMIZE,@VPNCUSTOMIZE&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-190.93.245.137:8443
 vless://7e414b29-7414-4007-8bc0-3a21f65aeb39@66.235.200.122:8443?security=tls&sni=vmessorg.xn--54qv00ez5ar77g.co&type=ws&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-66.235.200.122:8443
-vless://0d5cdec3-ff6c-49cb-9d7d-206d7c7d1437@2.189.110.9:443?security=none&type=tcp&host=www.speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-2.189.110.9:443
-vless://edffff01-df77-42f3-9d02-359a449ab98e@104.25.23.180:8443?security=tls&sni=off.v2box.lol.&type=grpc&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.25.23.180:8443
