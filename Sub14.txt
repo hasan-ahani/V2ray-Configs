@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://07fa5400-554e-43fb-a78b-d51209a1693f@de2-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Vless%20WS%20@V2rayStore
+vless://ac7c3732-7676-4965-8e74-d41a70319a9e@au-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20Vless%20WS%20@V2rayStore
 vless://d05b62dd-799e-4604-8efc-e6744b03c0e7@it-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20Vless%20WS%20@V2rayStore
 vless://970a7f46-00c3-4ddc-8299-eadc5026ff32@ua-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20Vless%20WS%20@V2rayStore
 vless://73057ad9-20d6-4ae1-ac5f-821eca70229d@sg-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Vless%20WS%20@V2rayStore
@@ -81,5 +83,3 @@ vmess://eyJhZGQiOiJjZG5qcy5jb20iLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAi
 vless://e4697f55-8fdc-4460-910b-27aa86ab71e3@104.21.27.155:8443?security=tls&sni=mahdi.hackers85.monster&type=ws&host=mahdi.hackers85.monster&path=/@hackers85&fp=chrome#@Hope_Net-join-us-on-Telegram
 vless://dfa6865b-99ac-4e3f-90a9-09a84dc443d2@185.146.173.32:8080?security=none&type=ws&host=xn--047h.v2raxx6.shop.#@Hope_Net-join-us-on-Telegram
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@193.122.126.64:53777?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#@Hope_Net-join-us-on-Telegram
-vless://6426a598-4686-4d83-8215-a330e8a36a3a@104.18.130.169:80?security=none&type=ws&host=telegram-vpnhttpinjectorfree-31.veleh14860.workers.dev&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
-vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogInVzLW55LXJuLmxpY29tLmdhIiwgInBvcnQiOiAiNjIwMDgiLCAidHlwZSI6ICJub25lIiwgImlkIjogImY4MWU5OTBlLTEyODMtNDhmOS05ZWZmLWFjYWNhZDZmYjY2MSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAidXMtbnktcm4ubGljb20uZ2EiLCAidGxzIjogInRscyJ9
