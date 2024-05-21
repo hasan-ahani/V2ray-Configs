@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://f6a45037-316a-4a95-a16a-6e7ecefbac47@188.119.112.242:443?#🔒 TR-TCP-NA 🇳🇱 NL-188.119.112.242:443
 trojan://299025b9-6b55-430c-be38-9a18c06873ac@91.199.84.57:12069?sni=china4.one.edu.kg&allowInsecure=1#🔒 TR-TCP-NA 🇭🇰 HK-91.199.84.57:12069
 trojan://auto@194.53.53.4:443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&alpn=h2,http/1.1#🔒 TR-WS-TLS 🇷🇺 RU-194.53.53.4:443
 trojan://788f2b96-47e2-4302-a417-511b6fd7d09c@172.232.250.160:443?#🔒 TR-TCP-NA 🇮🇩 ID-172.232.250.160:443
@@ -82,4 +83,3 @@ trojan://3bedceff-1956-4f2c-a9c1-45c74568a560@220.141.133.118:13761?allowInsecur
 trojan://8d1e94cd-23cf-4267-b630-c6894e6e1b4d@172.207.234.4:443?#🔒 TR-TCP-NA 🇯🇵 JP-172.207.234.4:443
 trojan://TJCfE7Mx2YcA8kX8zg@149.50.75.62:4003?security=tls&sni=nl1.chuqiangtou.net&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇳🇱 NL-149.50.75.62:4003
 trojan://9Mdw86d7Cz@132.145.208.20:443?sni=no.09.ijg.cc&type=tcp&allowInsecure=1#🔒 TR-TCP-NA 🇺🇸 US-132.145.208.20:443
-trojan://telegram-id-privatevpns@13.49.251.147:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.49.251.147:22222
