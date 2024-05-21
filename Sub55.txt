@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://008ee652-1922-4070-972d-57a50dadf9fe@172.66.47.171:443?security=tls&sni=271363e0.phonexvip2.pages.dev&type=ws&path=/vless&fp=chrome&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.171:443
-vless://77de458b-5d58-4379-927a-7e749b2d17f8@104.21.21.88:443?security=tls&sni=test.gold15.ir&type=grpc&serviceName=fast.com&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.21.88:443
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@203.184.132.238:1520?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🔒 VL-WS-TLS 🇭🇰 HK-203.184.132.238:1520
-vless://1aaddeec-846e-4f85-b90d-7b1a50ae039b@18.163.75.89:443?security=tls&sni=db.amazon.hongkong.us.mailduck.cc&type=ws&path=%2Fapi%2Fed2yus5fnved4m9gz5cwfa0v6b3n6ii94ehh4&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-18.163.75.89:443
 vless://2ca42987-551b-4494-a854-da2d9178f4cd@104.18.41.176:2087?security=tls&sni=LzPmJySw22.zImBa-zUlA.OrG&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.41.176:2087
 vless://29d9e61b-ff12-4dfe-bcda-64d1f2f49458@104.17.126.133:80?type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co.&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.126.133:80
 vless://2a3263e2-891c-4446-b474-a8c63acb6e25@108.162.192.154:2096?security=tls&sni=swe2.mbh-meti.com&type=ws&host=swe2.mbh-meti.com&path=%2F&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.192.154:2096
@@ -83,3 +79,7 @@ vless://61d93b9b-00d0-4df1-8027-6e036f4c1f11@172.67.168.58:443?security=tls&sni=
 vless://c5b07945-f62e-4c86-a80f-8841698f5946@94.182.223.242:26225?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-94.182.223.242:26225
 vless://f6238fcc-96b3-44a6-bdda-1a8d715e1f86@172.67.190.236:80?security=none&type=ws&host=SHHPROXY-V2ray.斯涅過濾器69.website#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.190.236:80
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@45.205.0.93:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-45.205.0.93:8443
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.201:2087?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.201:2087
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.209.152:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇫🇷 FR-52.47.209.152:22222
+vless://7cdd2887-a68e-4027-be00-0347735a6075@104.20.19.145:443?security=tls&sni=c.protoeinpaitakht.com&type=grpc&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.20.19.145:443
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@79.99.30.120:8443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F#🔒 VL-WS-TLS 🇳🇱 NL-79.99.30.120:8443

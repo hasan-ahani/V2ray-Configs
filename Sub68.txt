@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@129.146.213.36:80?security=tls&sni=v022.ylks.link&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-129.146.213.36:80
-vless://9e67f15c-178f-494c-a843-f371e3b3fa5d@172.67.22.189:8080?security=none&sni=king1980.b91sptsl.workers.dev&type=ws&host=king1980.b91sptsl.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.22.189:8080
-vless://2f29aa83-ab2f-48ae-aa57-f27d66703be6@188.114.97.2:8080?security=none&type=ws&host=olmanspdnet1.1.1.1sma1.5.5.5.1fullma.xn--blqw2a5no5ed8cm6xw0gw2i6ooehteuz1wcw61apn4a.com.&path=%2Fserver-SPDNet-SPDNet-SPDNet-SPDNet-SPDNet-SPDNet%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.97.2:8080
-vless://3ff3a373-ceb3-4847-8f93-5cb628700353@172.67.171.96:2096?security=tls&sni=hopev2ray.accme.link&type=grpc&serviceName=@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.171.96:2096
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.212:8443?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.212:8443
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@47.243.91.58:2096?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇭🇰 HK-47.243.91.58:2096
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.146:443?security=tls&sni=4b097C46.griZzlYvPN.PAgES.deV&type=ws&host=4b097c46.gRIZZLYvPn.Pages.DEV&path=%2FvVEBFG5xE2BS8YUp%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.146:443
@@ -83,3 +79,7 @@ vless://10699622-1b25-499c-a424-58f8f4dfb7f7@104.17.247.203:2083?security=tls&sn
 vless://105c7a94-ddd4-4025-bf6f-5be4fc657354@172.66.44.182:443?security=tls&sni=SHAh-9Aq.PAGes.deV&type=ws&host=ShAh-9aQ.PaGEs.DEV&path=%2Ftelegram-proxy_mtm%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.182:443
 vless://67ac2966-c633-4fbe-92dd-8c666881c6de@104.16.96.58:8080?security=none&type=ws&host=worker-hidden-thunder-00c3.test29-c85.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.96.58:8080
 vless://fa80408d-f7ce-4c96-ac0b-6c1b791b5b69@23.227.39.179:2053?security=tls&sni=n2vpn.projectis.ir&type=ws&host=n2vpn.projectis.ir&path=/@n2vpn&fp=chrome#🔒 VL-WS-TLS 🇨🇦 CA-23.227.39.179:2053
+vless://a71a41ad-c986-4ed1-93b8-fcddb110bb48@136.244.64.101:8080?security=none&type=tcp#🔒 VL-TCP-NONE 🇬🇧 GB-136.244.64.101:8080
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.10.94:443?security=tls&sni=baipiao406.stunning-bassoon.pages.dev&type=ws&host=baipiao406.stunning-bassoon.pages.dev&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.10.94:443
+vless://30c6a5ec-3de5-4eec-afe6-e9a13e1a30cb@173.245.58.51:443?security=tls&sni=dash.zedmodeon.fun&serviceName=TELEGRAM:@ZEDMODEON-TELEGRAM:@ZEDMODEON-TELEGRAM:@ZEDMODEON,TELEGRAM:@ZEDMODEON&fp=chrome&alpn=h2,http/1.1#🔒 VL-TCP-TLS 🏴‍☠️ NA-173.245.58.51:443
+vless://7a0acb98-9bfe-47fe-bb26-0fbe453af731@77.83.203.90:59143?security=none&type=tcp#🔒 VL-TCP-NONE 🇹🇷 TR-77.83.203.90:59143

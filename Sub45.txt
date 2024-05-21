@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@164.38.155.25:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇬🇧 GB-164.38.155.25:443
-vless://02e75d78-58ad-4a73-afca-24b781d8fd11@104.17.219.150:8443?security=tls&sni=Isa.kasler.sbs&type=grpc&serviceName=کانال+@ev2rayy&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.219.150:8443
-vless://826e43d2-dbe9-41a6-bbf8-3aed2f93f5d4@172.66.47.44:443?security=tls&sni=pardazeshvpn-tg20.pages.dev&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.44:443
-vless://fa14afaa-059a-4c6e-89e4-389f555ded6e@104.21.94.85:8080?type=ws#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.94.85:8080
 vless://88b6885d-e5dd-46f9-b72c-f3b9794c4724@185.143.234.120:8080?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-185.143.234.120:8080
 vless://a0514d9b-d109-47fd-b173-1e7f83268f21@66.235.200.78:2082?security=none&type=ws&host=vNLu2Zx.kallepache.store&path=/graphql#🔒 VL-WS-NONE 🇺🇸 US-66.235.200.78:2082
 vless://3736496e-bee5-427f-959c-d5de72dd61b8@104.21.19.241:80?security=none&type=ws&host=spdnet-ok-.1.1.1.1.1.snapp.com.xn--blqw2a5no5ed8cm6xw0gw2i6ooehteuz1wcw61apn4a.com.&path=%2FspdNET-spdNET-spdNET-spdNET-spdNET-spdNET-spdNET-%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.19.241:80
@@ -83,3 +79,7 @@ vless://fe04082c-3ed6-40fc-ac9e-f11487996e39@185.146.173.94:8880?security=none&t
 vless://713e999f-9590-4419-e49c-5a682ec5d4f7@172.67.66.177:2083?security=tls&sni=ch.RxV2ray.space&type=grpc&serviceName=@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.66.177:2083
 vless://35323594-9ee2-4f06-ae14-3148b6950621@188.114.97.171:80?security=none&type=ws&host=ooao14004.74gwenneth.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.97.171:80
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@79.99.31.19:2087?security=tls&sni=a.ssll.gay&type=ws&path=twitterfreecodes#🔒 VL-WS-TLS 🇳🇱 NL-79.99.31.19:2087
+vless://1ab9189b-652c-4a94-bbd4-6c0dd0c1a2a3@5.42.107.242:57348?type=tcp#🔒 VL-TCP-NA 🇷🇺 RU-5.42.107.242:57348
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.84.115:443?security=tls&sni=B458aB02.caA-CHAnel-worKer-Page-FREE-JhUiHNujHPHjKL-NIhGKJn.PaGEs.deV&type=ws&host=B458AB02.Caa-CHAnEl-wORker-PAgE-FrEE-jhuihNujhpHjkL-NiHGKJN.pages.DeV&path=%2FBMkPskkiYM1rrlxM%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.84.115:443
+vless://df3a075c-13b4-442d-b789-4832defc4abd@162.159.152.2:8443?security=tls&sni=telegram-falcunargo-bulgari.falcunar.asso.eu.org&type=ws&host=telegram-falcunargo-bulgari.falcunar.asso.eu.org&path=%2F%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.2:8443
+vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.18.34.21:443?security=tls&sni=bpb.RADICaliZatIOn.IR&type=ws&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.34.21:443

@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@34.81.35.248:443?security=tls&sni=xin313.ylks.link&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇹🇼 TW-34.81.35.248:443
-vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@212.183.88.91:443?security=tls&sni=bypass-filter.ggydk.workers.dev&type=ws&path=@bypass_filter/#🔒 VL-WS-TLS 🇦🇹 AT-212.183.88.91:443
-vless://5d31a854-3845-455b-9c00-9df663afa52f@104.21.56.202:8880?security=none&type=ws&host=fjar8zm285jwc2q62e.wo-a7yj9n9h5jbfd9m3-01.shop&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.56.202:8880
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.22.116.198:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇬🇧 GB-31.22.116.198:443
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@31.43.179.56:443?security=tls&sni=tg.dns68.cloudns.nz&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇰🇿 KZ-31.43.179.56:443
 vless://10716279-b1ee-41d8-b63e-87782088305b@104.25.232.249:443?security=tls&sni=MAMANe-FIlTerChI.pAgEs.deV&type=ws&host=maMAne-FiltErCHI.PAgEs.deV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.232.249:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.114.72.67:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=Telegram-V2ray_Alpha%3Fed%3D2560#🔒 VL-WS-TLS 🇪🇸 ES-185.114.72.67:443
@@ -83,3 +79,7 @@ vless://c2ebce86-e8ef-44c0-884a-a08b87de8dec@104.19.57.37:80?security=none&type=
 vless://fb5cfe95-ee26-4399-be4b-36d648414b9c@104.21.63.149:80?security=none&type=ws&host=proxiiraniii.hitido2760.workers.dev&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.63.149:80
 vless://94de0d76-92ea-491e-ada3-d834cfa5f668@104.21.70.222:2087?security=tls&sni=net3.irnicho.monster&type=grpc&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.70.222:2087
 vless://d0be39fd-4bca-4e37-80d5-715d512aad7e@172.67.111.59:443?security=tls&sni=server17.aibox.tv&type=ws&host=server17.aibox.tv&path=%2Fws%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.111.59:443
+vless://77de458b-5d58-4379-927a-7e749b2d17f8@172.67.197.82:443?security=tls&sni=test.gold15.ir&type=grpc&serviceName=fast.com&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.197.82:443
+vless://920d0e13-fdd0-4a36-a044-a9086f123d7b@172.66.47.191:443?security=tls&sni=b4a3567c.servernett.pages.dev&type=ws&host=b4a3567c.servernett.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.191:443
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@167.68.11.116:443?security=tls&sni=xin313.ylks.link&type=ws&path=/proxyip#🔒 VL-WS-TLS 🇺🇸 US-167.68.11.116:443
+vless://37d0b151-023e-4729-9994-45a7d9df5fd1@172.67.151.51:8443?security=tls&sni=pardazeshvpn-tg23.pages.dev&type=ws&host=pardazeshvpn-tg23.pages.dev&path=%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.151.51:8443
