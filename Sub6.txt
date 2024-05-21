@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+ss://ODIzYWRhYmUtYTQwNC00NjgzLTk5YmYtOWY0OWUzNmJkMTExOg==@sefarat24.com:443#🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 17
+ss://Nzk5MmJhMjktMjFjMy00MGJlLWI1YzctODA1YmNkYTk1NWE5Og==@sefarat24.com:443#🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 18
 ss://ZDRkOTMzZGQtZDViZi00ZmJiLWE0MjMtYzI2ODRkOWFkOTM3Og==@sefarat24.com:443#🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 19
 vmess://eyJhZGQiOiJoay53aXNoLm1sIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJoazIud2lzaC5tbCIsImlkIjoiYzI4NmRhYTItNTlkZS00NTVjLThkZTgtZWMwMzJiNmNlMmU4IiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0IjoiMjA1MiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOFVTIHwgXHVkODNkXHVkZmUyIHwgdm1lc3MgfCBAb25lY2xpY2t2cG5rZXlzIHwgMCJ9
 vmess://eyJhZGQiOiIxNDEuOTguMTY4LjExMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiYm13LmNvbSIsImlkIjoiMzEzMDUyMWEtMmZkNC00MmM2LTkxNzktZGNmNDMzYTZkMzk4IiwibmV0IjoidGNwIiwicGF0aCI6IlwvIiwicG9ydCI6IjgwODEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4VVMgfCBcdWQ4M2RcdWRmZTIgfCB2bWVzcyB8IEBvbmVjbGlja3ZwbmtleXMgfCAxIn0=
@@ -78,8 +80,6 @@ vless://ca1579b9-afe2-4267-915f-49a395cb3142@104.17.169.114:80?security=none&typ
 vless://daf7c573-72b6-4954-b3ca-7aa36f00b3f2@104.17.169.114:80?security=none&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&encryption=none#🚩CF | 🔴 | vless | @UnlimitedDev | 9
 vless://37e01fb4-50b5-41cc-a135-4a7c66f04c24@bia-to2.unlimiteddev.site:8443?type=ws&security=tls&path=/&host=unlimiteddev.xn--9iqr0tm1r4wg.co&fp=chrome&sni=unlimiteddev.xn--9iqr0tm1r4wg.co#🇺🇸US | 🔴 | vless | @UnlimitedDev | 10
 vless://758cf7cd-b79a-4b73-9ade-a16a970d67d9@104.17.169.114:80?security=none&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&encryption=none#🚩CF | 🔴 | vless | @UnlimitedDev | 11
-vless://e9f1d58a-21ae-4af1-b463-beca8a7cabb6@104.19.247.91:80?security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg&host=vmessorg1.xn--54qv00ez5ar77g.co.&encryption=none#🚩CF | 🔴 | vless | @vmessorg | 0
-vless://29d9e61b-ff12-4dfe-bcda-64d1f2f49458@104.17.126.133:80?security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg&host=vmessorg1.xn--54qv00ez5ar77g.co.&encryption=none#🚩CF | 🔴 | vless | @vmessorg | 2
-vless://cec345db-3d0f-4b59-8499-f9780491b717@104.18.14.118:80?security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg&host=vmessorg1.xn--54qv00ez5ar77g.co.&encryption=none#🚩CF | 🔴 | vless | @vmessorg | 3
-vless://42b4677d-0557-4a8d-a3a5-7cb928a31e54@104.18.14.118:80?security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg&host=vmessorg1.xn--54qv00ez5ar77g.co.&encryption=none#🚩CF | 🔴 | vless | @vmessorg | 5
-vless://8b7efacf-8e83-4e51-ab55-1263baccd4b2@www.speedtest.net:443?path=/telegram-proxy_mtm-telegram-proxy_mtm?ed=2560&security=tls&encryption=none&alpn=h3&host=7f905f51.garywelch.pages.dev&fp=randomized&type=ws&sni=7f905f51.garywelch.pages.dev#🇺🇸US | 🔴 | vless | @v2rayNG_Matsuri | 0
+vless://067f668b-d8fa-4779-9955-8f0144905497@104.19.247.91:80?security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg&host=vmessorg1.xn--54qv00ez5ar77g.co.&encryption=none#🚩CF | 🔴 | vless | @vmessorg | 0
+vless://e9f1d58a-21ae-4af1-b463-beca8a7cabb6@104.19.247.91:80?security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg&host=vmessorg1.xn--54qv00ez5ar77g.co.&encryption=none#🚩CF | 🔴 | vless | @vmessorg | 2
+vless://29d9e61b-ff12-4dfe-bcda-64d1f2f49458@104.17.126.133:80?security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg&host=vmessorg1.xn--54qv00ez5ar77g.co.&encryption=none#🚩CF | 🔴 | vless | @vmessorg | 3
