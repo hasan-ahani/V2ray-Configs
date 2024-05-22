@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-ss://aes-256-gcm:681abe1b-309a-4bd1-b92a-5aa76f6c5c69@de-full.privateip.net:8443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Shadowsocks%20@V2rayStore
-ss://aes-256-gcm:6154d5bd-e89f-4720-b808-667d2894ff64@de2-full.privateip.net:8443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Shadowsocks%20@V2rayStore
-ss://aes-256-gcm:b5c8f572-1b96-4f12-bcc8-666154410448@es-full.privateip.net:8443#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20Shadowsocks%20@V2rayStore
-ss://chacha20-poly1305:3d5bf618-0166-4274-9224-f6931bf5364b@sg2-full.privateip.net:2087#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Shadowsocks%20@V2rayStore
-ss://aes-256-gcm:dc076e05-4161-4c8c-8788-ce35343176e9@hk-full.privateip.net:8443#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20Shadowsocks%20@V2rayStore
 ss://aes-256-gcm:c0af4960-3a44-4160-bbe9-195aacf74c75@nl2-full.privateip.net:8843#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20Shadowsocks%20@V2rayStore
 ss://aes-256-gcm:dddcfa40-4d4c-4f1f-8663-f8c1003e28ca@ca-full.privateip.net:8443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20Shadowsocks%20@V2rayStore
 ss://chacha20-poly1305:e1267b1e-3f9d-48b7-8ad4-86b17815b72a@in-full.privateip.net:2087#%F0%9F%87%AE%F0%9F%87%B3%20India%20Shadowsocks%20@V2rayStore
@@ -83,3 +78,8 @@ trojan://0a80fb6f-67f6-4651-9c99-e45060d8baa4@de2-full.privateip.net:443#%F0%9F%
 trojan://e6b2ef47-66ba-498f-9b51-ee0dec4eb994@au-full.privateip.net:443#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20Trojan%20@V2rayStore
 trojan://b14fde68-131b-4911-9c82-04ec3cb5c964@ua-full.privateip.net:443#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20Trojan%20@V2rayStore
 trojan://8789270c-f663-4eeb-b627-5efe67e38616@es-full.privateip.net:443#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20Trojan%20@V2rayStore
+trojan://d6369144-4fb6-43e5-b9ca-255abf37607d@sg-full.privateip.net:443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Trojan%20@V2rayStore
+trojan://6cb6f769-b28e-4f7f-a593-8c0b0a161992@sg2-full.privateip.net:443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Trojan%20@V2rayStore
+trojan://b3965d2d-3b82-45cc-927b-1336aca3f3fe@sg3-full.privateip.net:443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Trojan%20@V2rayStore
+trojan://788f2b96-47e2-4302-a417-511b6fd7d09c@id-full.privateip.net:443#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%20Trojan%20@V2rayStore
+trojan://44349ad5-2da1-425e-8fec-995d458867a7@hk-full.privateip.net:443#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20Trojan%20@V2rayStore
