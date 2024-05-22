@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://bdab18c1-d3f9-428c-a376-ca8cce0f1710@172.66.213.38:2082?security=none&type=ws&host=cdn54.nigc-ar.com&path=/backup#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.213.38:2082
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@141.11.203.196:2083?security=tls&sni=jd.wxgqlfx.top&type=ws&path=/#🔒 VL-WS-TLS 🇫🇷 FR-141.11.203.196:2083
 vless://fbdf202a-02b0-486e-a8f7-3fde4398ffec@172.67.190.127:2095?security=none&type=ws&host=spdnet-ok-.1.1.1.1.1.snapp.com.xn--blqw2a5no5ed8cm6xw0gw2i6ooehteuz1wcw61apn4a.com.&path=%2FspdNET-spdNET-spdNET-spdNET-spdNET-spdNET-spdNET-%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.190.127:2095
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.24.0.234:443?security=tls&sni=bIa-pAin-bAChe.PAgeS.dev&type=ws&host=BIA-PAin-bacHE.pAGES.DEv&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.0.234:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@167.68.11.247:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-167.68.11.247:443
@@ -81,5 +83,3 @@ vless://b400a7a5-eaf3-4e69-9d99-3048236b4410@199.59.243.225:80?security=none&typ
 vless://aa81e188-a979-411e-a10b-08287646cc43@172.67.221.199:443?security=tls&sni=vl26.rnd.biz.id&type=ws#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.221.199:443
 vless://c2ec17cc-e5a9-4f4a-88dc-496e3215dbab@104.18.158.102:443?security=tls&sni=saLaM-Word.PaGeS.Dev&type=ws&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.158.102:443
 vless://1d3ef31d-9cb7-4bb5-b8c6-24666fb99bf1@172.67.161.65:80?security=none&type=ws&host=netflixv#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.161.65:80
-vless://d674009a-4a87-4180-a8fe-9a54f66bd7c9@104.18.107.13:443?security=tls&sni=vpn.restia.love&type=ws&host=vpn.restia.love#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.107.13:443
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@216.24.181.38:54324?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-216.24.181.38:54324

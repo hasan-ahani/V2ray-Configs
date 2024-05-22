@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://eefcf749-fcfc-4321-b974-2828d4acb15c@185.142.238.222:443?security=reality&flow=xtls-rprx-vision&sni=guerrilla-games.com&type=tcp&fp=chrome&pbk=imTeVCUujulNZ2LJNaZrWlOGcN0tgm0km15N8jc55j4&sid=dcd651ed#🔒 VL-TCP-RLT 🇳🇱 NL-185.142.238.222:443
+vless://b948668e-ddcf-4b98-bf7c-f4a1c59b7e9b@65.109.193.242:443?security=reality&sni=tuyaus.com&type=tcp&fp=chrome&pbk=Pm1_UsePgo_9LccEkdYOYPEK0UMo4zOp3xlTO1eD20E&sid=6274b424#🔒 VL-TCP-RLT 🇫🇮 FI-65.109.193.242:443
 vless://18e82ee0-3b88-48d1-9292-484c8051f690@49.13.135.58:443?security=reality&flow=xtls-rprx-vision&sni=github.io&type=tcp&fp=chrome&pbk=X5WLfJ82KCpBanu2EwML11CwJUM2NczTonML5hHwW2o&sid=b5b39d420f404069#🔒 VL-TCP-RLT 🇩🇪 DE-49.13.135.58:443
 vless://ee1a92a0-936a-449a-bbe5-060ecfc057ea@128.140.78.78:443?security=reality&flow=xtls-rprx-vision&sni=direct.playstation.com&type=tcp&fp=chrome&pbk=SF3Hh2nJngYLNMf9_4gs045vCKpKu_0g3EogBDl0zj0&sid=016796fc#🔒 VL-TCP-RLT 🇩🇪 DE-128.140.78.78:443
 vless://446df392-9de3-43f6-ebf0-8ba0f9d9f82f@38.181.70.15:443?security=reality&flow=xtls-rprx-vision&sni=446df392.com&type=tcp&fp=chrome&pbk=Z3ZGnAOdKkzJ07gR_7_0k9_iTTFP6paDOrqx1rN2LU4#🔒 VL-TCP-RLT 🇸🇬 SG-38.181.70.15:443
@@ -81,5 +83,3 @@ vless://cead5a7e-4a1d-4f93-8825-429969dd2fb8@162.159.135.234:2083?security=tls&s
 vless://df4608a5-0ceb-4513-b991-596f541bccdb@172.67.225.250:443?security=tls&sni=cfdy.yueuzi.dynv6.net&type=ws&host=cfdy.yueuzi.dynv6.net#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.225.250:443
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@47.242.93.242:1080?security=tls&sni=xin022.ylks.link&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇭🇰 HK-47.242.93.242:1080
 vless://63dd3174-ca18-4dc5-95ff-b017e05639f0@162.159.134.234:2096?security=tls&sni=de-cdn.NetGurdians.tech&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.134.234:2096
-vless://c18a11f6-726b-4372-a4e0-de9b71b2f4dc@103.184.45.130:8880?security=none&type=ws&host=xn--v2ray-qhantayawi--a-mwxzc08arba93xpvac79043ht5ia.xn--v2-gn1d638jbjx.xyz.&path=@mehrosaboran,@mehrosaboran#🔒 VL-WS-NONE 🇨🇳 CN-103.184.45.130:8880
-vless://10638abe-7adc-4cdb-f3aa-6c41813de2a9@172.67.174.162:2053?security=tls&sni=venosvpn-mci.bukhjabaji.ir&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.174.162:2053

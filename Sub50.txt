@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.22.38.37:443?security=tls&sni=3k.pureboy.eu.org&type=ws&host=3k.pureboy.eu.org&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.38.37:443
+vless://10699622-1b25-499c-a424-58f8f4dfb7f7@104.17.248.203:2083?security=tls&sni=id-falcunargo.sociy12386.workers.dev&type=ws&host=id-falcunargo.sociy12386.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.248.203:2083
 vless://195a6525-3e82-4a03-9fa8-0462db52bfd2@158.58.190.122:21344?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-158.58.190.122:21344
 vless://1dffb1fd-09b3-4bbe-9631-a3ae6a9a57d1@104.18.78.200:80?security=none&type=ws&host=gxg7RQ.dL-apArAT.coM&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.78.200:80
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@47.242.17.250:2083?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=TG%40ZDYZ2&fp=random#🔒 VL-WS-TLS 🇭🇰 HK-47.242.17.250:2083
@@ -81,5 +83,3 @@ vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@104.18.118.51:2087?security=tls&sni
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.78.254:443?security=tls&sni=B458aB02.caa-CHANEL-WORKEr-PaGE-FReE-JHUIhnUJhpHJkL-nIHgkjN.Pages.DeV&type=ws&host=B458AB02.caa-ChaNEL-wORkER-PAge-fREE-jhuiHnuJhpHjKl-NIHgkJN.paGes.dEv&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.78.254:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@66.81.247.244:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-66.81.247.244:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@193.122.126.64:53777?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🔒 VL-WS-TLS 🇰🇷 KR-193.122.126.64:53777
-vless://6426a598-4686-4d83-8215-a330e8a36a3a@104.18.130.169:80?security=none&type=ws&host=telegram-vpnhttpinjectorfree-31.veleh14860.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.130.169:80
-vless://c32b1429-92aa-4be7-912e-4d63b0a31fc7@172.67.40.183:443?security=tls&sni=can01.nimserver.top&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.40.183:443
