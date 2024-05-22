@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://28c79056-ccfd-4cc1-93d4-c337cc782e65@89.221.224.94:80?security=tls&sni=is2-t.sshmax.xyz&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%205
-trojan://09833a6f-4d46-426e-87fe-7793a5489f84@foreign04.lovehjq.xyz:46527?security=tls&sni=lovehjq.xyz&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%202
-trojan://09833a6f-4d46-426e-87fe-7793a5489f84@144.24.87.186:46521?security=tls&sni=lovehjq.xyz&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%204
-trojan://09833a6f-4d46-426e-87fe-7793a5489f84@144.24.87.186:46527?security=tls&sni=lovehjq.xyz&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%205
-trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@36.228.203.34:443?security=tls&sni=glc-tw1.windowsupdatea.com&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3%20Taiwan%207
-trojan://09833a6f-4d46-426e-87fe-7793a5489f84@foreign01.lovehjq.xyz:46521?security=tls&sni=lovehjq.xyz&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%203
 trojan://pjdnqv@aws-us-dallas-1.f1rocketnode.com:443?security=tls&sni=aws-us-dallas-1.f1rocketnode.com&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20294
 trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@download1tw.windowsupdatea.com:443?security=tls&sni=glc-tw1.windowsupdatea.com&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3%20Taiwan%208
 trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@141.193.68.81:443?security=tls&sni=glc-us3.windowsupdatea.com&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20303
@@ -83,3 +77,9 @@ vless://85399fea-2ee3-51b5-ad4e-d8b78a2cf1d9@49.13.10.226:443?security=reality&f
 vless://1596e7f0-2106-468f-e2b0-93f19e83bd0c@116.203.149.241:443?security=reality&sni=greenpepper.ir&type=grpc&serviceName=@ipV2Ray&fp=firefox&pbk=wxzZx9_9R0QXG4Hjc8e3_ckaUIbn9oKc5yKsBqh8ulc&sid=a18472f7#🔒 VL-GRPC-RLT 🇩🇪 DE-116.203.149.241:443
 vless://354a4626-918f-4f4d-a603-89e18718d92d@172.232.154.185:443?security=reality&sni=ghbi.ir&type=grpc&fp=chrome&pbk=rW_BTQ5EiomL4nMuvj3EbxqjRdLYt9Q0rpCaS9Iy8Eo&sid=804894e8#🔒 VL-GRPC-RLT 🇸🇪 SE-172.232.154.185:443
 vless://a0660613-bab4-456f-91b7-b8923788ed3d@128.140.49.220:443?security=reality&flow=xtls-rprx-vision&sni=www.speedtest.net&type=tcp&fp=chrome&pbk=mNXhz9oVUOChfXonV3TJcv_IB1-epvPy0OXR--qY82E&sid=758910ee7eab4a1b#🔒 VL-TCP-RLT 🇩🇪 DE-128.140.49.220:443
+vless://b0753dbe-6187-4d7f-8931-4c0d1a975104@95.164.36.59:2096?security=reality&flow=xtls-rprx-vision&sni=104.21.70.42&type=tcp&fp=chrome&pbk=Iqqixc1Fcq2knbl1IbuKOHuZn2QDQIgri2J1acmDuTw&sid=bbe1ba3d62f09e09#🔒 VL-TCP-RLT 🇦🇹 AT-95.164.36.59:2096
+vless://d5e775de-0530-4062-a654-25dd2ba648d2@77.221.143.183:33000?security=reality&sni=www.speedtest.net&type=grpc&serviceName=b&fp=chrome&pbk=JrN7nZEbUeBJFHTAKwtz5Dmd10SGgA8UCHEMLA2xOg0&sid=be7f13dd#🔒 VL-GRPC-RLT 🇸🇪 SE-77.221.143.183:33000
+vless://789dc12d-a9b0-4047-aceb-656a7b0d3e9b@70.34.207.20:7594?security=reality&sni=dash.cloudflare.com&type=grpc&serviceName=%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar&fp=chrome&pbk=6d3tL3SQ0dKHCjXkajIlu8VEsyYXD_Zt_sFlMVY4ZzQ&sid=f575cb95#🔒 VL-GRPC-RLT 🇸🇪 SE-70.34.207.20:7594
+vless://446df392-9de3-43f6-ebf0-8ba0f9d9f82f@38.181.70.15:443?security=reality&flow=xtls-rprx-vision&sni=446df392.com&type=tcp&fp=chrome&pbk=Z3ZGnAOdKkzJ07gR_7_0k9_iTTFP6paDOrqx1rN2LU4#🔒 VL-TCP-RLT 🇸🇬 SG-38.181.70.15:443
+vless://e659661d-8439-46e0-b1ab-d75ceaf73404@62.210.101.0:18700?security=reality&flow=xtls-rprx-vision&sni=update.microsoft&type=tcp&fp=chrome&pbk=PBRc2v9SSXpG4jjQRYNa-kgs8w9V4U3MNLuncd2d0hw&sid=6ba85179e30d4fc2#🔒 VL-TCP-RLT 🇫🇷 FR-62.210.101.0:18700
+vless://a667f066-6991-4351-bc0c-8476d30acd96@91.107.181.102:29790?security=reality&sni=ea.com&type=grpc&fp=chrome&pbk=gHpgh7fQoB9kzze4I6Pwvo8sXiAPIbja2ieX03dVjkE&sid=1bd52d06#🔒 VL-GRPC-RLT 🇩🇪 DE-91.107.181.102:29790
