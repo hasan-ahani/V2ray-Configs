@@ -3,6 +3,19 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://Ck0nkbbsur@104.26.5.32:2096?security=tls&sni=tls.redbullplus.xyz&type=ws&host=tls.redbullplus.xyz&path=%2Fwsss#🔒 TR-WS-TLS 🏴‍☠️ NA-104.26.5.32:2096
+trojan://a36dfa0e-5a34-4e77-8513-87350f38e0a6@104.16.35.201:443?security=tls&sni=lmtsg3.cfyun01.sbs&type=ws&host=lmtsg3.cfyun01.sbs&path=/CFYUN#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.35.201:443
+trojan://6455f944-7c07-4ab0-b88f-440e581f41d9@182.209.240.254:443?#🔒 TR-TCP-NA 🇰🇷 KR-182.209.240.254:443
+trojan://auto@104.18.15.166:8443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.15.166:8443
+trojan://6c6bcdab-767c-4a36-8419-4ebc8c3b7066@143.198.62.157:443?security=tls&sni=206.237.5.220&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇺🇸 US-143.198.62.157:443
+trojan://656bcdfe-ae09-4170-a36e-1685ee10b26f@162.159.138.232:2083?security=tls&sni=missyousir.segaro.tech&type=ws&host=missyousir.segaro.tech&path=/OVmkPBATL0FijQ3AWVBo&fp=chrome&alpn=http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.138.232:2083
+trojan://656bcdfe-ae09-4170-a36e-1685ee10b26f@162.159.135.232:2083?security=tls&sni=missyousir.segaro.tech&type=ws&host=missyousir.segaro.tech&path=/OVmkPBATL0FijQ3AWVBo#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.135.232:2083
+trojan://auto@162.159.138.232:8443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.138.232:8443
+trojan://a36dfa0e-5a34-4e77-8513-87350f38e0a6@104.16.35.148:443?security=tls&sni=lmtsg3.cfyun01.sbs&type=ws&host=lmtsg3.cfyun01.sbs&path=/CFYUN#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.35.148:443
+trojan://0ClyedGaZQ@185.91.69.39:443?security=tls&sni=royalshop.tech&type=tcp&fp=chrome&alpn=http/1.1,h2#🔒 TR-TCP-TLS 🇬🇧 GB-185.91.69.39:443
+trojan://EgAMtxAquaO78-IvTSWpnQ@104.16.9.97:2096?security=tls&sni=mrz.learnturkishspeech.fun&type=ws&host=mrz.learnturkishspeech.fun&path=/book#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.9.97:2096
+trojan://auto@172.67.205.219:443?security=tls&sni=esetsecuritylicense.nzuwcx.workers.dev&type=ws&host=esetsecuritylicense.nzuwcx.workers.dev&path=%2F%3Fed%3D2560&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.205.219:443
+trojan://telegram-id-privatevpns@18.153.224.170:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-18.153.224.170:22222
 trojan://auto@104.20.18.168:2083?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.18.168:2083
 trojan://4732adfa16c6450bbef87264e41332db@104.16.159.7:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.159.7:443
 trojan://auto@104.20.19.168:2083?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.19.168:2083
@@ -70,16 +83,3 @@ trojan://01596265-168b-46a7-bcb7-25662c7a9546@188.114.98.0:443?security=tls&sni=
 trojan://telegram-id-privatevpns@16.16.248.150:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-16.16.248.150:22222
 trojan://tIErrUuX7j@104.21.7.176:2053?security=tls&sni=vr.v2ray962.filegear-sg.me&type=grpc&alpn=h2%2Chttp%2F1.1#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.21.7.176:2053
 trojan://96884680-77e6-11eb-8d67-1239d0255272@163.172.211.74:443?sni=nl-trojan.bonds.id#🔒 TR-TCP-NA 🇳🇱 NL-163.172.211.74:443
-trojan://EgAMtxAquaO78-IvTSWpnQ@104.19.91.65:2096?security=tls&sni=mrz.learnturkishspeech.fun&type=ws&host=mrz.learnturkishspeech.fun&path=/book#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.91.65:2096
-trojan://auto@172.67.1.191:443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.1.191:443
-trojan://299025b9-6b55-430c-be38-9a18c06873ac@91.199.84.57:12052?sni=china3.one.edu.kg&allowInsecure=1#🔒 TR-TCP-NA 🇭🇰 HK-91.199.84.57:12052
-trojan://ExPreSEToo582b993d16e522@104.21.68.174:8443?security=tls&sni=random.expreset479927393.workers.dev&type=ws&host=random.expreset479927393.workers.dev&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.68.174:8443
-trojan://auto@172.67.161.104:2053?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.161.104:2053
-trojan://tIErrUuX7j@173.245.58.96:2053?security=tls&sni=vr.v2ray962.filegear-sg.me&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 TR-GRPC-TLS 🏴‍☠️ NA-173.245.58.96:2053
-trojan://a9d4426f1c76c6b@104.21.69.44:2053?security=tls&sni=bestfollower.fandlaandpro.ir&type=grpc&serviceName=sourceforge.net#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.21.69.44:2053
-trojan://lrdxw@104.21.68.185:443?security=tls&sni=trojan-lrdxw.ala1-f11.workers.dev&type=ws&host=trojan-lrdxw.ala1-f11.workers.dev&path=%2F%3Fed%3D2560&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.68.185:443
-trojan://9e1be001-0c89-4be0-888a-7648967e8df9@172.233.245.20:443?#🔒 TR-TCP-NA 🇫🇷 FR-172.233.245.20:443
-trojan://a9d4426f1c76c6b@172.67.204.84:2053?security=tls&sni=bestfollower.fandlaandpro.ir&type=grpc&serviceName=sourceforge.net#🔒 TR-GRPC-TLS 🏴‍☠️ NA-172.67.204.84:2053
-trojan://telegram-id-directvpn@13.39.179.38:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-13.39.179.38:22222
-trojan://wkmY1R4EcP@45.76.228.197:443?sni=z-v2-003263.kailib.com&type=tcp&host=z-v2-003263.kailib.com&allowInsecure=1#🔒 TR-TCP-NA 🇺🇸 US-45.76.228.197:443
-trojan://44cae3ca-8710-49a0-9567-490fb5e8aaf3@95.164.116.35:443?#🔒 TR-TCP-NA 🇹🇷 TR-95.164.116.35:443

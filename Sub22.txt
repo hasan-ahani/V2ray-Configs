@@ -3,6 +3,19 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://28c79056-ccfd-4cc1-93d4-c337cc782e65@89.221.224.94:80?security=tls&sni=is2-t.sshmax.xyz&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%205
+trojan://09833a6f-4d46-426e-87fe-7793a5489f84@foreign04.lovehjq.xyz:46527?security=tls&sni=lovehjq.xyz&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%202
+trojan://09833a6f-4d46-426e-87fe-7793a5489f84@144.24.87.186:46521?security=tls&sni=lovehjq.xyz&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%204
+trojan://09833a6f-4d46-426e-87fe-7793a5489f84@144.24.87.186:46527?security=tls&sni=lovehjq.xyz&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%205
+trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@36.228.203.34:443?security=tls&sni=glc-tw1.windowsupdatea.com&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3%20Taiwan%207
+trojan://09833a6f-4d46-426e-87fe-7793a5489f84@foreign01.lovehjq.xyz:46521?security=tls&sni=lovehjq.xyz&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%203
+trojan://pjdnqv@aws-us-dallas-1.f1rocketnode.com:443?security=tls&sni=aws-us-dallas-1.f1rocketnode.com&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20294
+trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@download1tw.windowsupdatea.com:443?security=tls&sni=glc-tw1.windowsupdatea.com&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3%20Taiwan%208
+trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@141.193.68.81:443?security=tls&sni=glc-us3.windowsupdatea.com&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20303
+
+vless://acbacab-baac-abca-adbc-cbabaaacccbb@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 WED-02-KHORDAD-1403 🕑 12:32
+vless://f3e5b317-b526-432c-9129-22bc3d3f1dc5@5.75.231.243:443?security=reality&sni=Ftp.debian.org&type=grpc&fp=chrome&pbk=QUyXIx6S7HgIqh3oryjejQl8zgWwnKWJpoWINluG22A&sid=ee6bce0a#🔒 VL-GRPC-RLT 🇩🇪 DE-5.75.231.243:443
+vless://e74391c2-9414-49c7-91cf-00d29710d86e@37.27.45.137:2053?security=reality&sni=discordapp.com&type=grpc&serviceName=xyz&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒 VL-GRPC-RLT 🇫🇮 FI-37.27.45.137:2053
 vless://8ce0c83e-8821-4e70-9a70-41b0186ac5cb@77.232.142.225:443?security=reality&sni=discord.com&type=grpc&serviceName=@set_v2ray&fp=chrome&pbk=aqRZIQgU1E4QNWEsoVkIdCJ3VNUa3SHb8WuEMmy3xWY&sid=95e1dc5e#🔒 VL-GRPC-RLT 🇸🇪 SE-77.232.142.225:443
 vless://c79cdf6c-67a6-4e09-b018-dff7d92b7a6a@94.154.37.26:2042?security=reality&sni=zara.com&type=http&fp=chrome&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E#🔒 VL-HTTP-RLT 🇺🇦 UA-94.154.37.26:2042
 vless://e82351c5-c339-4d48-b90d-3524c5547912@142.93.166.107:443?security=reality&sni=*.partyverleih-glauberg.de&type=grpc&serviceName=@ipV2Ray&fp=chrome&pbk=LD8y7bs5T8tNSLcB83NQXpo0_LfHk76WWykNwXJRG3I&sid=304a9854#🔒 VL-GRPC-RLT 🇩🇪 DE-142.93.166.107:443
@@ -70,16 +83,3 @@ vless://8801afab-eb5a-47b0-9195-015cf321523d@157.90.161.70:443?security=reality&
 vless://c1272294-cba2-4fe2-8663-93cf92bab9be@167.235.130.134:443?security=reality&flow=xtls-rprx-vision&sni=none.felinefreedom.site&type=tcp&fp=chrome&pbk=It8T_WWejuo-QOwZsYWbe5gRBDQOLXp9wfnWDo_FIFQ&sid=4e69ed37#🔒 VL-TCP-RLT 🇩🇪 DE-167.235.130.134:443
 vless://a0562dec-26ac-43d4-ba1d-785c334e644f@65.108.244.106:443?security=reality&sni=greenpepper.ir&type=grpc&serviceName=%40ipV2Ray&fp=firefox&pbk=XuBmd_9lf646T80SEzIXo5DzWFsUfoLY72OXzHLB9mE&sid=fada4f5f#🔒 VL-GRPC-RLT 🇫🇮 FI-65.108.244.106:443
 vless://54ce117a-fd26-4b2e-b540-15f95ba3cc63@172.67.171.91:443?security=reality&sni=www.xbox.com&type=grpc&fp=chrome&pbk=1_NaRFGvbJUim7_qlQ8Dibh_27d3X_p_w2xUvrGZlhg&sid=751ba1a6#🔒 VL-GRPC-RLT 🏴‍☠️ NA-172.67.171.91:443
-vless://5ec7ea23-6e8e-4ed4-91e6-9a1ddc5b874c@5.42.84.27:443?security=reality&sni=discord.com&type=grpc&serviceName=@set_v2ray&fp=chrome&pbk=0UKN3C6bUnv7bu57j6_FZSDfZ7KYXTYj0P0n4x2uTxk&sid=8da0d92a#🔒 VL-GRPC-RLT 🇸🇪 SE-5.42.84.27:443
-vless://365ec4f6-53cb-43d1-ac2b-3ef7c6ea187f@5.161.125.36:443?security=reality&flow=xtls-rprx-vision&sni=medium.com&type=tcp&fp=chrome&pbk=kMx-bxE7gxQkMtx-MID5ERj5FWMfiyD7QXGqcB0ON3M&sid=a2490c7e829f3d40#🔒 VL-TCP-RLT 🇺🇸 US-5.161.125.36:443
-vless://9326c0ee-8393-4bf6-bcff-2bd5462652bd@49.12.193.246:443?security=reality&sni=www.iranserver.com&type=grpc&fp=chrome&pbk=JkoHaVaou4cTuQk5kbG2lwQx7Z5nzFiKbTDXbr-fdFQ&sid=9a6deee9#🔒 VL-GRPC-RLT 🇩🇪 DE-49.12.193.246:443
-vless://ac554074-ad55-41c6-9fc1-5af16ace00f1@116.202.103.212:443?security=reality&sni=www.danishshakeel.me&type=grpc&fp=firefox&pbk=dt-8AYayJYIhVUKUcfNwD7t67i199CiGWqGfcsYj2Wo&sid=0cb80458#🔒 VL-GRPC-RLT 🇩🇪 DE-116.202.103.212:443
-vless://54ce117a-fd26-4b2e-b540-15f95ba3cc63@104.21.39.202:443?security=reality&sni=www.xbox.com&type=grpc&fp=chrome&pbk=1_NaRFGvbJUim7_qlQ8Dibh_27d3X_p_w2xUvrGZlhg&sid=751ba1a6#🔒 VL-GRPC-RLT 🏴‍☠️ NA-104.21.39.202:443
-vless://354a4626-918f-4f4d-a603-89e18718d92d@172.232.154.185:443?security=reality&sni=ghbi.ir&type=grpc&fp=chrome&pbk=rW_BTQ5EiomL4nMuvj3EbxqjRdLYt9Q0rpCaS9Iy8Eo&sid=804894e8#🔒 VL-GRPC-RLT 🇸🇪 SE-172.232.154.185:443
-vless://a2db6566-32c7-4e6e-89d7-b258ff55959f@111.251.186.238:5442?security=reality&flow=xtls-rprx-vision&sni=www.yam.com&type=tcp#🔒 VL-TCP-RLT 🇹🇼 TW-111.251.186.238:5442
-vless://9091beb4-e554-45c1-ae9d-14629edc8288@89.23.103.249:8443?security=reality&sni=cdn.discordapp.com&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒 VL-TCP-RLT 🇳🇱 NL-89.23.103.249:8443
-vless://adb43775-69bc-4e9b-ab89-11bd0119b4d1@109.120.132.49:443?security=reality&sni=discord.com&type=grpc&serviceName=@set_v2ray&fp=chrome&pbk=gAymTO5UH0P8qeq2DnuoSRpS-avABWNbfMDV1CWyVmc&sid=17449045#🔒 VL-GRPC-RLT 🇸🇪 SE-109.120.132.49:443
-vless://80b8a525-c29e-434c-8d6b-e91272645009@104.168.107.230:8667?security=reality&flow=xtls-rprx-vision&sni=taunusgaerten.com&type=tcp&fp=chrome&pbk=5JlDUnqfJV4tNLiIn1ctcPRaGVxGdNrjfF5QMD0lLFM&sid=7a922f4091d33d43#🔒 VL-TCP-RLT 🇺🇸 US-104.168.107.230:8667
-vless://446df392-9de3-43f6-ebf0-8ba0f9d9f82f@38.181.70.15:443?security=reality&flow=xtls-rprx-vision&sni=446df392.com&type=tcp&fp=chrome&pbk=Z3ZGnAOdKkzJ07gR_7_0k9_iTTFP6paDOrqx1rN2LU4#🔒 VL-TCP-RLT 🇸🇬 SG-38.181.70.15:443
-vless://cf0ecf99-0417-4eb5-b6ba-ddd839cad04a@116.203.200.108:443?security=reality&sni=www.speedtest.net&type=grpc&serviceName=@Shh_Proxy&fp=chrome&pbk=u4DFt-PrivHRMh7R56mwDwkOS_R19q1ts5tSgQdxqnw&sid=a715cc23#🔒 VL-GRPC-RLT 🇩🇪 DE-116.203.200.108:443
-vless://85399fea-2ee3-51b5-ad4e-d8b78a2cf1d9@49.13.10.226:443?security=reality&flow=xtls-rprx-vision-udp443&sni=www.speedtest.net&type=tcp&fp=chrome&pbk=9D4FoKRukUuWRV8jx5ya5HHTmKC4sYH2Tk5RGWjGSmI&sid=ce#🔒 VL-TCP-RLT 🇩🇪 DE-49.13.10.226:443
