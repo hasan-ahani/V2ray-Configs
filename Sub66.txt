@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.218.100:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-45.159.218.100:443
+vless://561bc9ae-9d67-4a67-cd72-e3d3f80dbed3@104.21.78.12:443?security=tls&sni=rammstein.tagnovolta.workers.dev&type=ws&host=rammstein.tagnovolta.workers.dev&path=/downloader/59316&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.78.12:443
 vless://c25d9ab6-b6be-4034-9bb8-966b4651cade@104.16.133.229:2083?security=tls&sni=sauron.melkore.ir&type=ws&host=sauron.melkore.ir&path=/&fp=chrome&alpn=http/1.1,h2,h3#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.133.229:2083
 vless://98268aee-f8c1-41f1-8c9f-0273ada3af8c@162.159.135.233:443?security=tls&sni=PORiYa-WaRPHidDIFy-PANel.pAGeS.deV&type=ws&host=poRiYa-WARpHiddIFy-PAnel.pAgeS.DEV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.135.233:443
 vless://78935828-127e-479f-9dbc-378c9de72481@104.27.72.33:2087?security=tls&sni=vira-v2-3be7883659a1d2ba4c545dfdf85b61eda1.asiatechnicalwest.ir.&type=grpc&serviceName=@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN&fp=firefox&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.27.72.33:2087
@@ -81,5 +83,3 @@ vless://30b3ecdf-64da-4b0e-b214-db5139b2ac59@172.67.136.197:2052?security=none&t
 vless://950a8620-6305-4199-8c7d-7bc7ad5c1341@104.18.139.39:80?security=none&type=ws&host=meandyouuuuuuu.nursiii.shop&path=%2F%40Netmaask#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.139.39:80
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@47.236.144.156:2083?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇸🇬 SG-47.236.144.156:2083
 vless://c25d9ab6-b6be-4034-9bb8-966b4651cade@104.16.132.229:2083?security=tls&sni=sauron.melkore.ir&type=ws&host=sauron.melkore.ir&path=/&fp=chrome&alpn=http/1.1,h2,h3#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.132.229:2083
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@45.205.0.76:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=twitterfreecodes#🔒 VL-WS-TLS 🇺🇸 US-45.205.0.76:8443
-vless://7fd7c15d-95cd-4f5c-bf59-f21e5eb27580@104.19.204.138:2083?security=tls&sni=3k.dabee.top&type=ws&host=3k.dabee.top&path=%E3%80%90TG%EF%BC%9A%40juzibaipiao%E3%80%91%E5%AE%9A%E6%97%B6%E6%9B%B4%E6%96%B0%E8%8A%82%E7%82%B9#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.204.138:2083

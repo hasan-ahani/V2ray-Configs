@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://9709a49f-40fc-4d0d-bc5c-77827947e30b@162.159.133.234:8080?security=none&type=ws&host=joinsevernettdd.xn--78-pv2cvta065cac9302fea377a148g.xyz.#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.133.234:8080
+vless://2ce3f82f-609e-4646-c289-0e918df396ba@103.184.44.21:2053?security=tls&sni=mt.AntiV2ray.site&type=grpc&serviceName=@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2#🔒 VL-GRPC-TLS 🇨🇳 CN-103.184.44.21:2053
 vless://311c393d-be89-4d18-c217-e1fe8d01530c@104.16.7.157:2087?security=tls&sni=vip.Lockey-vip.site&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.7.157:2087
 vless://f7fe4c50-8f84-425a-8b60-6fbea946df9e@162.159.137.232:443?security=tls&sni=we.wordpass.workers.dev&type=ws&host=we.wordpass.workers.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.137.232:443
 vless://10716279-b1ee-41d8-b63e-87782088305b@104.25.93.21:443?security=tls&sni=maMANe-filterchi.paGES.DeV&type=ws&host=MAMAnE-FiltERCHi.pages.dEV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.93.21:443
@@ -81,5 +83,3 @@ vless://69d22fb3-7bd5-422c-8a85-69f3845dc2c9@65.109.205.184:8080?security=none&t
 vless://d2ed4b04-bd65-46ed-9f1d-dbfed026de9e@104.20.64.177:80?security=none&type=ws&host=download.soly.info#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.64.177:80
 vless://739aef27-7cf4-4457-839c-449e707d64ea@104.31.16.121:443?security=tls&sni=sqvsjpkqkfw5lgfvcznq.digikala.network&type=ws&host=sqvsjpkqkfw5lgfvcznq.digikala.network&path=12979%2FDigi-Atl&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.31.16.121:443
 vless://f68b1ea9-3c4e-405a-98b1-35ee3db36000@172.67.136.100:80?type=ws&path=/graphql#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.136.100:80
-vless://c117c4fa-c93c-4d52-b02c-fcbc22063bfa@172.67.171.44:443?security=tls&sni=se1-vless.sshmax.xyz&type=ws&host=se1-vless.sshmax.xyz&path=%2Fvless#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.171.44:443
-vless://9fbb27e9-4638-4197-b812-334d146410ba@185.206.94.225:8880?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇮🇷 IR-185.206.94.225:8880
