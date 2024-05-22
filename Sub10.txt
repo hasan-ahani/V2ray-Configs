@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://935705ed-576b-45a1-fa6c-60e911678a68@blog.iranserver.com:8880?encryption=none&security=none&type=ws&host=kiava.aws.amazon.com.fxp1.debian.org.speedtest.net.xn--mgba2h8quf.kiava.fun&path=/kiava-kiava,kiava-kiava,kiava-kiava,kiava-kiava,kiava-kiava,kiava-kiava,kiava-kiava,kiava-kiava,kiava-kiava,kiava-kiava,kiava-kiava,kiava-kiava?ed=2048#🇺🇸US | 🔴 | vless | @kiava | 3
 vless://935705ed-576b-45a1-fa6c-60e911678a68@blog.iranserver.com:8880?encryption=none&security=none&type=ws&host=kiava.aws.amazon.com.fxp.debian.org.speedtest.net.xn--mgba2h8quf.kiava.fun&path=/kiava-kiava,kiava-kiava,kiava-kiava,kiava-kiava,kiava-kiava,kiava-kiava,kiava-kiava,kiava-kiava,kiava-kiava,kiava-kiava,kiava-kiava,kiava-kiava?ed=2048#🇺🇸US | 🔴 | vless | @kiava | 4
 vless://42cb119a-73ec-4275-aaeb-4498e952ed60@blog.iranserver.com:443?encryption=none&security=tls&sni=ws-vm-de.kiava.fun&alpn=h2&fp=randomized&type=ws&host=ws-vm-de.kiava.fun&path=/?ed=2560#🇺🇸US | 🔴 | vless | @kiava | 5
 vless://49768462-8561-46f0-8ca7-495662ebd3cc@cloud.kiava.fun:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=firefox&pbk=-W8Mhzp4V6X51zwAAEThgqTB6D_kIJA3ldyaEYFffyA&sid=378f6149de8c1b46&spx=/cdn-cgi/trace&type=tcp&headerType=none#❔XX | 🔴 | vless | @kiava | 6
@@ -72,7 +73,6 @@ vless://9dcbbb54-7bbc-4bab-b391-3b9a6edf23c4@95.179.223.129:55901?type=grpc&serv
 vless://8d13529a-e8ac-4f9f-941b-06696630f7a7@wgap.mesalzadani.pw:44123?type=grpc&serviceName=&authority=&security=reality&pbk=5fxCb6S1mhD6EUsppQY7Oo8lxxwj-UoWQzdrP_RtT04&fp=firefox&sni=MCI.ir&sid=492dcaec&spx=/#🇺🇸US | 🔴 | vless | @raze_vpn | 3
 vless://7cdafc2a-4a20-4af8-9f4f-ceab1d695321@172.234.120.167:2053?type=grpc&serviceName=&authority=&security=none#🇸🇪SE | 🔴 | vless | @raze_vpn | 4
 vless://c8e85c73-258f-41f6-8e56-3afac8c18ed8@172.232.53.15:47149?type=grpc&serviceName=&authority=&security=none#🇫🇷FR | 🔴 | vless | @raze_vpn | 6
-vless://319ec53d-fdb6-41b5-b64f-f7f43c3f92c7@us-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Vless%20WS%20@V2rayStore
 vless://26906f7b-17f6-4b79-9641-1f02ca8bd94f@us2-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Vless%20WS%20@V2rayStore
 vless://93bdbc56-059a-4818-a6b8-f6229c27214e@vn-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fvless#%F0%9F%87%BB%F0%9F%87%B3%20Vietnam%20Vless%20WS%20@V2rayStore
 vless://0af1c46d-5cb9-40ae-bce2-369017b78c6c@tr-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20Vless%20WS%20@V2rayStore
