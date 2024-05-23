@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.47.175:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=mmdv2.pages.dev&fp=randomized&type=ws&sni=mmdv2.pages.dev#%F0%9F%87%A7%F0%9F%87%B8telegram+%E2%9E%A0+%40v2rayNG_Matsuri
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.218.9:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&fp=chrome#@Hope_Net-join-us-on-Telegram
-vless://c6a3239b-15f2-45d5-9e87-bb9d60e23746@185.146.173.122:8080?path=/&security=none&encryption=none&host=shjhjb.servernet.cfd.&type=ws#@Hope_Net-join-us-on-Telegram
-vless://707e807d-b3f2-429f-b91b-6affe87f42dd@162.159.153.2:8080?security=none&type=ws&host=daily-configs.xn--ykqpu7pm2wzwbm5mpyner8e1ri.tech.&path=%2FTel%3A%40Daily_ConfigsTel%3A%40Daily_ConfigsTel%3A%40Daily_ConfigsTel%3A%40Daily_ConfigsTel%3A%40Daily_ConfigsTel%3A%40Daily_Configs#@Hope_Net-join-us-on-Telegram
 vmess://eyJhZGQiOiAiMTcyLjY3LjcxLjE2MCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJvYmRpaS5jZmQiLCAiaWQiOiAiMDU2NDFjZjUtNThkMi00YmE0LWE5ZjEtYjNjZGEwYjFmYjFkIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9saW5rd3MiLCAicG9ydCI6ICI0NDMiLCAic2N5IjogImF1dG8iLCAic25pIjogIm9iZGlpLmNmZCIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJASG9wZV9OZXQtam9pbi11cy1vbi1UZWxlZ3JhbSJ9
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.233.236:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&fp=chrome#@Hope_Net-join-us-on-Telegram
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=jd.wxgqlfx.top&type=ws&sni=jd.wxgqlfx.top#TelegramID%28%40Outline_Vpn%29+355
@@ -83,3 +79,7 @@ ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@23.157.40.29:9101#%F0%9F%87%BA%F0%9F%87
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.20:8119#%F0%9F%87%BA%F0%9F%87%B8%20_US_%E7%BE%8E%E5%9B%BD
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@169.197.142.120:8882#%F0%9F%87%BA%F0%9F%87%B8%20_US_%E7%BE%8E%E5%9B%BD
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@23.157.40.20:8000#%F0%9F%87%BA%F0%9F%87%B8%20_US_%E7%BE%8E%E5%9B%BD
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@38.114.114.207:8080#%F0%9F%87%BA%F0%9F%87%B8%20_US_%E7%BE%8E%E5%9B%BD
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@51.77.53.200:5004#%F0%9F%87%B5%F0%9F%87%B1%20_PL_%E6%B3%A2%E5%85%B0
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggX1VTX+e+juWbvS0+8J+HqPCfh6ZfQ0Ff5Yqg5ou/5aSnIiwiYWRkIjoiY2RuY2RuY2RuY2RuLjc4NDY1NC54eXoiLCJwb3J0IjoiMjA1MiIsInR5cGUiOiJub25lIiwiaWQiOiI0YjU4NjdiNS1hOWM0LTRhZmEtOGQ3My0yYzQzMzA3NDVmM2UiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2luZGV4P2VkPTIwIiwiaG9zdCI6ImNhLWNmY2RuLmFpa3VuYXBwLmNvbSIsInRscyI6IiJ9
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HqvCfh7og5qyn5rSyKOasoui/juiuoumYhVlvdXR1YmXnoLTop6PotYTmupDlkJspIiwiYWRkIjoiMTA0LjE2Ni4xMzUuMTAiLCJwb3J0IjoiNDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6ImFiYTUwZGQ0LTU0ODQtM2IwNS1iMTRhLTQ2NjFjYWY4NjJkNSIsImFpZCI6IjQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3MiLCJob3N0IjoiYWhkYWVwaDguY29tIiwidGxzIjoidGxzIn0=

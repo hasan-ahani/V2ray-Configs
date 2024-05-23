@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@193.9.49.233:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-193.9.49.233:443
-vless://913dfd5d-c4ab-4bd9-af2d-fd320252e9f5@172.67.132.41:80?type=ws#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.132.41:80
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@108.165.216.221:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-108.165.216.221:443
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.161:443?security=tls&sni=B458Ab02.CAA-CHANeL-Worker-pAGE-freE-jHUIHnujhPhJKl-nihGkjN.pagES.dev&type=ws&host=B458ab02.caa-chaNel-woRKeR-pAge-fREe-jhuiHnujhphJkl-nIhgkJn.PageS.DEv&path=%2F&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.161:443
 vless://7767dcb7-8f55-4fb0-8d65-aeb021d5f730@104.18.19.191:2096?security=tls&sni=kanal.metesla.site&type=grpc&serviceName=@global_net_vpn&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.19.191:2096
 vless://df471c1e-7f41-4fce-9a94-e63a53baaa80@162.159.138.232:8080?security=none&type=ws&host=de2.过滤器.store.&path=/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.138.232:8080
 vless://5f907d0a-923c-43b7-b049-2ca0a99894be@172.67.193.36:443?security=tls&sni=de2.v2vless.xyz&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.193.36:443
@@ -83,3 +79,7 @@ vless://b21813ba-c7c1-43e6-b51c-76f92bf66fd0@104.21.40.63:8880?security=none&typ
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@205.233.181.247:443?security=tls&sni=E5bE193d.Mr-Arsha-devIL.PAgEs.Dev&type=ws&path=%2FwKgZBlyJBp7MtUsH%3Fed&fp=randomized#🔒 VL-WS-TLS 🇺🇸 US-205.233.181.247:443
 vless://62c29d68-ec6f-4e93-813a-0c642b8cf359@172.64.167.245:8080?type=ws&host=its-legendaryking.com-so.ir-whereareyoumylady.4.4.4.4.ir.xn--9iqtb0z3kmg58ejur6wfbwf9muugk7rck30b0frbqkvk2bye0bm1a.arvancloud.online.&path=/telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,V2ray,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers?ed%3D2048#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.167.245:8080
 vless://cc986068-8ecd-4f20-a00e-d5405302c33d@66.235.200.123:80?type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg#🔒 VL-WS-NA 🇺🇸 US-66.235.200.123:80
+vless://98703d99-e2b3-42fe-8978-9ca16addd883@159.65.7.117:443?security=tls&sni=aka.ms&type=tcp&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-TCP-TLS 🇸🇬 SG-159.65.7.117:443
+vless://0f0f7cc8-edcd-436d-bf9d-f7bfdb6ed9ca@172.67.201.127:2082?security=none&type=ws&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.201.127:2082
+vless://d6d16b83-e7e3-486a-aa82-a649ef73cbfa@65.109.211.159:2053?security=none&type=tcp#🔒 VL-TCP-NONE 🇫🇮 FI-65.109.211.159:2053
+vless://698e1d97-0594-481d-8d97-f5f6f46aa32d@199.232.193.57:80?type=ws&host=virav2ray-alsjddhkasdasdkaslj.com&path=ViraV2ray/?ed%3D2560#🔒 VL-WS-NA 🇺🇸 US-199.232.193.57:80
