@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.18.5.250:443?security=tls&sni=biA-pAiN-BachE.PagEs.DEv&type=ws&host=bIA-paIn-baChe.pagES.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.5.250:443
 vless://f47fb03f-7f15-41e0-bd7e-2371dc710e32@188.114.96.183:80?security=none&type=ws&path=%2F%3Fed#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.96.183:80
 vless://775213ac-3976-439a-8977-3277c0e4735d@209.46.30.217:8443?security=tls&sni=fq521.6789.cloudns.be&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-209.46.30.217:8443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@192.9.165.253:47580?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🔒 VL-WS-TLS 🇦🇺 AU-192.9.165.253:47580
@@ -83,3 +82,4 @@ vless://652da35d-b59d-4ab0-af59-cb90066dcc10@1.1.1.12:443?security=tls&sni=arman
 vless://c838f915-90f6-4b3b-9b89-e8cce84d4f26@104.17.223.175:80?security=none&type=ws&host=6.v2ray.bm.nedayevarzesh.ir.newsless.ir.xn--48jyb6ec1ad.tech.irapulsplus.sbs&path=%2Ftelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.223.175:80
 vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@172.66.45.32:443?security=tls&sni=t-netplus-4vx.pages.dev&type=ws&host=t-netplus-4vx.pages.dev&path=%2F%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.45.32:443
 vless://01ab9337-f478-4765-9534-88f009f83ddb@192.18.134.231:443?security=tls&sni=aut022.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-192.18.134.231:443
+vless://02fa3182-c1c5-45b6-9d75-789cff8a6175@172.232.250.160:2003?security=tls&sni=id-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇮🇩 ID-172.232.250.160:2003
