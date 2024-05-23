@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://auto@172.67.181.172:443?security=tls&sni=esetsecuritylicense1.cxlrazo.workers.dev&type=ws&host=esetsecuritylicense1.cxlrazo.workers.dev&path=%2F%3Fed%3D2560&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.181.172:443
-trojan://NISHIKUITAN222@47.236.164.215:443?security=tls&sni=t222.ylks.link&type=ws&host=t222.ylks.link&path=%2F#🔒 TR-WS-TLS 🇸🇬 SG-47.236.164.215:443
-trojan://telegram-id-privatevpns@18.202.9.70:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-18.202.9.70:22222
-trojan://a5da0a9c-97e2-4179-a51a-66566b677740@162.55.6.150:443?security=tls&sni=medidor-gro-hidalgo-1.uninet.net.mx.prod.hosts.ooklaserver.net&type=tcp#🔒 TR-TCP-TLS 🇩🇪 DE-162.55.6.150:443
-trojan://auto@162.159.137.232:8443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.137.232:8443
 trojan://0a80fb6f-67f6-4651-9c99-e45060d8baa4@95.164.117.128:443?#🔒 TR-TCP-NA 🇩🇪 DE-95.164.117.128:443
 trojan://telegram-id-directvpn@3.129.168.112:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇺🇸 US-3.129.168.112:22222
 trojan://telegram-id-privatevpns@18.134.233.122:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-18.134.233.122:22222
@@ -83,3 +78,8 @@ trojan://auto@104.20.6.134:443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&ty
 trojan://6455f944-7c07-4ab0-b88f-440e581f41d9@182.209.240.254:443?#🔒 TR-TCP-NA 🇰🇷 KR-182.209.240.254:443
 trojan://7b06d62b-25ed-45ed-ac0d-bc28a4779ef9@172.67.132.6:2096?sni=channel.v2bamdad.tech&type=grpc&serviceName=lK1wclmJRbMxj4FxIzvwxUDoX&allowInsecure=1#🔒 TR-GRPC-NA 🏴‍☠️ NA-172.67.132.6:2096
 trojan://6c6bcdab-767c-4a36-8419-4ebc8c3b7066@143.198.62.157:443?security=tls&sni=206.237.5.220&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇺🇸 US-143.198.62.157:443
+trojan://e42b5412-0fda-4684-9fc6-d5ff1c4354ac@51.75.77.237:443?#🔒 TR-TCP-NA 🇩🇪 DE-51.75.77.237:443
+trojan://96884680-77e6-11eb-8d67-1239d0255272@163.172.211.74:443?sni=nl-trojan.bonds.id#🔒 TR-TCP-NA 🇳🇱 NL-163.172.211.74:443
+trojan://pUxG77WPOZ@104.18.202.232:80?security=none&type=ws&host=s9.in01.tech&path=/#🔒 TR-WS-NONE 🏴‍☠️ NA-104.18.202.232:80
+trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.19.171.36:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.171.36:443
+trojan://Ck0nkbbsur@104.18.37.248:2096?security=tls&sni=tls.redbullplus.xyz&type=ws&host=tls.redbullplus.xyz&path=%2Fwsss#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.37.248:2096
