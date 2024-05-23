@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://0c47c8fd-4966-4351-8bdd-88d46b4a8cd1@104.25.254.188:443?security=tls&sni=freakv22.tm-online.xyz&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.25.254.188:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@170.114.46.140:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-170.114.46.140:443
 vless://9094fe1e-134f-4dd5-9744-359da7783634@104.21.79.143:443?security=tls&sni=be3-vless.sshmax.xyz&type=ws&host=be3-vless.sshmax.xyz&path=%2Fvless&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.79.143:443
 vless://b5484088-cefc-43a1-943f-a99706fc3c0c@103.184.44.104:2095?security=none&type=ws&host=V2ray-_-_-_-_-_-VPNCUSTOMIZE.keLLekcoLLection.com.&path=%2FV2rayCUSTOMIZE-VPNCUSTOMIZE-VPNCUSTOMIZE-VPNCUSTOMIZE-VPNCUSTOMIZE-VPNCUSTOMIZE-VPNCUSTOMIZE-VPNCUSTOMIZE-VPNCUSTOMIZE-VPNCUSTOMIZE-VPNCUSTOMIZE-VPNCUSTOMIZE-VPNCUSTOMIZE-VPNCUSTOMIZE-VPNCUSTOMIZE%3Fed%3D1024#🔒 VL-WS-NONE 🇨🇳 CN-103.184.44.104:2095
@@ -82,4 +83,3 @@ vless://7e29f2e2-e0ec-47c5-94ec-38ef90f7a106@104.24.0.28:2053?security=tls&sni=g
 vless://f0f67b84-2770-4413-8b26-cfb302fac247@104.21.66.93:80?security=none&type=ws&host=v2fly.milik-fukada.eu.org&path=%2F@vano_ganzzz#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.66.93:80
 vless://92b934bb-7007-4439-a8e4-ad44cb1e263f@65.109.205.184:443?security=none&type=tcp#🔒 VL-TCP-NONE 🇫🇮 FI-65.109.205.184:443
 vless://5a6555ea-a997-4381-aac7-8a53b6d2f5a5@104.25.5.6:2087?security=tls&sni=suping2.snapppfood.sbs&type=grpc&serviceName=@AFC_vpn.@AFC_vpn.@AFC_vpn&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.25.5.6:2087
-vless://1622d31e-9023-4f1a-b553-9d10d7d2da90@104.18.166.112:443?security=tls&sni=free-sweden-c8f4261f9f46e6465709e17ebea7a92b.mitowear.com&type=ws&host=free-sweden-c8f4261f9f46e6465709e17ebea7a92b.mitowear.com#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.166.112:443

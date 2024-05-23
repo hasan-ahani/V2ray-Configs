@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://56096be1-d610-4613-aee5-369f9ecce276@103.35.189.42:8443?security=reality&sni=172.67.193.108&type=tcp&host=us1.x2fast.net&headerType=http&fp=chrome&pbk=t_XMV-WyVYbcDCIgiSSCi3bSPDdW1rqKFa9ZoI8b4RA&sid=dbdf78b1df376900#🔒 VL-TCP-RLT 🇺🇸 US-103.35.189.42:8443
 vless://210fdab8-023f-46ba-85e4-be583438ff5d@104.168.107.230:8224?security=reality&flow=xtls-rprx-vision&sni=mashable.com&type=tcp&fp=chrome&pbk=8BiQIRM0TBZUpRwiB6vsfTPOj4AJoYd1dvX65GhfFW4&sid=a41cc82f29d6308c#🔒 VL-TCP-RLT 🇺🇸 US-104.168.107.230:8224
 vless://b0753dbe-6187-4d7f-8931-4c0d1a975104@95.164.36.59:2096?security=reality&flow=xtls-rprx-vision&sni=104.21.70.42&type=tcp&fp=chrome&pbk=Iqqixc1Fcq2knbl1IbuKOHuZn2QDQIgri2J1acmDuTw&sid=bbe1ba3d62f09e09#🔒 VL-TCP-RLT 🇦🇹 AT-95.164.36.59:2096
 vless://c584aa40-feab-415f-9917-885993ac60d0@190.93.246.241:8080?security=reality&sni=bia-to.code-v2.cfd&type=grpc&serviceName=@V2ray_Alpha&fp=chrome&pbk=o9ZHbcwSXSoc_8qYCy19iFR27lyTDbypcMKsaHkM3Go&allowInsecure=1#🔒 VL-GRPC-RLT 🏴‍☠️ NA-190.93.246.241:8080
@@ -82,4 +83,3 @@ vless://3a0b3021-34e9-434a-a80d-283be91655e0@104.21.44.106:2052?security=none&ty
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@20.75.178.96:443?security=tls&sni=zdy313.kpcloud.eu.org&type=ws&path=/proxyip#🔒 VL-WS-TLS 🇺🇸 US-20.75.178.96:443
 vless://c4d98ed1-69a5-49ad-b785-25fd2e081326@172.67.219.166:2053?security=tls&sni=Poshtiban.ehsa0535.top&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.219.166:2053
 vless://4045c6b7-1d53-4574-98cd-df21db40b0dc@172.64.105.78:2053?security=tls&sni=itcenteriran.blog&type=ws&host=itcenteriran.blog#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.105.78:2053
-vless://0757ab97-5f10-408e-9d4a-d68811cdf864@188.114.97.0:2095?security=none&type=ws&host=V2ray-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.97.0:2095

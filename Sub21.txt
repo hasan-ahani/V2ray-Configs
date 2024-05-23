@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://telegram-id-directvpn@3.129.168.112:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#%F0%9F%94%92%20TR-TCP-TLS%20%F0%9F%87%BA%F0%9F%87%B8%20US-3.129.168.112%3A22222
 trojan://telegram-id-directvpn@13.39.185.145:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#%F0%9F%94%92%20TR-TCP-TLS%20%F0%9F%87%AB%F0%9F%87%B7%20FR-13.39.185.145%3A22222
 vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@172.67.73.163:443?encryption=none&security=tls&sni=t-netplus-4vx.pages.dev&fp=randomized&type=ws&host=t-netplus-4vx.pages.dev&path=%2F%3Fed%3D2048#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-172.67.73.163%3A443
 vless://a81b314c-3ab7-48d3-b8c0-584c89e5f616@172.67.163.103:443?encryption=none&security=tls&sni=xswa.kevani8800.workers.dev&fp=randomized&type=ws&host=xswa.kevani8800.workers.dev&path=%2FTelegram%40Free_V2rng%3Fed%3D2048#%F0%9F%94%B049%40oneclickvpnkeys
@@ -82,4 +83,3 @@ vless://0e29d0de-fde0-4809-b5bd-f2c83c60c276@70.34.252.235:43549?security=realit
 vless://90f1fa90-75f7-4691-b5b7-a8e4a84d66d9@66.90.74.84:20012?security=reality&flow=xtls-rprx-vision&sni=www.timeto.com&type=tcp&fp=chrome&pbk=Wt9cTNEcGKp6Qy2n050o5U3sDCEK1C-iuzQFYSzXknU&sid=4a3749e4#🔒 VL-TCP-RLT 🇦🇷 AR-66.90.74.84:20012
 vless://b948668e-ddcf-4b98-bf7c-f4a1c59b7e9b@65.109.193.242:443?security=reality&sni=tuyaus.com&type=tcp&fp=chrome&pbk=Pm1_UsePgo_9LccEkdYOYPEK0UMo4zOp3xlTO1eD20E&sid=6274b424#🔒 VL-TCP-RLT 🇫🇮 FI-65.109.193.242:443
 vless://dde728a3-6792-4ed4-8d53-f4bcf685f8ef@104.168.107.230:7970?security=reality&flow=xtls-rprx-vision&sni=tandfonline.com&type=tcp&fp=chrome&pbk=kt-d9jx_cCmvmWiL4CP5IPAKHhjAF-oBmsGhyG1U704&sid=7a06db71e78640de#🔒 VL-TCP-RLT 🇺🇸 US-104.168.107.230:7970
-vless://56096be1-d610-4613-aee5-369f9ecce276@103.35.189.42:8443?security=reality&sni=172.67.193.108&type=tcp&host=us1.x2fast.net&headerType=http&fp=chrome&pbk=t_XMV-WyVYbcDCIgiSSCi3bSPDdW1rqKFa9ZoI8b4RA&sid=dbdf78b1df376900#🔒 VL-TCP-RLT 🇺🇸 US-103.35.189.42:8443
