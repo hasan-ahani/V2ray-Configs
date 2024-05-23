@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://1622d31e-9023-4f1a-b553-9d10d7d2da90@156.225.72.135:443?security=tls&sni=free-sweden-c8f4261f9f46e6465709e17ebea7a92b.mitowear.com&type=ws&host=free-sweden-c8f4261f9f46e6465709e17ebea7a92b.mitowear.com#🔒 VL-WS-TLS 🇺🇸 US-156.225.72.135:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@129.146.46.164:443?security=tls&sni=zdy116.kpcloud.eu.org&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-129.146.46.164:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.18.27.8:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.27.8:443
 vless://84e59ad7-ca22-4093-98b3-8b59617a3129@[::ffff:6815:4f8f]:443?security=tls&sni=at2.v2vless.xyz&type=ws&host=at2.v2vless.xyz&path=%2Fvless%3Fed%3D%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi&fp=safari#🔒 VL-WS-TLS 🏴‍☠️ NA-[::ffff:6815:4f8f]:443
@@ -83,3 +82,4 @@ vless://713e999f-9590-4419-e49c-5a682ec5d4f7@104.24.196.20:2083?security=tls&sni
 vless://d9a66cc5-0e40-459f-b7aa-6272e46839ee@104.24.196.20:2053?security=tls&sni=Pm.RxV2ray.space&type=ws&host=Pm.RxV2ray.space&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.196.20:2053
 vless://e1876870-0f4c-11ef-a747-1239d0255272@23.158.72.133:80?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇺🇸 US-23.158.72.133:80
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@167.68.11.46:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=/#🔒 VL-WS-TLS 🇺🇸 US-167.68.11.46:443
+vless://61b8beb5-c2f5-4bae-9046-658bd8cba724@104.16.103.112:2087?security=tls&sni=cloud-lb1.cyberscaler.com&type=ws&host=cloud-lb1.cyberscaler.com&path=%2Fqwertu&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.103.112:2087

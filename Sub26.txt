@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://9e966c38-3460-40d6-b18f-9a118808de8f@94.242.231.46:80?security=none&type=ws&host=tj.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&path=%2FZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEONZEDMODEON#🔒 VL-WS-NONE 🇱🇺 LU-94.242.231.46:80
 vless://211f783a-ab76-4a47-a760-f70d1cb682a6@104.26.6.89:443?security=tls&sni=xiv2ray.irandtehran.org&type=grpc&serviceName=%40xiv2ray&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.26.6.89:443
 vless://f39008fb-8201-4968-acd6-952e81af9c3b@85.133.237.222:2021?security=none&type=tcp&host=exo.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.133.237.222:2021
 vless://664f5f11-1231-486d-b416-b7b3ecdae76a@104.19.130.28:443?security=tls&sni=HETZNER-D.pages.DEV&type=ws&host=HETZNER-D.pages.DEV&path=%2F%3Fed%3D2048&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.130.28:443
@@ -83,3 +82,4 @@ vless://ee2960f8-2e78-4832-9c1f-3be20897cd30@31.43.179.183:80?security=none&type
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.19.145.150:443?security=tls&sni=b458Ab02.CaA-chanel-WOrker-Page-freE-JhuihnujHphjKl-niHgKJn.pAgES.dEV&type=ws&host=b458Ab02.caA-chaNEl-WOrkeR-page-fReE-JHuiHnuJHphjKL-nIHGKjN.pAGes.DeV&path=%2FFreeVirGoolNet-FreeVirGoolNet%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.145.150:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.138.106:443?security=tls&sni=PrOxYsTOREpanEl.eu.OrG&type=ws&host=PrOXYstORepAneL.eu.OrG&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.138.106:443
 vless://8ceac519-7b18-47a5-b53e-d37ba318b0aa@172.66.44.71:443?security=tls&sni=c1c569fc.irani-eub.pages.dev&type=ws&host=c1c569fc.irani-eub.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.71:443
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@170.114.45.25:443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-170.114.45.25:443
