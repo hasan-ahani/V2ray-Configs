@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://telegram-id-privatevpns@3.126.132.232:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | DE🇩🇪 | 0️⃣6️⃣
 trojan://telegram-id-privatevpns@16.170.57.95:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | SE🇸🇪 | 0️⃣7️⃣
 trojan://telegram-id-directvpn@18.175.69.61:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @DirectVPN | GB🇬🇧 | 0️⃣1️⃣
 trojan://telegram-id-directvpn@13.39.250.193:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @DirectVPN | FR🇫🇷 | 0️⃣2️⃣
@@ -29,7 +28,7 @@ hy2://
 misconfiguration and was unable to complete
 your request.</p>
 <p>Please contact the server administrator at 
- <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="512634333c3022253423113c23213e3e28307f29282b">[email&#160;protected]</a> to inform them of the time this error occurred,
+ <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="295e4c4b44485a5d4c5b69445b594646504807515053">[email&#160;protected]</a> to inform them of the time this error occurred,
  and the actions you performed just before this error.</p>
 <p>More information about this error may be available
 in the server error log.</p>
@@ -83,3 +82,4 @@ vless://7d5c94a6-92ab-401c-9572-d775a0943b72@104.168.107.230:2053?encryption=non
 vless://157d07b5-000b-4c22-b428-fe2686a958e4@104.168.107.230:2058?encryption=none&flow=xtls-rprx-vision&security=reality&sni=theverge.com&fp=chrome&pbk=-6BgxxLCy-kCf64No2YWnJYBFMFdDrHl976RA1KNNQQ&sid=c2a7589a4e18db6f&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-2058 | 78.27ms
 vless://4606e655-876f-4a9c-9a06-9b0f2b4f3f7d@104.168.107.230:2082?encryption=none&flow=xtls-rprx-vision&security=reality&sni=discord.com&fp=chrome&pbk=-6BgxxLCy-kCf64No2YWnJYBFMFdDrHl976RA1KNNQQ&sid=c2a7589a4e18db6f&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-2082 | 85.92ms
 vless://e487304d-5186-4234-91f7-7f7fa2a89432@104.168.107.230:2085?encryption=none&flow=xtls-rprx-vision&security=reality&sni=coinmarketcap.com&fp=chrome&pbk=-6BgxxLCy-kCf64No2YWnJYBFMFdDrHl976RA1KNNQQ&sid=c2a7589a4e18db6f&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-2085 | 71.87ms
+vless://34f8e571-baa2-4a70-beb1-4781bd915f2c@104.168.107.230:2086?encryption=none&flow=xtls-rprx-vision&security=reality&sni=proxmox.com&fp=chrome&pbk=-6BgxxLCy-kCf64No2YWnJYBFMFdDrHl976RA1KNNQQ&sid=c2a7589a4e18db6f&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-2086 | 76.16ms
