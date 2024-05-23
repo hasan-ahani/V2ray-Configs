@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@138.3.215.231:44784?security=tls&sni=v116.ylks.link&type=ws&path=/?ed#🔒 VL-WS-TLS 🇯🇵 JP-138.3.215.231:44784
 vless://957e3de7-7f01-49b9-afcc-949930381128@37.27.47.189:2061?security=none&type=tcp&host=speedtest.net&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇫🇮 FI-37.27.47.189:2061
 vless://f922a88b-d4f5-4371-924e-c0335c990532@190.93.246.241:2087?type=grpc&serviceName=Telegram#🔒 VL-GRPC-NA 🏴‍☠️ NA-190.93.246.241:2087
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@185.135.9.15:443?security=tls&sni=kk116.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇩🇪 DE-185.135.9.15:443
@@ -83,3 +82,4 @@ vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@8.222.167.147:2083?security=tls&sni
 vless://b0138d55-a493-4dc3-9932-c6f0391707c1@172.67.56.140:443?security=tls&sni=edge.020770.xyz&type=ws#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.56.140:443
 vless://a492d040-7600-408e-93e0-4fea68681ec7@104.21.76.37:2096?security=tls&sni=wedbaz-vip-uk-all.mobailemax.ir&type=grpc&serviceName=abc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.76.37:2096
 vless://b04859a9-1156-4d22-8873-60980d5b599d@172.67.193.102:443?security=tls&sni=free.connectix.workers.dev&type=ws&path=/connectix&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.193.102:443
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.21.228.200:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.228.200:443
