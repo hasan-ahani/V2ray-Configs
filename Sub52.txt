@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://94e21834-b1db-4e47-b575-4fdfd4c194ba@104.24.215.58:2053?security=tls&sni=jo0o0o0in.golestan-vpn.link.&type=ws&host=jo0o0o0in.golestan-vpn.link.&path=%2Ftelegram-gol621%2Ctelegram-gol621%2Ctelegram-gol621%2Ctelegram-gol621%2Ctelegram-gol621%2Ctelegram-gol621%2Ctelegram-gol621%2Ctelegram-gol621%2Ctelegram-gol621%2Ctelegram-gol621%2Ctelegram-gol621%2Ctelegram-gol621%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.215.58:2053
-vless://1fb465ac-60fb-4b77-b4a6-cc590ee6124e@104.21.24.57:443?security=tls&sni=freedom3.pacica4041.workers.dev&type=ws&host=freedom3.pacica4041.workers.dev&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.24.57:443
-vless://378ac207-38d3-4401-ba96-3a7931968bc5@148.113.175.147:80?security=none&type=ws&path=/http#🔒 VL-WS-NONE 🇨🇦 CA-148.113.175.147:80
 vless://78dcde94-5b99-4dc0-a0a7-43c92df4f76b@45.152.112.197:80?security=none&type=tcp#🔒 VL-TCP-NONE 🇫🇷 FR-45.152.112.197:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.18.127.233:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=TELEGRAM-MARAMBASHI%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.127.233:443
 vless://cc236a51-836f-4d96-b622-49ddb937671b@172.66.44.168:443?security=tls&sni=BpB-98d.pAgES.dEv&type=ws&host=Bpb-98D.PAGES.dEV&path=%2Fk6ugsbLtk1GoYZw6%3Fed%3D2048&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.168:443
@@ -83,3 +80,6 @@ vless://16782c80-8b2c-4eb1-81da-dd0435bfa586@104.18.202.232:8880?security=none&t
 vless://8b0aceae-14c0-46c0-9c36-22709590fe6c@104.18.10.128:80?security=none&type=ws&host=V2ray-_-_-_-_-_-V2rayargon.TelegramChannelJoinBede.com.&path=telegram:@v2rayargon-Telegram:@v2rayargon-Telegram:@v2rayargon-Telegram:@v2rayargon-Telegram:@v2rayargon-TelegramTelegram:@v2rayargon-Telegram:@v2rayargon-Telegram:@v2rayargon-Telegram:@v2rayargon-Telegram:@v2rayargon-Telegram#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.10.128:80
 vless://3f435429-081a-41e0-8e77-f21e8a51fbbf@188.114.96.12:443?security=tls&sni=VirgInIaVpn.PaGes.DeV&type=ws&host=VirginiaVpn.Pages.DEV&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.12:443
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@172.67.134.122:443?security=tls&sni=worker.iraniancp.click&type=ws&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.134.122:443
+vless://97492659-ca83-489e-acd5-eeb598b3fc28@104.24.246.154:2083?security=tls&sni=salavati.globalnetchanell.site&type=grpc&serviceName=@global_net_vpn#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.24.246.154:2083
+vless://c7704a5a-563b-4654-aea3-94c25db1a365@172.67.204.39:80?security=none&type=ws&host=1.ftp.debian.org.www.speedtest.net.免费上网67.Site.#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.204.39:80
+vless://9b20cc6e-b19a-406b-a0d4-2615efb55744@185.126.3.104:4060?security=none&type=tcp&host=varzesh3.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.126.3.104:4060

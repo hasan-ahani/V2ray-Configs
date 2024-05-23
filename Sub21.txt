@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://1b8a2b1e-14b0-4373-d45f-f46d33c7bfca@151.101.194.168:80?security=none&type=ws&host=aklisvpn.com&path=/@aklisvpn@aklisvpn-@aklisvpn@aklisvpn-@aklisvpn@aklisvpn-@aklisvpn@aklisvpn-@aklisvpn@aklisvpn-@aklisvpn@aklisvpn-@aklisvpn@aklisvpn-@aklisvpn@aklisvpn-#🔒 VL-WS-NONE 🇺🇸 US-151.101.194.168:80
-vless://7bedf632-b4c2-4e90-9d8b-f42ee7145534@172.66.43.138:443?security=tls&sni=shinobbbnbu.yaemiko.cloudns.org&type=ws&host=shinobu.yaemiko.cloudns.org&path=%2F&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.43.138:443
-vless://609435cb-3fab-420c-8aa6-27712246be02@172.66.47.156:443?security=tls&sni=pardazeshvpn-tg15.pages.dev&type=ws&host=pardazeshvpn-tg15.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.156:443
 vless://bcf50589-9654-4331-93a6-da896914ec47@172.66.47.2:443?security=tls&sni=de4ecf6b.isvphp-4g8.pages.dev&type=ws&host=de4ecf6b.isvphp-4g8.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.2:443
 vless://266db9bc-419e-463c-9ae8-b2a4d2076822@45.14.174.201:8880?security=none&type=ws&host=Daily-ConfigsV2rayGmSix6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.vigilantecollection.com.&path=%2FTel%3A%40Daily_ConfigsTel%3A%40Daily_ConfigsTel%3A%40Daily_ConfigsTel%3A%40Daily_ConfigsTel%3A%40Daily_Configs#🔒 VL-WS-NONE 🇩🇪 DE-45.14.174.201:8880
 vless://70f5d3b8-7d31-4d7d-9467-e43752d66fca@172.67.134.202:2096?security=tls&sni=sub.shadowsokstes.WoRkErs.DeV&type=ws&host=sub.shadowsokstes.WoRkErs.DeV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.134.202:2096
@@ -83,3 +80,6 @@ vless://ac820b81-e404-4284-bfcf-0220addbbcc9@162.159.137.232:8443?security=tls&s
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@222.112.65.62:13876?security=tls&sni=xin116.ylks.link&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇰🇷 KR-222.112.65.62:13876
 vless://4e6965f9-2364-4ef6-98c6-02998a224e32@172.67.221.191:443?security=tls&sni=mon1.api-tel.ir&type=grpc&serviceName=okala.com&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.221.191:443
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.64.144:443?security=tls&sni=www.data.gov.uk&type=ws&host=binance.co.kp#🔒 VL-WS-TLS 🇺🇸 US-151.101.64.144:443
+vless://5b287175-dca6-4b1f-8fee-d611e34edd46@128.140.89.98:8080?security=none&type=ws&path=%2Fzula.ir#🔒 VL-WS-NONE 🇩🇪 DE-128.140.89.98:8080
+vless://f4674168-f45c-45ed-8e6c-78ed71d3114f@198.41.216.1:2087?security=tls&sni=mAh3.irAnWeB.ShOP&type=ws&host=mAh3.irAnWeB.ShOP&path=/@mahsa_net+@azadi_az_inja_migzare&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.216.1:2087
+vless://69d22fb3-7bd5-422c-8a85-69f3845dc2c9@65.109.205.184:8080?security=none&type=tcp#🔒 VL-TCP-NONE 🇫🇮 FI-65.109.205.184:8080
