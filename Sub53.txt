@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://fc29b2cf-da56-4ea5-aab8-e25ab40702eb@172.232.43.111:443?security=tls&sni=fr2-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇫🇷 FR-172.232.43.111:443
+vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@45.66.129.123:32680?security=tls&sni=159d770e-fd74-4069-a73b-fe6ececa7951.f82aee4c-752c-4b0c-9793-380d4d76435c.ddnsgeek.com&type=ws&path=%2Fpasge.pages.dev%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇯🇵 JP-45.66.129.123:32680
+vless://b1c53b03-8d32-4d2c-a572-c3f6c81bda8c@77.75.199.5:80?security=none&type=ws&host=a.らわなさ.tech.&path=/ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON#🔒 VL-WS-NONE 🇬🇧 GB-77.75.199.5:80
 vless://fe4290dd-d1df-4419-ac54-9766665a14e8@178.79.176.97:443?security=tls&sni=uk2-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇬🇧 GB-178.79.176.97:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@108.165.216.188:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-108.165.216.188:443
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@129.154.206.254:59158?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇰🇷 KR-129.154.206.254:59158
@@ -80,6 +83,3 @@ vless://79dcfd28-02af-42fd-af73-232f31ae0201@172.67.73.174:8880?security=none&ty
 vless://ee3fda1f-d8ec-44c7-942e-7e980b0b941c@104.21.85.204:2052?security=none&type=ws&host=P.a.n.jetupnet.sbs.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.85.204:2052
 vless://fbc0ecd4-9fd3-4533-8df7-33d29493ff65@188.114.98.255:80?security=none&type=ws&path=%2F%3Fed#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.98.255:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.128.151:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.128.151:443
-vless://2375d7bb-64ff-4168-aaf2-851a3223fad1@172.64.155.141:2083?security=tls&sni=cdn.gzwuyxq.WoRkerS.DEv&type=ws&host=cdn.gzwuyxq.WoRkerS.DEv&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.155.141:2083
-vless://5f3db645-ae0b-4cf6-aee1-838a92b6ea68@172.67.202.26:443?security=tls&sni=javad.rbj5847.workers.dev&type=ws&host=javad.rbj5847.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.202.26:443
-vless://947391e1-408e-4ba2-8a56-05cd972082e5@104.24.176.248:8443?security=tls&sni=ri.aminivip2023.site&type=ws&host=ri.aminivip2023.site&path=/V2zed&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.176.248:8443

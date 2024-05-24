@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://e6c29d25-06a2-44fa-8db9-94b434ef2de1@178.157.91.10:80?security=none&type=tcp#🔒 VL-TCP-NONE 🇳🇱 NL-178.157.91.10:80
+vless://1ff59fad-6cc6-4714-82b1-d4af47de08eb@23.227.60.118:80?security=none&type=ws&host=DiReCt49-13-163-226.CleAnMaRk.IR&path=/DiReCt49-13-163-226-CleAnMaRk-IR#🔒 VL-WS-NONE 🇨🇦 CA-23.227.60.118:80
+vless://d62bef02-fa45-4af6-b399-ff4350cb1757@162.159.138.232:2053?security=tls&sni=V2rayNG_mer.elmahstyle.ir&type=ws&host=V2rayNG_mer.elmahstyle.ir&path=%2F%3Fed%3D1024#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.138.232:2053
 vless://a94ccf98-19c8-4de4-bfb3-ac37a6696729@172.66.44.240:8443?security=tls&sni=pardazeshvpn-tg60.pages.dev&type=ws&host=pardazeshvpn-tg60.pages.dev&path=%2FTelegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.240:8443
 vless://4b3a956b-94a8-496e-af7d-363a5dfef937@172.66.213.5:2095?security=none&type=ws&serviceName=Telegram:@proxy_mtm&host=%56%32ra%79-_-_-_-_-_-V%50%4e%43UST%4fMI%5aE.keLLekcoLLection.com.&path=%2FV%32ra%79C%55ST%4f%4dI%5aE%3Fed%3D1024#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.213.5:2095
 vless://31a20bed-de85-4507-81bc-e97c68b49d11@104.21.26.231:8443?security=tls&sni=parmo.kajesi4977.workers.dev&type=ws&host=parmo.kajesi4977.workers.dev&path=vless-ws%2F%3Fed%3D2048&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.26.231:8443
@@ -80,6 +83,3 @@ vless://63dd3174-ca18-4dc5-95ff-b017e05639f0@162.159.133.234:2096?security=tls&s
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@45.80.111.38:2096?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F#🔒 VL-WS-TLS 🇩🇪 DE-45.80.111.38:2096
 vless://fdcfae43-3eed-4177-b06d-88a1a2169b30@104.31.16.185:2083?security=tls&sni=ousgyyzsjbolbolsweden.stay-out-of-my-territory.shop&type=ws&host=ousgyyzsjbolbolsweden.stay-out-of-my-territory.shop&path=%2F&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.31.16.185:2083
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.20.123.173:443?security=tls&sni=EA6530e9.nXZu-61iuaN-xD.PageS.DEV&type=ws&host=EA6530e9.nXzu-61iuAn-XD.PaGEs.dEV&path=%2F..TeleGram..%40Free_V2rng..%3D%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.123.173:443
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@8.218.142.253:2083?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇭🇰 HK-8.218.142.253:2083
-vless://4534d7c9-c5dd-490a-9f14-75245f58ae01@51.195.149.115:26475?security=none&type=tcp#🔒 VL-TCP-NONE 🇫🇷 FR-51.195.149.115:26475
-vless://bd13ceac-d4c7-4840-9fb6-fbe4f2731884@212.80.10.7:63875?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-212.80.10.7:63875
