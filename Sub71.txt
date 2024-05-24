@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://share.mjj-home.com@45.154.214.159:443?sni=api.mjj-home.com#🔒 TR-TCP-NA 🇺🇸 US-45.154.214.159:443
 trojan://a5c1b2f6-77a7-410b-be3d-163683665ba4@138.124.184.173:443?#🔒 TR-TCP-NA 🇺🇸 US-138.124.184.173:443
 trojan://dc5e0a60-17de-11ef-b78a-1239d0255272@51.210.182.170:443?security=tls&sni=chatbuzzteambhm.chatbuzzt7150.workers.dev&type=tcp#🔒 TR-TCP-TLS 🇫🇷 FR-51.210.182.170:443
 trojan://NISHIKUITAN222@8.219.144.168:443?security=tls&sni=t222.ylks.link&type=ws&host=t222.ylks.link&path=%2F#🔒 TR-WS-TLS 🇸🇬 SG-8.219.144.168:443
@@ -82,4 +83,3 @@ trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debia
 trojan://0e81a9cd-d849-4101-8d64-574c283207de@172.67.204.84:2083?security=tls&sni=de1.trojanvpn.de&type=ws&host=de1.trojanvpn.de&path=/websocket#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.204.84:2083
 trojan://auto@104.18.34.21:443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.34.21:443
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.39:443?sni=tjjd.yzyx1.v6.army&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-104.19.53.39:443
-trojan://sharecentre@3.64.163.50:443?#🔒 TR-TCP-NA 🇩🇪 DE-3.64.163.50:443
