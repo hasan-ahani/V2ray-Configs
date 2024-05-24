@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://9cd6e660-fa72-415d-a60d-64aa16574ab0@104.18.71.193:8080?security=none&type=ws&host=EnRheo.BALe.Bio&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.71.193:8080
+vless://c25d9ab6-b6be-4034-9bb8-966b4651cade@104.21.62.144:2083?security=tls&sni=sauron.melkore.ir&type=ws&host=sauron.melkore.ir&path=/&fp=chrome&alpn=http/1.1,h2,h3#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.62.144:2083
 vless://0f0f7cc8-edcd-436d-bf9d-f7bfdb6ed9ca@104.21.60.209:2082?security=none&type=ws&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.60.209:2082
 vless://88363077-79d2-441e-b96b-cd8e4346794d@104.21.93.152:8443?security=tls&sni=wed-vip-fr-cdall.highposhako.ir&type=grpc&serviceName=abc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.93.152:8443
 vless://e9d4444f-e9f6-41e4-b066-8cf38b86a862@172.67.217.144:443?security=tls&sni=ua2-vless.sshmax.xyz&type=ws&host=ua2-vless.sshmax.xyz&path=%2Fvless#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.217.144:443
@@ -81,5 +83,3 @@ vless://985bfbee-b6fa-462c-ba86-78bfa0a56981@172.67.190.127:2086?security=none&t
 vless://01ab9337-f478-4765-9534-88f009f83ddb@129.146.254.39:443?security=tls&sni=aut022.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-129.146.254.39:443
 vless://92a6cede-9d06-45e6-a0e6-199ab8898bfa@104.22.6.4:2095?security=none&type=ws&host=sm.zula.ir.g.varzeshi3.ir.fgil.hm.deba.ka.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95maxsskllppae.atkfood.com.&path=%2FAMVPN%3Fed%3D1024#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.6.4:2095
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.175:8443?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.175:8443
-vless://edffff01-df77-42f3-9d02-359a449ab98e@172.67.135.195:8443?security=tls&sni=off.v2box.lol.&type=grpc&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.135.195:8443
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@94.242.229.9:2083?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F#🔒 VL-WS-TLS 🇱🇺 LU-94.242.229.9:2083

@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.36.210:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=/?ed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.36.210:443
+vless://9e67f15c-178f-494c-a843-f371e3b3fa5d@172.67.95.232:8080?security=none&type=ws&host=king1980.b91sptsl.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.95.232:8080
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@89.116.250.6:2083?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz#🔒 VL-WS-TLS 🇱🇹 LT-89.116.250.6:2083
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@77.37.33.173:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇩🇪 DE-77.37.33.173:8443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.133.62:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.133.62:443
@@ -81,5 +83,3 @@ vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@185.176.26.61:2087?security=tls&sni
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.192.144:443?security=tls&sni=www.data.gov.uk&type=ws&host=binance.co.kp#🔒 VL-WS-TLS 🇺🇸 US-151.101.192.144:443
 vless://f451c7bd-83e4-44a9-8c5a-809ca9df12b2@162.159.17.160:8880?security=none&type=ws&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&path=/Telegram:@UnlimitedDev?ed#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.17.160:8880
 vless://d5250e79-aae7-4514-8a5e-f9718f7ac035@205.233.181.74:8080?security=none&type=ws&host=kchan.amirali0013.monster&path=/@NIM_VPN_ir,@NIM_VPN_ir#🔒 VL-WS-NONE 🇺🇸 US-205.233.181.74:8080
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@[::ffff:c629:c7a6]:443?security=tls&sni=TelEGram.v2VIPchanNel.MRVi.online&type=ws&host=telegram.v2vipchannel.mrvi.online&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-[::ffff:c629:c7a6]:443
-vless://feb31976-2a9d-40ec-e346-d9d7fcd38027@104.21.51.57:443?security=tls&sni=behemoth.wavap50279.workers.dev&type=ws&host=behemoth.wavap50279.workers.dev&path=/downloader/30836&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.51.57:443

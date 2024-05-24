@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.237.8.82:2053?security=tls&sni=zdy226.kpcloud.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇸🇬 SG-47.237.8.82:2053
+vless://10716279-b1ee-41d8-b63e-87782088305b@147.185.161.192:443?security=tls&sni=mAMaNe-FILTErChI.pAGES.deV&type=ws&path=/&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-147.185.161.192:443
 vless://d5dd9a8c-dad7-4aeb-8cf7-f2812a0f275a@104.18.202.232:8443?security=tls&sni=all2.savagev2ray.site&type=grpc&serviceName=@Vpnmasi,@Vpnmasi,@Vpnmasi#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.202.232:8443
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@45.159.50.210:57664?security=tls&sni=xin313.ylks.link&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇯🇵 JP-45.159.50.210:57664
 vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@172.67.174.190:443?security=tls&sni=w1.sylar8.eu.org&type=ws&host=w1.sylar8.eu.org#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.174.190:443
@@ -81,5 +83,3 @@ vless://26906f7b-17f6-4b79-9641-1f02ca8bd94f@69.164.203.163:443?security=tls&sni
 vless://f1dd1020-7b3f-491d-a9e3-0b2cb9a1daff@104.21.7.27:443?security=tls&sni=solid.footballlovernews.com&type=ws&path=/solid#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.7.27:443
 vless://b61e0fed-b970-4625-923c-cdadf1d56637@91.195.110.64:8080?security=none&type=ws&host=Daily-ConfigsV2rayGmSix6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.vigilantecollection.com.&path=%2FTelegram%3A%40Daily_Configs-Telegram%3A%40Daily_Configs-Telegram%3A%40Daily_Configs-Telegram%3A%40Daily_Configs-Telegram%3A%40Daily_Configs%3Fed%3D2048#🔒 VL-WS-NONE 🇨🇴 CO-91.195.110.64:8080
 vless://01ab9337-f478-4765-9534-88f009f83ddb@47.236.17.193:2083?security=tls&sni=aut226.ylks.link&type=ws&path=/?ed#🔒 VL-WS-TLS 🇸🇬 SG-47.236.17.193:2083
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@182.226.9.83:50028?security=tls&sni=hk116.ylks.link&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇰🇷 KR-182.226.9.83:50028
-vless://7574fa79-8978-4527-bdb0-3e05e904ce43@104.18.106.43:80?security=none&type=ws&host=6.v2ray.yk.nedayevarzesh.ir.newsless.ir.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95%E3%82%89%E3%82%8F.isvphp.IR.&path=%2Fvless#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.106.43:80

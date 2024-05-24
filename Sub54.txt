@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.12.75.46:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-31.12.75.46:443
+vless://f9e0b36b-f1d5-4f3f-87dd-1e14919915b9@104.19.223.79:443?security=tls&sni=c.cm8.rr.nu&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.223.79:443
 vless://f7274a51-ba56-4973-baa9-1e5e274f9dad@104.21.42.84:443?security=tls&sni=pasargad.top-speed.pw&type=ws&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.42.84:443
 vless://7108df3e-e7b3-44a5-8195-1657f103ea18@104.21.46.200:2095?security=none&type=ws&host=cloudmehranmmdv2ray.v2rayng6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.nofiltering2.SBS.&path=%2F%3Fed%3D1024#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.46.200:2095
 vless://ee797f86-e248-40be-b8fc-200b977f4bfb@185.146.173.237:8443?security=tls&sni=footlo.argha-v2pedia.monster&type=grpc&serviceName=Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇸🇪 SE-185.146.173.237:8443
@@ -81,5 +83,3 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@193.122.126.64:53777?security=tls&s
 vless://db055023-cbec-4e18-a6af-d10259933b01@104.21.25.86:443?security=tls&sni=uk1-vless.sshmax.xyz&type=ws&host=uk1-vless.sshmax.xyz&path=%2Fvless#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.25.86:443
 vless://88b6885d-e5dd-46f9-b72c-f3b9794c4724@168.119.239.93:8080?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇩🇪 DE-168.119.239.93:8080
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.143.18:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=TELEGRAM-MARAMBASHI%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.143.18:443
-vless://855d54f7-944d-4f04-9171-1ee5ab1d8b60@104.21.54.238:2086?type=ws#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.54.238:2086
-vless://01ab9337-f478-4765-9534-88f009f83ddb@47.236.172.95:2053?security=tls&sni=aut226.ylks.link&type=ws&path=/?ed#🔒 VL-WS-TLS 🇸🇬 SG-47.236.172.95:2053

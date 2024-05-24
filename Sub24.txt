@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@8.219.4.122:2096?security=tls&sni=zdy226.kpcloud.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇸🇬 SG-8.219.4.122:2096
+vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@104.22.23.162:8443?security=tls&sni=tg.dns68.cloudns.nz&type=ws&host=tg.dns68.cloudns.nz&path=%2F%3Fed%3D2048&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.23.162:8443
 vless://d360d11e-d426-4583-b55e-524ab1f0afa9@104.26.5.4:2096?security=tls&sni=worker-gentle-waterfall-6de8.tigerhungry4.workers.dev&type=ws&host=worker-gentle-waterfall-6de8.tigerhungry4.workers.dev&path=%2F%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.5.4:2096
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.132.147:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.132.147:443
 vless://d621d083-5ac0-4d26-8872-efe55cf57663@172.67.200.30:2095?security=none&type=ws&host=www.mehran-net.mohammad420.sbs&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.200.30:2095
@@ -81,5 +83,3 @@ vless://d95892d5-1db2-4558-aa7c-151b7044ca96@185.146.173.1:80?security=none&type
 vless://01ab9337-f478-4765-9534-88f009f83ddb@47.236.80.110:2083?security=tls&sni=aut226.ylks.link&type=ws&path=/?ed#🔒 VL-WS-TLS 🇸🇬 SG-47.236.80.110:2083
 vless://4d5400ef-201d-43a3-890f-c767746fc524@104.21.32.208:443?security=tls&sni=PpaL03.EDmUnD-RAU.wORkeRs.dev&type=ws&host=pPaL03.EdMUnD-RAu.WoRKErS.DEv&path=Telegram%40SiNABiGO%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.32.208:443
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.0.144:80?security=none&type=ws&host=binance.co.kp#🔒 VL-WS-NONE 🇺🇸 US-151.101.0.144:80
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.237.8.82:2053?security=tls&sni=zdy226.kpcloud.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇸🇬 SG-47.237.8.82:2053
-vless://10716279-b1ee-41d8-b63e-87782088305b@147.185.161.192:443?security=tls&sni=mAMaNe-FILTErChI.pAGES.deV&type=ws&path=/&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-147.185.161.192:443

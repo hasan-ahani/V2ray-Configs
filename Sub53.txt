@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@104.21.75.14:443?security=tls&sni=bypassfilter.nuktsv.workers.dev&type=ws&host=bypassfilter.nuktsv.workers.dev&path=%2F%40bypass_filter%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.75.14:443
+vless://2ca42987-551b-4494-a854-da2d9178f4cd@104.26.7.65:2087?security=tls&sni=MpHnPvWn22.zImBa-zUlA.OrG&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.26.7.65:2087
 vless://a9ea5094-e666-4dc0-9940-25e11d54c3fb@104.18.202.232:2096?security=tls&sni=re4.v2logy.xyz&type=grpc&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.202.232:2096
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@188.164.158.172:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F#🔒 VL-WS-TLS 🇦🇲 AM-188.164.158.172:443
 vless://5ba34c00-22be-4362-844c-389d608c2fc8@85.9.100.188:33375?security=none&type=tcp&host=telewebion.com&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.9.100.188:33375
@@ -81,5 +83,3 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.126:443?security=tls&sni=
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.107.47:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-185.148.107.47:443
 vless://eb3ad716-faf4-417e-85d2-b0504e3a7912@162.159.136.234:8443?security=tls&sni=discord.gg&type=grpc&serviceName=@u3erVpn&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.136.234:8443
 vless://228cf460-bb52-4810-b523-e4c0f51f71dd@172.67.161.215:2087?security=tls&sni=uciran66.wogofis519.workers.dev&type=ws&host=uciran66.wogofis519.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.161.215:2087
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.12.75.46:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-31.12.75.46:443
-vless://f9e0b36b-f1d5-4f3f-87dd-1e14919915b9@104.19.223.79:443?security=tls&sni=c.cm8.rr.nu&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.223.79:443
