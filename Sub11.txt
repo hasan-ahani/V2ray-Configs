@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://d8062a4c-4fe9-49cf-b273-dfcdd78bca0a@fr-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=GRPC&mode=gun#%F0%9F%87%AB%F0%9F%87%B7%20France%20Vless%20gRPC%20@V2rayStore
+vless://fc29b2cf-da56-4ea5-aab8-e25ab40702eb@fr2-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=GRPC&mode=gun#%F0%9F%87%AB%F0%9F%87%B7%20France%20Vless%20gRPC%20@V2rayStore
 vmess://eyJhZGQiOiAiNDUuMTQuMjQ0LjEzMyIsICJhbGxvd0luc2VjdXJlIjogdHJ1ZSwgImFscG4iOiAiaDIsaHR0cC8xLjEiLCAiaWQiOiAiYTBlYTVjZTctYjFiMC00Y2E0LTg2MDctZGFjNTVkMDVjYTczIiwgIm5ldCI6ICJncnBjIiwgInBhdGgiOiAiIiwgInBvcnQiOiA0NDMsICJwcyI6ICIlRjAlOUYlODclQjMlRjAlOUYlODclQjElMjBQcmVtaXVtJTIwTmV3JTIwUFJFTUlVTSUyMCUyMEBWMnJheVN0b3JlIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
 vless://e64b691d-086d-4fa3-e27e-cbd707b761e7@de1.alphav2ray.link:443?type=grpc&serviceName=&security=tls&fp=&alpn=&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Premium%20PREMIUM%20%20@V2rayStore
 vless://292a05eb-f655-443c-befc-2c67ad1f497e@167.235.150.39:443?type=grpc&serviceName=&authority=&security=tls&fp=&alpn=http%2F1.1%2Ch2&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Premium%20DE%20PREMIUM%20%20@V2rayStore
@@ -81,5 +83,3 @@ ss://aes-256-gcm:0a28bc10-1454-4d45-af23-65c1be96028f@us2-full.privateip.net:844
 ss://chacha20-poly1305:72c66281-3383-464e-989b-976156d3ce02@uk-full.privateip.net:2087#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20Shadowsocks%20@V2rayStore
 ss://aes-256-gcm:681abe1b-309a-4bd1-b92a-5aa76f6c5c69@de-full.privateip.net:8443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Shadowsocks%20@V2rayStore
 ss://aes-256-gcm:6154d5bd-e89f-4720-b808-667d2894ff64@de2-full.privateip.net:8443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Shadowsocks%20@V2rayStore
-ss://aes-256-gcm:b5c8f572-1b96-4f12-bcc8-666154410448@es-full.privateip.net:8443#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20Shadowsocks%20@V2rayStore
-ss://chacha20-poly1305:3d5bf618-0166-4274-9224-f6931bf5364b@sg2-full.privateip.net:2087#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Shadowsocks%20@V2rayStore
