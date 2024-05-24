@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.252.236:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.252.236:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.80.131:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=/?ed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.80.131:443
 vless://2ca42987-551b-4494-a854-da2d9178f4cd@104.21.4.115:2087?security=tls&sni=IxHiWwAs22.zImBa-zUlA.OrG&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.4.115:2087
 vless://68187e39-ba29-4646-a0c6-0f23173229ae@66.235.200.88:2096?security=tls&sni=Uvsg73uh-hIg6evye-guF6evy.danesh-bonyan.Store&type=ws&host=eiiim.danesh-bonyan.Store&path=join.----------------Telegram-EiiiM----------------Telegram-EiiiM---------------.Telegram-EiiiM.#🔒 VL-WS-TLS 🇺🇸 US-66.235.200.88:2096
@@ -83,3 +82,4 @@ vless://10699622-1b25-499c-a424-58f8f4dfb7f7@104.16.125.175:2083?security=tls&sn
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@35.200.102.35:443?security=tls&sni=tg.dns68.cloudns.nz&type=ws&host=tg.dns68.cloudns.nz&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇯🇵 JP-35.200.102.35:443
 vless://aebca481-d343-4ae8-a641-c598d253f0f1@104.20.254.143:80?security=none&type=ws&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.254.143:80
 vless://ff78e2e9-b435-4eef-a706-2b0c2e28deb2@104.21.88.53:443?security=tls&sni=us1.v2vless.xyz&type=ws&host=us1.v2vless.xyz&path=@FRAv2ray,@FRAv2ray,@FRAv2ray,@FRAv2ray,@FRAv2ray,@FRAv2ray,@FRAv2ray,@FRAv2ray,@FRAv2ray/#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.88.53:443
+vless://2f7491f6-c12a-46d4-88fe-79436ed03b44@104.21.19.124:80?type=ws&host=7fe600d3b53c4bb9de9c863cad96d1.nv2ron.ir&path=%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%3Fed%3D2048#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.19.124:80

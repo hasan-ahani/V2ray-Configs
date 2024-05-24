@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://6b144a13-b7b4-451a-8431-9125c23e547f@170.187.250.166:443?#🔒 TR-TCP-NA 🇮🇳 IN-170.187.250.166:443
 trojan://3bedceff-1956-4f2c-a9c1-45c74568a560@220.141.133.118:13761?allowInsecure=1#🔒 TR-TCP-NA 🇹🇼 TW-220.141.133.118:13761
 trojan://auto@104.18.202.232:443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.202.232:443
 trojan://auto@104.21.44.210:443?security=tls&sni=esetsecuritylicense1.bwnsmv.workers.dev&type=ws&host=esetsecuritylicense1.bwnsmv.workers.dev&path=%2F%3Fed%3D2560&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.44.210:443
@@ -83,3 +82,4 @@ trojan://yGcJzk5XRZ@54.169.178.7:48357?security=none&type=ws&host=m.whatsapp.com
 trojan://96884680-77e6-11eb-8d67-1239d0255272@163.172.211.74:443?sni=nl-trojan.bonds.id#🔒 TR-TCP-NA 🇳🇱 NL-163.172.211.74:443
 trojan://f6a45037-316a-4a95-a16a-6e7ecefbac47@188.119.112.242:443?#🔒 TR-TCP-NA 🇳🇱 NL-188.119.112.242:443
 trojan://c8742e83-c325-4332-a427-9cdc997a4775@185.143.233.225:443?security=tls&sni=dl.allavatar.top&type=ws&host=dl.allavatar.top&path=/tr/t/tNtL/gfdr#🔒 TR-WS-TLS 🇮🇷 IR-185.143.233.225:443
+trojan://telegram-id-privatevpns@54.220.223.176:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-54.220.223.176:22222
