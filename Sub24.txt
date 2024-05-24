@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://fb301d2e-4430-4b41-95d6-764460b8ef13@194.53.53.12:2053?security=tls&sni=9b56CFEe5b258C44c45bA18FA122293.mIToweAr.cOm&type=grpc#🔒 VL-GRPC-TLS 🇷🇺 RU-194.53.53.12:2053
 vless://5a045a1e-d392-4c5b-b658-b57e4ea01b4f@104.21.18.147:443?security=tls&sni=virapn-d-3be7883659a1d2ba4c545dfdf85b61eda1.asiatechnicalwest.ir.&type=grpc&serviceName=@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN&fp=firefox&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.18.147:443
 vless://01ab9337-f478-4765-9534-88f009f83ddb@47.236.80.110:2083?security=tls&sni=aut226.ylks.link&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇬 SG-47.236.80.110:2083
 vless://10716279-b1ee-41d8-b63e-87782088305b@172.67.179.208:443?security=tls&sni=mAMane-filTErCHI.pageS.Dev&type=ws&host=mamAnE-fILTErchI.paGES.deV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.179.208:443
@@ -83,3 +82,4 @@ vless://9e1616dc-3d46-4da4-8abc-1f613760fe00@172.67.156.210:2096?security=tls&sn
 vless://7574fa79-8978-4527-bdb0-3e05e904ce43@104.18.107.43:80?security=none&type=ws&host=6.v2ray.yk.nedayevarzesh.ir.newsless.ir.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95%E3%82%89%E3%82%8F.isvphp.IR.&path=%2Fvless#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.107.43:80
 vless://5c62b24a-2dfe-49c1-8c93-cc2c35bd4f26@104.20.19.168:80?security=none&type=ws&host=worker-floral-sun-5945.miyenep837.workers.DEV&path=%2Fvless-ws%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.19.168:80
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@204.93.210.116:2096?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-204.93.210.116:2096
+vless://af2a307f-ef0e-425a-f35b-2d7c0d11f7d6@37.152.177.203:8080?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇮🇷 IR-37.152.177.203:8080

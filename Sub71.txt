@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://6c6bcdab-767c-4a36-8419-4ebc8c3b7066@143.198.62.157:443?security=tls&sni=206.237.5.220&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇺🇸 US-143.198.62.157:443
 trojan://44349ad5-2da1-425e-8fec-995d458867a7@194.246.114.54:443?#🔒 TR-TCP-NA 🇭🇰 HK-194.246.114.54:443
 trojan://2062a5ca-a34e-47bf-9810-db91185f07fc@13.112.85.1:54234?sni=apple.com&allowInsecure=0#🔒 TR-TCP-NA 🇯🇵 JP-13.112.85.1:54234
 trojan://835c2120-18d8-11ef-bc2e-1239d0255272@172.67.204.84:443?sni=uk1.test3.net&type=ws&host=uk1.test3.net&path=%2Fhowdy#🔒 TR-WS-NA 🏴‍☠️ NA-172.67.204.84:443
@@ -83,3 +82,4 @@ trojan://d8fd60d7-4c50-47c8-9e2d-adf37ad81af4@13.94.47.254:443?#🔒 TR-TCP-NA �
 trojan://1ZTbMoSRnm@185.146.173.59:2083?security=tls&sni=mIkAsa.mEgAfAiR.sToRe&type=grpc&serviceName=/Telegram:@MikasaVPN&fp=chrome&alpn=h3,h2,http/1.1#🔒 TR-GRPC-TLS 🇸🇪 SE-185.146.173.59:2083
 trojan://951bbbc9-c5fd-441e-ac3d-c7fcfbf4a751@173.245.59.100:443?security=tls&sni=se1.trojanvpn.de&type=ws&host=se1.trojanvpn.de&path=/websocket#🔒 TR-WS-TLS 🏴‍☠️ NA-173.245.59.100:443
 trojan://BzSTIgwh@104.155.138.21:8443?sni=t5.ssrsub.one#🔒 TR-TCP-NA 🇺🇸 US-104.155.138.21:8443
+trojan://299025b9-6b55-430c-be38-9a18c06873ac@91.199.84.57:12052?sni=china3.one.edu.kg&allowInsecure=1#🔒 TR-TCP-NA 🇭🇰 HK-91.199.84.57:12052
