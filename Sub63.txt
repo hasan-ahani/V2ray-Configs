@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://7b9f4ae9-ae9b-4078-8da9-8bfab43e2be1@104.21.46.85:2087?security=tls&sni=vira-v2-3be7883659a1d2ba4c545dfdf85b61eda1.asiatechnicalwest.ir.&type=grpc&serviceName=@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN&fp=firefox#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.46.85:2087
+vless://25b45954-6209-48c2-a412-c568c8154cf0@104.21.67.95:2083?security=tls&sni=hi.mobileiraniani.com&type=ws&path=%2F%3Fed%3D2048&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.67.95:2083
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@154.197.121.127:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=twitterfreecodes#🔒 VL-WS-TLS 🇸🇨 SC-154.197.121.127:443
 vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@18.166.180.230:8443?security=tls&sni=68123106-3e43-4958-b75a-b06e81eabf79.50d88e28-a870-497d-bf87-c20fb6802871.camdvr.org&type=ws&path=%2Fpasge.pages.dev%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇭🇰 HK-18.166.180.230:8443
 vless://fe4290dd-d1df-4419-ac54-9766665a14e8@178.79.176.97:2003?security=tls&sni=uk2-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇬🇧 GB-178.79.176.97:2003
@@ -81,5 +83,3 @@ vless://4b3a956b-94a8-496e-af7d-363a5dfef937@172.66.213.5:2095?security=none&typ
 vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@172.67.161.104:2087?security=tls&sni=tnetplus-1wc.pages.dev&type=ws&host=tnetplus-1wc.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.161.104:2087
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.19.234.59:443?security=tls&sni=biA-Pain-BAcHE.PAgEs.Dev&type=ws&host=bIA-PaIn-bacHe.Pages.deV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.234.59:443
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@188.164.158.24:2083?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇦🇲 AM-188.164.158.24:2083
-vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@47.236.117.48:2087?security=tls&sni=tg.dns68.cloudns.nz&type=ws&host=tg.dns68.cloudns.nz&fp=chrome#🔒 VL-WS-TLS 🇸🇬 SG-47.236.117.48:2087
-vless://40466920-330c-430f-be2c-99a31f87008e@104.16.25.248:443?security=tls&sni=hpv2ray-netherlands.goldxray.com&type=grpc&serviceName=TELEGRAM:@HpV2rayNg&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.25.248:443

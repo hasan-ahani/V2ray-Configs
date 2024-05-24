@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://bf7e1009-1574-44f7-86df-6cbecd338477@172.66.47.106:443?encryption=none&security=tls&sni=pardazeshvpn-tg18.pages.dev&fp=randomized&type=ws&host=pardazeshvpn-tg18.pages.dev&path=%2F#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-172.66.47.106%3A443
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.46.251:443?encryption=none&security=tls&sni=bBF9c21A.tECHNeTbpb.paGEs.Dev&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=BbF9c21a.TecHNETbpB.paGEs.dEv&path=%2F#%40Hope_Net-join-us-on-Telegram
 vless://d6d16b83-e7e3-486a-aa82-a649ef73cbfa@65.109.211.159:2053?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AB%F0%9F%87%AE%20FI-65.109.211.159%3A2053
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.111.114.133:5500#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%A8%F0%9F%87%A6%20CA-38.111.114.133%3A5500
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.242.236:443?encryption=none&security=tls&sni=mmdv2.pages.dev&fp=randomized&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.19.242.236%3A443
@@ -81,5 +83,3 @@ vless://b0753dbe-6187-4d7f-8931-4c0d1a975104@[::ffff:5fa4:243b]:8443?security=re
 vless://0e5d2408-52c4-42ed-a56b-2eef8d955eb6@104.168.107.230:4212?security=reality&flow=xtls-rprx-vision&sni=poynter.org&type=tcp&fp=chrome&pbk=kt-d9jx_cCmvmWiL4CP5IPAKHhjAF-oBmsGhyG1U704&sid=7a06db71e78640de#🔒 VL-TCP-RLT 🇺🇸 US-104.168.107.230:4212
 vless://b524a41e-c80d-4743-a280-353aeb04078a@104.168.107.230:9631?security=reality&flow=xtls-rprx-vision&sni=ftp.debian.org&type=tcp&fp=chrome&pbk=8BiQIRM0TBZUpRwiB6vsfTPOj4AJoYd1dvX65GhfFW4&sid=a41cc82f29d6308c#🔒 VL-TCP-RLT 🇺🇸 US-104.168.107.230:9631
 vless://4174db66-4688-410b-b847-90ee8e570831@104.168.107.230:6067?security=reality&flow=xtls-rprx-vision&sni=themeforest.net&type=tcp&fp=chrome&pbk=5JlDUnqfJV4tNLiIn1ctcPRaGVxGdNrjfF5QMD0lLFM&sid=7a922f4091d33d43#🔒 VL-TCP-RLT 🇺🇸 US-104.168.107.230:6067
-vless://cd9bf18f-e7f1-457d-aa48-59f8ae9a2309@188.166.11.22:443?security=reality&flow=xtls-rprx-vision&sni=booking.com&type=tcp&fp=chrome&pbk=keFsya_-stbGVSvWfpNjwB5SM2iFfwoQT0eToV88shM&sid=2a87bdca#🔒 VL-TCP-RLT 🇳🇱 NL-188.166.11.22:443
-vless://184d0948-6d59-4d35-8414-3a40653300fa@95.179.209.182:39655?security=reality&sni=canva.com&type=http&path=%2F&fp=chrome&pbk=ufhhvLT3OZTFY_PvQvNGhGHYJNfpKfc3ZZReToimgnc&sid=a0b24709af#🔒 VL-HTTP-RLT 🇫🇷 FR-95.179.209.182:39655
