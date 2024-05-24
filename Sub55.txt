@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.170:443?security=tls&sni=35bb3bed.12-05-2024.pages.dev&type=ws&host=35bb3bed.12-05-2024.pages.dev&path=%2FFfVqyk1EeMOsDUBM%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.170:443
 vless://9e1616dc-3d46-4da4-8abc-1f613760fe00@162.159.134.234:8443?security=tls&sni=ambatukamnotthatship1.v2logy.ir&type=grpc&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.134.234:8443
 vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@217.142.151.193:8443?security=tls&sni=fc071d49-af91-42d6-a20e-5a64e24a53bc.71a45835-dd0c-4d51-8bd4-9ccf9f223662.casacam.net&type=ws&path=%2Fpasge.pages.dev%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇰🇷 KR-217.142.151.193:8443
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@188.164.159.35:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇦🇲 AM-188.164.159.35:443
@@ -82,4 +83,3 @@ vless://228cf460-bb52-4810-b523-e4c0f51f71dd@172.67.161.215:2087?security=tls&sn
 vless://b7b52207-3f71-4f97-87c8-7d18810c6ee0@85.9.113.247:5050?security=none&type=ws&host=s14.leaders711.top&path=/https#🔒 VL-WS-NONE 🇮🇷 IR-85.9.113.247:5050
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.105.124:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-185.148.105.124:443
 vless://f5a23562-b67e-48fb-b474-09251bc1a339@172.67.168.203:2096?security=tls&sni=fv2ray.freedomfv2ray.lol&type=grpc&serviceName=@Fv2ray@Fv2ray@fv2ray@fv2ray@Fv2ray#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.168.203:2096
-vless://954eb6d0-2fe1-4031-a3d1-92f3470edd9c@65.109.195.204:22222?security=none&type=tcp#🔒 VL-TCP-NONE 🇫🇮 FI-65.109.195.204:22222

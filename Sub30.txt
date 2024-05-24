@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://d7dd3a35b68b4992b319a85b8a1fc8e5@3.35.139.150:8443?security=tls&sni=tg.dns68.cloudns.nz&type=ws&host=tg.dns68.cloudns.nz#🔒 VL-WS-TLS 🇰🇷 KR-3.35.139.150:8443
 vless://bb96b186-b8ae-4f8b-a76d-407cd1473c61@162.159.38.184:80?security=none&type=ws&host=mmd.net.v2rayng6.6.6.6.ir.com.site.xn--fhq0la447aac5504dea701axr1g.mmdam.ir.kalamobile.shop.&path=Mmdv2rayng-V2rayngmmd-telegram-mmd_v2rayng%3Fed%3D80#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.38.184:80
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.128.144:80?security=none&type=ws&host=binance.co.kp#🔒 VL-WS-NONE 🇺🇸 US-151.101.128.144:80
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@185.148.106.92:443?security=tls&sni=bIA-PaiN-BacHE.PAGeS.dev&type=ws&host=bia-Pain-BAcHE.PAgEs.DeV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-185.148.106.92:443
@@ -82,4 +83,3 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.156.27:2053?security=tls&sni
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.19:8443?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.19:8443
 vless://8028c698-7958-4c18-e7e9-869a3926d7ee@172.67.170.52:443?security=tls&sni=ledzeppelin.ripita4433.workers.dev&type=ws&host=ledzeppelin.ripita4433.workers.dev&path=/downloader/46072&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.170.52:443
 vless://0348038c-de3b-5790-8756-402479efb5c7@172.67.178.176:2053?security=tls&sni=vpray3.fikelep179.wOrKeRS.deV&type=ws&host=vpray3.fikelep179.wOrKeRS.deV&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.178.176:2053
-vless://5335d16e-7e42-4c9b-93a3-9e83bfd3073d@172.67.168.60:80?security=none&type=ws&host=workerr.johnstoner.workers.dev&path=%2Ftelegram-proxy_mtm-telegram-proxy_mtm%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.168.60:80

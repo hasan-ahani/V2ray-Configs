@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://d65a16be-38c6-4a7d-a989-d4b007443e73@172.67.215.219:2087?security=tls&sni=best.fandlandalphapro.ir&type=grpc&serviceName=vless#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.215.219:2087
 vless://f9bfe7bb-dc57-4223-8648-e3fbc12689f7@162.159.135.232:2052?security=none&type=ws&host=%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B7%E4%BE%AF%E8%B5%9Bsuperspeed12.ff2ray.cfd.&path=%2F%3Fed%3D2053#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.135.232:2052
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.228.60:443?security=tls&sni=936a99B4.Vde5-MlX81LANeo.pAgES.dEv&type=ws&host=936a99B4.vDE5-MLx81LANeO.pAgeS.DEV&path=%2FKkhHL0gsSoZ7M6id%2FZGU1Lm1lcmxpbm56Lmxpbms%3D%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.228.60:443
 vless://99140fd9-a80e-4da3-875a-51e3caf0eeeb@104.20.104.209:8443?security=tls&sni=unlimiteddev.xn--9iqr0tm1r4wg.co&type=ws&host=unlimiteddev.xn--9iqr0tm1r4wg.co&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.104.209:8443
@@ -82,4 +83,3 @@ vless://636b1684-b26c-4a9c-bc6e-8e1197a36d74@172.67.161.1:8080?security=none&typ
 vless://4028f169-ae1d-4492-b264-95f16e436534@45.131.4.172:2087?type=ws&path=-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@U#🔒 VL-WS-NA 🇳🇱 NL-45.131.4.172:2087
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.195.185:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.195.185:443
 vless://e3b89bf0-3e33-4722-b2d4-99129445c039@85.9.111.19:5054?security=none&type=ws&host=s15.leader21.top&path=/http#🔒 VL-WS-NONE 🇮🇷 IR-85.9.111.19:5054
-vless://88b6885d-e5dd-46f9-b72c-f3b9794c4724@168.119.239.93:8080?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇩🇪 DE-168.119.239.93:8080
