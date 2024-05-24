@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@204.93.210.175:2083?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-204.93.210.175:2083
-vless://8f9945e6-02ff-44fe-add5-fce891045eb7@94.131.104.66:443?security=tls&sni=lv2-vless.sshmax.xyz&type=ws&path=%2Fvless#🔒 VL-WS-TLS 🇱🇻 LV-94.131.104.66:443
 vless://cede337b-9ea5-40e5-a8b1-690bf49ff41d@172.67.156.210:443?security=tls&sni=storeships.toptechnonews.com&type=ws&host=storeships.toptechnonews.com&path=%2Fnimws%3Fed%3D2560%40V2ray_Alpha&fp=qq&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.156.210:443
 vless://01ab9337-f478-4765-9534-88f009f83ddb@47.236.97.90:2083?security=tls&sni=aut226.ylks.link&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇬 SG-47.236.97.90:2083
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@89.116.161.250:8443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=/#🔒 VL-WS-TLS 🇱🇹 LT-89.116.161.250:8443
@@ -83,3 +81,5 @@ vless://01ab9337-f478-4765-9534-88f009f83ddb@47.236.9.152:2053?security=tls&sni=
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@193.9.49.233:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-193.9.49.233:443
 vless://3ab1e793-7cd7-49a1-bb14-b68043888482@104.21.4.8:2086?type=ws#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.4.8:2086
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.59.218.144:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-185.59.218.144:443
+vless://df9b2dda-98c7-4b95-acd6-047274297e7f@104.20.27.27:2083?security=tls&sni=liV2helm.LIGHTNING6.IR&type=grpc&serviceName=@LIGHTNING6&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.20.27.27:2083
+vless://04672bf7-9d44-4edf-9222-dfbfb8f74a1f@91.194.11.168:2003?security=tls&sni=ca-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇨🇦 CA-91.194.11.168:2003

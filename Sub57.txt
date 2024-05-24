@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://609435cb-3fab-420c-8aa6-27712246be02@172.66.44.100:443?security=tls&sni=pardazeshvpn-tg15.pages.dev&type=ws&host=pardazeshvpn-tg15.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.100:443
-vless://42cd7fff-39c8-4efd-88b0-75df7c88e894@104.21.32.238:443?security=tls&sni=de2.v2vless.xyz&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.32.238:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.244.122.64:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇩🇪 DE-188.244.122.64:443
 vless://827cb2f7-2387-40ee-dfb8-5e87250c7fc0@104.21.39.202:443?security=tls&sni=azmvm75.iranservicenet.pics&type=ws&path=%2Fws&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.39.202:443
 vless://0b3726cf-675e-44d3-a38b-89f4c8973053@172.64.26.211:80?security=none&type=ws&host=1.1.1.1.netmaask.site.com.nursiii.shop&path=%2F%40Netmaask%40Netmaask%40Netmaask%40Netmaask%40Netmaask%40Netmaask%40Netmaask%40Netmaask%40Netmaask#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.26.211:80
@@ -83,3 +81,5 @@ vless://8a89b27d-2564-4938-a9db-42e87c8ed0d9@104.18.23.19:80?security=none&type=
 vless://775213ac-3976-439a-8977-3277c0e4735d@62.72.166.67:2096?security=tls&sni=fq521.6789.cloudns.be&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇯🇴 JO-62.72.166.67:2096
 vless://3fea1b33-2b0e-42ab-9b83-66cb6116227f@170.187.231.189:2003?security=tls&sni=sg2-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇸🇬 SG-170.187.231.189:2003
 vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@47.242.171.94:2083?security=tls&sni=547c921f-c9b1-4d57-bb25-ff5c79749783.a09c5a67-316e-45c6-a051-e6066737fd47.theworkpc.com&type=ws&path=%2Fpasge.pages.dev%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇭🇰 HK-47.242.171.94:2083
+vless://439e2f9e-079e-4369-a712-22b942afeadd@104.21.80.183:443?security=tls&sni=download.seyfilm.ir&type=ws&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.80.183:443
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.131.52:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.131.52:443

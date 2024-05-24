@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://df9b2dda-98c7-4b95-acd6-047274297e7f@104.20.27.27:2083?security=tls&sni=liV2helm.LIGHTNING6.IR&type=grpc&serviceName=@LIGHTNING6&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.20.27.27:2083
-vless://04672bf7-9d44-4edf-9222-dfbfb8f74a1f@91.194.11.168:2003?security=tls&sni=ca-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇨🇦 CA-91.194.11.168:2003
 vless://4804f14b-c1f8-452d-a6ec-eff1490aeac9@217.69.1.123:443?security=tls&sni=hdfy6d1.cpionline.cc&type=grpc&serviceName=Bc5xLs413y7FzoZoavn2kmJ&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🇫🇷 FR-217.69.1.123:443
 vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@47.236.144.208:2053?security=tls&sni=8582b6f2-7192-4da8-a4cb-c480b71e6c58.e8e54e0f-6317-448a-9999-95f6e16f7117.ooguy.com&type=ws&path=%2Fpasge.pages.dev%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇸🇬 SG-47.236.144.208:2053
 vless://d23b1993-5083-493d-bde1-28eb3aa8fc4f@162.159.136.232:2086?security=none&type=ws&host=cfhax.v3nom.top#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.136.232:2086
@@ -83,3 +81,5 @@ vless://af0312ac-aa36-4cf4-93b1-b27e4afb50d0@104.18.13.130:2096?security=tls&sni
 vless://d672ec4f-afba-4f61-af09-eec872f97e99@172.67.191.101:443?security=tls&sni=test53.pages.dev&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.191.101:443
 vless://775213ac-3976-439a-8977-3277c0e4735d@45.135.235.111:443?security=tls&sni=fq521.6789.cloudns.be&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇷🇺 RU-45.135.235.111:443
 vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.47.62:443?security=tls&sni=telegram-chanel-ab-841-vpns.pages.dev&type=ws&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.62:443
+vless://9af577f2-0a7a-4448-ae0b-6985c53ea634@172.67.196.100:2083?security=tls&sni=t-netplus1.pages.dev&type=ws&host=t-netplus1.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.196.100:2083
+vless://bef03301-0488-4ecd-8561-78d95d27ef4e@185.146.173.92:443?security=tls&sni=de3.v2vless.xyz&type=ws&host=de3.v2vless.xyz&path=%2Fvless+%40hopev2ray%2C%40hopev2ray%2C%40hopev2ray%2C%40hopev2ray%2C%40hopev2ray+ed%3D2048#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.92:443

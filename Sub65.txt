@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://0a0b9604-f2a9-4d73-a698-8e2641d692ae@45.142.120.5:2053?security=tls&sni=uciran-uciran-uciran-uciran-uciran-uciran-uciran-uciran.dewiw37019.workers.dev&type=ws&host=uciran-uciran-uciran-uciran-uciran-uciran-uciran-uciran.dewiw37019.workers.dev&fp=chrome#🔒 VL-WS-TLS 🇷🇺 RU-45.142.120.5:2053
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@147.185.161.35:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-147.185.161.35:443
 vless://02e75d78-58ad-4a73-afca-24b781d8fdf0@23.227.60.48:8443?security=tls&sni=Isa.kasler.sbs&type=grpc&serviceName=%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%40ev2rayy&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇨🇦 CA-23.227.60.48:8443
 vless://6e662b78-dcba-4fc8-a77f-b246b70bddf2@37.152.183.121:8080?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇮🇷 IR-37.152.183.121:8080
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@45.205.0.178:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-45.205.0.178:8443
@@ -83,3 +81,5 @@ vless://01ab9337-f478-4765-9534-88f009f83ddb@47.236.172.95:2083?security=tls&sni
 vless://f5a23562-b67e-48fb-b474-09251bc1a339@104.21.46.172:2096?security=tls&sni=fv2ray.freedomfv2ray.lol&type=grpc&serviceName=@Fv2ray@Fv2ray@fv2ray@fv2ray@Fv2ray#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.46.172:2096
 vless://947391e1-408e-4ba2-8a56-05cd972082e5@104.17.254.26:8443?security=tls&sni=ri.aminivip2023.site&type=ws&host=ri.aminivip2023.site&path=/V2zed&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.254.26:8443
 vless://3c110307-dcf0-4002-b944-6d2c9530dd23@104.18.13.130:2083?security=tls&sni=dash.zedmodeon.lat&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.13.130:2083
+vless://2a3263e2-891c-4446-b474-a8c63acb6e25@108.162.192.154:2096?security=tls&sni=swe2.mbh-meti.com&type=ws&host=swe2.mbh-meti.com&path=/&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.192.154:2096
+vless://c14f397e-682b-4949-fbdd-96b6020e137a@190.93.246.225:2083?security=tls&sni=liV2helj.LIGHTNING6.IR&type=grpc&serviceName=@LIGHTNING6&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-190.93.246.225:2083
