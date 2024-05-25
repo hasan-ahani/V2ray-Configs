@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@204.93.210.24:2096?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-204.93.210.24:2096
-vless://aa81e188-a979-411e-a10b-08287646cc43@172.67.221.199:443?security=tls&sni=vl26.rnd.biz.id&type=ws&host=vl26.rnd.biz.id#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.221.199:443
-vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.31.16.183:443?security=tls&sni=fragment.iraniancp.click&type=ws&host=fragment.iraniancp.click&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.31.16.183:443
-vless://62c6cdd8-2382-415b-b039-c1ebc698f71a@172.66.44.127:8443?security=tls&sni=pardazeshvpn-tg62.pages.dev&type=ws&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.127:8443
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@[::ffff:c629:c7a6]:443?security=tls&sni=TelEGram.v2VIPchanNel.MRVi.online&type=ws&host=telegram.v2vipchannel.mrvi.online&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-[::ffff:c629:c7a6]:443
-vless://76713785-a539-4c35-998d-e246c499c37a@45.67.215.83:80?security=none#🔒 VL-TCP-NONE 🇷🇺 RU-45.67.215.83:80
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@129.154.211.201:33155?security=tls&sni=a.ssll.gay&type=ws&path=telegram%F0%9F%87%A8%F0%9F%87%B3+%40wangcai_8+%2F%3Fed#🔒 VL-WS-TLS 🇰🇷 KR-129.154.211.201:33155
 vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@101.32.242.254:53821?security=tls&sni=vless.pagess.filegear-sg.me&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇸🇬 SG-101.32.242.254:53821
 vless://fc1191c8-e724-482f-a492-90d3d386719c@104.21.18.174:2096?security=tls&sni=sisand.waztow.wOrkErS.DEv&type=ws&host=sisand.waztow.wOrkErS.DEv&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.18.174:2096
 vless://0b65ca8b-75f3-476e-a654-cdeca3b94a73@198.244.190.189:443?security=tls&sni=uk-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇬🇧 GB-198.244.190.189:443
@@ -83,3 +76,10 @@ vless://206cbf43-c050-4be1-87d0-b0db774a244e@173.245.59.101:2053?security=tls&sn
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.117.169:80?type=ws&host=us1.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.117.169:80
 vless://d722dd4b-d994-4ce4-bd24-c921a5dcdb1d@141.105.130.76:46431?security=none&type=tcp#🔒 VL-TCP-NONE 🇺🇦 UA-141.105.130.76:46431
 vless://9937de02-e13a-4c7d-8ace-708104e01db0@103.184.45.208:2052?security=none&type=ws&host=v2ray.debian.org.fxp.debian.org.speedtest.net%E8%90%A8%E5%A7%86%E5%90%89%E5%B7%B4%E5%B0%BC%E7%A7%91.golestan-vpn.link.&path=%2FaSAn.net.v2rayng6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g#🔒 VL-WS-NONE 🇨🇳 CN-103.184.45.208:2052
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@47.236.144.156:2096?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇸🇬 SG-47.236.144.156:2096
+vless://e27d074b-c210-4ab3-9c26-29f8fbb84bfd@141.193.213.31:2087?security=tls&sni=xnxv2ray.mioRay.cfd&type=grpc&serviceName=Telegram:@XNXV2RAY,Telegram:@XNXV2RAY,Telegram:@XNXV2RAY,Telegram:@XNXV2RAY,Telegram:@XNXV2RAY,Telegram:@XNXV2RAY,Telegram:@XNXV2RAY&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇺🇸 US-141.193.213.31:2087
+vless://d1b64031-5833-4596-834a-5cdfc99a8893@154.197.75.20:80?security=none&type=ws&host=hpv2ray-netherlands.goldxray.com&path=/hpv2rayx#🔒 VL-WS-NONE 🇸🇨 SC-154.197.75.20:80
+vless://c1978266-958c-4aa3-ba34-7eacac75aca1@104.18.15.19:443?security=tls&sni=bpb-worker-panel3.pages.dev&type=ws&host=bpb-worker-panel3.pages.dev&path=%2F%3Fed%3D2560&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.15.19:443
+vless://109da3aa-afca-4819-826c-bc8de2dc65d2@104.16.0.35:8880?security=none&type=ws&host=worker-odd-bonus-bf32.voydepofyu.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.0.35:8880
+vless://36496095-e07f-4e0a-9697-409f761d1f67@162.159.138.232:2087?security=tls&sni=ShprxyV2ray.digitalciity.Tech&type=ws&host=ShprxyV2ray.digitalciity.Tech&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.138.232:2087
+vless://2a3263e2-891c-4446-b474-a8c63acb6e25@108.162.192.154:2096?security=tls&sni=swe2.mbh-meti.com&type=ws&host=swe2.mbh-meti.com&path=/&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.192.154:2096
