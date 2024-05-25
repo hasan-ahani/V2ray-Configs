@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@45.159.218.162:8443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-45.159.218.162:8443
+vless://8ceac519-7b18-47a5-b53e-d37ba318b0aa@172.66.44.71:443?security=tls&sni=c1c569fc.irani-eub.pages.dev&type=ws&host=c1c569fc.irani-eub.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.71:443
 vless://406b76a9-1af7-4708-aa0e-464467053eb5@172.67.204.84:2096?security=tls&sni=se.bo3kot.com&type=grpc&serviceName=@KILID_STOR&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.204.84:2096
 vless://d23b1993-5083-493d-bde1-28eb3aa8fc4f@162.159.137.232:2086?security=none&type=ws&host=cfhax.v3nom.top#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.137.232:2086
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@35.222.230.126:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=/?ed&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-35.222.230.126:8443
@@ -81,5 +83,3 @@ vless://6d1628cb-2fa9-4f6f-82f8-d0896b27b165@104.18.29.181:8080?security=none&ty
 vless://27f8b3b1-561c-4154-a038-bc5b5ecda036@185.143.233.5:80?security=none&type=ws&host=kh.jerifun.ir&path=%2Fwss38248%3Fed%3D2048#🔒 VL-WS-NONE 🇮🇷 IR-185.143.233.5:80
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@47.242.17.250:2083?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=TG%40ZDYZ2&fp=random#🔒 VL-WS-TLS 🇭🇰 HK-47.242.17.250:2083
 vless://e794da45-0d8d-4b7a-9ae9-b0b84528b360@172.67.128.212:443?security=tls&sni=hexaprop.dirih76753.workers.dev&type=ws&host=hexaprop.dirih76753.workers.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.128.212:443
-vless://3f266d25-21aa-4498-bb1a-ce6d1d327aaf@104.21.21.137:443?security=tls&sni=freedom14.geraxex389.workers.dev&type=ws&host=freedom14.geraxex389.workers.dev&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.21.137:443
-vless://f6238fcc-96b3-44a6-bdda-1a8d715e1f86@172.67.190.236:80?security=none&type=ws&host=SHHPROXY-V2ray.斯涅過濾器69.website#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.190.236:80

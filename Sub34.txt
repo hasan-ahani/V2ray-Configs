@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://d689b66d-1d2b-47fd-a708-7014f7c296c8@104.21.82.17:443?security=tls&sni=fi1.v2vless.xyz&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.82.17:443
+vless://3f9d3b52-1bcc-499f-aad0-ba71d6123f8b@104.21.228.181:8080?security=none&type=ws&host=shuige3.cbj2bxt6.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.228.181:8080
 vless://f56362e0-909f-4094-a15e-fb4b32b952cb@198.41.216.0:2096?security=tls&sni=ililoxnu.ziroxbioxa.oNFLaShDRiVE.aPP&type=ws&host=ililoxnu.ziroxbioxa.oNFLaShDRiVE.aPP&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.216.0:2096
 vless://1eb7d0c2-07c5-4709-aa2c-62ca9edb6e1b@195.211.47.50:17043?security=none&type=tcp&host=zula.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-195.211.47.50:17043
 vless://d672ec4f-afba-4f61-af09-eec872f97e99@162.159.135.79:443?security=tls&sni=test38.pages.dev&type=ws&host=test38.pages.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.135.79:443
@@ -81,5 +83,3 @@ vless://2e01ebcf-4bd6-4be4-9365-f5c623510512@162.159.252.60:80?security=none&typ
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.204.183:443?security=tls&sni=936a99B4.Vde5-MlX81LANeo.pAgES.dEv&type=ws&host=936a99B4.vDE5-MLx81LANeO.pAgeS.DEV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.204.183:443
 vless://1ff59fad-6cc6-4714-82b1-d4af47de08eb@23.227.60.118:80?security=none&type=ws&host=DiReCt49-13-163-226.CleAnMaRk.IR&path=/DiReCt49-13-163-226-CleAnMaRk-IR#🔒 VL-WS-NONE 🇨🇦 CA-23.227.60.118:80
 vless://61817e64-10ca-47be-97e8-9d6ff6aa2a5d@172.67.147.142:443?security=tls&sni=rsfrndc.foriran.trade&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.147.142:443
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.98.33:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.98.33:443
-vless://6e569c43-f7e6-4ab7-b3a7-f616a39ff6a1@104.21.70.11:8080?security=none&type=ws&host=dw.huondadalioshop.ir#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.70.11:8080

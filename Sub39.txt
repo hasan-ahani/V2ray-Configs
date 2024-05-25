@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@43.153.80.208:443?security=tls&sni=v116.ylkszy.eu.org&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-43.153.80.208:443
+vless://e1ad1088-c7ab-4c06-83b1-27c8188e631b@104.18.15.229:443?security=tls&sni=cpanel.pharmaweb.info&type=ws&host=cpanel.pharmaweb.info&path=/wws&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.15.229:443
 vless://4f15d52a-36a0-47b9-96c2-396a098d1634@104.21.42.84:2083?security=tls&sni=denaa.top-speed.pw&type=grpc&serviceName=denaa.top-speed.pw#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.42.84:2083
 vless://2a3263e2-891c-4446-b474-a8c63acb6e25@172.64.32.154:2096?security=tls&sni=swe2.mbh-meti.com&type=ws&host=swe2.mbh-meti.com&path=%2F&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.32.154:2096
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.18.234.45:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.234.45:443
@@ -81,5 +83,3 @@ vless://1bab0961-b22c-411f-b955-09c4aed2d2c1@185.146.173.29:443?security=tls&sni
 vless://f5bb39a2-c997-4381-baf0-307ac3bd3464@172.64.143.61:443?security=tls&sni=MdVpnSec-V2rayNg-Free.snappfoodd.site&type=ws&host=MdVpnSec-V2rayNg-Free.snappfoodd.site&path=/&alpn=@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.143.61:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@152.228.206.122:443?security=tls&sni=kk116.ylks.link&type=ws&path=%2Fyoutube-%E7%94%B1%E9%9B%B6%E9%96%8B%E5%A7%8B#🔒 VL-WS-TLS 🇫🇷 FR-152.228.206.122:443
 vless://58c022eb-9263-468f-8f36-8362431f91c9@45.140.167.94:443?security=tls&sni=pages.dev&type=ws&host=POST+%2Fcdn-cgi%2Ftrace+HTTP%2F1.1%5Bcrlf%5DHost%3A+api.cloudflare.com%5Bcrlf%5DExpect%3A+100-continue%5Bcrlf%5D%5Bcrlf%5D%5Bsplit%5D%5Bcrlf%5D%5Bcrlf%5DPUT+%2F+HTTP%2F1.1%5Bcrlf%5DHost%3A+%5Bhost%5D%5Bcrlf%5DConnection%3A+Upgrade%5Bcrlf%5DUser-Agent%3A+%5Bua%5D%5Bua%5D%5Bcrlf%5DUpgrade%3A+websocket%5Bcrlf%5DPUT+%2FCDN-CGI%2F+HTTP%2F1.1%5Bcrlf%5D%5Bcrlf%5D%5Bsplit%5D%5Bcrlf%5D&path=%2Fws&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇬🇧 GB-45.140.167.94:443
-vless://9e6e7697-9fb8-4136-8f05-bcfd82284020@104.21.27.155:2087?security=tls&sni=nafas.hackers85.sbs&type=ws&host=nafas.hackers85.sbs&path=%2F%40hackers85&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.27.155:2087
-vless://85b94f20-e563-498b-9d4b-a75438a51101@104.18.0.89:8443?security=tls&sni=VFIvE-tELegrAM.paGes.deV&type=ws&host=VFiVe-teLEGrAm.paGes.DEV&path=%2FMmF5KNd8huH7Yr0J%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.0.89:8443
