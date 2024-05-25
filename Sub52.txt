@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://414ec795-648c-4c59-de88-e1dee89a30aa@172.67.204.84:2087?security=tls&sni=wordpress15-admin-panel-thunder.mralpha-vpn.com&type=grpc&serviceName=@thunderv2ray,@thunderv2ray,@thunderv2ray,@thunderv2ray,@thunderv2ray,@thunderv2ray,@thunderv2ray,@thunderv2ray,@thunderv2ray,@thunderv2ray&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.204.84:2087
-vless://4e6965f9-2364-4ef6-98c6-02998a224e32@104.21.86.162:443?security=tls&sni=mon1.api-tel.ir&type=grpc&serviceName=okala.com&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.86.162:443
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@204.93.210.225:8443?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-204.93.210.225:8443
-vless://fed517b1-ca69-48f2-a0e8-b6e56641664b@104.18.27.94:443?security=tls&sni=esetsecuritylicense.kaxlmn.workers.dev&type=ws&host=esetsecuritylicense.kaxlmn.workers.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.27.94:443
-vless://0859b63e-cb81-4c01-bf5a-739f90e72f92@104.21.73.45:2095?security=none&type=ws&host=v2ray-_-_-_-_-_-vpn.frev2ray.kellekcollection.myname.houselife.IR.&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.73.45:2095
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.24.0.234:443?security=tls&sni=bIa-pAin-bAChe.PAgeS.dev&type=ws&host=BIA-PAin-bacHE.pAGES.DEv&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.0.234:443
 vless://03a9c9ee-1e6e-4779-8171-b2aac2357d0c@104.17.175.151:8443?security=tls&sni=Tigoo.dignity-19.com&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.175.151:8443
 vless://4ebe2e07-b0e4-4df1-9d61-9a513499743c@94.101.187.138:443?security=none&type=ws&path=/dr#🔒 VL-WS-NONE 🇮🇷 IR-94.101.187.138:443
@@ -83,3 +78,8 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@152.70.155.147:443?security=tls&sni
 vless://f68b1ea9-3c4e-405a-98b1-35ee3db36000@172.67.136.100:80?type=ws&path=/graphql#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.136.100:80
 vless://d7858867-cb84-41b6-84a8-f59c94170f48@172.67.220.184:2053?security=tls&sni=Loop.v2rayvpn2.sbs&type=grpc&serviceName=@piavpngo-@piavpngo-@piavpngo-@piavpngo-@piavpngo-@piavpngo-@piavpngo-&alpn=http/1.1,h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.220.184:2053
 vless://f69d4594-2d18-4266-abc4-eeb9c5604ca5@172.67.220.64:443?security=tls&sni=www.12reddddddd.bf&type=ws&host=www.12reddddddd.bf&path=%2F975e3406-9ac4-45fc-a12b-30fbe810c75f#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.220.64:443
+vless://a81b314c-3ab7-48d3-b8c0-584c89e5f616@104.16.54.150:80?security=none&type=ws&host=xswa.kevani8800.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.54.150:80
+vless://957e3de7-7f01-49b9-afcc-949930381128@162.251.82.187:2082?security=none&type=ws&host=61.athena.sa.com&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-162.251.82.187:2082
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.84:2087?security=tls&sni=a.ssll.gay&type=ws&path=twitterfreecodes#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.84:2087
+vless://c4516bc5-9e46-4205-983e-2b8646e498dd@172.67.157.203:2083?security=tls&sni=cf.mitowear.com&type=ws#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.157.203:2083
+vless://fb710ee0-f2d3-421c-8556-d23e5075f57e@108.162.192.79:443?security=tls&sni=bpb-worker-panel-chf.pages.dev&type=ws&host=bpb-worker-panel-chf.pages.dev&path=TELEGRAM-MARAMBASHI%2F%3Fed%3D2048&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.192.79:443

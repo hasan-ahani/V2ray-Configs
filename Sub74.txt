@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://c7f9b8f0-bfdb-11ee-a15c-1239d0255272@104.21.41.21:443?security=tls&sni=de1.test3.net&type=ws&host=de1.test3.net&path=/howdy#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.41.21:443
-trojan://299025b9-6b55-430c-be38-9a18c06873ac@112.26.33.81:12051?sni=china3.one.edu.kg&allowInsecure=1#🔒 TR-TCP-NA 🇨🇳 CN-112.26.33.81:12051
-trojan://0ClyedGaZQ@185.91.69.39:443?security=tls&sni=royalshop.tech&type=tcp&fp=chrome&alpn=http/1.1,h2#🔒 TR-TCP-TLS 🇬🇧 GB-185.91.69.39:443
-trojan://b8841c50-c3ad-11ee-9be0-1239d0255272@54.38.156.210:443?#🔒 TR-TCP-NA 🇩🇪 DE-54.38.156.210:443
-trojan://f6a45037-316a-4a95-a16a-6e7ecefbac47@188.119.112.242:443?#🔒 TR-TCP-NA 🇳🇱 NL-188.119.112.242:443
 trojan://telegram-id-privatevpns@13.48.222.225:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.48.222.225:22222
 trojan://224c91ee-7e18-4f1e-86bb-c1836f218c95@52.155.101.19:443?#🔒 TR-TCP-NA 🇯🇵 JP-52.155.101.19:443
 trojan://telegram-id-directvpn@52.60.156.181:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇨🇦 CA-52.60.156.181:22222
@@ -83,3 +78,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwYno5WFR0OWppaGNLZ0loNlRrdGEy@5.42.72.241:30
 ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@103.172.116.103:9031#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.103:9031
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.178.87.37:800#🔒 SS-TCP-NA 🇫🇷 FR-51.178.87.37:800
 ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@66.225.246.221:16899#🔒 SS-TCP-NA 🇺🇸 US-66.225.246.221:16899
+ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@45.89.52.66:9037#🔒 SS-TCP-NA 🇹🇷 TR-45.89.52.66:9037
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.86.135.225:7307#🔒 SS-TCP-NA 🇺🇸 US-38.86.135.225:7307
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.136.21:3306#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.21:3306
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.162.200.28:3389#🔒 SS-TCP-NA 🇨🇦 CA-23.162.200.28:3389
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@193.29.139.248:8080#🔒 SS-TCP-NA 🇳🇱 NL-193.29.139.248:8080
