@@ -3,17 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://7ca8368d-cf5b-4ae7-9d64-11c917f41997@139.162.36.248:443?#🔒 TR-TCP-NA 🇸🇬 SG-139.162.36.248:443
-trojan://qG9K8AGnn9XH5jUqeFu96g@104.16.123.175:2083?security=tls&sni=cdn13.cdn2cdn.com&type=ws&host=cdn13.cdn2cdn.com&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.123.175:2083
-trojan://3c91d857-2d40-39b9-81c0-f6adde8037ff@141.11.108.8:4583?sni=cuvip.doubledou.win#🔒 TR-TCP-NA 🇫🇷 FR-141.11.108.8:4583
-trojan://44349ad5-2da1-425e-8fec-995d458867a7@194.246.114.54:443?#🔒 TR-TCP-NA 🇭🇰 HK-194.246.114.54:443
-trojan://4aec4e7f8cf8454ea4613659822e1a61@104.17.147.8:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.8:443
-trojan://4ea1d07c-41c2-42b5-954d-414fee051856@120.195.184.91:46002?type=tcp&allowInsecure=1#🔒 TR-TCP-NA 🇨🇳 CN-120.195.184.91:46002
-trojan://auto@104.21.35.43:443?security=tls&sni=esetsecuritylicense3.wawafec355.workers.dev&type=ws&host=esetsecuritylicense3.wawafec355.workers.dev&path=%2F%3Fed%3D2560&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.35.43:443
-trojan://pUxG77WPOZ@104.18.203.232:80?security=none&type=ws&host=s9.in01.tech&path=/#🔒 TR-WS-NONE 🏴‍☠️ NA-104.18.203.232:80
-trojan://NISHIKUITAN222@47.76.178.146:443?security=tls&sni=t116.ylks.link&type=ws&host=t116.ylks.link&path=/#🔒 TR-WS-TLS 🇭🇰 HK-47.76.178.146:443
-trojan://3e2290c5-332f-4bbe-8efb-05d4addc095b@91.194.11.168:443?#🔒 TR-TCP-NA 🇨🇦 CA-91.194.11.168:443
-trojan://NISHIKUITAN222@43.153.80.208:443?security=tls&sni=t222.ylks.link&type=ws&host=t222.ylks.link&path=%2F#🔒 TR-WS-TLS 🇺🇸 US-43.153.80.208:443
 trojan://KfHraA7j5h@147.78.140.39:8443?security=tls&sni=Wsd5yct6uv-Mvd57fc7yvjFy-Po9iU6vBy87y7hcUf5rcy.danesh-bonyan.Store&type=ws&host=eiiim.danesh-bonyan.store&path=join.----------------Telegram-EiiiM----------------Telegram-EiiiM---------------.Telegram-EiiiM.#🔒 TR-WS-TLS 🇧🇬 BG-147.78.140.39:8443
 trojan://tIErrUuX7j@104.21.7.176:2053?security=tls&sni=vr.v2ray962.filegear-sg.me&type=grpc&alpn=h2%2Chttp%2F1.1#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.21.7.176:2053
 trojan://242a3d8eee5e4ed1a6bfa4141d549a25@198.41.220.12:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.12:443
@@ -83,3 +72,14 @@ ss://bm9uZTphY2FhY2JiLWJhY2EtYmFjYS1hYmNkLWFhYmNjYmNiYWNhYg==@127.0.0.1:1080#�
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.114.114.143:443#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.143:443
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.75.136.21:5003#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.21:5003
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.143.93.163:443#🔒 SS-TCP-NA 🇸🇬 SG-18.143.93.163:443
+ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@103.172.116.79:9041#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.79:9041
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@54.36.174.181:5003#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:5003
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.121.43.71:7001#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.71:7001
+ss://YWVzLTI1Ni1jZmI6Z1lDWVhma1VRRXMyVGFKUQ==@103.172.116.79:9038#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.79:9038
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.162.200.225:8119#🔒 SS-TCP-NA 🇨🇦 CA-23.162.200.225:8119
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@149.202.82.172:2375#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:2375
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@149.202.82.172:8008#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:8008
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.110.1.43:7307#🔒 SS-TCP-NA 🇺🇸 US-38.110.1.43:7307
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.110.1.43:9102#🔒 SS-TCP-NA 🇺🇸 US-38.110.1.43:9102
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphTlQ5N1ZxTkc0dnV3SzJFa2NMUUtN@51.143.130.36:38984#🔒 SS-TCP-NA 🇬🇧 GB-51.143.130.36:38984
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphTkR6MW5ycW1KcHBKQk1SM2VEUDIw@212.113.106.76:61992#🔒 SS-TCP-NA 🇦🇹 AT-212.113.106.76:61992
