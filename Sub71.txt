@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://d3af9aee-7289-48e7-9305-093cf7bf93a0@5.42.107.242:32354?security=none&type=tcp#🔒 VL-TCP-NONE 🇷🇺 RU-5.42.107.242:32354
 vless://957e3de7-7f01-49b9-afcc-949930381128@104.17.245.1:2082?security=none&type=ws&host=61.unicorns.sa.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.245.1:2082
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.217.220:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🔒 VL-WS-TLS 🇺🇸 US-45.159.217.220:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@170.114.46.46:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-170.114.46.46:443
@@ -82,4 +83,3 @@ vless://f3b622d4-08bb-47b4-9606-7dafd6071c73@164.90.141.103:80?security=none&typ
 vless://b2ea5f01-9824-46a0-b9c6-2ec87b50cbfa@108.162.195.131:80?type=ws&host=2.V2ray.debian.org.fxp.debian.org.speedtest.net.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95%E3%82%89%E3%82%8F.sunstars.online.&path=/telegram-AghayeVpn,telegram-AghayeVpn,telegram-AghayeVpn,telegram-AghayeVpn,telegram-AghayeVpn,telegram-AghayeVpn,telegram-AghayeVpn,telegram-AghayeVpn,telegram-AghayeVpn,telegram-AghayeVpn,telegram-AghayeVpn,telegram-AghayeVpn?ed%3D2048#🔒 VL-WS-NA 🏴‍☠️ NA-108.162.195.131:80
 vless://10716279-b1ee-41d8-b63e-87782088305b@172.67.179.208:443?security=tls&sni=mAMane-filTErCHI.pageS.Dev&type=ws&host=mamAnE-fILTErchI.paGES.deV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.179.208:443
 vless://d6f6df40-ff35-4707-adb0-ca68b1e8765f@188.114.98.225:2095?security=none&type=ws&host=sgm.zula.ir.tv.ir.tesla.com.covek.com.lopez.com.food.com.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95skrdolgo.atkfood.com.&path=%2FAMVPN%3Fed%3D1024#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.98.225:2095
-vless://7df71ea7-ad2f-48d1-ae7c-4429ee780537@104.18.229.191:8443?security=tls&sni=academivpn1.academi-vpn-4f8.workers.dev&type=ws&host=academivpn1.academi-vpn-4f8.workers.dev&path=%2F%3Fed%3D2560+%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.229.191:8443

@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://d77d3cfe-e130-41c5-88db-2af4dcc1e0fe@18.233.190.175:8880?security=none&type=tcp#🔒 VL-TCP-NONE 🇺🇸 US-18.233.190.175:8880
 vless://c838f915-90f6-4b3b-9b89-e8cce84d4f26@172.67.186.37:80?security=none&type=ws&host=6.v2ray.bm.nedayevarzesh.ir.newsless.ir.xn--48jyb6ec1ad.tech.irapulsplus.sbs&path=%2Ftelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.186.37:80
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.42.88.120:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇱🇺 LU-188.42.88.120:443
 vless://54ef4ecf-ff37-436a-be13-95c8a8a1114d@188.42.145.159:443?security=tls&sni=VIrgiNiavPn-nL.pagEs.dEv&type=ws&host=ViRgInIaVpN-Nl.PaGeS.DeV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇷🇺 RU-188.42.145.159:443
@@ -82,4 +83,3 @@ vless://6bf210b7-e3c0-4f65-ae2a-74f79a7a68f7@104.31.16.65:2082?security=none&typ
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@27.50.48.108:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇸🇬 SG-27.50.48.108:443
 vless://696926f0-ffd8-5bc0-bebf-4db4e4260d64@104.21.17.156:2096?security=tls&sni=esetsecuritylicense.ybvmit.workErS.deV&type=ws&host=esetsecuritylicense.ybvmit.workErS.deV&path=vless-ws%2F%3Fed%3D2048&fp=edge&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.17.156:2096
 vless://86cb9a9b-dc2e-45d6-b35d-7ce1daa32a15@172.64.229.31:8443?security=tls&sni=dns68.shift.cloudns.org&type=ws&host=dns68.shift.cloudns.org#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.229.31:8443
-vless://01ab9337-f478-4765-9534-88f009f83ddb@155.248.196.123:443?security=tls&sni=aut022.ylks.link&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-155.248.196.123:443
