@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://b39d9e5a-f4ac-48c4-a311-ddaf5b5b85b9@162.159.137.232:2052?security=none&type=ws&host=%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B7%E4%BE%AF%E8%B5%9Bsuperspeed12.ff2ray.cfd.&path=%2F%3Fed%3D2053#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.137.232:2052
+vless://9617c7cd-133b-4ed0-be84-fc7493223f8c@172.64.145.113:8880?security=none&type=ws&host=falcunargo.3157c93401.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.145.113:8880
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@14.102.229.66:2087?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-14.102.229.66:2087
 vless://eb3ad716-faf4-417e-85d2-b0504e3a7912@162.159.134.234:8443?security=tls&sni=discord.gg&type=grpc&serviceName=@u3erVpn&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.134.234:8443
 vless://5184b87c-8537-41d6-be54-5027c8432d50@172.67.185.196:443?security=tls&sni=paRVIZsabEti.pAgeS.dEV&type=ws&host=PARvIzsABETI.paGeS.DEv&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.185.196:443
 vless://83362b0c-c3fd-49d2-be29-ecadae767c60@104.16.61.8:443?security=tls&sni=conf-11111156.yumsung.com&type=ws&host=conf-11111156.yumsung.com&path=/mogmrews&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.61.8:443
@@ -80,6 +83,3 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@194.36.55.28:443?security=tls&sni=c
 vless://03a9c9ee-1e6e-4779-8171-b2aac2357d0c@172.67.219.62:8443?security=tls&sni=Tigoo.dignity-19.com&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.219.62:8443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.42.89.64:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇱🇺 LU-188.42.89.64:443
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@35.230.79.26:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇺🇸 US-35.230.79.26:443
-vless://f7fe4c50-8f84-425a-8b60-6fbea946df9e@162.159.128.233:80?sni=hello-world-wandering-river-d8eb.wordpass.workers.dev&type=ws&host=we.wordpass.workers.dev&fp=chrome#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.128.233:80
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@192.9.177.204:443?security=tls&sni=hk313.ylks.link&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇦🇺 AU-192.9.177.204:443
-vless://8009845b-5356-4f6e-be90-e071b49298b3@198.41.202.5:2052?security=none&type=ws&host=xn--018o.orerblog.filtv.blog.boredhot.cloudcccc.joinbede.sbs.&path=%2FTelegram%2C%40+TEHRANARGO%2CTelegram%2C%40+TEHRANARGO%2CTelegram%2C%40+TEHRANARGO%2CTelegram%2C%40+TEHRANARGO%2CTelegram%2C%40+TEHRANARGO%2CTelegram%2C%40+TEHRANARGO%2CTelegram%2C%40+TEHRANARGO#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.202.5:2052

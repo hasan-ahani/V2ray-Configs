@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@192.65.217.57:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇦🇺 AU-192.65.217.57:443
+vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@104.21.90.210:8443?security=tls&sni=tnetplus-1wc.pages.dev&type=ws&host=tnetplus-1wc.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.90.210:8443
+vless://713e999f-9590-4419-e49c-5a682ec5d4f7@104.24.196.20:2083?security=tls&sni=ch.RxV2ray.space&type=grpc&serviceName=@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.24.196.20:2083
 vless://02e75d78-58ad-4a73-afca-24b781d8fdfc@104.24.85.15:8443?security=tls&sni=Isa.kasler.sbs&type=grpc&serviceName=%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%40ev2rayy&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.24.85.15:8443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@194.36.55.97:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇬🇧 GB-194.36.55.97:443
 vless://c0fbd664-9693-4cc0-aa73-9247dbbadbeb@104.21.46.197:443?security=tls&sni=bed7nemarz.ribon88568.workers.dev&type=ws&host=bed7nemarz.ribon88568.workers.dev&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.46.197:443
@@ -80,6 +83,3 @@ vless://48198295-b7ba-4b5c-8d85-085d55a6c869@45.159.50.210:57664?security=tls&sn
 vless://d360d11e-d426-4583-b55e-524ab1f0afa9@104.26.4.60:2096?security=tls&sni=worker-gentle-waterfall-6de8.tigerhungry4.workers.dev&type=ws&host=worker-gentle-waterfall-6de8.tigerhungry4.workers.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.4.60:2096
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@108.165.216.244:443?security=tls&sni=jp226.ylks01.eu.org&type=ws&path=/proxyip#🔒 VL-WS-TLS 🇺🇸 US-108.165.216.244:443
 vless://8ae88ee2-2f11-46ad-8302-ba388712196a@162.159.128.233:2053?security=tls&sni=cdn.biglog.sbs&type=ws&host=cdn.biglog.sbs&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.128.233:2053
-vless://9109a32f-31bd-43de-8f7b-95183023d41d@154.197.75.102:2053?security=tls&sni=v2rayfree1.bazar-yabi.shop&type=grpc&serviceName=V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🇸🇨 SC-154.197.75.102:2053
-vless://49e9aee4-ba22-40de-a1d5-9eeb935b10e3@104.21.84.42:2087?security=tls&sni=francess.almanalohapro.ir&type=grpc&serviceName=vless#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.84.42:2087
-vless://f5c97727-478f-4df5-87cf-6cc65389e75a@104.26.13.8:2087?security=tls&sni=ram.49z.info&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.26.13.8:2087

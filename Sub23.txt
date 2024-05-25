@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://25b45954-6209-48c2-a412-c568c8154cf0@104.21.67.95:2083?security=tls&sni=hi.mobileiraniani.com&type=ws&path=%2F%3Fed%3D2048&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.67.95:2083
+vless://e1d25a3c-d514-4cf1-be1d-381190c8ccdd@172.67.204.84:8443?security=tls&sni=su.darkmoonts.ir&type=ws&host=su.darkmoonts.ir&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.204.84:8443
+vless://2375d7bb-64ff-4168-aaf2-851a3223fad1@172.64.155.141:2083?security=tls&sni=cdn.gzwuyxq.WoRkerS.DEv&type=ws&host=cdn.gzwuyxq.WoRkerS.DEv&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.155.141:2083
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@79.99.28.129:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇳🇱 NL-79.99.28.129:8443
 vless://008ee652-1922-4070-972d-57a50dadf9fe@172.66.44.85:443?security=tls&sni=271363e0.phonexvip2.pages.dev&type=ws&path=/vless&fp=chrome&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.85:443
 vless://f6d56974-2fe4-4d2c-b869-bd281f1301be@172.67.193.108:443?security=tls&sni=se1.v2vless.xyz&type=ws&host=se1.v2vless.xyz&path=/vless#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.193.108:443
@@ -80,6 +83,3 @@ vless://739aef27-7cf4-4457-839c-449e707d64ea@104.31.16.121:443?security=tls&sni=
 vless://22f67bea-0398-49a2-b708-2cc4dbf52b9e@104.20.19.78:2087?security=tls&sni=dl.parhamtraberthos.ir&type=ws&host=dl.parhamtraberthos.ir&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.19.78:2087
 vless://88363077-79d2-441e-b96b-cd8e4346794d@172.67.211.180:8443?security=tls&sni=wed-vip-de-cdall.highposhako.ir&type=grpc&serviceName=abc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.211.180:8443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@193.134.209.114:20748?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🔒 VL-WS-TLS 🇺🇸 US-193.134.209.114:20748
-vless://b9ebea3f-4801-4785-9ae5-ff28e3b0fe97@95.164.114.43:443?security=tls&sni=kz-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇰🇿 KZ-95.164.114.43:443
-vless://e59ac276-f787-4c9a-88c8-12737bab1d56@198.41.198.76:443?security=tls&sni=configt-channels.sg-forum.info&type=ws&host=configt-channels.sg-forum.info#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.198.76:443
-vless://7cc0f2f0-c682-4fc0-f492-6294bfd71366@217.219.212.43:44575?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-217.219.212.43:44575
