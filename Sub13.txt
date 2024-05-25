@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://44349ad5-2da1-425e-8fec-995d458867a7@hk-full.privateip.net:443#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20Trojan%20@V2rayStore
+trojan://f6a45037-316a-4a95-a16a-6e7ecefbac47@nl-full.privateip.net:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20Trojan%20@V2rayStore
+trojan://6b6cfabb-578b-4504-b9ec-bcbb1a633f8f@nl2-full.privateip.net:443#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20Trojan%20@V2rayStore
+trojan://3e2290c5-332f-4bbe-8efb-05d4addc095b@ca-full.privateip.net:443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20Trojan%20@V2rayStore
+trojan://5999a649-e373-4b31-87be-47ee6c14b32a@in-full.privateip.net:443#%F0%9F%87%AE%F0%9F%87%B3%20India%20Trojan%20@V2rayStore
+trojan://e03a8a33-3e62-4b99-82df-93cba82ae9c6@jp-full.privateip.net:443#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20Trojan%20@V2rayStore
 trojan://a2ee886b-901b-4a7c-8166-370909cbd1b1@fr-full.privateip.net:443#%F0%9F%87%AB%F0%9F%87%B7%20France%20Trojan%20@V2rayStore
 trojan://ef86718e-5d48-4163-a076-66078ee4d954@fr2-full.privateip.net:443#%F0%9F%87%AB%F0%9F%87%B7%20France%20Trojan%20@V2rayStore
 trojan://fc1e07b5-840b-4446-8232-94b0606f2e0d@fr3-full.privateip.net:443#%F0%9F%87%AB%F0%9F%87%B7%20France%20Trojan%20@V2rayStore
@@ -77,9 +83,3 @@ vless://753dc758-59dd-4ecd-989d-723c9ebb9e5e@ch.ni-ham.info:2082?path=%2F%3Fed%3
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.169.115.18:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.237.81.112:2083?security=tls&sni=zdy226.kpcloud.eu.org&type=ws&path=%2Fblue#@Hope_Net-join-us-on-Telegram
 vless://01ab9337-f478-4765-9534-88f009f83ddb@8.222.144.50:2083?security=tls&sni=aut226.ylks.link&type=ws&path=%2F%3Fed#@Hope_Net-join-us-on-Telegram
-vless://01ab9337-f478-4765-9534-88f009f83ddb@47.237.100.206:2083?security=tls&sni=aut226.ylks.link&type=ws&path=%2F%3Fed#@Hope_Net-join-us-on-Telegram
-vless://244ad12a-68f2-42a3-aba6-02124f2d916d@198.41.202.5:8880?security=none&type=ws&host=xnv2ray-qhantayawia-mwxzc08arba93xpvac79043ht5ia.xnv2-gn1d638jbjx.xyz.&path=%2F%40L%49%47HTNING6-TEL%40L%49%47HTNING6-TEL%40L%49%47HTNING6-TEL%40L%49%47HTNING6-JOIN-%40L%49%47HTNING6-TEL%40L%49%47HTNING6-JOIN-%40L%49%47HTNING6-TEL-%40L%49%47HTNING6-TEL%40L%49%47HTNING6-JOIN-%40L%49%47HTNING6-TEL%40L%49%47HTNING6-%40LiV2ray%3Fed%3D1024#@Hope_Net-join-us-on-Telegram
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@54.249.173.119:443?security=tls&sni=xin226.ylks.link&type=ws&path=%2Fproxyip#@Hope_Net-join-us-on-Telegram
-vless://01ab9337-f478-4765-9534-88f009f83ddb@8.219.210.57:2083?security=tls&sni=aut226.ylks.link&type=ws&path=%2F%3Fed#@Hope_Net-join-us-on-Telegram
-vless://8f8edd9c-9d4b-4c31-9eb5-770cdc57be8d@65.109.195.204:2093/?type=ws&encryption=none&path=%2F#%F0%9F%93%B323%40oneclickvpnkeys
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@kk226.ylks.link:2086/?type=ws&encryption=none&path=%2Fyoutube-%E7%94%B1%E9%9B%B6%E9%96%8B%E5%A7%8B#%F0%9F%93%B326%40oneclickvpnkeys
