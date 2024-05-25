@@ -3,6 +3,14 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.13:8443?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.13:8443
+vless://2007d144-b7bd-49b7-afae-892e10c636cf@185.146.173.95:8880?path=/@LIGHTNING6,#🔒 VL-TCP-NA 🇸🇪 SE-185.146.173.95:8880
+vless://8ceac519-7b18-47a5-b53e-d37ba318b0aa@172.66.47.185:443?security=tls&sni=c1c569fc.irani-eub.pages.dev&type=ws&host=c1c569fc.irani-eub.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.185:443
+vless://4b1d9f3a-6cdf-49e8-929b-5e5cedae5d31@172.67.131.240:443?security=tls&sni=freedom15.maber99212.workers.dev&type=ws&host=freedom15.maber99212.workers.dev&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.131.240:443
+vless://678ac895-92c2-4f27-a9d4-f1a89c5f5365@188.42.145.66:2083?security=tls&sni=mositr.freenods.sbs&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇷🇺 RU-188.42.145.66:2083
+vless://d6f79630-aa94-4536-b2ef-899b5acb3b49@104.21.34.74:443?security=tls&sni=unmanliest.appreviewcenter.com&type=ws&host=unmanliest.appreviewcenter.com&path=/nimws#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.34.74:443
+vless://fc8b02a0-6aa5-426e-8a65-9310eea720f8@167.114.35.34:11157?security=none&type=tcp#🔒 VL-TCP-NONE 🇨🇦 CA-167.114.35.34:11157
+vless://b672d791-7d33-4b2b-9b0d-960a5a1e8fad@104.19.177.27:2083?security=tls&sni=kanal.metesla.site&type=grpc&serviceName=@global_net_vpn&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.19.177.27:2083
 vless://cead5a7e-4a1d-4f93-8825-429969dd2fb8@162.159.135.234:2083?security=tls&sni=new.top-speed.shop&type=grpc&serviceName=go-ogle&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.135.234:2083
 vless://67f27227-85ab-4fea-f409-48ef93794de2@172.67.24.121:2052?security=none&type=ws&host=Fl.poloo.ir&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.24.121:2052
 vless://f7274a51-ba56-4973-baa9-1e5e274f9dad@104.21.42.84:443?security=tls&sni=pasargad.top-speed.pw&type=ws&path=/&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.42.84:443
@@ -75,11 +83,3 @@ vless://aef3b456-2f83-4ca6-a66c-32bd2f534b68@104.31.16.250:80?security=none&type
 vless://dfb18c6f-731a-4898-a1c4-cc36c6055a90@172.67.183.125:443?security=tls&sni=w2.sylarsun.eu.org&type=ws&host=w2.sylarsun.eu.org&path=/?ed&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.183.125:443
 vless://e1876870-0f4c-11ef-a747-1239d0255272@23.158.72.133:80?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇺🇸 US-23.158.72.133:80
 vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@104.20.224.95:2087?security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&type=ws#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.224.95:2087
-vless://8545c44f-b1b4-4295-ae98-f0b6301a537f@172.66.46.214:2096?security=tls&sni=ios-azadnet.pages.dev&type=ws&path=%2F%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.46.214:2096
-vless://f4a4aa04-226c-44ef-a59a-da89f6596c9d@185.146.173.59:8880?security=none&type=ws&host=xn---qhantayawi--a-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.lightning6.xyz.&path=/@LIGHTNING6,+@LIGHTNING6#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.59:8880
-vless://fe0dba33-1a65-40eb-8d38-b2d8c533a96a@162.55.193.56:8080?security=none&type=ws&host=V2ray-_-_-_-_-MdVpnSec.TelegramChannelJoinBede.com.&path=/#🔒 VL-WS-NONE 🇩🇪 DE-162.55.193.56:8080
-vless://f47fb03f-7f15-41e0-bd7e-2371dc710e32@188.114.96.183:80?security=none&type=ws&path=%2F%3Fed#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.96.183:80
-vless://88363077-79d2-441e-b96b-cd8e4346794d@104.21.93.152:8443?security=tls&sni=wed-vip-fr-cdall.highposhako.ir&type=grpc&serviceName=abc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.93.152:8443
-vless://35f5c4b3-2ff8-4343-ba03-c3f940aa0c61@172.64.23.67:80?security=none&type=ws&host=V2ray-Vip-Mkh.xn--85-pv2cl2k5x3fipr.org.#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.23.67:80
-vless://713e999f-9590-4419-e49c-5a682ec5d4f7@104.24.197.20:2083?security=tls&sni=ch.RxV2ray.space&type=grpc&serviceName=@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.24.197.20:2083
-vless://70aa6fd6-9d04-4657-9eaa-2946541f6deb@188.114.96.217:443?security=tls&sni=071ll2532.16965a6a7d.workers.dev&type=ws&host=071ll2532.16965a6a7d.workers.dev&path=%2F%3Fed%3D2560&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.217:443
