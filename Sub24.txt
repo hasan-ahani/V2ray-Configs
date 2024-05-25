@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@47.237.95.140:2083?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇸🇬 SG-47.237.95.140:2083
+vless://10716279-b1ee-41d8-b63e-87782088305b@104.21.56.71:443?security=tls&sni=mAMane-filTErCHI.pageS.Dev&type=ws&host=mamAnE-fILTErchI.paGES.deV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.56.71:443
 vless://85d14a78-afc6-4490-85c8-9f2a16fb063f@172.67.220.79:443?security=tls&sni=n31nl.rashopfa.ir&type=grpc&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.220.79:443
 vless://01ab9337-f478-4765-9534-88f009f83ddb@47.236.80.110:2083?security=tls&sni=aut226.ylks.link&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇬 SG-47.236.80.110:2083
 vless://bbfcf499-5015-46e8-ba60-881ae689d229@172.232.43.111:2003?security=tls&sni=fr2-full.privateip.net&type=grpc&serviceName=GRPC&path=/&allowInsecure=1#🔒 VL-GRPC-TLS 🇫🇷 FR-172.232.43.111:2003
@@ -81,5 +83,3 @@ vless://41243d3c-3dc2-4fe9-b0c3-b0eecb8491a2@116.203.109.124:51916?security=none
 vless://51baeda8-1288-458a-b5ae-b8b080b937b6@104.27.1.52:8880?security=none&type=ws&host=cherry.berry.strawberry.%E6%88%91%E4%BB%AC%E7%94%9F%E6%B4%BB%E5%9C%A8%E8%AF%A5%E6%AD%BB%E7%9A%84%E5%9C%B0%E7%8B%B1%E9%87%8C.shop.&path=%2FTelegram%3A%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%3Fed%3D1024#🔒 VL-WS-NONE 🏴‍☠️ NA-104.27.1.52:8880
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.228.60:443?security=tls&sni=936a99B4.Vde5-MlX81LANeo.pAgES.dEv&type=ws&host=936a99B4.vDE5-MLx81LANeO.pAgeS.DEV&path=%2FKkhHL0gsSoZ7M6id%2FZGU1Lm1lcmxpbm56Lmxpbms%3D%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.228.60:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.24.193:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.24.193:443
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@172.67.75.194:443?security=tls&sni=xin226.ylks.link&type=ws&path=/blue#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.75.194:443
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@199.180.255.223:443?security=tls&sni=xin226.ylks.link&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-199.180.255.223:443

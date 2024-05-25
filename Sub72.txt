@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://a71a41ad-c986-4ed1-93b8-fcddb110bb48@136.244.64.101:8080?security=none&type=tcp#🔒 VL-TCP-NONE 🇬🇧 GB-136.244.64.101:8080
+vless://feb31976-2a9d-40ec-e346-d9d7fcd38027@172.67.221.169:443?security=tls&sni=behemoth.wavap50279.workers.dev&type=ws&host=behemoth.wavap50279.workers.dev&path=/downloader/30836&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.221.169:443
 vless://5521744a-f20b-407b-87b7-3797b30d3f2c@172.67.217.219:8443?security=tls&sni=frtvd.oxnetirz214.workers.dev&type=ws&host=frtvd.oxnetirz214.workers.dev&path=%2F..............%40Free_V2rng...............%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.217.219:8443
 vless://61958b98-d52a-420e-bb42-a3fd22985895@104.17.249.203:2096?security=tls&sni=italia.dalixw.fun&type=grpc&serviceName=.....&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.249.203:2096
 vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@47.76.33.40:2096?security=tls&sni=ceb98438-36f6-4f6c-9596-8d0409bbe285.b1e18cfc-f959-4f08-94da-4878c3cd4a5f.mywire.org&type=ws&path=%2Fpasge.pages.dev%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇭🇰 HK-47.76.33.40:2096
@@ -81,5 +83,3 @@ trojan://d79985f4-4de1-4f4e-ba5b-aa508d4bf9bb@95.164.46.235:443?#🔒 TR-TCP-NA 
 trojan://NISHIKUITAN222@8.219.144.168:443?security=tls&sni=t222.ylks.link&type=ws&host=t222.ylks.link&path=%2F#🔒 TR-WS-TLS 🇸🇬 SG-8.219.144.168:443
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.10:443?security=tls&sni=tjjd.yzyx1.v6.army&type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.53.10:443
 trojan://JaRV8fhwXR@54.169.178.7:22281?security=none&type=ws&host=m.youtube.com&path=/#🔒 TR-WS-NONE 🇸🇬 SG-54.169.178.7:22281
-trojan://huge123456@131.186.21.135:60954?security=tls&sni=h.iveze.com#🔒 TR-TCP-TLS 🇰🇷 KR-131.186.21.135:60954
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.74:2053?security=tls&sni=tjjd.yzyx1.v6.army&type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.53.74:2053

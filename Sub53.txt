@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://9ae26e70-4ceb-49a2-9d47-df2d969531bc@104.21.232.99:8443?security=tls&sni=unlimiteddev.xn--9iqr0tm1r4wg.co&type=ws&host=unlimiteddev.xn--9iqr0tm1r4wg.co&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.232.99:8443
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.174:2083?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.174:2083
 vless://9e1616dc-3d46-4da4-8abc-1f613760fe00@104.21.32.238:2096?security=tls&sni=re4.v2logy.xyz&type=grpc&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.32.238:2096
 vless://5a045a1e-d392-4c5b-b658-b57e4ea01b4f@172.67.182.88:443?security=tls&sni=virapn-d-3be7883659a1d2ba4c545dfdf85b61eda1.asiatechnicalwest.ir.&type=grpc&serviceName=@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN&fp=firefox&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.182.88:443
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@91.193.59.37:2096?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz#🔒 VL-WS-TLS 🇬🇧 GB-91.193.59.37:2096
@@ -81,5 +83,3 @@ vless://b1c53b03-8d32-4d2c-a572-c3f6c81bda8c@45.194.53.3:80?security=none&type=w
 vless://0859b63e-cb81-4c01-bf5a-739f90e72f92@172.67.140.33:2095?security=none&type=ws&host=v2ray-_-_-_-_-_-vpn.frev2ray.kellekcollection.myname.houselife.IR.&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.140.33:2095
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@193.122.110.164:25800?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇰🇷 KR-193.122.110.164:25800
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@43.153.181.217:443?security=tls&sni=v116.ylkszy.eu.org&type=ws&path=/proxyip#🔒 VL-WS-TLS 🇯🇵 JP-43.153.181.217:443
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@64.176.48.96:2053?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🔒 VL-WS-TLS 🇯🇵 JP-64.176.48.96:2053
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@216.24.181.38:54324?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-216.24.181.38:54324

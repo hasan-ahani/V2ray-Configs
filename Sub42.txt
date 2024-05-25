@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://52ee2491-0678-4911-967c-d56753d2e293@65.109.129.251:443?security=tls&sni=Fin.Melobigg.Site&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🇫🇮 FI-65.109.129.251:443
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.42.89.60:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇱🇺 LU-188.42.89.60:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.84.68:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.84.68:443
 vless://52de3fa6-1673-4918-a90d-21d2b69de98e@188.114.96.182:443?security=tls&sni=eb8c0c64.888766.pages.dev&type=ws&host=eb8c0c64.888766.pages.dev&path=/telegram-proxy_mtm?ed&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.182:443
 vless://2b2268a7-5f8f-4947-a5a2-018340df3e1c@172.67.171.49:443?security=tls&sni=de3-vless.sshmax.xyz&type=ws&host=de3-vless.sshmax.xyz&path=%2Fvless#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.171.49:443
@@ -81,5 +83,3 @@ vless://5ef7c8f8-d892-4e0d-9e58-fea410e247c8@185.146.173.146:8080?security=none&
 vless://b1160a38-76f5-4097-e5cc-fd47e5496522@104.18.4.226:80?security=none&type=ws&host=cmbneiud3i3jrfncve.amarinadubai.eu&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.4.226:80
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@162.159.249.112:443?security=tls&sni=EA6530e9.nXZu-61iuaN-xD.PageS.DEV&type=ws&host=EA6530e9.nXzu-61iuAn-XD.PaGEs.dEV&path=%2F..TeleGram..%40Free_V2rng..%3D%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.249.112:443
 vless://ac820b81-e404-4284-bfcf-0220addbbcc9@162.159.137.232:8443?security=tls&sni=real-state2.zargarr.com&type=grpc&serviceName=%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.137.232:8443
-vless://ffffffff-eeae-4311-b37c-b2a67847fed2@104.21.51.208:443?security=tls&sni=watashi.free.de.mnhacker.eu.org&type=ws&host=watashi.free.de.mnhacker.eu.org&path=lockey_vpn&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.51.208:443
-vless://158a2a18-ba82-4208-af52-3bf650c94036@188.114.98.124:2095?security=none&type=ws&host=a.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&path=%2FZEDMODEON-ZEDMODEON%3Fed%3D1024#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.98.124:2095

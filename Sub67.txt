@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@159.112.235.14:8443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-159.112.235.14:8443
+vless://68d816de-542a-40e3-8daa-b944b83002e2@172.66.47.115:443?security=tls&sni=pardazesh20.pages.dev&type=ws&host=pardazesh20.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.115:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.43.41:80?security=none&sni=telegram-vpnhttpinjectorfree-77.graciella4.workers.dev&type=ws&host=telegram-vpnhttpinjectorfree-77.graciella4.workers.dev&path=%2F%3Fed%3D2048&fp=random#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.43.41:80
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.176.24.4:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-185.176.24.4:443
 vless://49e9aee4-ba22-40de-a1d5-9eeb935b10e3@172.67.186.23:2087?security=tls&sni=francess.almanalohapro.ir&type=grpc&serviceName=vless#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.186.23:2087
@@ -81,5 +83,3 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.134.190.61:22222?security=tls&sn
 vless://0b3726cf-675e-44d3-a38b-89f4c8973053@172.64.26.211:80?security=none&type=ws&host=1.1.1.1.netmaask.site.com.nursiii.shop&path=%2F%40Netmaask%40Netmaask%40Netmaask%40Netmaask%40Netmaask%40Netmaask%40Netmaask%40Netmaask%40Netmaask#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.26.211:80
 vless://e4e7b149-8bd8-4266-8cbb-0987604dbc87@162.159.58.82:443?security=tls&sni=toujiediansigema.5112233.xyz&type=ws&host=toujiediansigema.5112233.xyz&path=TG%40juzibaipiao%E5%81%B7%E8%8A%82%E7%82%B9%E6%AD%BB%E5%90%97#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.58.82:443
 vless://7b568d25-ea44-4d41-b07f-0beb4095287f@172.67.210.56:8880?security=none&type=ws&host=Baloch.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.jetupnet.sbs.#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.210.56:8880
-vless://b6e69fcb-8fd9-4e00-fe26-fed289dfb422@190.93.244.113:443?security=tls&sni=vipch-cdall.poshakbany.ir&type=grpc&serviceName=/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-190.93.244.113:443
-vless://a3c79bd9-44ff-4b56-9a26-bf756b2fa929@109.61.16.34:2045?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-109.61.16.34:2045

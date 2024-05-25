@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://b6e69fcb-8fd9-4e00-fe26-fed289dfb422@190.93.244.113:443?security=tls&sni=vipch-cdall.poshakbany.ir&type=grpc&serviceName=/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-190.93.244.113:443
+vless://a3c79bd9-44ff-4b56-9a26-bf756b2fa929@109.61.16.34:2045?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-109.61.16.34:2045
 vless://95faeb0c-2eaf-4a76-9a30-0db9efd9ab51@172.67.146.84:8880?security=none&type=ws&host=Daily-ConfigsV2rayGmSix6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.vigilantecollection.com.&path=%2FTelegram%3A%40Daily_Configs%2CTelegram%3A%40Daily_Configs%2CTelegram%3A%40Daily_Configs%2CTelegram%3A%40Daily_Configs%2CTelegram%3A%40Daily_Configs%2CTelegram%3A%40Daily_Configs%2CTelegram%3A%40Daily_Configs#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.146.84:8880
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.199.127:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.199.127:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.10.94:443?security=tls&sni=baipiao406.stunning-bassoon.pages.dev&type=ws&host=baipiao406.stunning-bassoon.pages.dev&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.10.94:443
@@ -81,5 +83,3 @@ vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?security=none&typ
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@185.146.173.59:443?security=tls&sni=E5BE193D.Mr-ArsHA-Devil.pAges.dEv&type=ws&path=%2Fwkgzblyjbp7mtush%3Fed#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.59:443
 vless://be3fb84a-e45a-4923-ad74-c76e597be43b@139.162.36.248:2003?security=tls&sni=sg-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇸🇬 SG-139.162.36.248:2003
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.64.89.170:443?security=tls&sni=3k.pureboy.eu.org&type=ws&host=3k.pureboy.eu.org#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.89.170:443
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.18.94:80?type=ws&host=us1.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.18.94:80
-vless://bc57bcc6-f827-4b08-adf2-326e1a5e5aa1@95.164.117.128:443?security=tls&sni=de2-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇩🇪 DE-95.164.117.128:443
