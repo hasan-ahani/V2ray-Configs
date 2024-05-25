@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.40.247.64:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.135.107.9:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.31.202:80?security=none&type=ws&host=us1.rtacg.com&path=%2F#@Hope_Net-join-us-on-Telegram
 vless://586ef978-c450-4435-89f7-b281ebba09fe@170.187.231.189:2003?security=tls&sni=sg2-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#@Hope_Net-join-us-on-Telegram
 vless://bbfcf499-5015-46e8-ba60-881ae689d229@172.232.43.111:2003?security=tls&sni=fr2-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#@Hope_Net-join-us-on-Telegram
 vless://fb301d2e-4430-4b41-95d6-764460b8ef13@156.238.18.246:2053?security=tls&sni=9b56CFEe5b258C44c45bA18FA122293.mIToweAr.cOm&type=grpc#@Hope_Net-join-us-on-Telegram
@@ -83,3 +80,6 @@ trojan://35a3b37b-9fb4-4b0c-91b4-2b3e738af930@russia.okzdns.com:33306?allowInsec
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@134.195.198.195:7306#%F0%9F%87%AA%F0%9F%87%BA%20%E6%AC%A7%E6%B4%B2%28%E6%AC%A2%E8%BF%8E%E8%AE%A2%E9%98%85Youtube%E7%A0%B4%E8%A7%A3%E8%B5%84%E6%BA%90%E5%90%9B%29
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@134.195.196.128:3306#%F0%9F%87%AA%F0%9F%87%BA%20%E6%AC%A7%E6%B4%B2%28%E6%AC%A2%E8%BF%8E%E8%AE%A2%E9%98%85Youtube%E7%A0%B4%E8%A7%A3%E8%B5%84%E6%BA%90%E5%90%9B%29
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqvCfh7og5qyn5rSyKOasoui/juiuoumYhVlvdXR1YmXnoLTop6PotYTmupDlkJspIiwiYWRkIjoiMTU2LjI1MS4xOTEuMjQxIiwicG9ydCI6IjMyODk4IiwidHlwZSI6Im5vbmUiLCJpZCI6IjcyMDRkNmI4LWRkYWYtNDE3Yi1jOGQ4LTVmOTgzZGM5ZjZjYiIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh7Mg5Y+w5rm+KOasoui/juiuoumYhVlvdXR1YmXnoLTop6PotYTmupDlkJspIiwiYWRkIjoiNjEuMjIyLjIwMi4xNDAiLCJwb3J0IjoiMzM3OTIiLCJ0eXBlIjoibm9uZSIsImlkIjoiZTU1Y2QxODItMDFiMC00ZmI3LWE1MTAtMzYzNzAxYTQ5MWM1IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIn0=
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HqvCfh7og5qyn5rSyKOasoui/juiuoumYhVlvdXR1YmXnoLTop6PotYTmupDlkJspIiwiYWRkIjoiNDIyd2tsLmZhbnM4Lnh5eiIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiN2Y0ZmYyZTEtYzA4Zi0zNWJkLWFmZTctNGE2YTM4NjkwN2FhIiwiYWlkIjoiMiIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYXkiLCJob3N0IjoiNDIyd2tsLmZhbnM4Lnh5eiIsInRscyI6InRscyJ9
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HqvCfh7og5qyn5rSyKOasoui/juiuoumYhVlvdXR1YmXnoLTop6PotYTmupDlkJspIiwiYWRkIjoiYWljb282ZHUuY29tIiwicG9ydCI6IjQ0MyIsInR5cGUiOiJub25lIiwiaWQiOiJhYmE1MGRkNC01NDg0LTNiMDUtYjE0YS00NjYxY2FmODYyZDUiLCJhaWQiOiI0IiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzIiwiaG9zdCI6ImFpY29vNmR1LmNvbSIsInRscyI6InRscyJ9
