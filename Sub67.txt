@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://30c6a5ec-3de5-4eec-afe6-e9a13e1a30cb@173.245.58.51:443?security=tls&sni=dash.zedmodeon.fun&serviceName=TELEGRAM:@ZEDMODEON-TELEGRAM:@ZEDMODEON-TELEGRAM:@ZEDMODEON,TELEGRAM:@ZEDMODEON&fp=chrome&alpn=h2,http/1.1#🔒 VL-TCP-TLS 🏴‍☠️ NA-173.245.58.51:443
-vless://f9e0b36b-f1d5-4f3f-87dd-1e14919915b9@104.16.132.229:443?security=tls&sni=c.cm8.rr.nu&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.132.229:443
-vless://7574fa79-8978-4527-bdb0-3e05e904ce43@104.18.106.43:80?security=none&type=ws&host=6.v2ray.yk.nedayevarzesh.ir.newsless.ir.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95%E3%82%89%E3%82%8F.isvphp.IR.&path=%2Fvless#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.106.43:80
-vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@172.67.161.104:2096?security=tls&sni=tnetplus.pages.dev&type=ws&host=tnetplus.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.161.104:2096
 vless://b6a9cead-5694-40b5-812b-871a2f2493ec@104.20.104.209:80?security=none&type=ws&host=unlimiteddev.xn--9iqr0tm1r4wg.co.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.104.209:80
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@77.37.33.2:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇩🇪 DE-77.37.33.2:8443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.133.62:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.133.62:443
@@ -83,3 +79,7 @@ vless://7c737432-ebed-44c6-a728-3e54396546c9@185.146.173.237:2082?security=none&
 vless://5c402efa-95ff-49fd-a55c-fbc7770f9c06@94.182.129.21:58930?security=none&type=tcp&host=jr1YbGyG.ahvaz1.irancell.ir%2Cjr1YbGyG.speedtest1.shatel.ir%2Cjr1YbGyG.AHESPD2.mci.ir%2Cjr1YbGyG.intraspeedtest2.mobinnet.ir%2Cjr1YbGyG.st1.aminidc.com%2Cjr1YbGyG.speedtest.aionet.ir%2Cjr1YbGyG.esfahan1.irancell.ir%2Cjr1YbGyG.speedtest.faradez.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-94.182.129.21:58930
 vless://e66bb4ed-ea00-4361-b445-3077c3d9936a@104.27.62.243:443?security=tls&sni=ARIameHr-3WP.PAGeS.Dev&type=ws&host=aRiAMEHr-3WP.pAges.DeV&path=%40VPNHTTPInjectorfree#🔒 VL-WS-TLS 🏴‍☠️ NA-104.27.62.243:443
 vless://da6006c0-254a-4ef2-a77d-91f17b6d0c43@172.66.47.78:8443?security=tls&sni=pardazeshvpn-tg67.pages.dev&type=ws&host=pardazeshvpn-tg67.pages.dev&path=%2FTelegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.78:8443
+vless://9cd6e660-fa72-415d-a60d-64aa16574ab0@172.66.213.38:8080?security=none&type=ws&host=EnRheo.BALe.Bio&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.213.38:8080
+vless://b97cdd0e-bba9-4391-b265-b72f80b670db@172.67.205.139:2052?security=none&type=ws&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.205.139:2052
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.43.179.52:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇰🇿 KZ-31.43.179.52:443
+vless://4804f14b-c1f8-452d-a6ec-eff1490aeac9@217.69.1.123:443?security=tls&sni=hdfy6d1.cpionline.cc&type=grpc&serviceName=Bc5xLs413y7FzoZoavn2kmJ&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🇫🇷 FR-217.69.1.123:443

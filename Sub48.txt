@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://db0da85e-5f0c-4f0a-baf0-23148f479430@89.235.119.30:44783?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-89.235.119.30:44783
-vless://a84f9dab-939e-425f-9072-f05027480fe0@104.16.232.20:80?security=none&type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.232.20:80
-vless://c4d98ed1-69a5-49ad-b785-25fd2e081326@172.67.219.166:2053?security=tls&sni=Poshtiban.ehsa0535.top&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.219.166:2053
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.29.54:80?type=ws&host=us1.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.29.54:80
 vless://a61ef647-36c6-40c1-8fff-a3a65e473c7a@172.67.187.122:2096?security=tls&sni=p30download.ir-notting-hill.com&type=ws&host=proxy.ir-notting-hill.com&path=%2F&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.187.122:2096
 vless://79dcfd28-02af-42fd-af73-232f31ae0201@104.21.13.248:8880?security=none&type=ws&host=kiava.aws.amazon.com.f2.debian.org.speedtest.net.xn--mgba2h8quf.kiava.fun#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.13.248:8880
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@47.242.252.237:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇭🇰 HK-47.242.252.237:8443
@@ -83,3 +79,7 @@ vless://9e67f15c-178f-494c-a843-f371e3b3fa5d@172.67.22.189:8080?security=none&sn
 vless://e4106072-c324-4c27-a797-2e7ce6df0307@162.159.152.2:443?security=tls&sni=de3.v2vless.xyz&type=ws&host=de3.v2vless.xyz&path=%2Fvless#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.2:443
 vless://98268aee-f8c1-41f1-8c9f-0273ada3af8c@45.205.0.50:443?security=tls&sni=PoRiya-WarPHiDDify-PaNEL.PaGeS.DEV&type=ws&path=%2F&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-45.205.0.50:443
 vless://4bb53d72-8d13-437e-861f-bd0919ddc81f@172.67.172.97:443?security=tls&sni=ParvizsaBeTI-2bo.PAgES.DeV&type=ws&host=paRVizsaBETI-2Bo.pAges.dev&path=%2F4oyQliblS2OjQ0ka%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.172.97:443
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.26.9.156:443?security=tls&sni=zdy306.kpcloud.eu.org&type=ws&path=/blue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.9.156:443
+vless://9e67f15c-178f-494c-a843-f371e3b3fa5d@172.67.95.232:8080?security=none&type=ws&host=king1980.b91sptsl.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.95.232:8080
+vless://7da383f5-e626-4f8a-8db9-00e736e9de26@104.21.73.23:2053?security=tls&sni=uciran-uciran-uciran-uciran-uciran-uciran-uciran-uciran8.nimoxof961.workers.dev&type=ws&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.73.23:2053
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.237.0.31:8443?security=tls&sni=zdy226.kpcloud.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇸🇬 SG-47.237.0.31:8443

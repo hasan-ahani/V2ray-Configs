@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://76ceaba4-e284-4b0a-972a-769f3e6740b2@104.21.43.13:443?security=tls&sni=kanal-falcunargo.vadaxeg726.workers.dev&type=ws&host=kanal-falcunargo.vadaxeg726.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.43.13:443
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.221.154:443?security=tls&sni=jd.wxgqlfx.top&type=ws&host=jd.wxgqlfx.top&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.221.154:443
-vless://feb31976-2a9d-40ec-e346-d9d7fcd38027@172.67.221.169:443?security=tls&sni=behemoth.wavap50279.workers.dev&type=ws&host=behemoth.wavap50279.workers.dev&path=/downloader/30836&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.221.169:443
-vless://9af28087-87e6-44ae-a6e0-51852ecab457@104.21.44.13:8443?security=tls&sni=store.mtahaa.sbs&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.44.13:8443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@61.220.41.143:36633?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇹🇼 TW-61.220.41.143:36633
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@168.100.6.53:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-168.100.6.53:443
 vless://ca510fb3-9a46-4b3c-a2a6-4c80a6431bd9@172.66.47.158:2052?security=none&type=ws&host=KCAGlE.eiTAa.biO&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.47.158:2052
@@ -83,3 +79,7 @@ vless://4b519a00-d905-46ce-934c-19372922b859@185.143.232.200:443?security=tls&sn
 vless://4989199e-2346-45dd-9e68-561bd2606359@104.21.12.150:2095?security=none&sni=nl8.vlessx.us&type=ws&path=CHANNEL-@ARCHIVE_ANDROID-@ARCHIVE_ANDROIDTelegram-@Archive_Android-Telegram-@Archive_Android-Telegram-@Archive_Android-Telegram-@Archive_Android#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.12.150:2095
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@129.154.192.228:55040?security=tls&sni=kk313.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇰🇷 KR-129.154.192.228:55040
 vless://13be7b64-8a46-4724-9cf2-4c7eddd4c56b@104.18.219.128:2096?security=tls&sni=sPeEd.vbox778.info.&type=grpc&fp=firefox&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.219.128:2096
+vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.17.88.212:443?security=tls&sni=bPb.rAdicaLIzatioN.IR&type=ws&host=bPb.rAdicaLIzatioN.IR#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.88.212:443
+vless://fb301d2e-4430-4b41-95d6-764460b8ef13@104.17.8.241:2053?security=tls&sni=9b56CFEe5b258C44c45bA18FA122293.mIToweAr.cOm&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.8.241:2053
+vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@37.123.197.170:30803?security=tls&sni=547c921f-c9b1-4d57-bb25-ff5c79749783.a09c5a67-316e-45c6-a051-e6066737fd47.theworkpc.com&type=ws&path=%2Fpasge.pages.dev%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇯🇵 JP-37.123.197.170:30803
+vless://916c9035-b5d2-4afa-a00a-93c44324db48@104.31.16.65:2087?security=tls&sni=xnxv2ray.mioRay.cfd&type=grpc&serviceName=Telegram:@XNXV2RAY,Telegram:@XNXV2RAY,Telegram:@XNXV2RAY,Telegram:@XNXV2RAY,Telegram:@XNXV2RAY,Telegram:@XNXV2RAY,Telegram:@XNXV2RAY&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.31.16.65:2087

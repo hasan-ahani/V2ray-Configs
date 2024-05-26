@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.26.9.156:443?security=tls&sni=zdy306.kpcloud.eu.org&type=ws&path=/blue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.9.156:443
-vless://9e67f15c-178f-494c-a843-f371e3b3fa5d@172.67.95.232:8080?security=none&type=ws&host=king1980.b91sptsl.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.95.232:8080
-vless://7da383f5-e626-4f8a-8db9-00e736e9de26@104.21.73.23:2053?security=tls&sni=uciran-uciran-uciran-uciran-uciran-uciran-uciran-uciran8.nimoxof961.workers.dev&type=ws&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.73.23:2053
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.237.0.31:8443?security=tls&sni=zdy226.kpcloud.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇸🇬 SG-47.237.0.31:8443
 vless://e64b691d-086d-4fa3-e27e-cbd707b761e7@146.19.233.85:443?security=tls&sni=de1.alphav2ray.link&type=grpc&allowInsecure=1#🔒 VL-GRPC-TLS 🇩🇪 DE-146.19.233.85:443
 vless://2f8c5e4a-ccb2-4da8-bbfc-ab5d1e31f2df@172.67.191.234:443?security=tls&sni=fR1-vlESs.SSHmax.XYz&type=ws&host=fR1-vlESs.SSHmax.XYz&path=%2Fvless&fp=random&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.191.234:443
 vless://62f6b891-7988-4392-88c7-14134bb3ffa9@172.67.218.140:2083?security=tls&sni=yasin-godrat13.yasinsamieiuu.workers.dev&type=ws&host=yasin-godrat13.yasinsamieiuu.workers.dev&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.218.140:2083
@@ -83,3 +79,7 @@ vless://7f067a77-c1f6-4edb-a3d9-291b1ec24b0c@172.64.28.12:2096?security=tls&sni=
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.24.197.20:443?security=tls&sni=936a99B4.Vde5-MlX81LANeo.pAgES.dEv&type=ws&host=936a99B4.vDE5-MLx81LANeO.pAgeS.DEV&path=%2FKkhHL0gsSoZ7M6id%2FZGU1Lm1lcmxpbm56Lmxpbms%3D%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.197.20:443
 vless://07342ff4-57be-46c7-9080-4b2b7e1f8a7e@104.17.247.203:8080?security=none&sni=nl4.vlessx.us&type=ws#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.247.203:8080
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@222.103.130.244:38932?security=tls&sni=xin226.ylks.link&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇰🇷 KR-222.103.130.244:38932
+vless://4c03d139-631b-41dd-be68-933c3df0d7c2@172.64.33.100:443?security=tls&sni=qifei2024.dns.army&type=ws&host=qifei2024.dns.army#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.33.100:443
+vless://019a0361-0c89-4038-9948-17d56328fdbd@5.202.74.9:8443?security=none&type=tcp&host=www.speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.202.74.9:8443
+vless://e7d59303-ea07-4206-8035-5d83f2eba4e0@188.114.98.224:8880?security=none&type=ws&host=2.V2ray.debian.org.fxp.debian.org.speedtest.net.zula.ir.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95%E3%82%89%E3%82%8F.mralpha-vpn.COM.&path=%2FTelegram-thunderv2ray%2CTelegram-thunderv2ray%2CTelegram-thunderv2ray%2CTelegram-thunderv2ray%2CTelegram-thunderv2ray%2CTelegram-thunderv2ray%2CTelegram-thunderv2ray%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.98.224:8880
+vless://20b39f98-f154-47fa-ae5f-b319b4d5acb0@172.64.173.7:80?security=none&type=ws&serviceName=@VPNHUB69-Telegram-VPNHUB69-@VPNHUB69-Telegram-@VPNHUB69-Telegram-@VPNHUB69&host=meandyouuuuuuu.nursiii.shop&path=%2F%40Netmaask#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.173.7:80
