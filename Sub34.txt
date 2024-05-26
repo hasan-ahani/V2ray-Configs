@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://696926f0-ffd8-5bc0-bebf-4db4e4260d64@104.21.17.156:2096?security=tls&sni=esetsecuritylicense.ybvmit.woRKErS.deV&type=ws&host=esetsecuritylicense.ybvmit.woRKErS.deV&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.17.156:2096
-vless://283516af-082c-4f67-b392-ea3add35b9c1@172.67.144.15:443?security=tls&sni=vvv.v2ray96.filegear-sg.me&type=grpc&serviceName=188.114.99.0&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.144.15:443
 vless://85e83afb-187f-4015-9e55-2cc4f093ee51@162.159.153.2:2095?security=none&type=ws&host=shhi.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&path=%2FZEDMODEON-ZEDMODEON-ZEDMODEON#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.153.2:2095
 vless://54ef4ecf-ff37-436a-be13-95c8a8a1114d@188.121.118.55:443?security=tls&sni=vIrGiNiAvPn-nL.pAgEs.dEv&type=ws&host=ViRgInIaVpN-Nl.PaGeS.DeV&path=/?ed#🔒 VL-WS-TLS 🇮🇷 IR-188.121.118.55:443
 vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@104.21.59.95:443?security=tls&sni=w1.sylar8.eu.org&type=ws&host=w1.sylar8.eu.org&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.59.95:443
@@ -83,3 +81,5 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.161:443?security=tls&sni=
 vless://696064fe-32c0-431e-b6d6-6e2b826d9045@104.18.26.94:443?security=tls&sni=esetsecuritylicense.qjuqfk.workers.dev&type=ws&host=esetsecuritylicense.qjuqfk.workers.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.26.94:443
 vless://d6f2a18c-c334-4cda-a14a-362390cfde40@172.67.156.241:2083?security=tls&sni=selinc---6---selinc---6---selinc.gxjuztaq.workers.dev&type=ws&host=selinc---6---selinc---6---selinc.gxjuztaq.workers.dev&path=vless-ws%2F%3Fed%3D2048&fp=safari&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.156.241:2083
 vless://c4f2ca21-9cfd-404d-99d7-4148b8f3ed9f@104.18.203.232:8080?security=none&type=ws&host=xn--047h.iman-v2ray.sbs.&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.203.232:8080
+vless://d39ab667-829c-4db5-95d8-d8232dfb0b1b@46.102.137.45:4440?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-46.102.137.45:4440
+vless://f68b1ea9-3c4e-405a-98b1-35ee3db36000@172.64.170.160:80?type=ws&path=/graphql#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.170.160:80
