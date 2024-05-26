@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://01ab9337-f478-4765-9534-88f009f83ddb@101.36.127.49:443?security=tls&sni=aut226.ylks.link&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇭🇰 HK-101.36.127.49:443
-vless://962a733d-26d7-108d-7fa6-a8102ffea8eb@172.67.193.154:443?security=tls&sni=vowelquran18.xyz&type=ws&path=/current_time&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.193.154:443
-vless://7767dcb7-8f55-4fb0-8d65-aeb021d5f730@104.18.19.191:2096?security=tls&sni=kanal.metesla.site&type=grpc&serviceName=@global_net_vpn&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.19.191:2096
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.110.67:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.110.67:443
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@47.236.117.48:2087?security=tls&sni=tg.dns68.cloudns.nz&type=ws&host=tg.dns68.cloudns.nz&fp=chrome#🔒 VL-WS-TLS 🇸🇬 SG-47.236.117.48:2087
 vless://5461ab39-3c39-4f70-8cea-471f3ab58543@188.114.96.3:8880?security=none&type=ws&host=xn--v2ray-qhantayawi--a-mwxzc08arba93xpvac79043ht5ia.xn--v2-gn1d638jbjx.xyz.&path=%2F%40L%49%47HTNING6-TEL--%40L%49%47HTNING6-TEL--%40L%49%47HTNING6-TEL--%40L%49%47HTNING6-JOIN-%40L%49%47HTNING6-TEL--%40L%49%47HTNING6-JOIN-%40L%49%47HTNING6-TEL-%40L%49%47HTNING6-TEL--%40L%49%47HTNING6-JOIN-%40L%49%47HTNING6-TEL--%40L%49%47HTNING6-%40LiV2ray%3Fed%3D1024#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.96.3:8880
@@ -83,3 +80,6 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.135.172:443?security=tls&sni
 vless://5fd30283-078d-4ee6-873b-4ecb8fec1958@162.159.136.234:2082?security=none&type=ws&host=none.error_none.error_10101010.iRAN-chEck-hOst-SERVER-sitesssssssssssssssssssssss--sssssssssss.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.136.234:2082
 vless://502f1a41-96df-4d6c-8a3b-26781e795893@104.16.106.32:8880?security=none&type=ws&host=sinadfa.dugjup.workers.dev&path=%2FTELEGRAM%40AZARBAYJAB1T%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.106.32:8880
 vless://4ebe2e07-b0e4-4df1-9d61-9a513499743c@94.101.187.138:443?security=none&type=ws&path=/dr#🔒 VL-WS-NONE 🇮🇷 IR-94.101.187.138:443
+vless://38535031-ccc3-4a94-bd54-c68806486406@172.67.70.118:443?security=tls&sni=furina.yaemiko.cloudns.org&type=ws&host=furina.yaemiko.cloudns.org&path=%2Fed%3F%3D2560&fp=random&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.70.118:443
+vless://283516af-082c-4f67-b392-ea3add35b9c1@104.21.28.38:443?security=tls&sni=vvv.v2ray96.filegear-sg.me&type=grpc&serviceName=188.114.99.0&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.28.38:443
+vless://52a49c8b-680d-4e13-9799-7fb384d5c88b@104.21.78.235:443?security=tls&sni=fast-cd.iraniposhal.ir&type=ws&host=fast-cd.iraniposhal.ir&path=%2F&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.78.235:443

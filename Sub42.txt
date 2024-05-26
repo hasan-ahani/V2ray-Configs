@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@60.246.180.236:32544?security=tls&sni=tg.dns68.cloudns.nz&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇲🇴 MO-60.246.180.236:32544
-vless://6e662b78-dcba-4fc8-a77f-b246b70bddf2@37.152.183.121:8080?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇮🇷 IR-37.152.183.121:8080
-vless://2ca42987-551b-4494-a854-da2d9178f4cd@172.67.132.209:2087?security=tls&sni=KxQhHtGc22.zImBa-zUlA.OrG&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.132.209:2087
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.52.134:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.52.134:443
 vless://7bedf632-b4c2-4e90-9d8b-f42ee7145534@172.66.43.138:443?security=tls&sni=shinobbbnbu.yaemiko.cloudns.org&type=ws&host=shinobu.yaemiko.cloudns.org&path=%2F&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.43.138:443
 vless://e6f5af02-51f0-476f-9373-f6831613624d@188.114.97.0:8443?security=tls&sni=hahaghgh.servernet.cfd&type=grpc&serviceName=%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-188.114.97.0:8443
@@ -83,3 +80,6 @@ vless://0814dc8c-3cfc-4e06-9561-98d23dd0bf66@104.21.28.94:443?security=tls&sni=n
 vless://90315e1e-21da-49df-b9cf-c0202f3a208e@62.60.178.72:443?type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NA 🇺🇸 US-62.60.178.72:443
 vless://d744c466-7e55-4cd3-a69e-ffbc1eddf692@107.191.62.255:56701?security=none&type=tcp#🔒 VL-TCP-NONE 🇫🇷 FR-107.191.62.255:56701
 vless://ffffffff-17ad-45e7-aaa1-f2baaa08e930@141.101.113.89:443?security=tls&sni=watashi.free.hkpublic.moh539.link&type=ws&host=watashi.free.hkpublic.moh539.link#🔒 VL-WS-TLS 🏴‍☠️ NA-141.101.113.89:443
+vless://1a29526b-4617-49eb-8660-5bb369254459@172.66.44.231:8443?security=tls&sni=pardazeshvpn-tg63.pages.dev&type=ws&host=pardazeshvpn-tg63.pages.dev&path=%2FTelegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.231:8443
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@94.242.231.244:2053?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F#🔒 VL-WS-TLS 🇱🇺 LU-94.242.231.244:2053
+vless://678ac895-92c2-4f27-a9d4-f1a89c5f5365@168.100.6.132:2087?security=tls&sni=mositr.freenods.sbs&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-168.100.6.132:2087

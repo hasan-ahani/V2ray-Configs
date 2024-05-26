@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://telegram-id-privatevpns@13.50.206.163:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.50.206.163:22222
-trojan://2997aacd-4f1b-42fb-b225-c1596f9ca5c1@173.245.49.29:443?security=tls&sni=P5LXKRo.diamondgalery.ir&type=grpc&serviceName=U13Hsk6pJ3kzSE4vrlte50vDf&fp=chrome&alpn=h2#🔒 TR-GRPC-TLS 🏴‍☠️ NA-173.245.49.29:443
-trojan://kh06dw8cR3@212.183.88.157:8443?security=tls&sni=YeRt5yct6uv-VI57fc7yvjFy-Njdyy7hcUf5rcy.danesh-bonyan.Store&type=ws&host=eiiim.danesh-bonyan.store&path=join.----------------Telegram-EiiiM----------------Telegram-EiiiM---------------.Telegram-EiiiM.#🔒 TR-WS-TLS 🇦🇹 AT-212.183.88.157:8443
 trojan://299025b9-6b55-430c-be38-9a18c06873ac@112.26.33.81:12034?sni=china3.one.edu.kg&allowInsecure=1#🔒 TR-TCP-NA 🇨🇳 CN-112.26.33.81:12034
 trojan://j0GM8nFJVq@167.71.209.134:443?security=tls&sni=aka.ms&type=tcp#🔒 TR-TCP-TLS 🇸🇬 SG-167.71.209.134:443
 trojan://9yu6m5okr@172.67.198.177:443?security=tls&sni=production.tj.ojan.workers.dev&type=ws&host=production.tj.ojan.workers.dev&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.198.177:443
@@ -83,3 +80,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@51.112.118.115:443#�
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@149.202.82.172:7001#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:7001
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.75.137.42:9101#🔒 SS-TCP-NA 🇺🇸 US-38.75.137.42:9101
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.86.135.225:8882#🔒 SS-TCP-NA 🇺🇸 US-38.86.135.225:8882
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3UU9VeFlsZ1hsS3hXU3dGc1JVNkRF@146.19.233.101:29682#🔒 SS-TCP-NA 🇩🇪 DE-146.19.233.101:29682
+ss://YWVzLTEyOC1nY206VzFDMlBrTFhYOUN5OUZWQy1MdkpWQQ==@94.228.162.91:2060#🔒 SS-TCP-NA 🇫🇷 FR-94.228.162.91:2060
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZzBLa01qYkdkSkVo@212.192.9.220:998#🔒 SS-TCP-NA 🇳🇱 NL-212.192.9.220:998

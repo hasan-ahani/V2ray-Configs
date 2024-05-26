@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://b9855ce6-9aba-460e-bf45-e6b72be25cff@104.21.63.156:443?security=tls&sni=recvpn-recnew-itworld.rivasmed.com&type=ws&host=recvpn-recnew-itworld.rivasmed.com&path=%2Fitworld%2F12250#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.63.156:443
-vless://243b2f02-9529-4bb5-b111-25debfdf466b@188.114.98.225:2083?security=tls&sni=All.AbrArvan.Org&type=grpc&serviceName=@V2rayeServers@V2rayeServers&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-188.114.98.225:2083
-vless://9e1616dc-3d46-4da4-8abc-1f613760fe00@172.67.156.210:2096?security=tls&sni=re4.v2logy.xyz&type=grpc&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.156.210:2096
 vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@104.20.224.95:2087?security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&type=ws#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.224.95:2087
 vless://9e67f15c-178f-494c-a843-f371e3b3fa5d@172.67.143.22:8080?type=ws&host=king1980.b91sptsl.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.143.22:8080
 vless://a0514d9b-d109-47fd-b173-1e7f83268f21@66.235.200.78:2082?security=none&type=ws&host=vNLu2Zx.kallepache.store&path=/graphql#🔒 VL-WS-NONE 🇺🇸 US-66.235.200.78:2082
@@ -83,3 +80,6 @@ vless://7b0cd783-4d2a-4d4a-a1bb-66a98e3a85cb@104.24.95.58:2096?security=tls&sni=
 vless://01ab9337-f478-4765-9534-88f009f83ddb@47.236.180.51:2083?security=tls&sni=aut226.ylks.link&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇬 SG-47.236.180.51:2083
 vless://e4e7b149-8bd8-4266-8cbb-0987604dbc87@104.17.50.197:443?security=tls&sni=toujiediansigema.5112233.xyz&type=ws&host=toujiediansigema.5112233.xyz&path=TG%40juzibaipiao%E5%81%B7%E8%8A%82%E7%82%B9%E6%AD%BB%E5%90%97#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.50.197:443
 vless://85e5b93d-3191-4516-98f4-53a246f35ec4@62.60.179.165:40160?security=none&type=tcp&host=speedtest.net&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇺🇸 US-62.60.179.165:40160
+vless://908aac8f-e6d7-48ea-99e1-5de09c712d71@104.21.63.77:2083?security=tls&sni=d.nonoall.com&type=grpc&serviceName=@v2ray_nonoal,@v2ray_nonoal,@v2ray_nonoal,@v2ray_nonoal,@v2ray_nonoal,@v2ray_nonoal,@v2ray_nonoal,@v2ray_nonoal,@v2ray_nonoal,@v2ray_nonoal,@v2ray_nonoal,@v2ray_nonoal,@v2ray_nonoal&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.63.77:2083
+vless://cdb15365-1ccb-4d5a-a5d9-6fb08d3c75ac@104.16.3.35:8880?security=none&type=ws&host=mahdihector.kewojod243.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.3.35:8880
+vless://f9d617c9-8d17-4b67-8c85-07d32a2e5b56@172.64.23.67:80?security=none&type=ws&host=Usaaa.Elmahstyle.ir#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.23.67:80
