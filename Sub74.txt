@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://3cdbc462-6272-4c2a-9a2d-1525a81c7dfa@172.67.217.13:443?security=tls&sni=xeeqi.kevani8800.workers.dev&type=ws&host=xeeqi.kevani8800.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.217.13:443
-vless://664f5f11-1231-486d-b416-b7b3ecdae76a@104.19.130.28:443?security=tls&sni=HETZNER-D.pages.DEV&type=ws&host=HETZNER-D.pages.DEV&path=%2F%3Fed%3D2048&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.130.28:443
-vless://a84902cb-0576-4fae-a047-d706fa3f06f0@104.21.4.130:443?security=tls&sni=WorKeR-lAte-SurF-2A11.cLAShinFaz4.WORkerS.DEV&type=ws&host=worKer-LaTe-sURF-2A11.ClAshiNfaz4.woRkErs.DEV&path=%2F0JRBbR13RmMJf-WZ%3Fed%3D2048&fp=randomized&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.4.130:443
-vless://7d370c34-bcec-4cff-a39b-518bc0ab4854@162.159.141.116:443?security=tls&sni=zac1.striside.com&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.141.116:443
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.133.62:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.133.62:443
-vless://fbc0ecd4-9fd3-4533-8df7-33d29493ff65@188.114.98.255:443?security=tls&sni=mwa100100m.a2c6ec2a96.workers.dev&type=ws&host=mwa100100m.a2c6ec2a96.workers.dev&path=%2F%3Fed%3D2560&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.255:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.20.123.173:443?security=tls&sni=EA6530e9.nXZu-61iuaN-xD.PageS.DEV&type=ws&host=EA6530e9.nXzu-61iuAn-XD.PaGEs.dEV&path=%2F..TeleGram..%40Free_V2rng..%3D%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.123.173:443
 vless://b7666137-84cd-4731-a2b4-3d0d4091f100@188.114.99.99:8080?security=none&type=ws&host=moham.net.93djh3qwtest.comxn--jhdcjhwe2381.jhdjhw3.hjdwhcedcxhws3h.wirepro.fpsvpn.SHOP.&path=newproxy-newproxy-newproxy-newproxy-newproxy%3Fed%3D80#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.99.99:8080
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@8.210.65.1:2096?security=tls&sni=tg.dns68.cloudns.nz&type=ws&host=tg.dns68.cloudns.nz&fp=chrome#🔒 VL-WS-TLS 🇭🇰 HK-8.210.65.1:2096
@@ -83,3 +77,9 @@ vless://fb301d2e-4430-4b41-95d6-764460b8ef13@141.193.213.247:2053?security=tls&s
 vless://64921a6f-d4ca-4f4c-b279-73b96e32a9d3@104.21.49.245:443?security=tls&sni=z-v2-007203.kailib.com&type=ws&host=z-v2-007203.kailib.com&path=%2Fstore%3Fed#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.49.245:443
 vless://10716279-b1ee-41d8-b63e-87782088305b@104.25.93.21:443?security=tls&sni=maMANe-filterchi.paGES.DeV&type=ws&host=MAMAnE-FiltERCHi.pages.dEV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.93.21:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.19.46.194:8080?security=none&type=ws&host=abaaba.9pcvkb68.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.46.194:8080
+vless://4e09f6a9-5c30-4d1a-9532-6310fd6d3a8d@95.38.200.73:8443?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-95.38.200.73:8443
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.16.152.132:443?security=tls&sni=KWOdphURST8jSJGgLs4.goteli.com&type=ws&host=KWOdphURST8jSJGgLs4.goteli.com&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.152.132:443
+vless://4045c6b7-1d53-4574-98cd-df21db40b0dc@104.16.68.38:2053?security=tls&sni=itcenteriran.blog&type=ws&host=itcenteriran.blog#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.68.38:2053
+vless://dfd87a9f-98db-46ff-b483-301897411931@104.19.140.4:2087?security=tls&sni=virapn-t-3be7883659a1d2ba4c545dfdf85b61eda1.asiatechnicalwest.ir.&type=grpc&serviceName=@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN&fp=firefox#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.19.140.4:2087
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@35.230.79.26:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇺🇸 US-35.230.79.26:443
+vless://df471c1e-7f41-4fce-9a94-e63a53baaa80@162.159.128.233:8080?security=none&type=ws&host=de2.过滤器.store.&path=/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.128.233:8080

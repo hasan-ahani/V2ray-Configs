@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://e82351c5-c339-4d48-b90d-3524c5547912@142.93.166.107:443?security=reality&sni=*.partyverleih-glauberg.de&type=grpc&serviceName=@ipV2Ray&fp=chrome&pbk=LD8y7bs5T8tNSLcB83NQXpo0_LfHk76WWykNwXJRG3I&sid=304a9854#🔒 VL-GRPC-RLT 🇩🇪 DE-142.93.166.107:443
-vless://ba938007-2c93-4d5b-9472-77ac0c76f477@192.248.181.165:39578?security=reality&sni=lw.lizard2shop.com&type=grpc&fp=chrome&pbk=vPrWZG2z6yJ9ZFkGJqOtaiPeAUDLlkUQsLztVO3XBCo&sid=4ab5ec25#🔒 VL-GRPC-RLT 🇩🇪 DE-192.248.181.165:39578
-vless://b524a41e-c80d-4743-a280-353aeb04078a@104.168.107.230:9631?security=reality&flow=xtls-rprx-vision&sni=ftp.debian.org&type=tcp&fp=chrome&pbk=8BiQIRM0TBZUpRwiB6vsfTPOj4AJoYd1dvX65GhfFW4&sid=a41cc82f29d6308c#🔒 VL-TCP-RLT 🇺🇸 US-104.168.107.230:9631
-vless://b948668e-ddcf-4b98-bf7c-f4a1c59b7e9b@65.109.193.242:443?security=reality&sni=tuyaus.com&type=tcp&fp=chrome&pbk=Pm1_UsePgo_9LccEkdYOYPEK0UMo4zOp3xlTO1eD20E&sid=6274b424#🔒 VL-TCP-RLT 🇫🇮 FI-65.109.193.242:443
-vless://a2db6566-32c7-4e6e-89d7-b258ff55959f@111.251.151.20:5442?security=reality&flow=xtls-rprx-vision&sni=www.yam.com&type=tcp#🔒 VL-TCP-RLT 🇹🇼 TW-111.251.151.20:5442
-vless://423456a7-7895-49fc-8589-d4d5ebc26b3d@128.140.44.61:443?security=reality&sni=baharan.net&type=grpc&serviceName=@ipV2Ray&fp=chrome&pbk=mgAFVACxJq3PAcJ-MotpvLU8jRYZ30nYXgekSUL5gH8&sid=420f8f45#🔒 VL-GRPC-RLT 🇩🇪 DE-128.140.44.61:443
 vless://46aa0425-a78b-4ddd-87e8-192ad5decae3@80.79.114.80:443?security=reality&flow=xtls-rprx-vision&sni=vk.com&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒 VL-TCP-RLT 🇪🇪 EE-80.79.114.80:443
 vless://adb43775-69bc-4e9b-ab89-11bd0119b4d1@109.120.132.49:443?security=reality&sni=discord.com&type=grpc&serviceName=@set_v2ray&fp=chrome&pbk=gAymTO5UH0P8qeq2DnuoSRpS-avABWNbfMDV1CWyVmc&sid=17449045#🔒 VL-GRPC-RLT 🇸🇪 SE-109.120.132.49:443
 vless://fb88c50f-c41b-4190-a9c2-b13cc0087c49@109.68.213.105:43151?security=reality&sni=cdn.discordapp.com&type=grpc&serviceName=%40aklisvpn&fp=safari&pbk=BBRvgVf8Ewh7RTJupchXCMx5C7jj_bnYJDJnBXar7E8&sid=bd9c9215#🔒 VL-GRPC-RLT 🇷🇺 RU-109.68.213.105:43151
@@ -83,3 +77,9 @@ vless://de44b044-8f90-4e18-b742-16591667ff96@172.66.47.196:443?security=tls&sni=
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@162.159.200.1:443?security=tls&sni=xxx.donated001.workers.dev&type=ws#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.200.1:443
 vless://6e569c43-f7e6-4ab7-b3a7-f616a39ff6a1@104.21.70.11:8080?security=none&type=ws&host=dw.huondadalioshop.ir#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.70.11:8080
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.16.142.237:8443?security=tls&sni=jp022.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.142.237:8443
+vless://dda2dda8-7105-4e03-8668-ef7f1295d757@188.114.98.224:2095?security=none&type=ws&host=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.98.224:2095
+vless://e3c69f01-c3ee-46eb-adb1-e013e455e657@172.67.73.216:443?security=tls&sni=dm.irandtehran.org&type=grpc&serviceName=@ipV2Ray&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.73.216:443
+vless://b91b3053-9602-4a60-b848-ec0eafea8443@172.67.204.84:8443?security=tls&sni=zLeaEPWxq6OsIcTJojgg7uROIDxE3dBUXkB4H262UyMsvtKNZxw5fLzB1MD.PAGes-DeV.SiTe&type=ws&host=zLeaEPWxq6OsIcTJojgg7uROIDxE3dBUXkB4H262UyMsvtKNZxw5fLzB1MD.PAGes-DeV.SiTe&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.204.84:8443
+vless://9e1616dc-3d46-4da4-8abc-1f613760fe00@104.18.203.232:2096?security=tls&sni=re4.v2logy.xyz&type=grpc&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.203.232:2096
+vless://d3a12e79-ef42-4268-b367-42eeb3494e60@172.66.44.197:443?security=tls&sni=Hagh.PaGes.DEv&type=ws&host=Hagh.PaGes.DEv#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.197:443
+vless://b75e75d2-ca27-4027-8d6f-128d04a45354@104.31.16.196:80?security=none&type=ws&host=svnprobotv2rayrsone6.9.6.9.ir.shop.com.xn--fhqpqv8rrth13sbaaac958pc94anf0d8gmha8i.shop.&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.31.16.196:80

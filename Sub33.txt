@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.176.24.64:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-185.176.24.64:443
-vless://6d6cab4a-13e9-4c2f-b1c2-d34cdd28215d@172.66.44.201:443?security=tls&sni=pardazeshvpn-tg19.pages.dev&type=ws&host=pardazeshvpn-tg19.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.201:443
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@151.145.70.243:443?security=tls&sni=v022.ylks.link&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇯🇵 JP-151.145.70.243:443
-vless://66af69cb-128f-4dd7-9db1-40ec31d2b9b9@104.26.7.5:443?security=tls&sni=cddtw.sdb5j.workers.dev&type=ws&host=cddtw.sdb5j.workers.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.7.5:443
-vless://b81edee6-a129-4160-ad29-488f0b5d81b4@104.24.180.16:2087?security=tls&sni=vpn-ocean4.cdn-user2.workers.dev&type=ws&host=vpn-ocean4.cdn-user2.workers.dev&path=vless-ws%2F%3Fed%3D2048&fp=safari&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.180.16:2087
-vless://fe64cd72-3288-4c31-9b09-fff9b26b7437@185.143.232.200:80?type=ws&host=free-02.artemis-03.sbs&path=/@Artemis_vpn#🔒 VL-WS-NA 🇮🇷 IR-185.143.232.200:80
 vless://92c12734-d19e-40a1-f7a2-1735711d039b@104.21.25.178:443?security=tls&sni=slayer.mestavorze.workers.dev&type=ws&host=slayer.mestavorze.workers.dev&path=/downloader/32185&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.25.178:443
 vless://9bc90ddf-b865-47cc-9f97-9d5ea3bca89f@104.21.78.131:443?security=tls&sni=vl31.rnd.biz.id&type=ws&host=vl31.rnd.biz.id#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.78.131:443
 vless://04672bf7-9d44-4edf-9222-dfbfb8f74a1f@91.194.11.168:2003?security=tls&sni=ca-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇨🇦 CA-91.194.11.168:2003
@@ -83,3 +77,9 @@ vless://08ff0d19-f06e-4cf9-948d-5b26d13ebaa6@185.146.173.58:2096?security=tls&sn
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.215:2087?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.215:2087
 vless://3f435429-081a-41e0-8e77-f21e8a51fbbf@188.114.97.12:443?security=tls&sni=VirgInIaVpn.PaGes.DeV&type=ws&host=VirginiaVpn.Pages.DEV&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.12:443
 vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@172.67.188.134:443?security=tls&sni=ahmedquran19.xyz&type=ws&path=%2Fcurrent_time&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.188.134:443
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@79.99.31.19:2083?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇳🇱 NL-79.99.31.19:2083
+vless://f3b622d4-08bb-47b4-9606-7dafd6071c73@172.67.158.49:443?security=tls&sni=ashburn.omega-dic.workers.dev&type=ws&host=ashburn.omega-dic.workers.dev&path=%2Fbs55Ovr86OzuubiHi#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.158.49:443
+vless://2f7491f6-c12a-46d4-88fe-79436ed03b44@162.159.62.69:80?type=ws&host=7fe600d3b53c4bb9de9c863cad96d1.nv2ron.ir&path=%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%3Fed%3D2048#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.62.69:80
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@77.37.33.156:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇩🇪 DE-77.37.33.156:8443
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@172.67.199.233:443?security=tls&sni=kk022.ylks.link&type=ws&path=%2Fyoutube-%E7%94%B1%E9%9B%B6%E9%96%8B%E5%A7%8B#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.199.233:443
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@185.18.250.25:443?security=tls&sni=xin226.ylks.link&type=ws&path=/proxyip#🔒 VL-WS-TLS 🇨🇭 CH-185.18.250.25:443
