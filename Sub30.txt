@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://1622d31e-9023-4f1a-b553-9d10d7d2da90@156.225.72.135:443?security=tls&sni=free-sweden-c8f4261f9f46e6465709e17ebea7a92b.mitowear.com&type=ws&host=free-sweden-c8f4261f9f46e6465709e17ebea7a92b.mitowear.com#🔒 VL-WS-TLS 🇺🇸 US-156.225.72.135:443
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@66.81.247.19:443?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-66.81.247.19:443
+vless://f06ac303-e626-451d-bcfc-ee825ee69398@104.19.189.243:443?security=tls&sni=aZadNEt-sEmEj.paGES.dEv&type=ws&host=AzAdnET-semEj.PaGes.Dev&path=/&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.189.243:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@194.36.55.97:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇬🇧 GB-194.36.55.97:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@94.140.0.23:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇦🇪 AE-94.140.0.23:443
 vless://d18d7d62-40ba-4588-a7b2-88e89db32557@104.27.19.141:8443?security=tls&sni=off.v2box.lol.&type=grpc&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.27.19.141:8443
@@ -80,6 +83,3 @@ vless://a2dadb95-3f15-4e1c-b517-0b54c336a5fd@104.21.12.150:2082?security=none&ty
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@204.93.210.191:8443?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-204.93.210.191:8443
 vless://12ef2fb8-4c06-4e9e-b1b6-0dbde357790b@172.67.193.36:2087?security=tls&sni=arguvpnnn.v2raycfz.cloud&type=grpc&serviceName=www.speedtest.net&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.193.36:2087
 vless://935705ed-576b-45a1-fa6c-60e911678a68@172.67.193.36:8880?security=none&type=ws&host=kiava.aws.amazon.com.fxp1.debian.org.speedtest.net.xn--mgba2h8quf.kiava.fun#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.193.36:8880
-vless://9221b170-e8a3-4abf-a303-224b31558ec3@104.25.255.244:443?security=tls&sni=cc2.kosnanatfilterchi.eu.org&type=ws&host=cc2.kosnanatfilterchi.eu.org&path=%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.255.244:443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@210.186.12.244:443?security=tls&sni=kk306.ylks.link&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇲🇾 MY-210.186.12.244:443
-vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@104.20.156.248:443?security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&type=ws#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.156.248:443
