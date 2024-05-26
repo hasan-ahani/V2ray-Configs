@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://c69ab9d1-756e-4a12-8bf1-20f3cffe8268@104.26.14.85:2083?security=tls&sni=ErFaN2.aSdBeWg.SbS.&type=ws&host=ErFaN2.aSdBeWg.SbS.&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.14.85:2083
-vless://f68b1ea9-3c4e-405a-98b1-35ee3db36000@172.64.170.160:80?type=ws&path=/graphql#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.170.160:80
-vless://ffffffff-17ad-45e7-aaa1-f2baaa08e930@141.101.113.89:443?security=tls&sni=watashi.free.hkpublic.moh539.link&type=ws&host=watashi.free.hkpublic.moh539.link#🔒 VL-WS-TLS 🏴‍☠️ NA-141.101.113.89:443
-vless://51baeda8-1288-458a-b5ae-b8b080b937b6@104.27.1.52:8880?security=none&type=ws&host=cherry.berry.strawberry.%E6%88%91%E4%BB%AC%E7%94%9F%E6%B4%BB%E5%9C%A8%E8%AF%A5%E6%AD%BB%E7%9A%84%E5%9C%B0%E7%8B%B1%E9%87%8C.shop.&path=%2FTelegram%3A%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%3Fed%3D1024#🔒 VL-WS-NONE 🏴‍☠️ NA-104.27.1.52:8880
-vless://e1ad1088-c7ab-4c06-83b1-27c8188e631b@104.18.15.229:443?security=tls&sni=cpanel.pharmaweb.info&type=ws&host=cpanel.pharmaweb.info&path=/wws&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.15.229:443
 vless://5f15d381-a992-45c8-aaac-5bf46f23c4d0@104.26.3.105:80?security=none&type=ws&host=nikmard.speedvadd.fun&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.3.105:80
 vless://775213ac-3976-439a-8977-3277c0e4735d@94.247.142.241:443?security=tls&sni=fq521.6789.cloudns.be&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇬🇧 GB-94.247.142.241:443
 vless://01ab9337-f478-4765-9534-88f009f83ddb@192.18.134.231:443?security=tls&sni=aut022.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-192.18.134.231:443
@@ -83,3 +78,8 @@ vless://f8276ba9-be27-43bf-8b04-a948c984640d@185.146.173.237:2087?security=tls&s
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.238.228.222:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇪🇸 ES-185.238.228.222:443
 vless://88363077-79d2-441e-b96b-cd8e4346794d@172.67.211.180:8443?security=tls&sni=wed-vip-de-cdall.highposhako.ir&type=grpc&serviceName=abc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.211.180:8443
 vless://a8fa7b1c-a5b0-449b-97f6-e86ae43b95bb@172.64.86.128:8080?security=none&type=ws&host=jogol.amvpn.www.speedtest.net.zula.ir.stopsef.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95%E3%82%89%E3%82%8F.atkfood.com.&path=%2FAmVpn-AmVpn-AmVpn-AmVpn-AmVpnn-AmVpn-AmVpn-AmVpn-AmVpn-AmVpn%3Fed%3D1024#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.86.128:8080
+vless://1702734a-fe43-4b45-8a03-1ef12c5709e5@172.67.143.102:443?security=tls&sni=worker-super-cake-c026.gogoligogoli26.workers.dev&type=ws&host=worker-super-cake-c026.gogoligogoli26.workers.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.143.102:443
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.18.4.237:2087?security=tls&sni=jp022.ylks01.eu.org&type=ws&path=/blue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.4.237:2087
+vless://5c62b24a-2dfe-49c1-8c93-cc2c35bd4f26@172.67.2.238:80?security=none&type=ws&path=%2Fvless-ws%2F%3Fed#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.2.238:80
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@199.181.197.78:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-199.181.197.78:443
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.1.120:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.1.120:443
