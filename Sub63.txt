@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://1bab0961-b22c-411f-b955-09c4aed2d2c1@23.227.39.31:443?security=tls&sni=us3.hnkkt.top&type=ws&path=/gsjc/us3#🔒 VL-WS-TLS 🇨🇦 CA-23.227.39.31:443
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.52.134:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.52.134:443
-vless://2a56380f-8a51-401d-8664-7d6b78f788a0@104.16.4.103:80?type=ws&host=7fe600d3b53c4bb9de9c863cad96d1.nv2ron.ir&path=%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%3Fed%3D2048#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.4.103:80
-vless://c14f397e-682b-4949-fbdd-96b6020e137a@190.93.246.241:2083?security=tls&sni=liV2helj.LIGHTNING6.IR&type=grpc&serviceName=@LIGHTNING6&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-190.93.246.241:2083
 vless://c25d9ab6-b6be-4034-9bb8-966b4651cade@104.21.62.144:2083?security=tls&sni=sauron.melkore.ir&type=ws&host=sauron.melkore.ir&path=/&fp=chrome&alpn=http/1.1,h2,h3#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.62.144:2083
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.20.1.94:443?security=tls&sni=Bia-paIn-BACHe.pAGEs.DEv&type=ws&host=Bia-Pain-BaCHe.pAGes.dEV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.1.94:443
 vless://d92f2c5c-5fe5-4034-b48a-6e50ff820877@104.17.248.203:8080?security=none&sni=de7.vlessx.us&type=ws#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.248.203:8080
@@ -83,3 +79,7 @@ vless://10716279-b1ee-41d8-b63e-87782088305b@104.26.13.31:443?security=tls&sni=m
 vless://1702734a-fe43-4b45-8a03-1ef12c5709e5@104.21.39.52:443?security=tls&sni=worker-super-cake-c026.gogoligogoli26.workers.dev&type=ws&host=worker-super-cake-c026.gogoligogoli26.workers.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.39.52:443
 vless://f0f67b84-2770-4413-8b26-cfb302fac247@104.21.66.93:443?security=tls&sni=v2fly.milik-fukada.eu.org&type=ws&host=v2fly.milik-fukada.eu.org&path=Telegram-V2ray_Alpha%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.66.93:443
 vless://c838f915-90f6-4b3b-9b89-e8cce84d4f26@104.17.223.175:80?security=none&type=ws&host=6.v2ray.bm.nedayevarzesh.ir.newsless.ir.xn--48jyb6ec1ad.tech.irapulsplus.sbs&path=%2Ftelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.223.175:80
+vless://1622d31e-9023-4f1a-b553-9d10d7d2da90@141.193.213.247:443?security=tls&sni=free-sweden-c8f4261f9f46e6465709e17ebea7a92b.mitowear.com&type=ws&host=free-sweden-c8f4261f9f46e6465709e17ebea7a92b.mitowear.com#🔒 VL-WS-TLS 🇺🇸 US-141.193.213.247:443
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@79.99.30.51:2087?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇳🇱 NL-79.99.30.51:2087
+vless://85606548-79e2-41f6-a36f-31a141c45824@104.31.16.92:80?security=none&type=ws&host=heydasfrance.ligerteam.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.31.16.92:80
+vless://e0d87846-4659-40b1-bb31-bffefc606062@185.18.250.232:443?security=tls&sni=CeR5Vwj.gsgsgsg.shop&type=httpupgrade&host=CeR5Vwj.gsgsgsg.shop&path=%2FJfDhd3XZsdZ97Ign&fp=chrome&alpn=http/1.1#🔒 VL-HTTPUPGRADE-TLS 🇨🇭 CH-185.18.250.232:443
