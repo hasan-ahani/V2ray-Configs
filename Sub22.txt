@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://0f43969c-ff93-4080-b821-67fdc90fc074@104.168.107.230:2052?security=reality&flow=xtls-rprx-vision&sni=debian.org&type=tcp&fp=chrome&pbk=kt-d9jx_cCmvmWiL4CP5IPAKHhjAF-oBmsGhyG1U704&sid=7a06db71e78640de#🔒 VL-TCP-RLT 🇺🇸 US-104.168.107.230:2052
 vless://790adf74-4e4d-4ae2-9fc4-121b95f77297@94.130.106.50:8443?security=reality&sni=cdn.discordapp.com&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒 VL-TCP-RLT 🇩🇪 DE-94.130.106.50:8443
 vless://210fdab8-023f-46ba-85e4-be583438ff5d@104.168.107.230:8224?security=reality&flow=xtls-rprx-vision&sni=mashable.com&type=tcp&fp=chrome&pbk=8BiQIRM0TBZUpRwiB6vsfTPOj4AJoYd1dvX65GhfFW4&sid=a41cc82f29d6308c#🔒 VL-TCP-RLT 🇺🇸 US-104.168.107.230:8224
 vless://8ce0c83e-8821-4e70-9a70-41b0186ac5cb@77.232.142.225:443?security=reality&sni=discord.com&type=grpc&serviceName=@set_v2ray&fp=chrome&pbk=aqRZIQgU1E4QNWEsoVkIdCJ3VNUa3SHb8WuEMmy3xWY&sid=95e1dc5e#🔒 VL-GRPC-RLT 🇸🇪 SE-77.232.142.225:443
@@ -82,4 +83,3 @@ vless://7fd7c15d-95cd-4f5c-bf59-f21e5eb27580@104.17.94.171:2096?security=tls&sni
 vless://e68fd9c0-0e4e-11ef-b6f5-1239d0255272@23.158.72.133:443?security=tls&sni=chatbuzzteambhm.chatbuzzt7150.workers.dev&type=ws&path=%2Fvlws#🔒 VL-WS-TLS 🇺🇸 US-23.158.72.133:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.19.174.68:2053?security=tls&sni=jp116.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.174.68:2053
 vless://ffd61a36-830e-4c64-96ce-c863b9d4f0b3@104.20.62.55:80?type=ws&host=7fe600d3b53c4bb9de9c863cad96d1.nv2ron.ir&path=%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%3Fed%3D2048#🔒 VL-WS-NA 🏴‍☠️ NA-104.20.62.55:80
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.131.52:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.131.52:443

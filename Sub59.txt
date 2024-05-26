@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://6584ed53-90b2-45d6-aa78-ff34867c814c@206.238.236.18:8443?security=tls&sni=yalda20232112.freedns.site&type=grpc&serviceName=freevpn&fp=chrome#🔒 VL-GRPC-TLS 🇸🇬 SG-206.238.236.18:8443
 vless://f54c1c56-d3b2-41b3-9974-78bdd8807939@190.93.247.155:8880?security=none&type=ws&host=liV2raya.善良的闪电.monster&path=/@LIGHTNING6#🔒 VL-WS-NONE 🏴‍☠️ NA-190.93.247.155:8880
 vless://01ab9337-f478-4765-9534-88f009f83ddb@47.237.83.20:2083?security=tls&sni=aut306.ylks.link&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇬 SG-47.237.83.20:2083
 vless://636b1684-b26c-4a9c-bc6e-8e1197a36d74@172.67.161.1:8080?security=none&type=ws&host=workerr.hashdiler.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.161.1:8080
@@ -82,4 +83,3 @@ vless://455cb58b-8d8c-4869-a0bb-8e3eedbfb335@104.17.250.237:80?type=ws&host=vmes
 vless://13be7b64-8a46-4724-9cf2-4c7eddd4c56b@104.16.195.52:2096?security=tls&sni=sPeEd.vbox778.info.&type=grpc&fp=firefox&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.195.52:2096
 vless://454f84df-724d-442a-a4a2-698a6d63f946@193.70.112.90:443?security=tls&sni=fr3-full.privateip.net&type=ws&path=%2fvless&allowInsecure=1#🔒 VL-WS-TLS 🇫🇷 FR-193.70.112.90:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.131.252:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.131.252:443
-vless://c6ec3554-1557-4f50-aae3-09af5315d5ab@104.18.36.81:8080?security=none&type=ws&host=cdn-b100xn--b6gaceuorg.gk8k8s95.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.36.81:8080

@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://81afe82c-f1c3-4794-8eaf-aaffe4c664b9@185.146.173.206:443?security=tls&sni=g3ov.ferdowsi.shop&type=grpc&serviceName=Telegram:@SurfShark_ALA-Telegram:@SurfShark_ALA-Telegram:@SurfShark_ALA-Telegram:@SurfShark_ALA-Telegram:@SurfShark_ALA-Telegram:@SurfShark_ALA-Telegram:@SurfShark_ALA-Telegram:@SurfShark_ALA-Telegram:@SurfShark_ALA-Telegram:@SurfShark_ALA#🔒 VL-GRPC-TLS 🇸🇪 SE-185.146.173.206:443
 vless://46dbac8b-eaba-4275-940c-819f95d16916@104.17.248.203:443?security=tls&sni=falcunargo.9cfaf68585.workers.Dev&type=ws&host=falcunargo.9cfaf68585.workers.Dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.248.203:443
 vless://f9e0b36b-f1d5-4f3f-87dd-1e14919915b9@104.19.174.68:443?security=tls&sni=c.cm8.rr.nu&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.174.68:443
 vless://25c3d82b-8078-41ef-bd52-1135af8539e9@217.219.212.17:29952?security=none&type=tcp&host=time.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-217.219.212.17:29952
@@ -82,4 +83,3 @@ vless://fb301d2e-4430-4b41-95d6-764460b8ef13@193.9.49.40:2053?security=tls&sni=9
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@89.116.250.6:2083?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz#🔒 VL-WS-TLS 🇱🇹 LT-89.116.250.6:2083
 vless://01ab9337-f478-4765-9534-88f009f83ddb@47.236.167.231:2083?security=tls&sni=aut306.ylks.link&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇬 SG-47.236.167.231:2083
 vless://36496095-e07f-4e0a-9697-409f761d1f67@162.159.138.232:2087?security=tls&sni=ShprxyV2ray.digitalciity.Tech&type=ws&host=ShprxyV2ray.digitalciity.Tech&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.138.232:2087
-vless://49e9aee4-ba22-40de-a1d5-9eeb935b10e3@172.67.186.23:2087?security=tls&sni=francess.almanalohapro.ir&type=grpc&serviceName=vless#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.186.23:2087
