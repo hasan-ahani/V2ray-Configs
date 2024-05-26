@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://telegram-id-privatevpns@16.170.131.39:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20%E6%83%A0%E6%99%AEHP
+trojan://HGXuEXF5IVdb@13.231.138.75:17114?allowInsecure=0&sni=appsvs.shop#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%20%E4%B8%9C%E4%BA%ACAmazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
 trojan://telegram-id-directvpn@52.60.157.47:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%A6%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%20%E9%AD%81%E5%8C%97%E5%85%8B%E7%9C%81%E8%92%99%E7%89%B9%E5%88%A9%E5%B0%94Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh7Mg5bm/5Lic55yB5rGf6Zeo5biCIOenu+WKqCIsImFkZCI6IjEyMC4yMzguMTIyLjI0MyIsInBvcnQiOiI0MDI1OSIsInR5cGUiOiJub25lIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOiI2NCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiJ9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20%E5%BE%AE%E8%BD%AF
@@ -81,5 +83,3 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HrvCfh7Mg5Y2w5bqmICAyIiwiYWRkIjoiMjAyLjc4LjE2Mi41
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HrvCfh7Mg5Y2w5bqmICAzIiwiYWRkIjoiMjAyLjc4LjE2Mi41IiwicG9ydCI6IjQ0MyIsInR5cGUiOiJhdXRvIiwiaWQiOiIxMTgyODdkMi1lOTY4LTQyZTEtODBkMC0xMmZhMmY1ZDM4ZDYiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiJzYWhhbmQuc2VydmVtaW5lY3JhZnQubmV0IiwidGxzIjoidGxzIn0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7gg576O5Zu9Q2xvdWRGbGFyZeWFrOWPuENETuiKgueCuSA0IiwiYWRkIjoid3d3LmRhcmtyb29tLmxvbCIsInBvcnQiOiI4MDgwIiwidHlwZSI6Im5vbmUiLCJpZCI6IjIyODI2YjQ0LTVjMWEtNGI0Yi1kYmFhLTgzYTJlOGJkOTVmMCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6Ind3dy5kYXJrcm9vbS5sb2wiLCJ0bHMiOiIifQ==
 ss://YWVzLTI1Ni1nY206N0JjTGRzTzFXd2VvR0QwWA@193.243.147.128:40368#%F0%9F%87%B5%F0%9F%87%B1%20%E6%B3%A2%E5%85%B0%20%205
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7gg576O5Zu9Q2xvdWRGbGFyZeWFrOWPuENETuiKgueCuSA2IiwiYWRkIjoic2VydmVyMzEuYmVoZXNodGJhbmVoLmNvbSIsInBvcnQiOiI4ODgwIiwidHlwZSI6ImF1dG8iLCJpZCI6IjQxNTQxNDNjLWJiYmEtNDdhNC05Zjc5LWMyZWQwODdjYmNjOSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6InNlcnZlcjMxLmJlaGVzaHRiYW5laC5jb20iLCJ0bHMiOiIifQ==
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh7Mg5bm/5Lic55yB56e75YqoIDciLCJhZGQiOiJkYXRhLXVzLXYxLnNod2pma3cuY24iLCJwb3J0IjoiMjA0MDEiLCJ0eXBlIjoibm9uZSIsImlkIjoiYjE0NzhlMjQtNDkxNi0zYWJlLThmMTctMTU5MzEwMTJlY2JlIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9kZWJpYW4iLCJob3N0IjoiZGF0YS11cy12MS5zaHdqZmt3LmNuIiwidGxzIjoiIn0=

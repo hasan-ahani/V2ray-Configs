@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://d21b31fa-0336-430d-8388-14873d0942ea@62.60.172.187:2053?security=reality&sni=cdn.discordapp.com&type=grpc&serviceName=t.me/entryNET&fp=chrome&pbk=DZBeIUun4KIaejwUglGBmiNNwpIHBI7-9un6dR0aJVY#🔒 VL-GRPC-RLT 🇮🇷 IR-62.60.172.187:2053
+vless://378387d5-4370-4e38-9661-25796e8630ba@143.47.241.46:16097?security=reality&flow=xtls-rprx-vision&sni=www.amazon.com&type=tcp&fp=chrome&pbk=qMH_7IYKzR0mOLN35mnQijwzN8IiWdudhryTHaQzWS0#🔒 VL-TCP-RLT 🇬🇧 GB-143.47.241.46:16097
 vless://365ec4f6-53cb-43d1-ac2b-3ef7c6ea187f@5.161.125.36:443?security=reality&flow=xtls-rprx-vision&sni=medium.com&type=tcp&fp=chrome&pbk=kMx-bxE7gxQkMtx-MID5ERj5FWMfiyD7QXGqcB0ON3M&sid=a2490c7e829f3d40#🔒 VL-TCP-RLT 🇺🇸 US-5.161.125.36:443
 vless://216fb8bb-27ab-4301-b85e-d0bdf478b161@70.34.217.173:42112?security=reality&sni=dash.cloudflare.com&type=grpc&serviceName=@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar&fp=chrome&pbk=vQx7T8sRVyJsRH-LajyPabD9VpchJjZHoVHKIkW94EQ&sid=dd5aeb48#🔒 VL-GRPC-RLT 🇸🇪 SE-70.34.217.173:42112
 vless://32ed86c3-cc13-4e8f-ca3e-8e2c9b8dc151@5.42.79.229:47302?security=reality&sni=greenpepper.ir&type=tcp&fp=chrome&pbk=38vXocs7hnTyB_rE0rgZue9pTSXXyZXIePoEaEX1GgE&sid=64#🔒 VL-TCP-RLT 🇸🇪 SE-5.42.79.229:47302
@@ -81,5 +83,3 @@ vless://97899a35-53a2-42b0-bc47-587d220772a1@91.107.179.99:443?security=reality&
 vless://354a4626-918f-4f4d-a603-89e18718d92d@172.232.154.185:443?security=reality&sni=ghbi.ir&type=grpc&fp=chrome&pbk=rW_BTQ5EiomL4nMuvj3EbxqjRdLYt9Q0rpCaS9Iy8Eo&sid=804894e8#🔒 VL-GRPC-RLT 🇸🇪 SE-172.232.154.185:443
 vless://a09373e2-e120-457d-9ec9-ea7fe8bedb52@185.125.171.13:443?security=reality&flow=xtls-rprx-vision&sni=partner.g2.com&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒 VL-TCP-RLT 🇳🇴 NO-185.125.171.13:443
 vless://e4527384-4f20-4378-95dc-403996f12588@85.159.229.8:2087?security=reality&sni=dash.cloudflare.com&type=grpc&fp=chrome&pbk=GicA8fPbS9LksttApqa8gzOstomRFncKNoYGLCOqQF8&sid=fc805835#🔒 VL-GRPC-RLT 🇮🇪 IE-85.159.229.8:2087
-vless://a3c79bd9-44ff-4b56-9a26-bf756b2fa929@94.154.37.26:2086?security=reality&sni=zara.com&type=grpc&serviceName=2086vless&fp=chrome&pbk=IrE30UzYcVvkhnT2dcYAOrcvzaiaY7usPb5GEShnWCs&sid=f79d5509f3ca7718#🔒 VL-GRPC-RLT 🇺🇦 UA-94.154.37.26:2086
-vless://365ec4f6-53cb-43d1-ac2b-3ef7c6ea187f@5.161.57.190:443?security=reality&flow=xtls-rprx-vision&sni=medium.com&type=tcp&fp=chrome&pbk=kMx-bxE7gxQkMtx-MID5ERj5FWMfiyD7QXGqcB0ON3M&sid=a2490c7e829f3d40&allowInsecure=1#🔒 VL-TCP-RLT 🇺🇸 US-5.161.57.190:443

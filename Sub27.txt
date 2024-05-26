@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://f7274a51-ba56-4973-baa9-1e5e274f9dad@104.21.42.84:443?security=tls&sni=pasargad.top-speed.pw&type=ws&path=/&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.42.84:443
+vless://e6a09d33-2b59-4a34-a720-fa4d5c46dcad@172.67.171.49:443?security=tls&sni=de1.vless.site&type=ws&host=de1.vless.site&path=/vless#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.171.49:443
 vless://ae8e1a57-75fc-4d8d-b186-bfa92e5473c5@104.16.93.87:2083?security=tls&sni=isa.kasler.sbs&type=grpc&serviceName=%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%40ev2rayy&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.93.87:2083
 vless://308d0488-0230-4f92-9e9f-978a3583434a@95.38.155.212:2096?type=ws&host=bulgtn.private-server.host&path=/#🔒 VL-WS-NA 🇮🇷 IR-95.38.155.212:2096
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.125.245:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=TELEGRAM-MARAMBASHI%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.125.245:443
@@ -81,5 +83,3 @@ vless://9f09dc7b-ab90-4669-80b7-acebfc4b37e9@104.21.23.185:80?security=none&type
 vless://265a7c62-ca8c-4795-8db7-ed46c1ba4fa7@78.39.56.107:7050?security=none&type=tcp&host=discord.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-78.39.56.107:7050
 vless://0b750188-a0d7-4a71-9882-fcb42fbf4311@172.65.90.0:80?security=none&type=ws&host=arsha.%E5%B8%AD%E7%89%B9%E5%93%88%E6%96%AF%C2%B7%E7%BD%97%E4%BC%8A.Vash%E5%88%80%E9%94%8B%E7%9A%84%E8%BE%B9%E7%BC%98.dontcall%E5%88%AB%E7%A7%B0%E5%85%B6%E4%B8%BA%E7%A5%9E%E7%A7%98%E7%94%B5%E5%BD%B1.suonycars.buzz.&path=%2Ft.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.65.90.0:80
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@47.237.95.146:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇸🇬 SG-47.237.95.146:8443
-vless://ab9d484a-98cd-4032-9931-a015366c41fc@104.21.65.133:80?security=none&type=ws&host=Random1Two6.9.6.9.ir.shop.com.pvbuy.Ir.&path=%2FVpnBigBang-Speed.ir.shop.com%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.65.133:80
-vless://7e366990-801e-45e4-94af-22a9391005f9@185.146.173.32:2095?security=none&type=ws&host=V2ray-_-_-_-_-_-VPNCUSTOMIZE.keLLekcoLLection.com.#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.32:2095

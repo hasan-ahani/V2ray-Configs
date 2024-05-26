@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.219.0:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-45.159.219.0:443
+vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@172.67.174.225:443?security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&type=ws#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.174.225:443
 vless://3c110307-dcf0-4002-b944-6d2c9530dd23@104.18.13.130:2083?security=tls&sni=dash.zedmodeon.lat&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.13.130:2083
 vless://9025aac9-703f-4ba8-9d0e-33986fc375fd@104.16.123.175:8880?security=none&type=ws&host=falcunargo.1035ed931e.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.123.175:8880
 vless://f734ec90-6ca7-42d8-96ec-e6966e1ce1a4@104.18.53.44:443?security=tls&sni=at1.v2vless.xyz&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.53.44:443
@@ -81,5 +83,3 @@ vless://58dbfb96-afac-4251-9189-137e883e65ab@104.20.19.168:8880?security=none&ty
 vless://fc1191c8-e724-482f-a492-90d3d386719c@172.67.182.207:2053?security=tls&sni=sisand.waztow.WOrkerS.Dev&type=ws&host=sisand.waztow.WOrkerS.Dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.182.207:2053
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.42.88.91:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇱🇺 LU-188.42.88.91:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.16.161:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.16.161:443
-vless://2ca42987-551b-4494-a854-da2d9178f4cd@172.67.68.22:2087?security=tls&sni=IxHiWwAs22.zImBa-zUlA.OrG&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.68.22:2087
-vless://d4e4f972-15fb-4748-85ef-f5c77438ee91@162.159.138.232:2096?security=tls&sni=poy-uk.sg-forum.info&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.138.232:2096

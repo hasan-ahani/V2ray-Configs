@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://5999a649-e373-4b31-87be-47ee6c14b32a@170.187.250.166:443?#🔒 TR-TCP-NA 🇮🇳 IN-170.187.250.166:443
+trojan://cef820ea-fc50-4016-a0b3-3c7515c2b5b2@89.221.224.94:443?sni=m.viber.com&type=ws&host=is2.trojanvpn.xyz&path=/#🔒 TR-WS-NA 🇮🇸 IS-89.221.224.94:443
 trojan://NISHIKUITAN222@172.67.75.172:2053?security=tls&sni=t306.ylks.link&type=ws&host=t306.ylks.link&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.75.172:2053
 trojan://1ZTbMoSRnm@104.17.239.159:2083?security=tls&sni=mIkAsa.mEgAfAiR.sToRe&type=grpc&serviceName=/Telegram:@MikasaVPN&fp=chrome&alpn=h3,h2,http/1.1#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.17.239.159:2083
 trojan://ad8bab9c-f5e2-4957-96fa-3f59e7e4007b@143.198.62.157:443?security=tls&sni=206.237.5.220&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-143.198.62.157:443
@@ -81,5 +83,3 @@ trojan://tIErrUuX7j@172.66.213.38:2053?security=tls&sni=vr.v2ray962.filegear-sg.
 trojan://EgAMtxAquaO78-IvTSWpnQ@104.17.182.232:2096?security=tls&sni=mrz.learnturkishspeech.fun&type=ws&host=mrz.learnturkishspeech.fun&path=/book#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.182.232:2096
 trojan://auto@172.67.174.252:443?security=tls&sni=esetsecuritylicense1.vowexa5791.workers.dev&type=ws&host=esetsecuritylicense1.vowexa5791.workers.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.174.252:443
 trojan://auto@104.21.69.44:2087?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.69.44:2087
-trojan://0e81a9cd-d849-4101-8d64-574c283207de@172.67.204.84:2083?security=tls&sni=de1.trojanvpn.de&type=ws&host=de1.trojanvpn.de&path=/websocket#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.204.84:2083
-trojan://auto@104.20.5.134:443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=@free_shekan@free_shekan@free_shekan@free_shekan@free_shekan@free_shekan@free_shekan@free_shekan@free_shekan@free_shekan@free_shekan@free_shekan@free_shekan#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.5.134:443
