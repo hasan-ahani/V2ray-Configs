@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://fb301d2e-4430-4b41-95d6-764460b8ef13@45.159.218.41:2053?security=tls&sni=9b56CFEe5b258C44c45bA18FA122293.mIToweAr.cOm&type=grpc#🔒 VL-GRPC-TLS 🇺🇸 US-45.159.218.41:2053
-vless://cdd562e2-93bc-4541-8f74-28dd32ed52b4@104.20.19.168:2086?security=none&type=ws&host=mci.你有一个不光彩的问题.website.&path=/?ed#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.19.168:2086
-vless://d0ac902d-5c99-4be3-8e7b-8d199e5639d1@104.21.94.85:2096?type=ws#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.94.85:2096
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@199.181.197.78:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-199.181.197.78:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@193.123.239.18:49248?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🔒 VL-WS-TLS 🇰🇷 KR-193.123.239.18:49248
 vless://f177e178-96e2-4ea3-a603-e90cea3c4a7c@104.31.16.8:80?security=none&type=ws&host=FuRnItURE.MAHdAviAt.Uk&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.31.16.8:80
@@ -83,3 +80,6 @@ vless://5faeeda6-bba0-485f-909a-510f6e4200d6@185.143.234.120:2095?security=none&
 vless://5f3db645-ae0b-4cf6-aee1-838a92b6ea68@172.67.202.26:443?security=tls&sni=javad.rbj5847.workers.dev&type=ws&host=javad.rbj5847.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.202.26:443
 vless://ffcb16ff-bb76-48b3-a44c-06bdf35e8482@172.67.214.169:443?security=tls&sni=free.itsvpns.app&type=ws&host=free.itsvpns.app&path=/wsfree&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.214.169:443
 vless://fb301d2e-4430-4b41-95d6-764460b8ef13@156.238.19.131:2053?security=tls&sni=9b56CFEe5b258C44c45bA18FA122293.mIToweAr.cOm&type=grpc#🔒 VL-GRPC-TLS 🇺🇸 US-156.238.19.131:2053
+vless://1bab0961-b22c-411f-b955-09c4aed2d2c1@23.227.39.158:443?security=tls&sni=fr1.hnkkt.top&type=ws&path=/gsjc/fr1#🔒 VL-WS-TLS 🇨🇦 CA-23.227.39.158:443
+vless://d18d7d62-40ba-4588-a7b2-88e89db32557@104.16.218.243:8443?security=tls&sni=off.v2box.lol.&type=grpc&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.218.243:8443
+vless://7cdd2887-a68e-4027-be00-0347735a6075@104.20.19.145:443?security=tls&sni=c.protoeinpaitakht.com&type=grpc&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.20.19.145:443

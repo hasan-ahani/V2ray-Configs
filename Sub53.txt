@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://fb301d2e-4430-4b41-95d6-764460b8ef13@104.24.34.101:2053?security=tls&sni=9b56CFEe5b258C44c45bA18FA122293.mIToweAr.cOm&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.24.34.101:2053
-vless://9b97bb00-48b8-46dd-a9f2-ecd2e16fc41c@104.21.70.25:80?security=none&type=ws&host=it1.vlessx.xyz#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.70.25:80
-vless://f6c960f3-dc81-45ca-9891-4138f78d9125@104.21.36.84:443?security=tls&sni=FalcuNaRgO.e9744be7d6.woRKeRs.DEv&type=ws&host=FalCUnaRGO.E9744be7D6.woRKERs.Dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.36.84:443
 vless://a0d40c77-6b7f-4687-83ce-879ebfb3bdab@188.165.24.213:4040?security=none&type=tcp&host=telewebion.com&headerType=http#🔒 VL-TCP-NONE 🇫🇷 FR-188.165.24.213:4040
 vless://266169d9-665f-4fed-b1a8-da29794ee3cd@104.21.60.240:2053?security=tls&sni=berovps.masoodbiranvand-230.workers.dev&type=ws&host=berovps.masoodbiranvand-230.workers.dev&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.60.240:2053
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.18.124.80:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.124.80:443
@@ -83,3 +80,6 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.26.12.54:443?security=tls&sni=P
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.28.52:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.28.52:443
 vless://90c392b7-f567-47d4-b584-dc1caf5bfb28@172.67.192.224:2083?security=tls&sni=ufo1.bestgameir.ir&type=ws&path=/ws&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.192.224:2083
 vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@154.9.251.171:34237?security=tls&sni=159d770e-fd74-4069-a73b-fe6ececa7951.f82aee4c-752c-4b0c-9793-380d4d76435c.ddnsgeek.com&type=ws&path=%2Fpasge.pages.dev%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇺🇸 US-154.9.251.171:34237
+vless://94de0d76-92ea-491e-ada3-d834cfa5f668@172.67.140.36:2087?security=tls&sni=net3.irnicho.monster&type=grpc&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.140.36:2087
+vless://dfd87a9f-98db-46ff-b483-301897411931@104.19.140.4:2087?security=tls&sni=virapn-t-3be7883659a1d2ba4c545dfdf85b61eda1.asiatechnicalwest.ir.&type=grpc&serviceName=@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN&fp=firefox#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.19.140.4:2087
+vless://7df71ea7-ad2f-48d1-ae7c-4429ee780537@104.18.229.191:2096?security=tls&sni=academivpn1.academi-vpn-4f8.workers.dev&type=ws&host=academivpn1.academi-vpn-4f8.workers.dev&path=%2F%3Fed%3D2560+%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.229.191:2096
