@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://5999a649-e373-4b31-87be-47ee6c14b32a@in-full.privateip.net:443#%F0%9F%87%AE%F0%9F%87%B3%20India%20Trojan%20@V2rayStore
 trojan://457ce692-8a0e-485a-a80b-6f057ea1ba61@jp-full.privateip.net:443#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20Trojan%20@V2rayStore
 trojan://4bfd6060-9bae-4450-a1e7-03b77e2c95cf@fr-full.privateip.net:443#%F0%9F%87%AB%F0%9F%87%B7%20France%20Trojan%20@V2rayStore
 trojan://ef86718e-5d48-4163-a076-66078ee4d954@fr2-full.privateip.net:443#%F0%9F%87%AB%F0%9F%87%B7%20France%20Trojan%20@V2rayStore
@@ -83,3 +82,4 @@ vless://2e712b67-510e-47b2-9632-257a693bc855@ch2.melobigg.site:443?type=ws&path=
 vless://9e2aa663-44c2-48c0-86af-11ef28735ba9@discord.com:8080?type=ws&path=/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray&host=de2.%E8%BF%87%E6%BB%A4%E5%99%A8.store.&security=none#%40melov2ray-%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84%F0%9F%87%A9%F0%9F%87%AA2
 vless://c4ddd3a5-3b30-4aff-a9e9-328cbbffa3de@www.visa.com:8080?host=ch1.dontbow.store.&path=/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray&security=none&type=ws#@melov2ray-%F0%9F%87%A9%F0%9F%87%AA1
 vless://5b99e071-49ca-456f-ab88-47431abd04fa@ch1.melobigg.site:443?allowInsecure=false&alpn=http%2F1.1%2Ch2&fp=chrome&path=%2Fmelov2ray&security=tls&sni=ch1.melobigg.site&type=ws#@melov2ray-%F0%9F%87%A9%F0%9F%87%AA1
+vless://c4ddd3a5-3b30-4aff-a9e9-328cbbffa3de@chat.openai.com:8080?type=ws&path=/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray&host=de.%E8%BF%87%E6%BB%A4%E5%99%A8.store.&security=none#%40melov2ray-%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84%F0%9F%87%A9%F0%9F%87%AA1
