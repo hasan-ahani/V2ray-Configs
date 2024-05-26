@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://9e67f15c-178f-494c-a843-f371e3b3fa5d@172.64.90.53:8080?security=none&sni=king1980.b91sptsl.workers.dev&type=ws&host=king1980.b91sptsl.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.90.53:8080
+vless://aa5a63f6-7188-4a73-bfd7-6e243fdcd1c7@172.66.44.66:443?security=tls&sni=v2ray1ng.pages.dev&type=ws&host=v2ray1ng.pages.dev&path=/@V2ray1_ng,@V2ray1_ng,@V2ray1_ng&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.66:443
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.176.26.57:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇰🇿 KZ-185.176.26.57:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.46:443?security=tls&sni=Fe3324C6.bpb-ev.pAgeS.DeV&type=ws&host=Fe3324C6.bpb-Ev.PagEs.DEV&path=%2FpMhs6vwU8eUtRk2K%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.46:443
 vless://502f1a41-96df-4d6c-8a3b-26781e795893@104.19.244.250:8880?security=none&type=ws&host=sinadfa.dugjup.workers.dev&path=%2FTELEGRAM%40AZARBAYJAB1T%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.244.250:8880
 vless://e5598560-5b02-4845-bccc-9bef8f4f14e7@104.18.5.174:2087?security=tls&sni=vira-v2-3be7883659a1d2ba4c545dfdf85b61eda1.asiatechnicalwest.ir&type=grpc&serviceName=@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN&fp=firefox&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.5.174:2087
@@ -80,6 +83,3 @@ vless://48198295-b7ba-4b5c-8d85-085d55a6c869@125.128.211.23:35368?security=tls&s
 vless://b2ea5f01-9824-46a0-b9c6-2ec87b50cbfa@172.64.35.131:80?type=ws&host=2.V2ray.debian.org.fxp.debian.org.speedtest.net.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95%E3%82%89%E3%82%8F.sunstars.online.&path=/telegram-AghayeVpn,telegram-AghayeVpn,telegram-AghayeVpn,telegram-AghayeVpn,telegram-AghayeVpn,telegram-AghayeVpn,telegram-AghayeVpn,telegram-AghayeVpn,telegram-AghayeVpn,telegram-AghayeVpn,telegram-AghayeVpn,telegram-AghayeVpn?ed%3D2048#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.35.131:80
 vless://3f266d25-21aa-4498-bb1a-ce6d1d327aaf@104.21.21.137:443?security=tls&sni=freedom14.geraxex389.workers.dev&type=ws&host=freedom14.geraxex389.workers.dev&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.21.137:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.237.92.26:2083?security=tls&sni=zdy226.kpcloud.eu.org&type=ws&path=/blue#🔒 VL-WS-TLS 🇸🇬 SG-47.237.92.26:2083
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@210.186.12.244:443?security=tls&sni=kk306.ylks.link&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇲🇾 MY-210.186.12.244:443
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@34.41.252.92:443?security=tls&sni=xin306.ylks.link&type=ws&path=/blue#🔒 VL-WS-TLS 🇺🇸 US-34.41.252.92:443
-vless://77a571fb-4fd2-4b37-8596-2b7d9728bb5c@172.67.20.220:2096?security=tls&sni=vpnxw.pages.dev&type=ws#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.20.220:2096
