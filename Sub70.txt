@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@104.16.45.12:443?security=tls&sni=pages.20230619.love&type=ws&host=pages.20230619.love#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.45.12:443
-vless://363e03b6-9fe2-452d-ba58-838f6004b4f7@212.80.11.140:1010?security=none&type=tcp&host=www.speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-212.80.11.140:1010
-vless://56359853-3bcc-4090-a3e5-b07042017bad@104.22.6.4:443?security=tls&sni=shomal.top-speed.pw&type=grpc&serviceName=shomal.top-speed.pw&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.22.6.4:443
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@50.114.11.19:443?security=tls&sni=xin226.ylks.link&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇨🇦 CA-50.114.11.19:443
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@152.70.248.236:28756?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇰🇷 KR-152.70.248.236:28756
-vless://c626d19a-94b3-40b5-a473-bcd02e503974@104.31.16.14:2053?security=tls&sni=jp10.vlessx.xyz&type=ws&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.31.16.14:2053
-vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@31.43.179.56:443?security=tls&sni=tg.dns68.cloudns.nz&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇰🇿 KZ-31.43.179.56:443
-vless://a0e33e35-ad8d-4226-8d95-3c2fec5f2312@45.131.5.154:2053?security=tls&sni=isa.kasler.sbs&type=grpc&serviceName=کانال+@ev2rayy&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇳🇱 NL-45.131.5.154:2053
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@54.249.173.119:443?security=tls&sni=xin226.ylks.link&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇯🇵 JP-54.249.173.119:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.246.186:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=TELEGRAM-MARAMBASHI%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.246.186:443
 vless://dd777f39-2996-4269-b88f-0b64436d0274@23.227.60.12:2096?security=tls&sni=joinchannel.sameasyou.sbs&type=ws&host=capitalnet.sameasyou.sbs&path=/&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇨🇦 CA-23.227.60.12:2096
@@ -83,3 +75,11 @@ vless://9e67f15c-178f-494c-a843-f371e3b3fa5d@198.41.222.6:8080?security=none&sni
 vless://ce00040c-c4bf-44c8-8651-e6334f9c0a75@178.79.176.97:2003?security=tls&sni=uk2-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇬🇧 GB-178.79.176.97:2003
 vless://3294a8c6-356c-48ae-b5d5-70da1c024f47@104.18.76.99:80?type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co.&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.76.99:80
 vless://fb301d2e-4430-4b41-95d6-764460b8ef13@156.238.18.246:2053?security=tls&sni=9b56CFEe5b258C44c45bA18FA122293.mIToweAr.cOm&type=grpc#🔒 VL-GRPC-TLS 🇺🇸 US-156.238.18.246:2053
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.42.88.26:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇱🇺 LU-188.42.88.26:443
+vless://11e5b771-1d4d-4362-b4b5-e39e75981f01@172.67.198.111:443?security=tls&sni=3e8B07A5.PUb000bpB.PAGes.Dev&type=ws&host=3e8B07A5.PUb000bpB.PAGes.Dev&path=%2FZYgm9Gg9QBkAXfbG%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.198.111:443
+vless://fa5d0f68-9c5f-4436-896f-e8a4cc588623@190.93.245.138:8443?security=tls&sni=20ns2-V2ray.Vpncustomize.Com&type=grpc&serviceName=@VPNCUSTOMIZE,@VPNCUSTOMIZE&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-190.93.245.138:8443
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@65.75.194.2:34237?security=tls&sni=jp313.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-65.75.194.2:34237
+vless://3cdbc462-6272-4c2a-9a2d-1525a81c7dfa@104.16.54.2:443?security=tls&sni=xeeqi.kevani8800.workers.dev&type=ws&host=xeeqi.kevani8800.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.54.2:443
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.18.25.181:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=TELEGRAM-MARAMBASHI%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.25.181:443
+vless://734072e0-82af-4ca9-979e-3f84c6b66b97@104.18.27.45:80?security=none&type=ws&host=%E4%B8%8D%E8%A6%81%E5%AF%B9%E4%B8%96newlife.%E7%AB%99%E9%95%BFbadho.silence2.%E5%A4%9C%E7%8C%AB%E5%AD%90%E9%85%92%E5%90%A7%E6%9E%AA%E6%88%98.suonycars.buzz.&path=%2Ft.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.27.45:80
+vless://fb301d2e-4430-4b41-95d6-764460b8ef13@104.17.168.130:2053?security=tls&sni=9b56CFEe5b258C44c45bA18FA122293.mIToweAr.cOm&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.168.130:2053
