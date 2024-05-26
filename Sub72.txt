@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://16266848-758e-4335-83fc-e47a150a7693@185.143.233.120:2082?type=ws&host=xn--gtqr40b05t9tep19b.xn--gtqr40b05t9tep19b.IR.#🔒 VL-WS-NA 🇮🇷 IR-185.143.233.120:2082
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.122.219:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.122.219:443
 vless://36496095-e07f-4e0a-9697-409f761d1f67@162.159.136.232:2087?security=tls&sni=ShprxyV2ray.digitalciity.Tech&type=ws&host=ShprxyV2ray.digitalciity.Tech&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.136.232:2087
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@140.238.195.98:443?security=tls&sni=v116.ylks.link&type=ws&path=/?ed#🔒 VL-WS-TLS 🇦🇺 AU-140.238.195.98:443
@@ -83,3 +82,4 @@ vmess://eyJhZGQiOiAiMTI3LjAuMC4xIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogImNh
 trojan://cbacaba-bcaa-acba-cdba-aaacbacbccbb@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 SUN-06-KHORDAD-1403 🕑 06:58
 trojan://27876_t7d7f4e3f@23.142.200.175:443?allowInsecure=1#🔒 TR-TCP-NA 🇺🇸 US-23.142.200.175:443
 trojan://pUxG77WPOZ@104.18.202.232:80?security=none&type=ws&host=s9.in01.tech&path=/#🔒 TR-WS-NONE 🏴‍☠️ NA-104.18.202.232:80
+trojan://d79985f4-4de1-4f4e-ba5b-aa508d4bf9bb@95.164.46.235:443?#🔒 TR-TCP-NA 🇮🇹 IT-95.164.46.235:443

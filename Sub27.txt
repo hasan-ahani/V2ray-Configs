@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@8.218.155.238:2087?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇭🇰 HK-8.218.155.238:2087
 vless://ea20ef91-9e2c-4136-a8dd-db1d22f0b96d@104.21.65.133:443?security=tls&sni=V2ray.SvnBuy.Online&type=grpc&alpn=http/1.1,h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.65.133:443
 vless://e1d25a3c-d514-4cf1-be1d-381190c8ccdd@172.64.151.111:8443?security=tls&sni=su.darkmoonts.ir&type=ws&host=su.darkmoonts.ir&path=%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.151.111:8443
 vless://56359853-3bcc-4090-a3e5-b07042017bad@104.22.6.4:443?security=tls&sni=shomal.top-speed.pw&type=grpc&serviceName=shomal.top-speed.pw&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.22.6.4:443
@@ -83,3 +82,4 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.36.5:443?security=tls&sni=m
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.211:2053?security=tls&sni=a.ssll.gay&type=ws&path=twitterfreecodes#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.211:2053
 vless://5c132f79-9f32-49fd-baa9-e7c997ab1ded@104.18.14.19:2083?security=tls&sni=fijffjdfjdfjdwieiriiririfjfndnmx.goldxray.com&type=grpc&serviceName=Telegram:@Hpv2rayNG-Telegram:@Hpv2rayNG-Telegram:@Hpv2rayNG-Telegram:@Hpv2rayNG-Telegram:@Hpv2rayNG-Telegram:@Hpv2rayNG-Telegram:@Hpv2rayNG-Telegram:@Hpv2rayNGTelegram:@Hpv2rayNGTelegram:@Hpv2rayNG-Telegram:@Hpv2rayNG&fp=chrome&alpn=http/1.1,h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.14.19:2083
 vless://8af19b50-a1c2-4f6b-bad6-3e06f6cdf865@172.67.15.198:2082?security=none&type=ws&host=workerr.strife-dc2.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.15.198:2082
+vless://29f00915-4107-491d-ba71-c9328e845a00@104.18.202.209:80?type=grpc&serviceName=Telegram#🔒 VL-GRPC-NA 🏴‍☠️ NA-104.18.202.209:80

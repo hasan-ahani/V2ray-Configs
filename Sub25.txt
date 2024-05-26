@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://8d2b1217-c750-4fe6-9d07-7325cf1e300b@172.64.150.28:443?security=tls&sni=help.melov2ray.shop&type=grpc&serviceName=melov2ray&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.64.150.28:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.107.213:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-185.148.107.213:443
 vless://69256407-66b7-45eb-ad2b-8e879407291f@172.67.73.98:80?security=none&type=ws&host=subce.ribiwa9933.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.73.98:80
 vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.130.9:8919?type=tcp&serviceName=-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any&host=varzesh3.com&path=%2F&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-62.60.130.9:8919
@@ -83,3 +82,4 @@ vless://56d9b2a7-f56e-45d5-911f-11a73d50b987@45.32.145.68:2053?security=none&typ
 vless://b400a7a5-eaf3-4e69-9d99-3048236b4410@199.59.243.225:80?security=none&type=ws&host=7fe600d3b53c4bb9de9c863cad96d1.nv2ron.ir&path=%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-199.59.243.225:80
 vless://cdd562e2-93bc-4541-8f74-28dd32ed52b4@104.20.18.168:2086?security=none&type=ws&host=mci.你有一个不光彩的问题.website.&path=/?ed#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.18.168:2086
 vless://16378894-0483-4190-a159-ab2ab8f0123c@185.146.173.237:2052?security=none&type=ws&host=xn---qhantayawi--c-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.xn--94q488fl6grlogzeo1h.cliffhanger24.lol.&path=%40mehrosaboran#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.237:2052
+vless://3dee9636-9663-404d-a9d9-459d9e6d4459@172.233.120.173:2003?security=tls&sni=es-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇪🇸 ES-172.233.120.173:2003

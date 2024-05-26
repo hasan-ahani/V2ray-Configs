@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://03a9c9ee-1e6e-4779-8171-b2aac2357d0c@162.159.135.79:8443?security=tls&sni=Tigoo.dignity-19.com&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.135.79:8443
 vless://a0514d9b-d109-47fd-b173-1e7f83268f21@104.21.235.76:80?type=ws&path=/graphql#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.235.76:80
 vless://ad5a83e0-98c1-4c23-b8a9-eabc68c4b03a@78.157.39.212:8443?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-78.157.39.212:8443
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.134.190.61:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇬🇧 GB-18.134.190.61:22222
@@ -83,3 +82,4 @@ vless://5fd30283-078d-4ee6-873b-4ecb8fec1958@162.159.136.234:2082?security=none&
 vless://3758b67d-f77d-4f20-a7a8-e3f8af03a12a@49.13.235.239:52115?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-49.13.235.239:52115
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.43.179.52:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇰🇿 KZ-31.43.179.52:443
 vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@104.21.90.210:2096?security=tls&sni=tnetplus.pages.dev&type=ws&host=tnetplus.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.90.210:2096
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.22.84:80?security=none&type=ws&host=us1.rtacg.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.22.84:80
