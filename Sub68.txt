@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://a0e33e35-ad8d-4226-8d95-3c2fec5f23c0@23.227.60.48:2053?security=tls&sni=isa.kasler.sbs&type=grpc&serviceName=%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%40ev2rayy&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇨🇦 CA-23.227.60.48:2053
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.69.44:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.69.44:443
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@185.18.250.25:443?security=tls&sni=xin331.ylks.link&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇨🇭 CH-185.18.250.25:443
 vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@47.236.180.51:2096?security=tls&sni=vless.pagess.filegear-sg.me&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇸🇬 SG-47.236.180.51:2096
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.18.5.250:443?security=tls&sni=biA-pAiN-BachE.PagEs.DEv&type=ws&host=bIA-paIn-baChe.pagES.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.5.250:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@129.159.83.88:8443?security=tls&sni=v331.ylks.link&type=ws&path=/?ed#🔒 VL-WS-TLS 🇺🇸 US-129.159.83.88:8443
@@ -80,6 +83,3 @@ vless://10716279-b1ee-41d8-b63e-87782088305b@185.148.106.125:443?security=tls&sn
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@162.159.143.208:443?security=tls&sni=bIA-pain-BaChe.paGeS.DEv&type=ws&host=bIA-pAiN-bAChe.paGeS.DEV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.143.208:443
 vless://0895c839-54e8-4522-cfa0-d1a5b1b34827@104.21.90.218:2086?security=none&type=ws&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.90.218:2086
 vless://b0138d55-a493-4dc3-9932-c6f0391707c1@172.67.194.11:2082?security=none&type=ws&host=malaysiadj.card-937.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.194.11:2082
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.96:2087?security=tls&sni=a.ssll.gay&type=ws&path=twitterfreecodes#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.96:2087
-vless://c4d98ed1-69a5-49ad-b785-25fd2e081326@172.67.214.166:2053?security=tls&sni=Poshtiban.ehsa0535.top&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.214.166:2053
-vless://6a4a7117-146f-4d71-8302-a96e39fd33dc@104.19.235.88:80?type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co.&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg#🔒 VL-WS-NA 🏴‍☠️ NA-104.19.235.88:80

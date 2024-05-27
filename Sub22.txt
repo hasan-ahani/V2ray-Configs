@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://1ef15fed-e6e2-65ec-9ee2-cdea715545bb@178.33.115.124:443?security=reality&sni=panel.licensesara.com&type=grpc&serviceName=xyz&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒 VL-GRPC-RLT 🇪🇸 ES-178.33.115.124:443
+vless://ba938007-2c93-4d5b-9472-77ac0c76f477@192.248.181.165:39578?security=reality&sni=lw.lizard2shop.com&type=grpc&fp=chrome&pbk=vPrWZG2z6yJ9ZFkGJqOtaiPeAUDLlkUQsLztVO3XBCo&sid=4ab5ec25#🔒 VL-GRPC-RLT 🇩🇪 DE-192.248.181.165:39578
+vless://9b5d977e-b4d6-474d-afe6-181dd694d2a1@16.170.231.188:8443?security=reality&flow=xtls-rprx-vision&sni=www.speedtest.net&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒 VL-TCP-RLT 🇸🇪 SE-16.170.231.188:8443
 vless://85399fea-2ee3-51b5-ad4e-d8b78a2cf1d9@157.90.145.163:443?security=reality&flow=xtls-rprx-vision-udp443&sni=www.speedtest.net&type=tcp&fp=chrome&pbk=9D4FoKRukUuWRV8jx5ya5HHTmKC4sYH2Tk5RGWjGSmI&sid=ce#🔒 VL-TCP-RLT 🇩🇪 DE-157.90.145.163:443
 vless://9660af4d-6fcb-4e65-81a3-8752fa085cd4@195.201.125.126:443?security=reality&sni=armazenscalhabe.com&type=grpc&serviceName=Telegram---ZED_VPN---ZED_VPN---Telegram---ZED_VPN---ZED_VPN---Telegram---ZED_VPN---ZED_VPN---Telegram---ZED_VPN---ZED_VPN---Telegram---ZED_VPN---ZED_VPN&fp=chrome&pbk=E1gEs0ZcBg83NSK9SL0p2N_mvn6jW57CRYWIoZBHgzY&sid=71ee8c14#🔒 VL-GRPC-RLT 🇩🇪 DE-195.201.125.126:443
 vless://637d3b63-758b-47cb-a5f6-f96fe6e4ab3b@193.228.1.157:443?security=reality&flow=xtls-rprx-vision&sni=www.microsoft.com&type=tcp&fp=chrome&pbk=zGp41QGUA2TBVirEaFS34_n05w38JxQHKbqQxS-iHzM&sid=cd2ccdd9761335d4#🔒 VL-TCP-RLT 🇹🇷 TR-193.228.1.157:443
@@ -80,6 +83,3 @@ vless://fc1191c8-e724-482f-a492-90d3d386719c@104.21.18.174:2053?security=tls&sni
 vless://df4608a5-0ceb-4513-b991-596f541bccdb@172.67.176.71:2096?security=tls&sni=cfdy.yueuzi.dynv6.net&type=ws&host=cfdy.yueuzi.dynv6.net&path=%2F%3F%2Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.176.71:2096
 vless://13be7b64-8a46-4724-9cf2-4c7eddd4c56b@104.25.156.141:2096?security=tls&sni=sPeEd.vbox778.info.&type=grpc&fp=firefox&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.25.156.141:2096
 vless://e28bb3f8-e64a-4419-9496-33c46220354b@104.21.57.240:443?security=tls&sni=sdgf.bdfstt.sbs&type=ws#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.57.240:443
-vless://1582135f-ce66-4fcc-a231-4253db4ad098@162.159.135.233:8443?security=tls&sni=Nocdn.revil.link&type=grpc&serviceName=ORB&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.135.233:8443
-vless://e1d25a3c-d514-4cf1-be1d-381190c8ccdd@172.67.204.84:8443?security=tls&sni=su.darkmoonts.ir&type=ws&host=su.darkmoonts.ir&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.204.84:8443
-vless://bcfdf639-1f7c-408a-fe6d-a1668d4f5bb5@62.60.161.148:33265?type=ws&host=Skyroom.online&path=/@ViraV2ray/@ViraV2ray/@ViraV2ray/@ViraV2ray/@ViraV2ray/@ViraV2ray/@ViraV2ray/@ViraV2ray/@ViraV2ray/@ViraV2ray/#🔒 VL-WS-NA 🇭🇰 HK-62.60.161.148:33265
