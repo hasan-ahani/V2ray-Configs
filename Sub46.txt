@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.139.111:2096?security=tls&sni=baipiao1.curly-train.pages.dev&type=ws&host=baipiao1.curly-train.pages.dev&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.139.111:2096
-vless://d74d8e62-90c2-4fee-bcf3-d239956ee51a@190.93.244.0:2096?security=tls&sni=jp.vps.wengmail.link&type=ws&host=jp.vps.wengmail.link#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.244.0:2096
-vless://e4014cc7-5184-4e2a-82f1-4a3b6f138dec@104.18.5.2:2053?security=tls&sni=cde.digibook-shop.com&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.5.2:2053
 vless://fecf1ab6-339d-4264-b0cb-2d2ac6303693@141.94.115.231:2003?security=tls&sni=fr-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇫🇷 FR-141.94.115.231:2003
 vless://ae53fcb4-5bd4-4149-b564-570bd4e607de@104.21.37.193:80?security=none&type=ws&host=13.532.xdj%C3%BCdejxytidmg%C3%A0afgrrj938.nursiii.shop&path=%2F%40Netmaask%40Netmaask%40Netmaask%40Netmaask%40Netmaask%40Netmaask%40Netmaask%40Netmaask%40Netmaask#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.37.193:80
 vless://88363077-79d2-441e-b96b-cd8e4346794d@172.67.161.243:2096?security=tls&sni=wedbaz-sueed-tls.bigvip.ir&type=grpc&serviceName=abc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.161.243:2096
@@ -83,3 +80,6 @@ vless://4153091f-926e-49bd-98a8-99a5ac84743f@172.67.223.232:80?security=none&typ
 vless://f0f67b84-2770-4413-8b26-cfb302fac247@172.67.158.108:80?security=none&type=ws&host=v2fly.milik-fukada.eu.org&path=%2F%40vano_ganzzz#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.158.108:80
 vless://64f38424-c7a6-4b4a-bc0e-2ee4b3f1291e@92.38.168.14:443?security=tls&sni=speedtest.gcore.com&type=ws&host=accelerattemanamnmyss.com&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-92.38.168.14:443
 vless://8a06cca1-d3da-4f66-bd2f-75ff5ee24163@104.21.35.39:443?security=tls&sni=Ppal03.ally-Hirthe.wOrKERs.DEv&type=ws&host=ppaL03.Ally-hIRthE.woRkErs.DeV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.35.39:443
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@4.255.56.138:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-4.255.56.138:443
+vless://2b39449c-1063-44ce-93e4-21a984029ae7@172.67.180.67:8443?security=tls&sni=mehrdad-Spain.Zargarr.com&type=grpc&serviceName=%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.180.67:8443
+vless://268780bd-fe2c-4a19-a1ad-a16fbabadab2@85.9.103.28:17841?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.9.103.28:17841

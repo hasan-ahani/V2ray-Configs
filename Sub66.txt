@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@164.38.155.25:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇬🇧 GB-164.38.155.25:443
-vless://a56b225a-5f29-4c39-ad3e-e7e6de0c5df4@172.67.185.9:80?security=none&type=ws&host=ireland.cf.cdn.artificialintelligence-turbooserver.com&path=/improve-ping/b#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.185.9:80
-vless://9b76baa9-4269-4c46-aaec-4d884a305da0@[::ffff:681a:f50]:8443?security=tls&sni=g.networknim.lol&type=grpc&serviceName=8443vless&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-[::ffff:681a:f50]:8443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@162.159.200.123:443?security=tls&sni=xxx.donated001.workers.dev&type=ws#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.200.123:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.130.115:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.130.115:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.69.203:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.69.203:443
@@ -83,3 +80,6 @@ vless://4e09f6a9-5c30-4d1a-9532-6310fd6d3a8d@95.38.200.73:8443?security=none&typ
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.140.225:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.140.225:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.217.21:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-45.159.217.21:443
 vless://edffff01-df77-42f3-9d02-359a449ab98e@172.67.135.195:8443?security=tls&sni=off.v2box.lol.&type=grpc&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.135.195:8443
+vless://2ca42987-551b-4494-a854-da2d9178f4cd@104.18.41.176:2087?security=tls&sni=LzPmJySw22.zImBa-zUlA.OrG&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.41.176:2087
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@66.81.247.19:8443?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-66.81.247.19:8443
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@167.68.11.247:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-167.68.11.247:443
