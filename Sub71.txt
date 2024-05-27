@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://d39b5665-6b6f-4e36-a732-d8bd716061e6@95.164.68.37:443?security=tls&sni=namasha.com&type=ws&host=de1.x2fast.net&path=%2Fws&fp=chrome#🔒 VL-WS-TLS 🇩🇪 DE-95.164.68.37:443
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@77.37.33.48:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇩🇪 DE-77.37.33.48:8443
 vless://3294a8c6-356c-48ae-b5d5-70da1c024f47@104.18.76.99:80?type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co.&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.76.99:80
 vless://58c022eb-9263-468f-8f36-8362431f91c9@45.140.167.94:443?security=tls&sni=pages.dev&type=ws&host=POST+%2Fcdn-cgi%2Ftrace+HTTP%2F1.1%5Bcrlf%5DHost%3A+api.cloudflare.com%5Bcrlf%5DExpect%3A+100-continue%5Bcrlf%5D%5Bcrlf%5D%5Bsplit%5D%5Bcrlf%5D%5Bcrlf%5DPUT+%2F+HTTP%2F1.1%5Bcrlf%5DHost%3A+%5Bhost%5D%5Bcrlf%5DConnection%3A+Upgrade%5Bcrlf%5DUser-Agent%3A+%5Bua%5D%5Bua%5D%5Bcrlf%5DUpgrade%3A+websocket%5Bcrlf%5DPUT+%2FCDN-CGI%2F+HTTP%2F1.1%5Bcrlf%5D%5Bcrlf%5D%5Bsplit%5D%5Bcrlf%5D&path=%2Fws&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇬🇧 GB-45.140.167.94:443
@@ -83,3 +82,4 @@ vless://b3b18cbe-96e5-4504-b3a5-7e41b5e53769@198.41.215.205:80?security=none&sni
 vless://dfc79b00-a51a-45cf-9c0a-d061a01295b4@172.67.134.196:443?security=tls&sni=pAHlAvi-184.pAGEs.DeV&type=ws&host=PaHLAvi-184.PAgES.dEV&path=%2F0FvQcMNpiX0szmMx%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.134.196:443
 vless://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.199.19:2087?security=tls&sni=s1.darroborobinim.com&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.199.19:2087
 vless://44ab0683-1a75-4859-88ce-ef9ffea53c91@172.67.195.126:8880?security=none&type=ws&host=falcunargo-telegram.384f2ed785.workers.Dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.195.126:8880
+vless://13be7b64-8a46-4724-9cf2-4c7eddd4c56b@172.67.161.65:2096?security=tls&sni=sPeEd.vbox778.info.&type=grpc&fp=firefox&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.161.65:2096
