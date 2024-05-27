@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://b1c53b03-8d32-4d2c-a572-c3f6c81bda8c@45.194.53.3:80?security=none&type=ws&host=a.らわなさ.tech.&path=/ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON#🔒 VL-WS-NONE 🇺🇸 US-45.194.53.3:80
+vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@104.16.190.131:443?security=tls&sni=bpb-worker-panel-h5f.pages.dev&type=ws&host=bpb-worker-panel-h5f.pages.dev&path=%2F%3Fed%3D2560&fp=firefox#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.190.131:443
 vless://266db9bc-419e-463c-9ae8-b2a4d2076822@45.14.174.201:8880?security=none&type=ws&host=Daily-ConfigsV2rayGmSix6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.vigilantecollection.com.&path=%2FTel%3A%40Daily_ConfigsTel%3A%40Daily_ConfigsTel%3A%40Daily_ConfigsTel%3A%40Daily_ConfigsTel%3A%40Daily_Configs#🔒 VL-WS-NONE 🇩🇪 DE-45.14.174.201:8880
 vless://e3c69f01-c3ee-46eb-adb1-e013e455e657@172.67.73.216:443?security=tls&sni=dm.irandtehran.org&type=grpc&serviceName=@ipV2Ray&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.73.216:443
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@162.159.138.26:443?security=tls&sni=bIa-PAin-bache.PageS.deV&type=ws&host=biA-PAIn-bAChE.PaGeS.deV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.138.26:443
@@ -81,5 +83,3 @@ vless://d0ac902d-5c99-4be3-8e7b-8d199e5639d1@104.21.94.85:2096?type=ws#🔒 VL-W
 vless://25b45954-6209-48c2-a412-c568c8154cf0@104.21.67.95:2083?security=tls&sni=hi.mobileiraniani.com&type=ws&path=%2F%3Fed%3D2048&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.67.95:2083
 vless://f922a88b-d4f5-4371-924e-c0335c990569@173.245.59.100:2087?security=tls&sni=ConneCtion-Ir-021.digiv2ray1.store&type=ws&host=ConneCtion-Ir-021.digiv2ray1.store&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-173.245.59.100:2087
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@172.67.199.233:2086?security=none&type=ws&path=%2Fyoutube-%E7%94%B1%E9%9B%B6%E9%96%8B%E5%A7%8B#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.199.233:2086
-vless://b2de993e-1be6-4540-af56-d44b81d7ab3a@5.61.36.77:35028?type=tcp&host=telewebion.com&headerType=http#🔒 VL-TCP-NA 🇩🇪 DE-5.61.36.77:35028
-vless://3bdd1ffd-ade9-42f7-97f1-3440dc2fd7ca@103.130.146.76:31532?security=none&type=tcp&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇹🇷 TR-103.130.146.76:31532

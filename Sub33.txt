@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.103.7:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.103.7:443
+vless://ffd3906e-60c9-451e-8ed1-7114107e102c@104.18.12.229:8443?security=tls&sni=pardazeshvpn-tg70.pages.dev&type=ws&host=pardazeshvpn-tg70.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.12.229:8443
 vless://9b97bb00-48b8-46dd-a9f2-ecd2e16fc41c@104.16.114.74:2095?security=none&type=ws&host=it1.vlessx.xyz#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.114.74:2095
 vless://7e414b29-7414-4007-8bc0-3a21f65aeb39@66.235.200.122:8443?security=tls&sni=vmessorg.xn--54qv00ez5ar77g.co&type=ws&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-66.235.200.122:8443
 vless://4c03d139-631b-41dd-be68-933c3df0d7c2@162.159.4.8:443?security=tls&sni=qifei2024.dns.army&type=ws&host=qifei2024.dns.army#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.4.8:443
@@ -81,5 +83,3 @@ vless://29f00915-4107-491d-ba71-c9328e845a32@173.245.58.100:80?type=grpc&service
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@108.162.192.198:443?security=tls&sni=bia-PaiN-baCHE.PAGeS.DeV&type=ws&host=bia-pAin-bAChE.PaGeS.dEV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.192.198:443
 vless://b75b3034-36ab-4979-beae-3d02db1b11ec@172.67.71.160:443?security=tls&sni=always-online1.lp-airdrop.top&type=ws&host=always-online1.lp-airdrop.top&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.71.160:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.42.89.64:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇱🇺 LU-188.42.89.64:443
-vless://ff621eea-98b1-4430-9442-a5df925697d6@188.114.97.3:80?security=none&type=ws&host=De2-vless.sshmax.xyz.&path=/vless#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.97.3:80
-vless://1ff59fad-6cc6-4714-82b1-d4af47de08eb@103.184.44.39:80?security=none&type=ws&host=DiReCt49-13-163-226.CleAnMaRk.IR&path=/DiReCt49-13-163-226-CleAnMaRk-IR#🔒 VL-WS-NONE 🇨🇳 CN-103.184.44.39:80

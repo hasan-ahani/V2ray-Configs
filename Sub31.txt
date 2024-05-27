@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://de352a82-25dd-4cbc-98bf-2e761da633f5@172.67.130.66:8443?security=tls&sni=Fin.Melobigg.Site&type=grpc&serviceName=me&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.130.66:8443
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.104.253:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-185.148.104.253:443
 vless://f047f640-7345-470b-a312-eed16247a8c5@185.146.173.94:2087?security=tls&sni=allnet.deragv2ray.net&type=grpc&serviceName=@DeragNet&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🇸🇪 SE-185.146.173.94:2087
 vless://45f8e7d7-d155-4bc2-8afd-3525fed2d454@172.66.47.158:443?security=tls&sni=pardazeshvpn-tg83.pages.dev&type=ws&host=pardazeshvpn-tg83.pages.dev&path=%2FTelegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.158:443
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@89.116.161.250:8443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇱🇹 LT-89.116.161.250:8443
@@ -81,5 +83,3 @@ vless://9eed4ef6-fd5e-40d5-8f2c-4e90c92011ca@104.21.32.238:8443?security=tls&sni
 vless://075a365b-b0c7-4ba3-b5a6-597850c223f9@104.16.24.34:8880?security=none&type=ws&host=sinaazizpor.wapgiz.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.24.34:8880
 vless://308d0488-0230-4f92-9e9f-978a3583434a@95.38.155.212:2096?type=ws&host=bulgtn.private-server.host&path=/#🔒 VL-WS-NA 🇮🇷 IR-95.38.155.212:2096
 vless://f4cec6cc-6177-423c-90f8-2ad9f0dd996b@172.67.186.42:8443?security=tls&sni=vpnct.arvancode.eu.Org&type=ws&host=vpnct.arvancode.eu.Org&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.186.42:8443
-vless://e6a09d33-2b59-4a34-a720-fa4d5c46dcad@172.67.171.49:443?security=tls&sni=de1.vless.site&type=ws&host=de1.vless.site&path=/vless#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.171.49:443
-vless://b04859a9-1156-4d22-8873-60980d5b599d@172.67.193.102:443?security=tls&sni=free.connectix.workers.dev&type=ws&path=/connectix&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.193.102:443

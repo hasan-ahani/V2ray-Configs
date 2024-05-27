@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://4d815963-8b34-4b71-a01a-c57c7bdc0a70@162.159.137.232:8443?security=tls&sni=zU3-G6cd-seRVEr.onfLashDrIvE.APP&type=ws&host=zu3-G6CD-ServER.OnFLASHdriVE.ApP&path=/&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.137.232:8443
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@154.219.5.130:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F#🔒 VL-WS-TLS 🇸🇬 SG-154.219.5.130:443
 vless://a93eacd2-2852-4d84-9355-fd1e6477dccc@172.64.160.149:80?security=none&type=ws&host=esten.free.hr&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.160.149:80
 vless://d6f2a18c-c334-4cda-a14a-362390cfde40@172.67.156.241:2083?security=tls&sni=selinc---6---selinc---6---selinc.gxjuztaq.workers.dev&type=ws&host=selinc---6---selinc---6---selinc.gxjuztaq.workers.dev&path=vless-ws%2F%3Fed%3D2048&fp=safari&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.156.241:2083
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@8.219.117.198:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇸🇬 SG-8.219.117.198:8443
@@ -81,5 +83,3 @@ vless://bb2af53a-8a2a-4466-bcf4-7e7de11b8381@172.67.195.105:443?security=tls&sni
 vless://090ac18d-09db-4abe-b525-52d361da0e1b@104.17.98.95:8443?security=tls&sni=contact.my-contorol.com&type=grpc&serviceName=azaronline.com&fp=safari#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.98.95:8443
 vless://62a49d41-e231-4a6b-af26-cec86ef64001@172.67.205.138:443?security=tls&sni=1403.stopt7307.workers.dev&type=ws&host=1403.stopt7307.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.205.138:443
 vless://f6c960f3-dc81-45ca-9891-4138f78d9125@172.67.190.173:443?security=tls&sni=FalcuNaRgO.e9744be7d6.woRKeRs.DEv&type=ws&host=FalCUnaRGO.E9744be7D6.woRKERs.Dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.190.173:443
-vless://ad60198d-1104-4518-ac8b-8ccaa7538895@104.19.247.91:2052?security=none&type=ws&host=daily-configs.xn--ykqpu7pm2wzwbm5mpyner8e1ri.tech.&path=%2FTel%3A%40Daily_ConfigsTel%3A%40Daily_ConfigsTel%3A%40Daily_ConfigsTel%3A%40Daily_ConfigsTel%3A%40Daily_ConfigsTel%3A%40Daily_Configs#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.247.91:2052
-vless://18a3f404-572c-4f9d-a87f-4329a7c134a1@172.67.222.107:8443?security=tls&sni=selinc----7------selinc-------7------selinc.qnhvrd.workers.dev&type=ws&host=selinc----7------selinc-------7------selinc.qnhvrd.workers.dev&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.222.107:8443
