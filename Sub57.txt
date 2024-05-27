@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://c4516bc5-9e46-4205-983e-2b8646e498dd@104.21.8.177:2083?security=tls&sni=cf.mitowear.com&type=ws#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.8.177:2083
 vless://414ec795-648c-4c59-de88-e1dee89a30aa@104.21.69.44:2087?security=tls&sni=wordpress15-admin-panel-thunder.mralpha-vpn.com&type=grpc&serviceName=@thunderv2ray,@thunderv2ray,@thunderv2ray,@thunderv2ray,@thunderv2ray,@thunderv2ray,@thunderv2ray,@thunderv2ray,@thunderv2ray,@thunderv2ray&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.69.44:2087
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@199.181.197.237:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-199.181.197.237:443
 vless://7e29f2e2-e0ec-47c5-94ec-38ef90f7a106@172.67.91.112:2096?security=tls&sni=qopyz.oxnetirz11.onFLashDrIVE.app&type=ws&host=qopyz.oxnetirz11.onFLashDrIVE.app&path=vless-ws%2F%3Fed%3D2048&fp=firefox&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.91.112:2096
@@ -83,3 +82,4 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@219.76.13.183:443?security=tls&sni=
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.128.144:443?security=tls&sni=GOV.UK&type=ws&host=k.kp&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-151.101.128.144:443
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.171.29.149:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇮🇪 IE-54.171.29.149:22222
 vless://eb20ac7b-1462-4209-ab0d-c0e7d7a8bf69@172.67.73.163:2053?security=tls&sni=telegram-falcunargo-emirates.falcunar.asso.eu.org&type=ws&host=telegram-falcunargo-emirates.falcunar.asso.eu.org&path=%2F%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.73.163:2053
+vless://fe859d2f-3e06-40fe-9961-6fb6f9eb589e@172.67.204.84:2053?security=tls&sni=zaher.digibook-shop.com&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.204.84:2053

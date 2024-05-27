@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://fe859d2f-3e06-40fe-9961-6fb6f9eb589e@172.67.204.84:2053?security=tls&sni=zaher.digibook-shop.com&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.204.84:2053
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.42.89.79:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇱🇺 LU-188.42.89.79:443
 vless://4dff7215-1e48-4b7b-8a2f-8fe0be2ac6a8@188.42.145.0:443?security=tls&sni=jeTfrEeWArp.paGes.deV&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇷🇺 RU-188.42.145.0:443
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@188.164.158.172:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F#🔒 VL-WS-TLS 🇦🇲 AM-188.164.158.172:443
@@ -83,3 +82,4 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@150.136.241.40:8443?security=tls&sn
 vless://76434743-2a94-4cfd-8170-8e3971419b36@172.66.44.237:443?security=tls&sni=pardazeshvpn-tg85.pages.dev&type=ws&host=pardazeshvpn-tg85.pages.dev&path=%2FTelegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.237:443
 vless://77a571fb-4fd2-4b37-8596-2b7d9728bb5c@104.21.95.205:8880?security=none&type=ws&host=xw.r4d.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.95.205:8880
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.12.75.46:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-31.12.75.46:443
+vless://0527cbb1-de3c-4692-94c5-d5e51d46e3b5@162.159.152.2:2053?security=tls&sni=telegram-falcunargo-turky.falcunar.asso.eu.org&type=ws&host=telegram-falcunargo-turky.falcunar.asso.eu.org&path=%2F%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.2:2053

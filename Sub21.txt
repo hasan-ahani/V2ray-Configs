@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://0f43969c-ff93-4080-b821-67fdc90fc074@104.168.107.230:2052?security=reality&flow=xtls-rprx-vision&sni=debian.org&type=tcp&fp=chrome&pbk=kt-d9jx_cCmvmWiL4CP5IPAKHhjAF-oBmsGhyG1U704&sid=7a06db71e78640de#🔒 VL-TCP-RLT 🇺🇸 US-104.168.107.230:2052
 vless://e33d8ca8-573a-4199-b067-acc14e010cdd@104.168.107.230:6722?security=reality&flow=xtls-rprx-vision&sni=js.hsforms.net&type=tcp&fp=chrome&pbk=8BiQIRM0TBZUpRwiB6vsfTPOj4AJoYd1dvX65GhfFW4&sid=a41cc82f29d6308c#🔒 VL-TCP-RLT 🇺🇸 US-104.168.107.230:6722
 vless://244739c0-791a-4996-92b3-4d8bb708c80a@49.12.193.246:443?security=reality&sni=www.iranserver.com&type=grpc&serviceName=@VPNCUSTOMIZE&fp=chrome&pbk=JkoHaVaou4cTuQk5kbG2lwQx7Z5nzFiKbTDXbr-fdFQ&sid=9a6deee9#🔒 VL-GRPC-RLT 🇩🇪 DE-49.12.193.246:443
 vless://52a2db26-73f5-43d9-9fd0-bc5afa3fc7ac@104.168.107.230:7550?security=reality&flow=xtls-rprx-vision&sni=pixabay.com&type=tcp&fp=chrome&pbk=kt-d9jx_cCmvmWiL4CP5IPAKHhjAF-oBmsGhyG1U704&sid=7a06db71e78640de#🔒 VL-TCP-RLT 🇺🇸 US-104.168.107.230:7550
@@ -83,3 +82,4 @@ vless://b948668e-ddcf-4b98-bf7c-f4a1c59b7e9b@65.109.193.242:443?security=reality
 vless://b0753dbe-6187-4d7f-8931-4c0d1a975104@[::ffff:5fa4:243b]:2096?security=reality&flow=xtls-rprx-vision&sni=104.21.70.42&type=tcp&fp=chrome&pbk=Iqqixc1Fcq2knbl1IbuKOHuZn2QDQIgri2J1acmDuTw&sid=bbe1ba3d62f09e09#🔒 VL-TCP-RLT 🇦🇹 AT-[::ffff:5fa4:243b]:2096
 vless://90f1fa90-75f7-4691-b5b7-a8e4a84d66d9@66.90.74.84:20012?security=reality&flow=xtls-rprx-vision&sni=www.timeto.com&type=tcp&fp=chrome&pbk=Wt9cTNEcGKp6Qy2n050o5U3sDCEK1C-iuzQFYSzXknU&sid=4a3749e4#🔒 VL-TCP-RLT 🇦🇷 AR-66.90.74.84:20012
 vless://184d0948-6d59-4d35-8414-3a40653300fa@95.179.209.182:39655?security=reality&sni=canva.com&type=http&fp=chrome&pbk=ufhhvLT3OZTFY_PvQvNGhGHYJNfpKfc3ZZReToimgnc&sid=a0b24709af#🔒 VL-HTTP-RLT 🇫🇷 FR-95.179.209.182:39655
+vless://423456a7-7895-49fc-8589-d4d5ebc26b3d@128.140.44.61:443?security=reality&sni=baharan.net&type=grpc&serviceName=@ipV2Ray&fp=chrome&pbk=mgAFVACxJq3PAcJ-MotpvLU8jRYZ30nYXgekSUL5gH8&sid=420f8f45#🔒 VL-GRPC-RLT 🇩🇪 DE-128.140.44.61:443

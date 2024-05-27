@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://423456a7-7895-49fc-8589-d4d5ebc26b3d@128.140.44.61:443?security=reality&sni=baharan.net&type=grpc&serviceName=@ipV2Ray&fp=chrome&pbk=mgAFVACxJq3PAcJ-MotpvLU8jRYZ30nYXgekSUL5gH8&sid=420f8f45#🔒 VL-GRPC-RLT 🇩🇪 DE-128.140.44.61:443
 vless://49cfba31-47ee-4b84-99cc-5a40da4f8e71@88.99.171.219:443?security=reality&sni=*.atg-autoteile.at&type=grpc&serviceName=@ipV2Ray&fp=chrome&pbk=Qiyaewww1I5WmR0pSCDK2LmTe3_V4IQ0bcTcRZNn4TA&sid=20aef060#🔒 VL-GRPC-RLT 🇩🇪 DE-88.99.171.219:443
 vless://a3c79bd9-44ff-4b56-9a26-bf756b2fa929@109.61.42.157:2042?security=reality&sni=zara.com&type=http&fp=chrome&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E#🔒 VL-HTTP-RLT 🇦🇪 AE-109.61.42.157:2042
 vless://789dc12d-a9b0-4047-aceb-656a7b0d3e9b@70.34.207.20:7594?security=reality&sni=dash.cloudflare.com&type=grpc&serviceName=%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar&fp=chrome&pbk=6d3tL3SQ0dKHCjXkajIlu8VEsyYXD_Zt_sFlMVY4ZzQ&sid=f575cb95#🔒 VL-GRPC-RLT 🇸🇪 SE-70.34.207.20:7594
@@ -83,3 +82,4 @@ vless://80889296-f76e-49d2-8aa2-53755e42e790@172.67.73.216:443?security=tls&sni=
 vless://c0fbd664-9693-4cc0-aa73-9247dbbadbeb@104.21.46.197:443?security=tls&sni=bed7nemarz.ribon88568.workers.dev&type=ws&host=bed7nemarz.ribon88568.workers.dev&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.46.197:443
 vless://3573e374-f9b1-4898-de16-3979bc0b528a@104.20.117.101:80?security=none&sni=bia-to-channel.unlimiteddev.xyz&type=ws&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.117.101:80
 vless://c18b3b51-9288-4daa-837d-3e83245efa3b@85.159.208.19:443?security=tls&flow=xtls-rprx-vision&sni=uk-freevmess.privateip.net&type=tcp#🔒 VL-TCP-TLS 🇬🇧 GB-85.159.208.19:443
+vless://e684402d-7750-42f1-baae-492708b0258f@185.146.173.206:2087?security=tls&sni=g4.ferdowsi.shop&type=grpc&serviceName=Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇸🇪 SE-185.146.173.206:2087
