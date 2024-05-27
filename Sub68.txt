@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.142.120.11:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-45.142.120.11:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.176.24.120:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-185.176.24.120:443
 vless://13be7b64-8a46-4724-9cf2-4c7eddd4c56b@104.18.219.128:2096?security=tls&sni=sPeEd.vbox778.info.&type=grpc&fp=firefox&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.219.128:2096
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.18.234.45:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.234.45:443
@@ -82,4 +83,3 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@132.226.230.177:48132?security=tls&
 vless://222badf2-8e87-479a-8b77-1a3c952edac2@172.67.197.29:2096?security=tls&sni=vipping.antiping.click&type=grpc&serviceName=sourceforge.net&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.197.29:2096
 vless://734072e0-82af-4ca9-979e-3f84c6b66b97@104.26.1.19:80?security=none&type=ws&host=%E4%B8%8D%E8%A6%81%E5%AF%B9%E4%B8%96newlife.%E7%AB%99%E9%95%BFbadho.silence2.%E5%A4%9C%E7%8C%AB%E5%AD%90%E9%85%92%E5%90%A7%E6%9E%AA%E6%88%98.suonycars.buzz.&path=%2Ft.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.1.19:80
 vless://dd777f39-2996-4269-b88f-0b64436d0274@23.227.60.12:2096?security=tls&sni=joinchannel.sameasyou.sbs&type=ws&host=capitalnet.sameasyou.sbs&path=/&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇨🇦 CA-23.227.60.12:2096
-vless://53b5f2e8-a736-4b71-8337-c744b63f9411@104.31.16.196:2053?security=tls&sni=hf.v2raystore.sbs&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.31.16.196:2053

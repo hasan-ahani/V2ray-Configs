@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?security=tls&sni=jd.wxgqlfx.top&type=ws&host=jd.wxgqlfx.top&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.198.76:443
 vless://01ab9337-f478-4765-9534-88f009f83ddb@47.76.77.103:2053?security=tls&sni=aut306.ylks.link&type=ws&path=/?ed#🔒 VL-WS-TLS 🇭🇰 HK-47.76.77.103:2053
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@13.230.34.30:443?security=tls&sni=jp226.ylks01.eu.org&type=ws&path=/proxyip#🔒 VL-WS-TLS 🇯🇵 JP-13.230.34.30:443
 vless://8a89b27d-2564-4938-a9db-42e87c8ed0d9@104.18.22.185:80?security=none&type=ws&host=2.v2ray.debian.org.fxp.debian.org.speedtest.net.zula.ir.iranserver.com.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95%E3%82%89%E3%82%8F.isvphp.ir.&path=%2Fvless#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.22.185:80
@@ -82,4 +83,3 @@ vless://01ab9337-f478-4765-9534-88f009f83ddb@8.219.107.135:2083?security=tls&sni
 vless://e1ad1088-c7ab-4c06-83b1-27c8188e631b@104.18.15.229:443?security=tls&sni=cpanel.pharmaweb.info&type=ws&host=cpanel.pharmaweb.info&path=/wws&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.15.229:443
 vless://2dec8a82-2d39-407d-a5bf-98ea8b37a426@185.177.229.58:36439?security=none&type=tcp&host=eset.com&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-185.177.229.58:36439
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.31.16.6:8443?security=tls&sni=baipiao1.curly-train.pages.dev&type=ws#🔒 VL-WS-TLS 🏴‍☠️ NA-104.31.16.6:8443
-vless://01ab9337-f478-4765-9534-88f009f83ddb@47.236.145.85:2053?security=tls&sni=aut226.ylks.link&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇬 SG-47.236.145.85:2053
