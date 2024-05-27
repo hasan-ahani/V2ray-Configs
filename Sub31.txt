@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://9eed4ef6-fd5e-40d5-8f2c-4e90c92011ca@104.21.32.238:8443?security=tls&sni=re1.v2logy.xyz&type=grpc&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.32.238:8443
+vless://3ebc00d8-feed-4120-9a42-a936bcdde273@45.80.111.9:80?security=none&type=ws&host=direct85-217-14-47.digital-ping.ir#🔒 VL-WS-NONE 🇩🇪 DE-45.80.111.9:80
 vless://ca510fb3-9a46-4b3c-a2a6-4c80a6431bd9@172.66.47.158:2052?security=none&type=ws&host=KCAGlE.eiTAa.biO&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.47.158:2052
 vless://a2081592-fb7a-4b0a-b93b-33ddf0825410@170.187.250.166:443?security=tls&sni=in-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇮🇳 IN-170.187.250.166:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.22.36.243:443?security=tls&sni=jp306.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.36.243:443
@@ -81,5 +83,3 @@ vless://010da807-b050-42ce-8fac-4afb2f17a21f@188.114.98.252:443?security=tls&sni
 vless://01ab9337-f478-4765-9534-88f009f83ddb@8.219.6.150:2083?security=tls&sni=aut226.ylks.link&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇬 SG-8.219.6.150:2083
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.80.111.27:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇩🇪 DE-45.80.111.27:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.66.182:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.66.182:443
-vless://35f5c4b3-2ff8-4343-ba03-c3f940aa0c61@172.64.23.67:80?security=none&type=ws&host=V2ray-Vip-Mkh.xn--85-pv2cl2k5x3fipr.org.#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.23.67:80
-vless://b217b5b1-514d-4c56-b04a-789fc7bcf9d6@162.159.137.232:2083?security=tls&sni=freeinternetforeveryone.segaro.tech&type=grpc&serviceName=TLQVyGiO5OwZU9iYzyeZwbq&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.137.232:2083

@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://35f5c4b3-2ff8-4343-ba03-c3f940aa0c61@172.64.23.67:80?security=none&type=ws&host=V2ray-Vip-Mkh.xn--85-pv2cl2k5x3fipr.org.#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.23.67:80
+vless://b217b5b1-514d-4c56-b04a-789fc7bcf9d6@162.159.137.232:2083?security=tls&sni=freeinternetforeveryone.segaro.tech&type=grpc&serviceName=TLQVyGiO5OwZU9iYzyeZwbq&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.137.232:2083
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.229:2053?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.229:2053
 vless://7d4e9491-4eb4-42da-926c-2c7c201e99e2@162.159.133.234:443?security=tls&sni=uk-cdn.pop-up-pool.xyz&type=ws&host=uk-cdn.pop-up-pool.xyz#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.133.234:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@146.70.175.177:443?security=tls&sni=kk226.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇳🇱 NL-146.70.175.177:443
@@ -81,5 +83,3 @@ vless://9e09bf57-b7d4-4eac-a2c3-b5fa1ba7b618@188.114.98.225:2083?security=tls&sn
 vless://63dd3174-ca18-4dc5-95ff-b017e05639f0@162.159.130.234:2096?security=tls&sni=de-cdn.NetGurdians.tech&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.130.234:2096
 vless://9f3d6a0a-492c-47dc-b2c5-6889eabeb940@172.67.198.54:443?security=tls&sni=vip.alonext.com&type=grpc&serviceName=@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2&fp=chrome&alpn=h2,http/1.1,h3#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.198.54:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@185.135.9.15:8443?security=tls&sni=kk226.ylks.link&type=ws&path=/blue#🔒 VL-WS-TLS 🇩🇪 DE-185.135.9.15:8443
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@45.205.0.83:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-45.205.0.83:8443
-vless://dc3d2a0c-85b4-43f6-ba92-9d774625eda0@172.64.111.9:443?security=tls&sni=be1.v2vless.xyz&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.64.111.9:443

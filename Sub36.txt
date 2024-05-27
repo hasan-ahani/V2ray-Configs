@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://90cd4a77-141a-43c9-991b-08263cfe9c10@162.159.195.143:443?security=tls&sni=syq-8y3.pages.dev&type=ws&host=syq-8y3.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.195.143:443
+vless://13180ff2-e438-4472-b824-48eb2390bd3f@46.36.100.95:6710?security=none&type=tcp&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-46.36.100.95:6710
 vless://43e00e4c-2316-4dc9-8262-cef31886dc56@104.16.68.38:2052?security=none&type=ws&host=vless-sub.n7p8ri7j.workers.dev&path=%2Fmarly.toptechnonews.com%2Fnimws#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.68.38:2052
 vless://9a39f63e-28c8-4560-af18-b01b9916ef1b@104.18.12.229:8443?security=tls&sni=pardazesh-tgws.pages.dev&type=ws&host=pardazesh-tgws.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.12.229:8443
 vless://75a6d62e-a371-41c8-ab53-8c6e6e8201fb@104.18.202.232:2053?security=tls&sni=6d1.narnino.org&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.202.232:2053
@@ -81,5 +83,3 @@ vless://b76248ca-b5ac-468a-98a0-da27d1ae073d@162.159.1.94:443?security=tls&sni=7
 vless://957e3de7-7f01-49b9-afcc-949930381128@104.17.245.1:2082?security=none&type=ws&host=61.unicorns.sa.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.245.1:2082
 vless://01ab9337-f478-4765-9534-88f009f83ddb@47.236.202.91:2053?security=tls&sni=aut306.ylks.link&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇬 SG-47.236.202.91:2053
 vless://832c0f5e-9329-429f-a347-05e0ff30875c@185.146.173.59:2082?security=none&type=ws&host=fijffjdfjdfjdwieiriiririfjfndnmx.goldxray.com&path=/Telegram:@Hpv2rayNG-Telegram:@Hpv2rayNG-Telegram:@Hpv2rayNG-Telegram:@Hpv2rayNG-Telegram:@Hpv2rayNG-Telegram:@Hpv2rayNG-Telegram:@Hpv2rayNG-Telegram:@Hpv2rayNGTelegram:@Hpv2rayNGTelegram:@Hpv2rayNG-Telegram:@Hpv2rayNG#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.59:2082
-vless://f047f640-7345-470b-a312-eed16247a8c5@185.146.173.94:2087?security=tls&sni=allnet.deragv2ray.net&type=grpc&serviceName=@DeragNet&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🇸🇪 SE-185.146.173.94:2087
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@38.181.73.64:62888?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🔒 VL-WS-TLS 🇸🇬 SG-38.181.73.64:62888

@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@104.24.185.137:2087?security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&type=ws#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.185.137:2087
+vless://3fd97eba-2517-4011-8bc3-50356388cf91@85.158.145.202:2083?security=tls&sni=Panel.amazonwashop2.top&type=grpc&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🇳🇱 NL-85.158.145.202:2083
 vless://5d597030-946b-4d8a-8029-a11ca16a8fef@188.114.97.122:2053?security=tls&sni=1.windscribe.cam&type=grpc&serviceName=2053vless&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-188.114.97.122:2053
 vless://b71b0234-3967-4cfb-bbac-00a9ec8b1637@104.19.251.69:8443?security=tls&sni=melody.howareu.xyz&type=ws&host=melody.howareu.xyz&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.251.69:8443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@192.65.217.111:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇦🇺 AU-192.65.217.111:443
@@ -81,5 +83,3 @@ vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@47.242.252.237:8443?security=tls&sn
 vless://471f4b90-63e7-45f0-922c-d1ab68384a8b@104.21.7.16:80?security=none&type=ws&host=xnjsn.snjsj.sjsjeje.sjsjsjs.sjsjjs.sjsksks.sksksk.sjsjs.jskv2raykekw.jwjw.sksos.ZmV2ray.Site.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.7.16:80
 vless://1b46289a-8c93-4619-b3a8-04d9d301da0c@104.26.13.8:2096?security=tls&sni=mz-net.49z.info&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.26.13.8:2096
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.43.179.20:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇰🇿 KZ-31.43.179.20:443
-vless://bb60ea48-70e1-414a-b441-86a5e40686de@45.76.43.217:1106?security=none&type=tcp&host=creativecommons.org&headerType=http#🔒 VL-TCP-NONE 🇳🇱 NL-45.76.43.217:1106
-vless://d78497b1-5298-4337-852f-fe38ac6a9222@13.87.92.42:443?security=tls&sni=cdn.hinata.ir&type=ws&path=%2F#🔒 VL-WS-TLS 🇬🇧 GB-13.87.92.42:443

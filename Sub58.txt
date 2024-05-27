@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://2be59a14-da6b-4078-b80e-fae95f1a44b6@62.60.138.195:2087?security=tls&sni=nl1.anonymous011.me&type=ws&path=/#🔒 VL-WS-TLS 🇮🇷 IR-62.60.138.195:2087
+vless://186c6afe-7234-4911-839f-77086e9b7278@172.67.216.166:2086?security=none&type=ws&host=workerr.d6dkppf4.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.216.166:2086
 vless://5a6555ea-a997-4381-aac7-8a53b6d2f5a5@104.25.5.6:2087?security=tls&sni=suping2.snapppfood.sbs&type=grpc&serviceName=@AFC_vpn.@AFC_vpn.@AFC_vpn&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.25.5.6:2087
 vless://06cf9aed-3070-47c4-9d32-85ceea219540@104.20.62.55:443?security=tls&sni=7Fe600D3b53c4bb9de9C863cad96d1.nv2ROn.ir&type=ws&host=7fe600d3b53c4bb9de9c863cad96d1.nv2ron.ir&path=%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%3Fed%3D2048&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.62.55:443
 vless://729e9f33-82d4-45bb-93f5-5a016553e43a@104.21.81.223:443?security=tls&sni=de1.v2vless.xyz&type=ws&host=de1.v2vless.xyz&path=free/#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.81.223:443
@@ -81,5 +83,3 @@ vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@16.162.56.233:443?security=tls&sni=
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@185.165.205.6:443?security=tls&sni=SANdWORM.PAGES.DeV&type=ws&host=SaNdWorM.paGes.DEv&path=/NUx3f5M3thQHsamp&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇮🇷 IR-185.165.205.6:443
 vless://9937de02-e13a-4c7d-8ace-708104e01db0@185.16.110.171:2052?security=none&type=ws&host=v2ray.debian.org.fxp.debian.org.speedtest.net萨姆吉巴尼科.golestan-vpn.link.&path=/aSAn.net.v2rayng6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g#🔒 VL-WS-NONE 🇫🇷 FR-185.16.110.171:2052
 vless://cbcceb3e-63be-42b3-ab9c-c36563c73526@104.24.196.20:8080?type=ws&host=ws.nastoh1.sbs&path=/#🔒 VL-WS-NA 🏴‍☠️ NA-104.24.196.20:8080
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.28.52:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.28.52:443
-vless://8d7405ca-200e-4d0b-8d87-5a30011376bb@104.31.16.61:443?security=tls&sni=free.forcedparadise.store&type=grpc&serviceName=@P_tech2024&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.31.16.61:443
