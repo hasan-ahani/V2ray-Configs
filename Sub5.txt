@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://telegram-id-privatevpns@13.39.253.171:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 18
-trojan://telegram-id-directvpn@13.59.141.221:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇺🇸US | 🟢 | trojan | @DirectVPN | 0
-trojan://telegram-id-directvpn@3.97.46.102:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇨🇦CA | 🟢 | trojan | @DirectVPN | 1
 trojan://telegram-id-directvpn@3.97.159.4:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇨🇦CA | 🟢 | trojan | @DirectVPN | 2
 trojan://telegram-id-directvpn@52.213.80.198:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇮🇪IE | 🟢 | trojan | @DirectVPN | 3
 trojan://telegram-id-directvpn@34.247.99.206:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇮🇪IE | 🟢 | trojan | @DirectVPN | 4
@@ -69,6 +66,14 @@ vless://7f3b2f37-819e-49ee-9f5c-215467bfde61@172.67.204.39:443?path=/?ed=2048&se
 vless://1f98b5cc-140f-46b4-987f-6936da9f2238@104.26.6.95:80?path=/?ed=2048&security=none&encryption=none&host=crxre.ribiwa9933.workers.dev&type=ws#🚩CF | 🔴 | vless | @Outline_Vpn | 15
 vless://7143e704-5957-42db-bd38-670062722461@172.67.217.107:80?path=/?ed=2048&security=none&encryption=none&host=buyz.ribiwa9933.workers.dev&type=ws#🚩CF | 🔴 | vless | @Outline_Vpn | 16
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?path=/?ed=2048&security=tls&encryption=none&host=jd.wxgqlfx.top&type=ws&sni=jd.wxgqlfx.top#🚩CF | 🔴 | vless | @Outline_Vpn | 17
+vless://2ee3a09b-1c47-45af-8a28-f003b4cdc2ad@185.97.118.54:443?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🇮🇷IR | 🔴 | vless | @prrofile_purple | 141
+vless://3cdbc462-6272-4c2a-9a2d-1525a81c7dfa@104.16.54.14:443?path=/?ed=2048&security=tls&encryption=none&host=xeeqi.kevani8800.workers.dev&type=ws&sni=xeeqi.kevani8800.workers.dev#🚩CF | 🔴 | vless | @prrofile_purple | 143
+vless://474fec66-dc5c-4e11-a8b3-d7d65ef2206b@datasets.radar.staging.cloudflare.com:8080?path=/vless&security=none&encryption=none&host=6.isv.vpn.v2ray.yk.nedayevarzesh.ir.newsless.ir.らわなさらわ.isvphp.IR.&type=ws#🇺🇸US | 🔴 | vless | @prrofile_purple | 144
+vless://1f98b5cc-140f-46b4-987f-6936da9f2238@104.26.7.95:80?path=/?ed&security=none&encryption=none&host=crxre.ribiwa9933.workers.dev&type=ws#🚩CF | 🔴 | vless | @prrofile_purple | 145
+vless://1f98b5cc-140f-46b4-987f-6936da9f2238@104.26.7.95:80?path=/?ed=2048&security=none&encryption=none&host=crxre.ribiwa9933.workers.dev&type=ws#🚩CF | 🔴 | vless | @prrofile_purple | 146
+vless://telegram-id-ArV2ray@185.146.173.94:80?path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048&security=none&encryption=none&host=4.V2ray.debian.org.mv.org.speedtest.net.らわなさらわ.Tech.&type=ws#🇸🇪SE | 🔴 | vless | @prrofile_purple | 148
+vless://b0138d55-a493-4dc3-9932-c6f0391707c1@188.114.96.3:2082?path=/?ed&security=none&encryption=none&host=malaysiadj.card-937.workers.dev&type=ws#🚩CF | 🔴 | vless | @prrofile_purple | 149
+vless://Parsashonam-75@185.146.173.94:8080?path=/&security=none&encryption=none&host=Parsashonam.我们累了.tech.&type=ws#🇸🇪SE | 🔴 | vless | @prrofile_purple | 150
 vless://d4813e65-88d8-41d2-9068-d9f70979fff0@104.17.169.114:80?path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=1024&security=none&encryption=none&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&type=ws#🚩CF | 🔴 | vless | @prrofile_purple | 151
 vless://8117afa8-4685-4df6-b87f-fdd0cb099a89@185.146.173.58:80?path=/Telegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy?ed=2048&security=none&encryption=none&host=2.ftp.debian.org.www.speedtest.net.免费上网67.Site.&type=ws#🇸🇪SE | 🔴 | vless | @prrofile_purple | 152
 vless://c1978266-958c-4aa3-ba34-7eacac75aca1@www.visa.com:443?path=/?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=bpb-worker-panel3.pages.dev&fp=chrome&type=ws&sni=bpb-worker-panel3.pages.dev#🇺🇸US | 🔴 | vless | @prrofile_purple | 153
@@ -78,8 +83,3 @@ vless://DIGiV2RAY@www.Speedtest.Net:2095?path=/DIGIV2RAY-DigiV2ray-digiv2ray?ed&
 vless://TELEGRAM---V2rayNGcloud@104.25.115.232:80?path=/@v2rayNGcloud-@v2rayNGcloud-&security=none&encryption=none&host=V2ray.digikala.com-mykit.ir.nobitex.com.IMhyW5477e.V2RAYNGCLOUD.OnlInEdowNloadERfile.com.&type=ws#🚩CF | 🔴 | vless | @prrofile_purple | 157
 vless://a346f85c-32b0-47ad-b467-d99bb735cd0f@www.speedtest.net:80?path=/?ed=2048zula.ir&security=none&encryption=none&host=3.V2ray.speedtest.net.parspack.com.mit.ir.列列男事的事列上赛男84.Store.&type=ws#🇺🇸US | 🔴 | vless | @prrofile_purple | 158
 vless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@188.114.97.141:443?path=/?ed=2048&security=tls&encryption=none&host=e10c0e4b.oodaeq2.pages.dev&type=ws&sni=e10c0e4b.oodaeq2.pages.dev#🚩CF | 🔴 | vless | @prrofile_purple | 159
-vless://1a94747b-8901-4812-ba23-7eb44cc1162f@188.114.96.3:443?path=/telegram-proxy_mtm-telegram-proxy_mtm?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=kIngOFIRAN.PAGes.DEv&fp=randomized&type=ws&sni=kingOfIRaN.Pages.DEV#🚩CF | 🔴 | vless | @prrofile_purple | 160
-vless://Telegram-ipV2Ray-kiy@185.146.173.58:80?path=/Telegram-ipV2Ray?ed=2048&security=none&encryption=none&host=2.V2ray.ftp.debian.org.www.speedtest.net.免费上网68.Site.&type=ws#🇸🇪SE | 🔴 | vless | @prrofile_purple | 161
-vless://fb853741-88ef-4aa0-ba2f-999f04535960@188.114.97.3:443?path=/telegram-proxy_mtm-telegram-proxy_mtm?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=HovEYda-arIamehr-KINg.pAgES.dev&fp=randomized&type=ws&sni=HovEyda-ARIAMEHR-KinG.PAgEs.Dev#🚩CF | 🔴 | vless | @prrofile_purple | 163
-vless://a81b314c-3ab7-48d3-b8c0-584c89e5f616@104.16.54.150:80?path=/TeleGram@Free_V2rng?ed=2048&security=none&encryption=none&host=xswa.kevani8800.workers.dev&type=ws#🚩CF | 🔴 | vless | @prrofile_purple | 166
-vless://1f98b5cc-140f-46b4-987f-6936da9f2238@104.26.7.95:80?path=/?ed=2048&security=none&encryption=none&host=crxre.ribiwa9933.workers.dev&type=ws#🚩CF | 🔴 | vless | @prrofile_purple | 167
