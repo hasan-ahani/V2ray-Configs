@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.119.3:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.119.3:443
-vless://83b96695-1749-4c01-8ef4-471999ff9e9f@95.38.202.229:2093?security=none&type=tcp&host=speedtest.com&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-95.38.202.229:2093
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@185.174.138.112:443?security=tls&sni=tg.dns68.cloudns.nz&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇷🇺 RU-185.174.138.112:443
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@141.11.202.17:2083?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F#🔒 VL-WS-TLS 🇫🇷 FR-141.11.202.17:2083
 vless://a0e33e35-ad8d-4226-8d95-3c2fec5f23cf@104.17.102.133:2053?security=tls&sni=isa.kasler.sbs&type=grpc&serviceName=کانال+@ev2rayy&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.102.133:2053
@@ -83,3 +81,5 @@ vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@47.243.74.220:2053?security=tls&sni
 vless://0895c839-54e8-4522-cfa0-d1a5b1b34827@104.21.90.218:2086?security=none&type=ws&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.90.218:2086
 vless://775213ac-3976-439a-8977-3277c0e4735d@62.72.166.67:2096?security=tls&sni=fq521.6789.cloudns.be&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇯🇴 JO-62.72.166.67:2096
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.228.60:443?security=tls&sni=936a99B4.Vde5-MlX81LANeo.pAgES.dEv&type=ws&host=936a99B4.vDE5-MLx81LANeO.pAgeS.DEV&path=%2FKkhHL0gsSoZ7M6id%2FZGU1Lm1lcmxpbm56Lmxpbms%3D%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.228.60:443
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@108.165.216.221:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-108.165.216.221:443
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@129.151.205.193:443?security=tls&sni=v116.ylks.link&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇸🇪 SE-129.151.205.193:443

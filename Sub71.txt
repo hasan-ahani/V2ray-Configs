@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://94916e61-b3bf-4b46-ae11-c987d2f186dc@104.21.59.18:80?security=none&type=ws&host=join-midas-x-x---join-midas-x-x--join-midas-x-x--join-midas-x-x.join-midas-x-x-a14.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.59.18:80
-vless://45b8d2fb-931d-4fce-8bc6-8ecce9b693b8@212.80.18.72:27449?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-212.80.18.72:27449
 vless://31ee875d-63cf-4d85-839e-2def5ca4f794@104.18.15.242:2053?security=tls&sni=031c08e8175b0def.greenbook.monster&type=ws&host=031c08e8175b0def.greenbook.monster&path=%2F&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.15.242:2053
 vless://f10a3902-438e-4d60-8978-68d21c5844a6@162.159.135.232:8443?security=tls&sni=real-state1.zargarr.com&type=grpc&serviceName=%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.135.232:8443
 vless://727b54ea-0ae5-412f-d5bf-9590d3f91246@104.21.37.215:443?security=tls&sni=new1.alpha5.top&type=grpc&serviceName=@V2ray_Alpha%20@V2ray_Alpha%20@V2ray_Alpha#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.37.215:443
@@ -83,3 +81,5 @@ vless://378ac207-38d3-4401-ba96-3a7931968bc5@148.113.175.147:80?security=none&ty
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.245:8443?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.245:8443
 vless://eb44e1c7-e5ba-4446-807c-a0768a8f4589@104.16.12.141:2083?security=tls&sni=amovpn6.fqservers.com&type=ws&host=amovpn6.fqservers.com&path=/channel:@VPNAMOHELP_@VPNAMOHELP_@VPNAMOHELP_@VPNAMOHELP_@VPNAMOHELP_@VPNAMOHELP&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.12.141:2083
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@31.43.179.56:443?security=tls&sni=tg.dns68.cloudns.nz&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇰🇿 KZ-31.43.179.56:443
+vless://39d06891-ee89-4316-ae0e-3fcfb9e9714c@104.20.19.168:2052?security=none&type=ws&host=worker-reza2.wbfoppa.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.19.168:2052
+vless://ca1109ad-1841-4f5f-8560-87068615d595@104.21.74.214:8880?security=none&type=ws&host=vip1cloudmaaghzkaadev2ray.v2rayng6.6.6.6.ir.com.vpn.nvp.chOoktaShaKoraBi.COM.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.74.214:8880

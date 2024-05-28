@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://64fd7689-4024-4d4b-b255-4270532b4036@95.164.116.35:2003?security=tls&sni=tr-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇹🇷 TR-95.164.116.35:2003
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.19.154.92:443?security=tls&sni=KWOdphURST8jSJGgLs4.goteli.com&type=ws&host=KWOdphURST8jSJGgLs4.goteli.com&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.154.92:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@172.67.71.122:8443?security=tls&sni=jp306.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.71.122:8443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.26.9.156:443?security=tls&sni=zdy306.kpcloud.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.9.156:443
 vless://502f1a41-96df-4d6c-8a3b-26781e795893@104.21.211.74:8880?security=none&type=ws&host=sinadfa.dugjup.workers.dev&path=%2FTELEGRAM%40AZARBAYJAB1T%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.211.74:8880
@@ -83,3 +81,5 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@204.93.210.82:2096?security=tls&sni
 vless://e0438944-5909-41dd-be1c-6b10355817b6@5.182.86.224:8880?security=none&type=ws&host=cdnndsszakanalaslitest.possiblesayt.xyz.&path=%2F#🔒 VL-WS-NONE 🇳🇱 NL-5.182.86.224:8880
 vless://9937de02-e13a-4c7d-8ace-708104e01db0@103.184.45.208:2052?security=none&type=ws&host=v2ray.debian.org.fxp.debian.org.speedtest.net%E8%90%A8%E5%A7%86%E5%90%89%E5%B7%B4%E5%B0%BC%E7%A7%91.golestan-vpn.link.&path=%2FaSAn.net.v2rayng6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g#🔒 VL-WS-NONE 🇨🇳 CN-103.184.45.208:2052
 vless://aa2dc840-be38-4b4d-a002-ba234999fd55@172.67.64.81:8080?security=none&type=ws&host=cdn-allxn--b6gaceuorg.l4o117en.workers.dev&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.64.81:8080
+vless://15a9bdbc-1af3-4d8f-84c5-486f584a5974@87.248.152.182:2096?security=none&type=tcp&host=zula.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-87.248.152.182:2096
+vless://c5b7226a-66fb-4135-866c-dec20dca1824@172.67.134.127:443?security=tls&sni=cdn13.gsmvp.com&type=ws&host=cdn13.gsmvp.com&path=%2Focoqws&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.134.127:443
