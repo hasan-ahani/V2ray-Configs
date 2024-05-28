@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://b0138d55-a493-4dc3-9932-c6f0391707c1@172.67.194.11:2082?security=none&type=ws&host=malaysiadj.card-937.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.194.11:2082
-vless://8f9945e6-02ff-44fe-add5-fce891045eb7@94.131.104.66:443?security=tls&sni=lv2-vless.sshmax.xyz&type=ws&path=%2Fvless#🔒 VL-WS-TLS 🇱🇻 LV-94.131.104.66:443
-vless://fd667cc8-7f4e-4ec4-ba4e-46d6209c128c@104.16.59.41:2096?security=tls&sni=re6.v2logy.xyz&type=grpc&fp=chrome&alpn=http%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.59.41:2096
-vless://7599245e-0605-4365-ae29-6027e5312b76@172.67.146.65:443?security=tls&sni=uiranir-uciranir-uiranir-uciranir-uciranir-uciranir-uciranir.mavas55027.workers.dev&type=ws&host=uiranir-uciranir-uiranir-uciranir-uciranir-uciranir-uciranir.mavas55027.workers.dev&path=%2F-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR%2F%3Fed%3D2047&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.146.65:443
-vless://d8704b00-c989-480d-8cec-b87c86201a38@104.18.140.51:80?security=none&type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.140.51:80
-vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@103.184.44.134:2087?security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&type=ws#🔒 VL-WS-TLS 🇨🇳 CN-103.184.44.134:2087
-vless://19b020ae-dddd-4340-a2e7-34cbdb33d62e@[::ffff:6812:cae8]:8080?security=none&type=ws&host=xn--047h.iman-v2ray.sbs.&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-[::ffff:6812:cae8]:8080
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@94.177.8.26:130?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇦🇹 AT-94.177.8.26:130
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@204.93.210.213:8443?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-204.93.210.213:8443
 vless://b499b663-7531-4014-b5a2-19069389574b@104.21.232.99:8443?security=tls&sni=unlimiteddev.xn--9iqr0tm1r4wg.co&type=ws&host=unlimiteddev.xn--9iqr0tm1r4wg.co&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.232.99:8443
@@ -83,3 +76,10 @@ vless://3f266d25-21aa-4498-bb1a-ce6d1d327aaf@104.21.21.137:443?security=tls&sni=
 vless://d3a12e79-ef42-4268-b367-42eeb3494e60@172.66.44.197:443?security=tls&sni=Hagh.PaGes.DEv&type=ws&host=Hagh.PaGes.DEv#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.197:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.94.169.235:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇦 UA-45.94.169.235:443
 vless://04672bf7-9d44-4edf-9222-dfbfb8f74a1f@91.194.11.168:2003?security=tls&sni=ca-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇨🇦 CA-91.194.11.168:2003
+vless://669ad826-af8a-434b-8e61-d8d7caa230c2@104.21.74.139:443?security=tls&sni=forwarder.aurorainiceland.com&type=ws&path=/nimws#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.74.139:443
+vless://1785f360-efb6-4a65-974e-3274135d35d3@172.67.147.79:8880?security=none&type=ws&host=kiava.aws.amazon.com.q.debian.org.speedtest.net.xn--mgba2h8quf.kiava.fun&path=%2Fkiava-kiava%2Ckiava-kiava%2Ckiava-kiava%2Ckiava-kiava%2Ckiava-kiava%2Ckiava-kiava%2Ckiava-kiava%2Ckiava-kiava%2Ckiava-kiava%2Ckiava-kiava%2Ckiava-kiava%2Ckiava-kiava%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.147.79:8880
+vless://ffffffff-17ad-45e7-aaa1-f2baaa08e930@173.245.58.34:443?security=tls&sni=watashi.free.jppublic.moh539.link&type=ws&host=watashi.free.jppublic.moh539.link&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-173.245.58.34:443
+vless://e0a9fdc4-3bdb-4e7c-b938-60e7745f3eb5@162.159.153.2:2053?security=tls&sni=ee2.v2vless.xyz&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.153.2:2053
+vless://7749a882-27cf-40f1-c90e-fd2040e46f60@104.31.16.161:80?security=none&type=ws&host=bpi.ir.bankmellat.ir.ilna.ir.jobinja.ir.iro.ir.karafarinbank.ir.mche.or.ir.cbi.ir.iran.gov.ir.khamenei.ir.esam.ir.bahesab.ir.ponisha.ir.parsian-bank.ir.refah-bank.ir.ime.ac.ir.irna.ir.bank-maskan.ir.bmi.ir.iauh.ac.ir.ebanksepah.ir.mahtabighadimi.sbs.&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.31.16.161:80
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@131.186.62.248:443?security=tls&sni=xin300.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇯🇵 JP-131.186.62.248:443
+vless://ffea89e6-3d42-4714-90e8-73be6ce45111@103.184.45.68:443?security=tls&sni=vps-aby.pages.dev&type=ws&path=%2F%3Fed&fp=randomized#🔒 VL-WS-TLS 🇨🇳 CN-103.184.45.68:443

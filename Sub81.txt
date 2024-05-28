@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://2ca42987-551b-4494-a854-da2d9178f4cd@104.18.211.110:2087?security=tls&sni=KxQhHtGc22.zImBa-zUlA.OrG&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.211.110:2087
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.174.113:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.174.113:443
-vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@47.236.104.11:2087?security=tls&sni=v116.ylkszy.eu.org&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇸🇬 SG-47.236.104.11:2087
-vless://db8248ba-7652-41bb-dbd0-6bcfe406ecb2@104.21.17.98:443?security=tls&sni=test.hotshellow.com&type=ws&path=/lg582228486#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.17.98:443
-vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@104.21.37.112:443?security=tls&sni=sANDWOrM.PaGES.DEV&type=ws&host=SaNdWORM.pAgES.DEV&path=/D5PXtLY0cCm3QaZ8&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.37.112:443
-vless://5fd30283-078d-4ee6-873b-4ecb8fec1958@162.159.134.234:2082?security=none&type=ws&host=none.error_none.error_10101010.iRAN-chEck-hOst-SERVER-sitesssssssssssssssssssssss--sssssssssss.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.134.234:2082
-vless://25d0ee2d-4190-52be-b892-45811c6ba210@172.67.180.238:8443?security=tls&sni=folani.iiipok.WorKERS.dEv&type=ws&host=folani.iiipok.WorKERS.dEv&path=%2Fvless-ws%2F%3Fed%3D2048&fp=safari&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.180.238:8443
 vless://5243fc51-0634-4ef0-97ca-679b781da609@104.31.16.144:8880?security=none&type=ws&host=xn---qhantayawi--b-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.xn--94q488fl6grlogzeo1h.xyz.&path=%2F%40LIG%48TN%49NG6+TEL++%40LIG%48TN%49NG6+TEL++%40LIG%48TN%49NG6+TEL++%40LIG%48TN%49NG6+JOIN+%40LIG%48TN%49NG6+TEL++%40LIG%48TN%49NG6+JOIN+%40LIG%48TN%49NG6+TEL++%40LIG%48TN%49NG6+TEL++%40LIG%48TN%49NG6+JOIN+%40LIG%48TN%49NG6+TEL++%40LIG%48TN%49NG6+%40LiV2ray#🔒 VL-WS-NONE 🏴‍☠️ NA-104.31.16.144:8880
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.42.88.91:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇱🇺 LU-188.42.88.91:443
 vless://11dafcb3-3e3c-491d-9f5a-0e46ab6f7f52@91.107.249.176:22222?security=none&type=tcp#🔒 VL-TCP-NONE 🇩🇪 DE-91.107.249.176:22222
@@ -83,3 +76,10 @@ vmess://eyJhZGQiOiAiMTI3LjAuMC4xIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogImNi
 trojan://aacbcab-abac-abca-cdba-ccbaabcbbcaa@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 TUE-08-KHORDAD-1403 🕑 13:50
 trojan://GSYYULACz0@104.18.202.232:8080?security=none&type=ws&host=mmd.net.napster6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.fpsvpn.SHOP.&path=%2Fnew_proxy_channel-new_proxy_channel-new_proxy_channel-new_proxy_channel-new_proxy_channel%2Fnew_proxy_channel%3Fed%3D2560#🔒 TR-WS-NONE 🏴‍☠️ NA-104.18.202.232:8080
 trojan://auto@172.67.174.252:443?security=tls&sni=esetsecuritylicense1.vowexa5791.workers.dev&type=ws&host=esetsecuritylicense1.vowexa5791.workers.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.174.252:443
+trojan://8d1e94cd-23cf-4267-b630-c6894e6e1b4d@23.99.112.104:443?#🔒 TR-TCP-NA 🇭🇰 HK-23.99.112.104:443
+trojan://a966a7ae-ac21-472d-be60-7726b724fc5d@172.67.196.164:443?sni=erorbpn.arminhadadi.onflashdrive.app&type=grpc&serviceName=grpc&allowInsecure=1#🔒 TR-GRPC-NA 🏴‍☠️ NA-172.67.196.164:443
+trojan://moist@118.163.128.81:13688?sni=trojan.freenods.sbs#🔒 TR-TCP-NA 🇹🇼 TW-118.163.128.81:13688
+trojan://4732adfa16c6450bbef87264e41332db@104.16.192.138:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.192.138:443
+trojan://auto@3.35.139.150:8443?security=tls&sni=vip.123789.pp.ua&type=ws&host=vip.123789.pp.ua&path=%2FproxyIP%3Dproxyip.oracle.fxxk.dedyn.io&fp=randomized&alpn=http%2F1.1#🔒 TR-WS-TLS 🇰🇷 KR-3.35.139.150:8443
+trojan://a9d4426f1c76c6b@104.21.69.44:2053?security=tls&sni=bestfollower.fandlaandpro.ir&type=grpc&serviceName=sourceforge.net#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.21.69.44:2053
+trojan://NISHIKUITAN222@125.139.249.241:17057?security=tls&sni=t331.ylks.link&type=ws&host=t331.ylks.link&path=%2F#🔒 TR-WS-TLS 🇰🇷 KR-125.139.249.241:17057
