@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@61.247.83.116:39308?security=tls&sni=v300.ylkszy.eu.org&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇰🇷 KR-61.247.83.116:39308
 vless://b499b663-7531-4014-b5a2-19069389574b@104.20.205.66:8443?security=tls&sni=unlimiteddev.xn--9iqr0tm1r4wg.co&type=ws&host=unlimiteddev.xn--9iqr0tm1r4wg.co&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.205.66:8443
 vless://03a9c9ee-1e6e-4779-8171-b2aac2357d0c@104.22.33.78:8443?security=tls&sni=Tigoo.dignity-19.com&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.22.33.78:8443
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@125.128.211.23:35368?security=tls&sni=xin300.ylks.link&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇰🇷 KR-125.128.211.23:35368
@@ -83,3 +82,4 @@ vless://54a47217-b810-4017-adb7-237e273c35ce@104.21.71.210:8443?security=tls&sni
 vless://d360d11e-d426-4583-b55e-524ab1f0afa9@104.26.4.60:2096?security=tls&sni=worker-gentle-waterfall-6de8.tigerhungry4.workers.dev&type=ws&host=worker-gentle-waterfall-6de8.tigerhungry4.workers.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.4.60:2096
 vless://01ab9337-f478-4765-9534-88f009f83ddb@47.236.145.85:2053?security=tls&sni=aut226.ylks.link&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇬 SG-47.236.145.85:2053
 vless://2617f72a-36d7-4b0e-8a89-c71b11100997@172.66.213.38:2096?security=tls&sni=gerMnV2ray.naziitness.coM&type=grpc&serviceName=abc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.66.213.38:2096
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.29.54:80?type=ws&host=us1.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.29.54:80
