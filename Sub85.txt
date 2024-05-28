@@ -3,16 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://333b4368-8162-3997-bc38-db1d667cc921@142.171.219.14:21156?sni=lavip101.qlgq.fun&allowInsecure=1#🔒 TR-TCP-NA 🇺🇸 US-142.171.219.14:21156
-trojan://tIErrUuX7j@217.196.101.178:2053?security=tls&sni=vr.v2ray962.filegear-sg.me&type=grpc#🔒 TR-GRPC-TLS 🇩🇪 DE-217.196.101.178:2053
-trojan://moist@118.163.128.81:13688?sni=trojan.freenods.sbs#🔒 TR-TCP-NA 🇹🇼 TW-118.163.128.81:13688
-trojan://tIErrUuX7j@173.245.58.96:2053?security=tls&sni=vr.v2ray962.filegear-sg.me&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 TR-GRPC-TLS 🏴‍☠️ NA-173.245.58.96:2053
-trojan://a9d4426f1c76c6b@104.21.69.44:2053?security=tls&sni=bestfollower.fandlaandpro.ir&type=grpc&serviceName=sourceforge.net#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.21.69.44:2053
-trojan://ad8bab9c-f5e2-4957-96fa-3f59e7e4007b@143.198.62.157:443?security=tls&sni=206.237.5.220&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-143.198.62.157:443
-trojan://FtEizCoS0v0MUqSQBgMm2A@172.66.213.38:2083?security=tls&sni=gerMnV2ray.naziitness.coM&type=grpc#🔒 TR-GRPC-TLS 🏴‍☠️ NA-172.66.213.38:2083
-trojan://NISHIKUITAN222@8.219.77.222:2083?security=tls&sni=t306.ylks.link&type=ws&host=t306.ylks.link&path=%2F#🔒 TR-WS-TLS 🇸🇬 SG-8.219.77.222:2083
-trojan://224c91ee-7e18-4f1e-86bb-c1836f218c95@20.2.11.66:443?#🔒 TR-TCP-NA 🇭🇰 HK-20.2.11.66:443
-trojan://auto@172.67.205.219:443?security=tls&sni=esetsecuritylicense.nzuwcx.workers.dev&type=ws&host=esetsecuritylicense.nzuwcx.workers.dev&path=%2F%3Fed%3D2560&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.205.219:443
 trojan://8d4ab0f0-79be-11eb-be0b-1239d0255272@103.93.59.208:443?sni=id2-trojan.bonds.id#🔒 TR-TCP-NA 🇮🇩 ID-103.93.59.208:443
 trojan://cb1f26aa437d4bfa9b841d28503ce8cc@104.19.171.5:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.171.5:443
 trojan://71409d3e488548e8bb076d229778f008@104.17.147.77:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.77:443
@@ -83,3 +73,13 @@ trojan://EgAMtxAquaO78-IvTSWpnQ@104.25.8.217:2096?security=tls&sni=mrz.learnturk
 trojan://telegram-id-privatevpns@18.199.1.86:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-18.199.1.86:22222
 trojan://NISHIKUITAN222@172.67.199.233:443?security=tls&sni=t226.ylks.link&type=ws&host=t226.ylks.link&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.199.233:443
 trojan://auto@104.21.50.114:443?security=tls&sni=esetsecuritylicense.nzuwcx.workers.dev&type=ws&host=esetsecuritylicense.nzuwcx.workers.dev&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.50.114:443
+trojan://auto@162.159.137.232:8443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.137.232:8443
+trojan://2cba4104747d49d18319e5ade1b93ab5@104.18.23.19:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.23.19:443
+trojan://NISHIKUITAN222@47.236.164.215:443?security=tls&sni=t222.ylks.link&type=ws&host=t222.ylks.link&path=%2F#🔒 TR-WS-TLS 🇸🇬 SG-47.236.164.215:443
+trojan://4732adfa16c6450bbef87264e41332db@104.17.61.7:443?security=tls&sni=jobscareerfortoday.com&type=ws&host=jobscareerfortoday.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.61.7:443
+trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@108.181.22.161:443?security=tls&sni=glc-us2.windowsupdatea.com&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-108.181.22.161:443
+trojan://2997aacd-4f1b-42fb-b225-c1596f9ca5c1@173.245.49.29:443?security=tls&sni=P5LXKRo.diamondgalery.ir&type=grpc&serviceName=U13Hsk6pJ3kzSE4vrlte50vDf&fp=chrome&alpn=h2#🔒 TR-GRPC-TLS 🏴‍☠️ NA-173.245.49.29:443
+trojan://iIF8R88vcP@18.141.215.163:443?security=tls&sni=m.viber.com&type=tcp&alpn=h2,http/1.1#🔒 TR-TCP-TLS 🇸🇬 SG-18.141.215.163:443
+trojan://e5f9c753-d401-487f-a77b-1004b7f0f439@64.110.68.141:20102?security=tls&sni=13-231-155-134.nhost.00cdn.com&type=tcp#🔒 TR-TCP-TLS 🇰🇷 KR-64.110.68.141:20102
+trojan://auto@104.21.72.108:443?security=tls&sni=esetsecuritylicense1.cxlrazo.workers.dev&type=ws&host=esetsecuritylicense1.cxlrazo.workers.dev&path=%2F%3Fed%3D2560&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.72.108:443
+trojan://9f478c30-1af7-11ef-a39b-1239d0255272@103.252.90.93:443?security=tls&sni=chatbuzzteambhm.chatbuzzt7150.workers.dev&type=tcp#🔒 TR-TCP-TLS 🇫🇷 FR-103.252.90.93:443
