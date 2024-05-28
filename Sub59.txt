@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://8e785622-2593-45e4-b229-d2e2c9a00a32@172.64.143.61:80?security=none&type=ws&host=new-V2ray.%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99%A869.website&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.143.61:80
 vless://30c6a5ec-3de5-4eec-afe6-e9a13e1a30cb@173.245.58.51:443?security=tls&sni=dash.zedmodeon.fun&serviceName=TELEGRAM:@ZEDMODEON-TELEGRAM:@ZEDMODEON-TELEGRAM:@ZEDMODEON,TELEGRAM:@ZEDMODEON&fp=chrome&alpn=h2,http/1.1#🔒 VL-TCP-TLS 🏴‍☠️ NA-173.245.58.51:443
 vless://b1c53b03-8d32-4d2c-a572-c3f6c81bda8c@77.75.199.4:80?security=none&type=ws&host=a.らわなさ.tech.&path=/ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON#🔒 VL-WS-NONE 🇬🇧 GB-77.75.199.4:80
 vless://e5f73706-a288-4033-bb54-8c7731f2796b@5.159.54.69:443?security=tls&sni=z61.maduss.site&type=ws&host=z61.maduss.site&path=%2F#🔒 VL-WS-TLS 🇮🇷 IR-5.159.54.69:443
@@ -82,4 +83,3 @@ vless://b2ee64ad-2645-429e-f398-338cf87e7b63@172.66.213.38:2095?security=none&ty
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@146.70.175.184:443?security=tls&sni=jp331.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇳🇱 NL-146.70.175.184:443
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@45.205.0.93:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-45.205.0.93:8443
 vless://ee9164e2-4a05-4552-92bc-c0e05d2cf825@104.21.4.113:2096?security=tls&sni=channel.v2bamdad.tech&type=grpc&serviceName=BBjszEZzABSQuqxj4FxIzvwxUDoX&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.4.113:2096
-vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@61.247.83.116:39308?security=tls&sni=v300.ylkszy.eu.org&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇰🇷 KR-61.247.83.116:39308
