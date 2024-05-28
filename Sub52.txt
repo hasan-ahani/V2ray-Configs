@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@154.83.2.27:443?security=tls&sni=v300.ylkszy.eu.org&type=ws&path=/?proxyip#🔒 VL-WS-TLS 🇸🇨 SC-154.83.2.27:443
+vless://68c421f0-278b-4fa4-9115-d86ee41d8798@172.64.197.136:80?security=none&type=ws&host=V2ray-_-_-_-_-_-CUSTOMVPNSERVER.oNlineDoWnloaderFIle.com.&path=/CUSTOMVPNSERVER-CUSTOMVPNSERVER-CUSTOMVPNSERVER-CUSTOMVPNSERVER#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.197.136:80
 vless://9c528672-1720-4660-8fb1-0083479719cf@104.16.104.11:2096?security=tls&sni=mjgkkhgvkutfkhg.mic-mokhaderat-irancell-shatel-irancel.shop&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.104.11:2096
 vless://4755a271-e240-41aa-b638-5bff727918e3@104.21.96.66:2087?security=tls&sni=selinc---4---selinc---4---selinc---selinc.borywdo.workers.dev&type=ws&host=selinc---4---selinc---4---selinc---selinc.borywdo.workers.dev&path=vless-ws%2F%3Fed%3D2048&fp=firefox&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.96.66:2087
 vless://8ac6dc1b-e6d8-4e36-a019-487c8a48ad64@172.67.223.33:80?security=none&type=ws&host=admin.irayanconfig.ir#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.223.33:80
@@ -81,5 +83,3 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.133.219:443?security=tls&sn
 vless://d5696bc1-c9c6-43d8-959e-7378423a1b13@172.67.195.41:443?security=tls&sni=pq-gr-1.doctornim.ir&type=grpc&serviceName=tg3Vu3EboaFgTRqgBlzUTAbQ1730P&alpn=http%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.195.41:443
 vless://10716279-b1ee-41d8-b63e-87782088305b@172.67.179.208:443?security=tls&sni=mAMane-filTErCHI.pageS.Dev&type=ws&host=mamAnE-fILTErchI.paGES.deV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.179.208:443
 vless://d584a743-d534-4580-9949-91263b5a8d72@85.133.200.41:6890?security=none&type=tcp&host=trello.com&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.133.200.41:6890
-vless://b2ee64ad-2645-429e-f398-338cf87e7b63@172.66.213.38:2095?security=none&type=ws&host=al.internetnor01.sbs&path=/@mostafa_sa120#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.213.38:2095
-vless://925b5692-a7d0-4d25-b8ad-4bbfae233699@172.67.171.96:80?security=none&type=ws&host=No2-vless.sshmax.xyz.&path=%2Fvless#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.171.96:80

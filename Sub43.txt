@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@172.67.153.253:8443?security=tls&sni=jp116.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.153.253:8443
+vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@8.210.207.214:2053?security=tls&sni=tg.dns68.cloudns.nz&type=ws&host=tg.dns68.cloudns.nz&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇭🇰 HK-8.210.207.214:2053
 vless://3b1ba090-63a1-4710-9818-34be378bcfbd@190.93.247.247:8080?security=none&type=ws&host=realpydar.banndedd.ir&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-190.93.247.247:8080
 vless://cca319c7-d0d3-46bc-be9f-cf9eabd7b7f7@63.141.128.17:443?security=tls&sni=classify6.appclouddeveloper.com&type=grpc&serviceName=5e56daa0&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🇺🇸 US-63.141.128.17:443
 vless://8545c44f-b1b4-4295-ae98-f0b6301a537f@172.66.45.42:2083?security=tls&sni=ios-azadnet.pages.dev&type=ws&path=%2F%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.45.42:2083
@@ -81,5 +83,3 @@ vless://7cdd2887-a68e-4027-be00-0347735a6075@104.20.19.145:443?security=tls&sni=
 vless://ee3fda1f-d8ec-44c7-942e-7e980b0b941c@104.24.234.35:2052?security=none&type=ws&host=P.a.n.jetupnet.sbs.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.234.35:2052
 vless://91864f04-bfd1-47a7-eb1c-df46924c7bd6@190.93.244.170:443?security=tls&sni=www.GozargahVPN.top&type=ws&host=www.GozargahVPN.top&path=/Telegram:,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,%3Fed%3D2048&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.244.170:443
 vless://16d99f65-b71f-5cdf-8ce6-fc35e171a192@172.67.160.47:443?security=tls&sni=esetsecuritylicense.ikgbvch.wOrKerS.Dev&type=ws&host=esetsecuritylicense.ikgbvch.wOrKerS.Dev&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.160.47:443
-vless://91d9b8d8-2aab-4e1a-9573-0d59e9cd7f8e@188.114.97.1:8880?security=none&type=ws&path=%2F%3Fed#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.97.1:8880
-vless://2241fc16-20e2-4e70-b11d-7bed62f16849@172.64.138.167:443?security=tls&sni=fi2-vless.sshmax.xyz&type=ws&host=fi2-vless.sshmax.xyz&path=%2Fvless#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.138.167:443

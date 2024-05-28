@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@3.145.48.194:21234?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇺🇸 US-3.145.48.194:21234
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?security=none&type=ws&path=/http#🔒 VL-WS-NONE 🇫🇷 FR-162.19.228.119:80
 vless://a8fa7b1c-a5b0-449b-97f6-e86ae43b95bb@172.64.86.128:8080?security=none&type=ws&host=jogol.amvpn.www.speedtest.net.zula.ir.stopsef.らわなさらわ.atkfood.com.#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.86.128:8080
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@185.176.24.69:443?security=tls&sni=jp300.ylks01.eu.org&type=ws&path=/proxyip#🔒 VL-WS-TLS 🇷🇺 RU-185.176.24.69:443
 vless://4f6d5821-2bf8-40ff-ad2f-1794c962f27a@104.21.24.72:2053?security=tls&sni=kanal-ma-falcunargo.johiki7549.workers.dev&type=ws&host=kanal-ma-falcunargo.johiki7549.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.24.72:2053
@@ -81,5 +83,3 @@ vless://f7fe4c50-8f84-425a-8b60-6fbea946df9e@162.159.137.232:443?security=tls&sn
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@47.236.253.41:2053?security=tls&sni=jd.wxgqlfx.top&type=ws&path=/#🔒 VL-WS-TLS 🇸🇬 SG-47.236.253.41:2053
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.114.72.67:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top#🔒 VL-WS-TLS 🇪🇸 ES-185.114.72.67:443
 vless://2b39449c-1063-44ce-93e4-21a984029ae7@172.67.180.67:8443?security=tls&sni=mehrdad-Spain.Zargarr.com&type=grpc&serviceName=%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.180.67:8443
-vless://f0f67b84-2770-4413-8b26-cfb302fac247@172.67.158.108:443?security=tls&sni=v2fly.milik-fukada.eu.org&type=ws&host=v2fly.milik-fukada.eu.org&path=%2F@vano_ganzzz#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.158.108:443
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@104.26.13.140:443?security=tls&sni=xin226.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.13.140:443
