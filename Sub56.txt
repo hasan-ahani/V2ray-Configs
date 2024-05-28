@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://d5dd9a8c-dad7-4aeb-8cf7-f2812a0f275a@104.18.203.232:8443?security=tls&sni=all2.savagev2ray.site&type=grpc&serviceName=@Vpnmasi,@Vpnmasi,@Vpnmasi#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.203.232:8443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@205.233.181.0:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-205.233.181.0:443
 vless://f478a594-5882-4713-bfdc-80c3e9345bd1@140.248.161.35:80?security=none&type=ws&host=dailyconfigs.com.#🔒 VL-WS-NONE 🇺🇸 US-140.248.161.35:80
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@204.93.210.191:8443?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-204.93.210.191:8443
@@ -82,4 +83,3 @@ vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@188.114.97.3:443?security=tls&sni=c
 vless://97492659-ca83-489e-acd5-eeb598b3fc28@104.24.246.154:2083?security=tls&sni=salavati.globalnetchanell.site&type=grpc&serviceName=@global_net_vpn#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.24.246.154:2083
 vless://3b1ba090-63a1-4710-9818-34be378bcfbd@104.21.103.216:8080?security=none&type=ws&host=realpydar.banndedd.ir&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.103.216:8080
 vless://93a23561-7665-4b2e-8824-85eed640d4de@172.66.45.32:80?security=none&type=ws&host=linood-fra.scriptboy.ir#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.45.32:80
-vless://3a3f6867-bd39-44f0-804f-feba88a5168e@45.80.111.10:443?security=tls&sni=pxr.snapfooding.com&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇩🇪 DE-45.80.111.10:443
