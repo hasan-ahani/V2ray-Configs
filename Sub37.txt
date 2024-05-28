@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.107.62:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-185.148.107.62:443
-vless://2b7b1c14-2dc4-4a23-ab6c-9fd3c52c1a59@185.59.218.48:443?path=/Telegram#🔒 VL-TCP-NA 🇷🇺 RU-185.59.218.48:443
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.18.28.171:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.28.171:443
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?security=none&type=ws&path=/http#🔒 VL-WS-NONE 🇫🇷 FR-162.19.228.119:80
 vless://4c03d139-631b-41dd-be68-933c3df0d7c2@172.64.33.100:443?security=tls&sni=qifei2024.dns.army&type=ws&host=qifei2024.dns.army#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.33.100:443
 vless://25b45954-6209-48c2-a412-c568c8154cf0@104.21.67.95:2083?security=tls&sni=hi.mobileiraniani.com&type=ws&path=%2F%3Fed%3D2048&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.67.95:2083
@@ -83,3 +80,6 @@ vless://7fc1c798-10be-4aa5-aff0-0a7a871aa4a0@104.21.88.53:443?security=tls&sni=d
 vless://10716279-b1ee-41d8-b63e-87782088305b@45.159.219.194:443?security=tls&sni=MAMAnE-fILterchi.PAgeS.deV&type=ws&path=%2F&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-45.159.219.194:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.126:443?security=tls&sni=00e463Dc.beSTVPn-4xi.PAgES.dEv&type=ws&host=00e463dc.BeSTVpn-4XI.PageS.DEV&path=%2FyuYg5UJoovohFscY%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.126:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.237.0.31:8443?security=tls&sni=zdy226.kpcloud.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇸🇬 SG-47.237.0.31:8443
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.128.144:443?security=tls&sni=www.data.gov.uk&type=ws&host=binance.co.kp&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-151.101.128.144:443
+vless://b0138d55-a493-4dc3-9932-c6f0391707c1@188.114.97.3:2082?security=none&type=ws&host=malaysiadj.card-937.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.97.3:2082
+vless://52de3fa6-1673-4918-a90d-21d2b69de98e@172.66.47.19:443?security=tls&sni=eb8c0c64.888766.pages.dev&type=ws&host=eb8c0c64.888766.pages.dev&path=%40VPNHTTPInjectorfree#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.19:443
