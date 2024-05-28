@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@146.70.175.110:80?security=none&type=ws&path=%2Fblue#🔒 VL-WS-NONE 🇳🇱 NL-146.70.175.110:80
-vless://8545c44f-b1b4-4295-ae98-f0b6301a537f@172.66.45.42:2053?security=tls&sni=ios-azadnet.pages.dev&type=ws&path=%2F%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.45.42:2053
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.249.58:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.249.58:443
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.19.19.58:2096?security=tls&sni=baipiao1.curly-train.pages.dev&type=ws&host=baipiao1.curly-train.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.19.58:2096
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.237.92.26:2083?security=tls&sni=zdy306.kpcloud.eu.org&type=ws&path=/blue#🔒 VL-WS-TLS 🇸🇬 SG-47.237.92.26:2083
 vless://e9b29a36-f8dc-48ee-b5f9-e0e5be701d03@104.21.92.162:8880?security=none&type=ws&host=falcunargo-bia-zod.8fcd549b6a.workers.Dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.92.162:8880
 vless://8ac6dc1b-e6d8-4e36-a019-487c8a48ad64@104.21.46.33:80?security=none&type=ws&host=admin.irayanconfig.ir#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.46.33:80
 vless://790adf74-4e4d-4ae2-9fc4-121b95f77297@104.21.23.243:2053?security=tls&sni=gr.boskot.com&type=grpc&serviceName=vless#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.23.243:2053
@@ -83,3 +78,8 @@ vless://12d2c26d-d64d-4942-88b8-c6e5a985c48e@104.25.73.28:8443?security=tls&sni=
 vless://8b84babf-3209-455f-8ce8-9dc77520c941@170.187.250.166:2003?security=tls&sni=in-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇮🇳 IN-170.187.250.166:2003
 vless://67ac2966-c633-4fbe-92dd-8c666881c6de@172.64.40.169:8080?security=none&type=ws&host=worker-hidden-thunder-00c3.test29-c85.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.40.169:8080
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@204.93.210.116:2096?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-204.93.210.116:2096
+vless://d92f2c5c-5fe5-4034-b48a-6e50ff820877@104.16.122.175:8080?security=none&sni=de7.vlessx.us&type=ws#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.122.175:8080
+vless://5d616ff8-160f-4be5-8fd9-c12c53883280@151.101.169.57:443?security=tls&sni=fastly.com&type=ws&host=guzbamzcdnfast.com&path=/v2ray-rolly#🔒 VL-WS-TLS 🇺🇸 US-151.101.169.57:443
+vless://2ca42987-551b-4494-a854-da2d9178f4cd@104.18.212.110:2087?security=tls&sni=KxQhHtGc22.zImBa-zUlA.OrG&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.212.110:2087
+vless://fb301d2e-4430-4b41-95d6-764460b8ef13@147.78.140.121:2053?security=tls&sni=9b56CFEe5b258C44c45bA18FA122293.mIToweAr.cOm&type=grpc#🔒 VL-GRPC-TLS 🇧🇬 BG-147.78.140.121:2053
+vless://55341cc4-d38a-42d2-b5a7-61fcc77b56f1@172.64.32.154:2087?security=tls&sni=Tigoo.dignity-19.com&type=grpc&serviceName=Psp&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.64.32.154:2087

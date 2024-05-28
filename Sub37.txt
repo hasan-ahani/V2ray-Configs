@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://3cbaf436-93cc-4db1-be69-c5353076be15@172.67.218.137:80?type=ws&path=/graphql#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.218.137:80
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@130.250.137.186:2082?security=none&type=ws&path=/blue#🔒 VL-WS-NONE 🇺🇸 US-130.250.137.186:2082
-vless://b1c53b03-8d32-4d2c-a572-c3f6c81bda8c@77.75.199.4:80?security=none&type=ws&host=a.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&path=%2FZEDMODEON-TEL-ZEDMODEON-ZEDMODEON#🔒 VL-WS-NONE 🇬🇧 GB-77.75.199.4:80
-vless://d74d8e62-90c2-4fee-bcf3-d239956ee51a@104.21.40.164:2096?security=tls&sni=jp.vps.wengmail.link&type=ws&host=jp.vps.wengmail.link#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.40.164:2096
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.162.67:443?security=tls&sni=mmdvpn442vpn442.cicgof.workers.Dev&type=ws&host=mmdvpn442vpn442.cicgof.workers.Dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.162.67:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.139.111:443?security=tls&sni=baipiao1.curly-train.pages.dev&type=ws&host=baipiao1.curly-train.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.139.111:443
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@89.116.161.250:8443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇱🇹 LT-89.116.161.250:8443
 vless://a636c0fd-c580-469c-b32b-a8be341e0f15@172.67.170.33:8443?security=tls&sni=free3.riflvpn.tech&type=grpc&serviceName=f&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.170.33:8443
@@ -83,3 +78,8 @@ vless://2ca42987-551b-4494-a854-da2d9178f4cd@172.67.141.99:2087?security=tls&sni
 vless://1622d31e-9023-4f1a-b553-9d10d7d2da90@141.193.213.247:443?security=tls&sni=free-sweden-c8f4261f9f46e6465709e17ebea7a92b.mitowear.com&type=ws&host=free-sweden-c8f4261f9f46e6465709e17ebea7a92b.mitowear.com#🔒 VL-WS-TLS 🇺🇸 US-141.193.213.247:443
 vless://01ab9337-f478-4765-9534-88f009f83ddb@47.236.205.188:2083?security=tls&sni=aut300.ylks.link&type=ws&path=/?ed#🔒 VL-WS-TLS 🇸🇬 SG-47.236.205.188:2083
 vless://54a47217-b810-4017-adb7-237e273c35ce@172.67.171.187:8443?security=tls&sni=r.donekaftr.ir&type=grpc&serviceName=abc&fp=ios&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.171.187:8443
+vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@147.185.161.44:443?security=tls&sni=v300.ylkszy.eu.org&type=ws&path=/proxyip#🔒 VL-WS-TLS 🇺🇸 US-147.185.161.44:443
+vless://62f6b891-7988-4392-88c7-14134bb3ffa9@104.21.94.28:8443?security=tls&sni=yasin-godrat13.yasinsamieiuu.workers.dev&type=ws&host=yasin-godrat13.yasinsamieiuu.workers.dev&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.94.28:8443
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@188.164.158.172:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F#🔒 VL-WS-TLS 🇦🇲 AM-188.164.158.172:443
+vless://7df71ea7-ad2f-48d1-ae7c-4429ee780537@103.184.45.60:2083?security=tls&sni=academivpn1.academi-vpn-4f8.workers.dev&type=ws&host=academivpn1.academi-vpn-4f8.workers.dev&path=%2F%3Fed%3D2560+%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn&fp=randomized#🔒 VL-WS-TLS 🇨🇳 CN-103.184.45.60:2083
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@154.83.2.210:2087?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇸🇨 SC-154.83.2.210:2087
