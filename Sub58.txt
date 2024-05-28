@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://a3873eb9-0c54-46c4-abbf-ae9f880d3619@162.19.228.119:443?security=tls&sni=de.vpnbase.net&type=ws&path=%2Fssl&allowInsecure=1#🔒 VL-WS-TLS 🇫🇷 FR-162.19.228.119:443
-vless://d21d2330-d20f-4ddd-837a-eddcdf448f9b@185.46.0.192:2053?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.46.0.192:2053
-vless://10716279-b1ee-41d8-b63e-87782088305b@190.93.247.238:443?security=tls&sni=mAmAne-FiLTerchI.pAgEs.DEv&type=ws&host=MaMane-filterChi.PageS.dEv&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.247.238:443
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@188.42.145.159:2096?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F#🔒 VL-WS-TLS 🇷🇺 RU-188.42.145.159:2096
-vless://b97cdd0e-bba9-4391-b265-b72f80b670db@188.114.97.1:2052?type=ws&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-188.114.97.1:2052
-vless://502f1a41-96df-4d6c-8a3b-26781e795893@104.19.244.250:8880?security=none&type=ws&host=sinadfa.dugjup.workers.dev&path=%2FTELEGRAM%40AZARBAYJAB1T%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.244.250:8880
-vless://8143f965-0aee-4122-bb34-aa7d3aacc493@104.19.159.53:80?security=none&type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.159.53:80
-vless://c255f68f-18f7-488a-b7fc-06a5676564f0@104.21.4.8:2052?type=ws#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.4.8:2052
 vless://07902884-84af-4972-e7fd-999c993f5006@190.93.246.137:8080?security=none&type=ws&path=%2F%40V_2rayngVpn-%40V_2rayngVpn-%40V_2rayngVpn-%40V_2rayngVpn-%40V_2rayngVpn-%40V_2rayngVpn-%40V_2rayngVpn-%40V_2rayngVpn-%40V_2rayngVpn-%40V_2rayngVpn-%40V_2rayngVpn-%40V_2rayngVpn-%40V_2rayngVpn-%40V_2rayngVpn-%40V_2rayngVpn-%40V_2rayngVpn-%40V_2rayngVpn-%40V_2rayngVpn-%40V_2rayngVpn-%40V_2rayngVpn-%40V_2rayngVpn-%40V_2rayngVpn-%40V_2rayngVpn-%40V_2rayngVpn-%40V_2rayngVpn#🔒 VL-WS-NONE 🏴‍☠️ NA-190.93.246.137:8080
 vless://f3b622d4-08bb-47b4-9606-7dafd6071c73@172.67.158.49:443?security=tls&sni=ashburn.omega-dic.workers.dev&type=ws&host=ashburn.omega-dic.workers.dev&path=%2Fbs55Ovr86OzuubiHi#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.158.49:443
 vless://eab1d836-bd54-464f-8478-03f799af9fd8@104.21.24.215:2096?security=tls&sni=sina.gufniv.workers.dev&type=ws&host=sina.gufniv.workers.dev&path=vless-ws%2F%3Fed%3D2048&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.24.215:2096
@@ -83,3 +75,11 @@ vless://4028f169-ae1d-4492-b264-95f16e436534@185.162.228.118:2087?security=tls&s
 vless://0814dc8c-3cfc-4e06-9561-98d23dd0bf66@104.21.28.94:443?security=tls&sni=nl1-vless.sshmax.xyz&type=ws&host=nl1-vless.sshmax.xyz&path=%2Fvless%2FTelegram-V2ray_Alpha%3Fed%3D2560%2Fvless%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.28.94:443
 vless://3536ce67-8df1-445f-b9c2-66e55873fc88@[::ffff:6819:735]:443?security=tls&sni=denew1.atgolden.monster&type=grpc&serviceName=Hamid&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-[::ffff:6819:735]:443
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@77.37.33.188:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇩🇪 DE-77.37.33.188:8443
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.94.169.235:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇦 UA-45.94.169.235:443
+vless://33818a00-cbdb-4ae0-a31a-e7de094e7aec@104.21.8.66:443?security=tls&sni=uciranir-uciranir-uiranir-uciranir-uciranir-uciranir-uciranir1.detixi1932.workers.dev&type=ws&host=uciranir-uciranir-uiranir-uciranir-uciranir-uciranir-uciranir1.detixi1932.workers.dev&path=%2F-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR%2F%3Fed%3D2047&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.8.66:443
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.237.8.82:2053?security=tls&sni=zdy300.kpcloud.eu.org&type=ws&path=/blue#🔒 VL-WS-TLS 🇸🇬 SG-47.237.8.82:2053
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.96:2087?security=tls&sni=a.ssll.gay&type=ws&path=twitterfreecodes#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.96:2087
+vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@8.210.207.214:2053?security=tls&sni=tg.dns68.cloudns.nz&type=ws&host=tg.dns68.cloudns.nz&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇭🇰 HK-8.210.207.214:2053
+vless://dd7b627b-fd94-4913-a92f-997945326087@104.17.88.212:80?type=ws&host=7fe600d3b53c4bb9de9c863cad96d1.nv2ron.ir&path=%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%3Fed%3D2048#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.88.212:80
+vless://321264ab-44ce-4599-a303-7d9a56e67018@185.146.173.100:2082?security=none&host=xn-_-_-_-_-_-_-_-_-_sms&path=/FreeV2RAYTEL@Alfred_ConfigTEL@Alfred_ConfigTEL@Alfred_ConfigTEL@Alfred_ConfigTEL@Alfred_Config#🔒 VL-TCP-NONE 🇸🇪 SE-185.146.173.100:2082
+vless://e1ad2990-0e4f-414e-b64e-18855be7fb91@173.245.59.100:8080?security=none&type=ws&host=xnjsn.snjsj.sjsjeje.sjsjsjs.sjsjjs.sjsksks.sksksk.sjsjs.jskv2raykekw.jwjw.sksos.ZmV2ray.Site.&path=/Free-@LOCKEY_VPN,@LOCKEY_VPN,@LOCKEY_VPN,@LOCKEY_VPN#🔒 VL-WS-NONE 🏴‍☠️ NA-173.245.59.100:8080
