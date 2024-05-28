@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://3dee9636-9663-404d-a9d9-459d9e6d4459@es-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=GRPC&mode=gun#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20Vless%20gRPC%20@V2rayStore
+vless://be3fb84a-e45a-4923-ad74-c76e597be43b@sg-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=GRPC&mode=gun#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Vless%20gRPC%20@V2rayStore
 vless://586ef978-c450-4435-89f7-b281ebba09fe@sg2-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=GRPC&mode=gun#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Vless%20gRPC%20@V2rayStore
 vless://0a53d109-3311-466b-845c-dc5e56ca3393@id-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=GRPC&mode=gun#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%20Vless%20gRPC%20@V2rayStore
 vless://43e63f99-37ec-489f-a657-ba6127628421@hk-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=GRPC&mode=gun#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20Vless%20gRPC%20@V2rayStore
@@ -81,5 +83,3 @@ vmess://eyJhZGQiOiAiaHJnZHZwbi5mbHljZG5lZGM1NS52aXAiLCAiYWlkIjogNjQsICJob3N0Ijog
 ss://aes-256-gcm:206542c4-8d3e-4612-ba80-769dbc4a05df@us-full.privateip.net:8443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Shadowsocks%20@V2rayStore
 ss://aes-256-gcm:0a28bc10-1454-4d45-af23-65c1be96028f@us2-full.privateip.net:8443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Shadowsocks%20@V2rayStore
 ss://aes-256-gcm:b830cf90-4d07-4899-aaec-9e454caf34b6@tr-full.privateip.net:8443#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20Shadowsocks%20@V2rayStore
-ss://aes-256-gcm:665abb10-45be-4020-9b58-094b24422645@kz-full.privateip.net:8443#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20Shadowsocks%20@V2rayStore
-ss://aes-256-gcm:586fb28a-c7d1-4d84-9d51-51f7a082bd00@uk-full.privateip.net:8443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20Shadowsocks%20@V2rayStore
