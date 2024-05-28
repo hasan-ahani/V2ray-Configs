@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://1ea40d23-e223-4be9-a830-036c9740b830@172.67.209.158:443?security=tls&sni=mamadtatardo442.my442vpn442.workers.dev&type=ws&host=mamadtatardo442.my442vpn442.workers.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.209.158:443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@8.222.144.50:2087?security=tls&sni=zdy226.kpcloud.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇸🇬 SG-8.222.144.50:2087
-vless://16d99f65-b71f-5cdf-8ce6-fc35e171a192@104.21.9.147:2083?security=tls&sni=esetsecuritylicense.ikgbvch.WorkErS.dEV&type=ws&host=esetsecuritylicense.ikgbvch.WorkErS.dEV&path=vless-ws%2F%3Fed%3D2048&fp=android&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.9.147:2083
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@170.114.46.218:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🔒 VL-WS-TLS 🇺🇸 US-170.114.46.218:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.218.2:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-45.159.218.2:443
 vless://4c03d139-631b-41dd-be68-933c3df0d7c2@162.159.2.9:443?security=tls&sni=qifei2024.dns.army&type=ws&host=qifei2024.dns.army#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.2.9:443
@@ -83,3 +80,6 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.59.187.130:34237?security=tls&sn
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@94.140.0.99:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇦🇪 AE-94.140.0.99:443
 vless://1b46289a-8c93-4619-b3a8-04d9d301da0c@104.26.13.8:2096?security=tls&sni=mz-net.49z.info&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.26.13.8:2096
 vless://1c2d6e9d-66d3-4500-98f1-3355c4037c9b@45.14.246.253:8443?security=none&type=tcp#🔒 VL-TCP-NONE 🇺🇦 UA-45.14.246.253:8443
+vless://3cbc7f82-974c-4472-be41-47bde81775fc@151.101.66.168:80?security=none&type=ws&host=aklisvpn.com&path=/@aklisvpn#🔒 VL-WS-NONE 🇺🇸 US-151.101.66.168:80
+vless://308d0488-0230-4f92-9e9f-978a3583434a@95.38.155.212:2096?type=ws&host=bulgtn.private-server.host&path=/#🔒 VL-WS-NA 🇮🇷 IR-95.38.155.212:2096
+vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@104.21.13.125:80?security=none&type=ws&host=ehda.sajaditsme.com#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.13.125:80
