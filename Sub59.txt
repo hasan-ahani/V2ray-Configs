@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@210.222.133.55:32412?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F#🔒 VL-WS-TLS 🇰🇷 KR-210.222.133.55:32412
 vless://5a045a1e-d392-4c5b-b658-b57e4ea01b4f@172.67.182.88:443?security=tls&sni=virapn-d-3be7883659a1d2ba4c545dfdf85b61eda1.asiatechnicalwest.ir.&type=grpc&serviceName=@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN&fp=firefox&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.182.88:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.238.228.212:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇪🇸 ES-185.238.228.212:443
 vless://4045c6b7-1d53-4574-98cd-df21db40b0dc@172.67.131.138:2053?security=tls&sni=itcenteriran.blog&type=ws&host=itcenteriran.blog#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.131.138:2053
@@ -83,3 +82,4 @@ vless://c32b1429-92aa-4be7-912e-4d63b0a31fc7@172.67.196.92:443?security=tls&sni=
 vless://a6fa9485-41e7-4bfb-9c6d-8336b5a66f47@104.20.19.78:2087?security=tls&sni=dl.parhamtraberthos.ir&type=ws&host=dl.parhamtraberthos.ir&path=%2Fnew_proxy_channel%3Fed%3D2560&fp=random&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.19.78:2087
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@91.149.239.198:443?security=tls&sni=hk313.ylks.link&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-91.149.239.198:443
 vless://afe17092-2377-4e04-9bba-ef04012102db@104.18.14.19:8080?security=none&type=ws&host=ch1.dontbow.store.&path=/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.14.19:8080
+vless://e4014cc7-5184-4e2a-82f1-4a3b6f138dec@104.18.5.2:2053?security=tls&sni=cde.digibook-shop.com&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.5.2:2053

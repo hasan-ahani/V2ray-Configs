@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://3def451a-6ce2-4275-9be0-39ab01a39b07@188.119.113.68:8443?security=reality&sni=172.67.173.11&type=tcp&host=nl1.x2fast.net&path=/http&headerType=http&fp=chrome&pbk=iOq9XFgvr8uyenRX9HUNjxrDpWVmfadlLcTZGXX0m0k&sid=836a980ffcbd9a64#🔒 VL-TCP-RLT 🇳🇱 NL-188.119.113.68:8443
 vless://200e059b-51ec-4825-8e95-5e49db5d22ad@141.95.75.212:443?security=reality&sni=analytics.google.com&type=tcp&fp=chrome&pbk=yiHA11T4BplJbQxAfsQkiiAzAmyxWau-KR7dQptwjDU&sid=c741ad33#🔒 VL-TCP-RLT 🇫🇷 FR-141.95.75.212:443
 vless://a09373e2-e120-457d-9ec9-ea7fe8bedb52@185.125.171.13:8443?security=reality&sni=partner.g2.com&type=grpc&serviceName=g2com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒 VL-GRPC-RLT 🇳🇴 NO-185.125.171.13:8443
 vless://ba938007-2c93-4d5b-9472-77ac0c76f477@192.248.181.165:39578?security=reality&sni=lw.lizard2shop.com&type=grpc&fp=chrome&pbk=vPrWZG2z6yJ9ZFkGJqOtaiPeAUDLlkUQsLztVO3XBCo&sid=4ab5ec25#🔒 VL-GRPC-RLT 🇩🇪 DE-192.248.181.165:39578
@@ -83,3 +82,4 @@ vless://171c625c-d60e-4389-a0c9-4978cd8a48bb@45.159.249.42:42259?security=realit
 vless://b0753dbe-6187-4d7f-8931-4c0d1a975104@[::ffff:5fa4:243b]:8443?security=reality&sni=104.21.70.42&type=tcp&host=at1.x2fast.net&headerType=http&fp=chrome&pbk=Iqqixc1Fcq2knbl1IbuKOHuZn2QDQIgri2J1acmDuTw&sid=bbe1ba3d62f09e09#🔒 VL-TCP-RLT 🇦🇹 AT-[::ffff:5fa4:243b]:8443
 vless://b1d23827-9ec3-41f3-adc3-41a11272aa83@135.181.108.187:443?security=reality&sni=*.hetzner.com&type=grpc&serviceName=@ipV2Ray&fp=chrome&pbk=5To2hd8dONrepW48wI6V1hbYePWOjYHgMXiR9Gq9tF4&sid=ca837ff5#🔒 VL-GRPC-RLT 🇫🇮 FI-135.181.108.187:443
 vless://a3c79bd9-44ff-4b56-9a26-bf756b2fa929@94.154.37.26:2086?security=reality&sni=zara.com&type=grpc&serviceName=2086vless&fp=chrome&pbk=IrE30UzYcVvkhnT2dcYAOrcvzaiaY7usPb5GEShnWCs&sid=f79d5509f3ca7718#🔒 VL-GRPC-RLT 🇺🇦 UA-94.154.37.26:2086
+vless://b2fe22d0-2511-4116-b814-62b0e7509b8b@168.119.117.42:443?security=reality&sni=*.boundless.link&type=grpc&serviceName=@ipV2Ray&fp=chrome&pbk=U3DxmKzqU4kZUKCGZjihhjRroSwbaSn-77_VXlq1GWU&sid=be1f33fc#🔒 VL-GRPC-RLT 🇩🇪 DE-168.119.117.42:443
