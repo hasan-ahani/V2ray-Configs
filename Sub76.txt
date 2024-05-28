@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?security=none&type=ws&path=/http#🔒 VL-WS-NONE 🇫🇷 FR-162.19.228.119:80
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@204.93.210.82:2096?security=tls&sni=a.ssll.gay&type=ws&path=telegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai_8%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-204.93.210.82:2096
-vless://222badf2-8e87-479a-8b77-1a3c952edac2@172.67.197.29:2096?security=tls&sni=vipping.antiping.click&type=grpc&serviceName=sourceforge.net&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.197.29:2096
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.220.153:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.220.153:443
 vless://a0acb9f9-b2f1-4af4-b4eb-32234a254c71@188.114.98.224:2087?security=tls&sni=gerMnV2ray.naziitness.coM.&type=ws&host=gerMnV2ray.naziitness.coM.#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.224:2087
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.105.124:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-185.148.105.124:443
@@ -83,3 +80,6 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@204.93.210.132:2096?security=tls&sn
 vless://43e63f99-37ec-489f-a657-ba6127628421@194.246.114.54:443?security=tls&sni=hk-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇭🇰 HK-194.246.114.54:443
 vless://9cd6e660-fa72-415d-a60d-64aa16574ab0@172.66.213.38:8080?security=none&type=ws&host=EnRheo.BALe.Bio&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.213.38:8080
 vless://e120d010-301f-49d7-bdb4-7568f9ab9782@91.193.58.1:2052?security=none&type=ws&host=穆罕默德侯赛superspeed12.ff2ray.cfd.#🔒 VL-WS-NONE 🇬🇧 GB-91.193.58.1:2052
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.211:2053?security=tls&sni=a.ssll.gay&type=ws&path=twitterfreecodes#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.211:2053
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@103.169.142.104:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇦🇺 AU-103.169.142.104:443
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@222.103.130.244:38932?security=tls&sni=xin331.ylks.link&type=ws&path=/proxyip#🔒 VL-WS-TLS 🇰🇷 KR-222.103.130.244:38932

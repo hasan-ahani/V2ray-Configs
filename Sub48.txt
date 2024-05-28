@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://1bab0961-b22c-411f-b955-09c4aed2d2c1@23.227.39.133:443?security=tls&sni=us4.hnkkt.top&type=ws&path=/gsjc/us4#🔒 VL-WS-TLS 🇨🇦 CA-23.227.39.133:443
-vless://94916e61-b3bf-4b46-ae11-c987d2f186dc@104.21.59.18:80?security=none&type=ws&host=join-midas-x-x---join-midas-x-x--join-midas-x-x--join-midas-x-x.join-midas-x-x-a14.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.59.18:80
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@77.37.33.147:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇩🇪 DE-77.37.33.147:8443
 vless://01ab9337-f478-4765-9534-88f009f83ddb@47.237.95.140:2053?security=tls&sni=aut226.ylks.link&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇬 SG-47.237.95.140:2053
 vless://9b97bb00-48b8-46dd-a9f2-ecd2e16fc41c@104.16.113.74:2095?security=none&type=ws&host=it1.vlessx.xyz#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.113.74:2095
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@154.194.12.137:2083?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F#🔒 VL-WS-TLS 🇮🇩 ID-154.194.12.137:2083
@@ -83,3 +80,6 @@ vless://03a9c9ee-1e6e-4779-8171-b2aac2357d0c@172.67.219.62:8443?security=tls&sni
 vless://fb301d2e-4430-4b41-95d6-764460b8ef13@147.78.140.192:2053?security=tls&sni=9b56CFEe5b258C44c45bA18FA122293.mIToweAr.cOm&type=grpc#🔒 VL-GRPC-TLS 🇧🇬 BG-147.78.140.192:2053
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@185.238.228.212:443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz#🔒 VL-WS-TLS 🇪🇸 ES-185.238.228.212:443
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@77.37.33.32:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇩🇪 DE-77.37.33.32:8443
+vless://5d8b1149-8f78-4154-a647-16563ec99c8a@172.67.154.101:443?security=tls&sni=hello-world-empty-feather-0943.sitosa5105.workers.Dev&type=ws&host=hello-world-empty-feather-0943.sitosa5105.workers.Dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.154.101:443
+vless://f478a594-5882-4713-bfdc-80c3e9345bd1@140.248.161.35:80?security=none&type=ws&host=dailyconfigs.com.#🔒 VL-WS-NONE 🇺🇸 US-140.248.161.35:80
+vless://947391e1-408e-4ba2-8a56-05cd972082e5@104.24.176.248:8443?security=tls&sni=ri.aminivip2023.site&type=ws&host=ri.aminivip2023.site&path=/V2zed&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.176.248:8443
