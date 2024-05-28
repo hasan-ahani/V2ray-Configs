@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://2ca42987-551b-4494-a854-da2d9178f4cd@104.18.211.110:2087?security=tls&sni=KxQhHtGc22.zImBa-zUlA.OrG&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.211.110:2087
 vless://1235b6fb-7f15-4361-8da3-d1a079bdf484@104.18.34.21:8443?security=tls&sni=who-doesnt-care.BacheBiaPain.IR&type=ws&host=who-doesnt-care.BacheBiaPain.IR&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.34.21:8443
 vless://ca3f2ed6-1dc0-47dd-84b0-730f2732871b@162.159.134.234:8080?security=none&type=ws&host=hrtv.numall.xyz.&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.134.234:8080
 vless://51baeda8-1288-458a-b5ae-b8b080b937b6@104.27.1.52:8880?security=none&type=ws&host=cherry.berry.strawberry.%E6%88%91%E4%BB%AC%E7%94%9F%E6%B4%BB%E5%9C%A8%E8%AF%A5%E6%AD%BB%E7%9A%84%E5%9C%B0%E7%8B%B1%E9%87%8C.shop.&path=%2FTelegram%3A%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%3Fed%3D1024#🔒 VL-WS-NONE 🏴‍☠️ NA-104.27.1.52:8880
@@ -82,4 +83,3 @@ vless://b499b663-7531-4014-b5a2-19069389574b@104.21.232.99:8443?security=tls&sni
 vless://e7ff22c0-b781-41ef-8900-492852e01353@104.18.202.232:8880?security=none&type=ws&host=Grizzlyvpndv2ray.v2rayng6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1G.viraticket.IR.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.202.232:8880
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.142.120.11:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-45.142.120.11:443
 vless://d672ec4f-afba-4f61-af09-eec872f97e99@23.227.60.7:443?security=tls&sni=test43.pages.dev&type=ws&host=test43.pages.dev#🔒 VL-WS-TLS 🇨🇦 CA-23.227.60.7:443
-vless://c255f68f-18f7-488a-b7fc-06a5676564f0@172.64.138.167:2052?type=ws#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.138.167:2052

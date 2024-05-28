@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://fa9be3bc-fcc3-44ea-bc23-3ff2311aba76@46.36.100.238:57357?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-46.36.100.238:57357
 vless://c32b1429-92aa-4be7-912e-4d63b0a31fc7@172.67.196.92:443?security=tls&sni=can01.nimserver.top&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.196.92:443
 vless://f9e0b36b-f1d5-4f3f-87dd-1e14919915b9@172.67.70.92:443?security=tls&sni=c.cm8.rr.nu&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.70.92:443
 vless://5bf081b7-64fc-4c3e-a9c0-d1a4ca86e7f6@104.21.16.138:8443?security=tls&sni=join2.servernet.cfd&type=grpc&serviceName=@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.16.138:8443
@@ -82,4 +83,3 @@ vless://51a844a4-fb41-4bb7-b79d-5bf40a832fe5@69.84.182.108:2096?security=tls&sni
 vless://64f38424-c7a6-4b4a-bc0e-2ee4b3f1291e@92.223.84.79:443?security=tls&sni=speedtest.gcore.com&type=ws&host=accelerattemanamnmyss.com&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇱🇺 LU-92.223.84.79:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.237.0.31:8443?security=tls&sni=zdy226.kpcloud.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇸🇬 SG-47.237.0.31:8443
 vless://1ff59fad-6cc6-4714-82b1-d4af47de08eb@188.42.88.22:80?security=none&type=ws&host=DiReCt49-13-163-226.CleAnMaRk.IR&path=/DiReCt49-13-163-226-CleAnMaRk-IR#🔒 VL-WS-NONE 🇱🇺 LU-188.42.88.22:80
-vless://5556a3da-77a5-4bbf-a335-55d2e7ddd262@95.164.46.235:443?security=tls&sni=it-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇮🇹 IT-95.164.46.235:443

@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://6f9850ed-dcf3-4a9b-d2a8-a4d652e0dcca@49.13.20.56:443?security=reality&sni=www.speedtest.net&type=tcp&fp=chrome&pbk=-rvbuVmhebrqWytirvFJz0ukq_kJjGPxIK9KrvaKkGQ&sid=2a8b4bae#🔒 VL-TCP-RLT 🇩🇪 DE-49.13.20.56:443
 vless://fbe02c0b-775f-4431-8615-a9497255c876@199.59.243.225:443?security=reality&flow=xtls-rprx-vision&sni=none.felinetest.site&type=tcp&fp=chrome&pbk=fabWUdBWxh7NsMaqOF35petD3ljQbKf6OSDnROV9jDs&sid=6f9deca7#🔒 VL-TCP-RLT 🇺🇸 US-199.59.243.225:443
 vless://b1d23827-9ec3-41f3-adc3-41a11272aa83@135.181.108.187:443?security=reality&sni=*.hetzner.com&type=grpc&serviceName=@ipV2Ray&fp=chrome&pbk=5To2hd8dONrepW48wI6V1hbYePWOjYHgMXiR9Gq9tF4&sid=ca837ff5#🔒 VL-GRPC-RLT 🇫🇮 FI-135.181.108.187:443
 vless://519a0f7f-5d5f-4e1d-8ded-69763fc9369a@77.105.146.212:8443?security=reality&sni=discordapp.com&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒 VL-TCP-RLT 🇩🇪 DE-77.105.146.212:8443
@@ -82,4 +83,3 @@ vless://7d4e9491-4eb4-42da-926c-2c7c201e99e2@162.159.130.234:443?security=tls&sn
 vless://e2643e1a-d75d-4749-96f7-c14df559afa5@188.114.96.3:80?security=none&type=ws&host=1.ftp.debian.org.www.speedtest.net.免费上网67.Site.#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.96.3:80
 vless://a8e4a5ea-c89f-413a-8a94-0f50df83650d@172.105.179.18:2003?security=tls&sni=au-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇦🇺 AU-172.105.179.18:2003
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?security=tls&sni=jd.wxgqlfx.top&type=ws&host=jd.wxgqlfx.top&path=%2FSiNABiGO-SiNABiGO%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.198.76:443
-vless://9bf9828f-faad-4259-842a-87a6e9da647e@104.21.88.53:443?security=tls&sni=fr1.vless.site&type=ws&host=fr1.vless.site&path=@TLS_v2ray,@AstroVPN_official,@TLS_v2ray/#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.88.53:443
