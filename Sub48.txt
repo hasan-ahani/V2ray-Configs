@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@162.159.152.246:80?security=none&type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai_8+%2F%3Fed#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.152.246:80
-vless://fb301d2e-4430-4b41-95d6-764460b8ef13@104.27.96.7:2053?security=tls&sni=9b56CFEe5b258C44c45bA18FA122293.mIToweAr.cOm&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.27.96.7:2053
-vless://e143ae36-5c70-4025-b74d-ceba310c6547@104.18.14.19:80?security=none&type=ws&host=1.ftp.debian.org.www.speedtest.net.免费上网67.Site.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.14.19:80
 vless://9e2aa663-44c2-48c0-86af-11ef28735ba9@162.159.138.232:8080?security=none&type=ws&host=de2.过滤器.store.&path=/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.138.232:8080
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.22.14.132:443?security=tls&sni=jp300.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.14.132:443
 vless://e7da87c9-4677-4e51-a285-e0decec4b385@104.31.16.65:2053?security=tls&sni=Pm.RxV2ray.space&type=ws&host=Pm.RxV2ray.space&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.31.16.65:2053
@@ -83,3 +80,6 @@ vless://d6f2a18c-c334-4cda-a14a-362390cfde40@104.21.89.71:2083?security=tls&sni=
 vless://8f9945e6-02ff-44fe-add5-fce891045eb7@94.131.104.66:443?security=tls&sni=lv2-vless.sshmax.xyz&type=ws&path=%2Fvless#🔒 VL-WS-TLS 🇱🇻 LV-94.131.104.66:443
 vless://fb301d2e-4430-4b41-95d6-764460b8ef13@141.193.213.247:2053?security=tls&sni=9b56CFEe5b258C44c45bA18FA122293.mIToweAr.cOm&type=grpc#🔒 VL-GRPC-TLS 🇺🇸 US-141.193.213.247:2053
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@150.66.7.95:34237?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇯🇵 JP-150.66.7.95:34237
+vless://fc1191c8-e724-482f-a492-90d3d386719c@104.21.18.174:2053?security=tls&sni=sisand.waztow.WOrkerS.Dev&type=ws&host=sisand.waztow.WOrkerS.Dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.18.174:2053
+vless://dd777f39-2996-4269-b88f-0b64436d0274@104.31.16.133:2096?security=tls&sni=joinchannel.sameasyou.sbs&type=ws&host=capitalnet.sameasyou.sbs&path=/&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.31.16.133:2096
+vless://1d1a7193-61a9-4fc1-9778-dd517cf9f919@172.67.136.208:2096?security=tls&sni=workerr.mcgrooge12.workers.dev&type=ws&host=workerr.mcgrooge12.workers.dev&path=%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.136.208:2096

@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@121.181.87.111:12405?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇰🇷 KR-121.181.87.111:12405
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.8.4:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.8.4:443
-vless://378ac207-38d3-4401-ba96-3a7931968bc5@148.113.175.147:80?security=none&type=ws&path=/http#🔒 VL-WS-NONE 🇨🇦 CA-148.113.175.147:80
 vless://7e29f2e2-e0ec-47c5-94ec-38ef90f7a106@172.67.91.112:2096?security=tls&sni=qopyz.oxnetirz11.onFLashDrIVE.app&type=ws&host=qopyz.oxnetirz11.onFLashDrIVE.app&path=vless-ws%2F%3Fed%3D2048&fp=firefox&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.91.112:2096
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@154.197.88.97:2053?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇨 SC-154.197.88.97:2053
 vless://366236b3-b3cb-4097-9900-b46098a244b7@104.21.74.214:2086?security=none&type=ws&host=ip499.列列男事的事列上赛男78.com.&path=/Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.74.214:2086
@@ -83,3 +80,6 @@ vless://ca9a58bf-9300-4e0d-a3ef-437751c1c371@45.137.201.105:2057?security=none&t
 vless://6b6fb221-feb6-4bd2-b711-f13a9775b877@104.21.28.188:443?security=tls&sni=SH2.sKyCLuB.cOm.Tr&type=ws&host=SH.sKyCLuB.cOm.Tr&path=%2FRainBow-Six-Siege-Super-Trash-Game%3Fed%3D2048&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.28.188:443
 vless://d744c466-7e55-4cd3-a69e-ffbc1eddf692@92.60.70.55:56701?type=tcp#🔒 VL-TCP-NA 🇹🇷 TR-92.60.70.55:56701
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.135.9.144:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇩🇪 DE-185.135.9.144:443
+vless://1b46289a-8c93-4619-b3a8-04d9d301da0c@104.26.13.8:2096?security=tls&sni=mz-net.49z.info&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.26.13.8:2096
+vless://61958b98-d52a-420e-bb42-a3fd22985895@104.17.247.203:2096?security=tls&sni=italia.dalixw.fun&type=grpc&serviceName=.....&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.247.203:2096
+vless://593fa383-f4c3-47ec-88bd-33b65316f0cf@104.254.140.153:443?security=tls&sni=2222222222asas.in-case-jadid-mane-follow-nemikone-vali-fane.site&type=grpc&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🇺🇸 US-104.254.140.153:443
