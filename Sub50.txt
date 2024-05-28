@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://01ab9337-f478-4765-9534-88f009f83ddb@47.236.174.206:2083?security=tls&sni=aut331.ylks.link&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇬 SG-47.236.174.206:2083
 vless://42cd7fff-39c8-4efd-88b0-75df7c88e894@[::ffff:ac40:6f94]:443?security=tls&sni=de2.v2vless.xyz&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-[::ffff:ac40:6f94]:443
 vless://98703d99-e2b3-42fe-8978-9ca16addd883@159.65.7.117:443?security=tls&sni=aka.ms&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔒 VL-TCP-TLS 🇸🇬 SG-159.65.7.117:443
 vless://9eed4ef6-fd5e-40d5-8f2c-4e90c92011ca@172.67.156.210:8443?security=tls&sni=re1.v2logy.xyz&type=grpc&fp=safari&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.156.210:8443
@@ -82,4 +83,3 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@198.41.202.5:2053?security=tls&sni=
 vless://e6a09d33-2b59-4a34-a720-fa4d5c46dcad@104.21.25.31:80?security=none&type=ws&host=De1.vless.site.&path=%2Fvless+%40hopev2ray%2C%40hopev2ray%2C%40hopev2ray%2C%40hopev2ray+ed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.25.31:80
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@104.16.143.237:8443?security=tls&sni=xin300.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.143.237:8443
 vless://439e2f9e-079e-4369-a712-22b942afeadd@172.67.153.28:443?security=tls&sni=download.seyfilm.ir&type=ws&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.153.28:443
-vless://7df71ea7-ad2f-48d1-ae7c-4429ee780537@104.18.229.191:2096?security=tls&sni=academivpn1.academi-vpn-4f8.workers.dev&type=ws&host=academivpn1.academi-vpn-4f8.workers.dev&path=%2F%3Fed%3D2560+%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.229.191:2096
