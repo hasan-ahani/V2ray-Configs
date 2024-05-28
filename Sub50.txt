@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@156.225.72.49:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-156.225.72.49:443
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@182.231.142.84:32564?security=tls&sni=jd.wxgqlfx.top&type=ws&path=/?ed#🔒 VL-WS-TLS 🇰🇷 KR-182.231.142.84:32564
+vless://cca319c7-d0d3-46bc-be9f-cf9eabd7b7f7@63.141.128.17:443?security=tls&sni=classify6.appclouddeveloper.com&type=grpc&serviceName=5e56daa0&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🇺🇸 US-63.141.128.17:443
+vless://1ca7d3a9-6b3e-47ed-88a7-ccbd1ff927c6@188.114.96.11:80?security=none&type=ws&host=iNvesTiNg.SpamDeTectOr.worlD&path=%2Fbackup#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.96.11:80
+vless://48201c60-6fbc-4cef-a59f-435eff793c70@162.159.138.1:8443?security=tls&sni=freetls.951314.xyz&type=ws&host=freetls.951314.xyz&path=%2F%3Fed%3D2560&fp=randomized&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.138.1:8443
+vless://5556a3da-77a5-4bbf-a335-55d2e7ddd262@95.164.46.235:443?security=tls&sni=it-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇮🇹 IT-95.164.46.235:443
 vless://9f98310e-25c2-4016-9d3c-8adaa8b160dc@104.16.12.82:2087?security=tls&sni=agtw4gmgtuulnbadgfxbsyjtdhsryw4nd.fqservers.com&type=ws&host=agtw4gmgtuulnbadgfxbsyjtdhsryw4nd.fqservers.com&fp=chrome&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.12.82:2087
 vless://2c65cbbc-3e23-43fe-96cb-6324e2aebc74@188.114.98.224:2052?type=ws&path=ڪانالتلگراممونــ#🔒 VL-WS-NA 🏴‍☠️ NA-188.114.98.224:2052
 vless://d8704b00-c989-480d-8cec-b87c86201a38@104.18.140.51:80?security=none&type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co.&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.140.51:80
@@ -77,9 +83,3 @@ vless://9af577f2-0a7a-4448-ae0b-6985c53ea634@172.67.196.100:2083?security=tls&sn
 vless://cdc61aa3-0353-4753-9c64-1c8fd3f3d79c@103.184.45.119:8880?security=none&type=ws&host=xn--v2ray-qhantayawi--a-mwxzc08arba93xpvac79043ht5ia.xn--v2-gn1d638jbjx.xyz.&path=%2F%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-%40LiV2ray%3Fed%3D1024#🔒 VL-WS-NONE 🇨🇳 CN-103.184.45.119:8880
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.133.247.14:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇸🇨 SC-45.133.247.14:443
 vless://39d06891-ee89-4316-ae0e-3fcfb9e9714c@104.16.0.35:2052?security=none&type=ws&host=worker-reza2.wbfoppa.workers.dev&path=TELEGRAM...PROXY_MTM%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.0.35:2052
-vless://01ab9337-f478-4765-9534-88f009f83ddb@47.236.202.91:2083?security=tls&sni=aut306.ylks.link&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇬 SG-47.236.202.91:2083
-vless://775213ac-3976-439a-8977-3277c0e4735d@209.46.30.217:8443?security=tls&sni=fq521.6789.cloudns.be&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-209.46.30.217:8443
-vless://b39d9e5a-f4ac-48c4-a311-ddaf5b5b85b9@162.159.136.232:2052?security=none&type=ws&host=%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B7%E4%BE%AF%E8%B5%9Bsuperspeed12.ff2ray.cfd.&path=%2F%3Fed%3D2053#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.136.232:2052
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.130.188:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.130.188:443
-vless://86e00829-7b2c-4fac-a594-2dfaa7556d68@172.67.209.118:443?security=tls&sni=smconfing444.lakav69944.workers.dev&type=ws&host=smconfing444.lakav69944.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.209.118:443
-vless://ee3fda1f-d8ec-44c7-942e-7e980b0b941c@104.21.85.204:2052?security=none&type=ws&host=P.a.n.jetupnet.sbs.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.85.204:2052
