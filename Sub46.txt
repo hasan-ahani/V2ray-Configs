@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://01ab9337-f478-4765-9534-88f009f83ddb@47.236.170.225:2083?security=tls&sni=aut300.ylks.link&type=ws&path=/?ed#🔒 VL-WS-TLS 🇸🇬 SG-47.236.170.225:2083
-vless://678ac895-92c2-4f27-a9d4-f1a89c5f5365@217.163.76.89:2053?security=tls&sni=mositr.freenods.sbs&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇬🇧 GB-217.163.76.89:2053
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.81.120:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=/?ed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.81.120:443
 vless://ce00040c-c4bf-44c8-8651-e6334f9c0a75@178.79.176.97:443?security=tls&sni=uk2-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇬🇧 GB-178.79.176.97:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.2.31:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.2.31:443
@@ -83,3 +81,5 @@ vless://485c4e8f-f436-4724-a2ed-746281cce22b@69.164.203.163:443?security=tls&sni
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.140.94:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.140.94:443
 vless://2ca42987-551b-4494-a854-da2d9178f4cd@104.18.212.110:2087?security=tls&sni=KxQhHtGc22.zImBa-zUlA.OrG&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.212.110:2087
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@154.197.121.127:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=twitterfreecodes#🔒 VL-WS-TLS 🇸🇨 SC-154.197.121.127:443
+vless://599ffc06-2d62-40ab-af6d-4875d93c4965@104.25.249.132:2083?security=tls&sni=ai-duet-3.arianzagrosmachine.WORKErs.DEv&type=ws&host=ai-duet-3.arianzagrosmachine.WORKErs.DEv&path=vless-ws%2F%3Fed%3D2048&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.249.132:2083
+vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@47.236.83.239:2096?security=tls&sni=vless.pagess.filegear-sg.me&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇸🇬 SG-47.236.83.239:2096

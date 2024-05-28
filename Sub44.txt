@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@91.149.239.234:443?security=tls&sni=jp300.ylks01.eu.org&type=ws&path=/proxyip#🔒 VL-WS-TLS 🇺🇸 US-91.149.239.234:443
-vless://3f435429-081a-41e0-8e77-f21e8a51fbbf@188.114.97.12:443?security=tls&sni=VirgInIaVpn.PaGes.DeV&type=ws&host=VirginiaVpn.Pages.DEV&path=%2F%3Fed&fp=ios&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.12:443
 vless://1785f360-efb6-4a65-974e-3274135d35d3@104.21.28.188:8880?security=none&type=ws&host=kiava.aws.amazon.com.q.debian.org.speedtest.net.xn--mgba2h8quf.kiava.fun#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.28.188:8880
 vless://a0e33e35-ad8d-4226-8d95-3c2fec5f2312@45.131.5.154:2053?security=tls&sni=isa.kasler.sbs&type=grpc&serviceName=%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%40ev2rayy&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇳🇱 NL-45.131.5.154:2053
 vless://10716279-b1ee-41d8-b63e-87782088305b@104.18.71.193:443?security=tls&sni=mAMAne-FIlTeRchI.PageS.DeV&type=ws&host=mAMAnE-fiLTerChi.paGES.deV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.71.193:443
@@ -83,3 +81,5 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.22.116.155:443?security=tls&sni=
 vless://90c392b7-f567-47d4-b584-dc1caf5bfb28@104.21.11.229:2083?security=tls&sni=ufo1.bestgameir.ir&type=ws&path=/ws&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.11.229:2083
 vless://d18d7d62-40ba-4588-a7b2-88e89db32557@104.16.218.243:8443?security=tls&sni=off.v2box.lol.&type=grpc&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.218.243:8443
 vless://29d9e61b-ff12-4dfe-bcda-64d1f2f49458@104.17.126.133:80?type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.126.133:80
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@154.197.121.253:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🔒 VL-WS-TLS 🇸🇨 SC-154.197.121.253:443
+vless://2ca42987-551b-4494-a854-da2d9178f4cd@104.26.6.65:2087?security=tls&sni=MpHnPvWn22.zImBa-zUlA.OrG&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.26.6.65:2087

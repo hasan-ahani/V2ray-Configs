@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@154.197.121.253:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🔒 VL-WS-TLS 🇸🇨 SC-154.197.121.253:443
-vless://2ca42987-551b-4494-a854-da2d9178f4cd@104.26.6.65:2087?security=tls&sni=MpHnPvWn22.zImBa-zUlA.OrG&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.26.6.65:2087
 vless://77a571fb-4fd2-4b37-8596-1b7d9728bb5c@172.67.148.99:443?security=tls&sni=xw.r4d.workers.dev&type=ws&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.148.99:443
 vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.44.163:443?security=tls&sni=ghazal7799.pages.dev&type=ws&host=ghazal7799.pages.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.163:443
 vless://f54c1c56-d3b2-41b3-9974-78bdd8807939@104.22.51.162:8880?security=none&type=ws&host=liV2raya.善良的闪电.monster&path=/@LIGHTNING6#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.51.162:8880
@@ -83,3 +81,5 @@ vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@8.219.117.198:8443?security=tls&sni
 vless://c72ce5a5-6419-4356-82d3-440fdf3136b1@104.20.254.143:80?security=none&type=ws&host=unlimiteddev.xn--9iqr0tm1r4wg.co.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.254.143:80
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@107.172.103.204:57381?security=tls&sni=v116.ylkszy.eu.org&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-107.172.103.204:57381
 vless://d978c26d-1c43-440b-b696-be950032ab6f@172.67.222.169:2053?security=tls&sni=worker-winter-sea-7f30.jvxxmax5.workers.dev&type=ws#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.222.169:2053
+vless://01ab9337-f478-4765-9534-88f009f83ddb@47.236.170.225:2083?security=tls&sni=aut300.ylks.link&type=ws&path=/?ed#🔒 VL-WS-TLS 🇸🇬 SG-47.236.170.225:2083
+vless://678ac895-92c2-4f27-a9d4-f1a89c5f5365@217.163.76.89:2053?security=tls&sni=mositr.freenods.sbs&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇬🇧 GB-217.163.76.89:2053

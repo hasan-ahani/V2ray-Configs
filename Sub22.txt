@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://f971c939-32e0-40ca-b4d9-f444fddb45f2@172.66.46.221:443?security=tls&sni=9a6d6fd5.joinmahdiserver-an3.pages.dev&type=ws&host=9a6d6fd5.joinmahdiserver-an3.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.46.221:443
-vless://77a571fb-4fd2-4b37-8596-2b7d9728bb5c@172.67.20.220:2096?security=tls&sni=vpnxw.pages.dev&type=ws#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.20.220:2096
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@43.154.104.77:443?security=tls&sni=xin022.ylks.link&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇭🇰 HK-43.154.104.77:443
 vless://1e5cae03-93f1-403f-887d-4659db94758d@193.151.151.92:80?security=none&type=ws&path=%2F%40V2Graphy%2Fgiveaway%2Fws2%3Fed%3D2560#🔒 VL-WS-NONE 🇮🇷 IR-193.151.151.92:80
 vless://dc5768ea-03db-4a1b-b101-03203c025b05@194.5.176.32:43562?security=none&type=tcp&host=www.sayad.top&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-194.5.176.32:43562
@@ -83,3 +81,5 @@ vless://01ab9337-f478-4765-9534-88f009f83ddb@47.241.209.61:443?security=tls&sni=
 vless://1ff59fad-6cc6-4714-82b1-d4af47de08eb@104.31.16.196:80?security=none&type=ws&host=DiReCt49-13-163-226.CleAnMaRk.IR&path=/DiReCt49-13-163-226-CleAnMaRk-IR#🔒 VL-WS-NONE 🏴‍☠️ NA-104.31.16.196:80
 vless://cacd9434-1408-4f64-8bb0-b4c33d04c42b@172.67.145.128:443?security=tls&sni=sni.funlifea.shop&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.145.128:443
 vless://8dd08e5d-bf6c-4196-9e80-2d8530ffd1c6@46.36.100.95:6710?security=none&type=tcp&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-46.36.100.95:6710
+vless://186c6afe-7234-4911-839f-77086e9b7278@198.41.198.177:2086?security=none&type=ws&host=workerr.d6dkppf4.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.198.177:2086
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.107.62:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-185.148.107.62:443

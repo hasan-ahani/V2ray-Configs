@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://f7fe4c50-8f84-425a-8b60-6fbea946df9e@162.159.138.232:80?sni=hello-world-wandering-river-d8eb.wordpass.workers.dev&type=ws&host=we.wordpass.workers.dev&fp=chrome#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.138.232:80
-vless://5d616ff8-160f-4be5-8fd9-c12c53883280@151.101.169.57:443?security=tls&sni=fastly.com&type=ws&host=guzbamzcdnfast.com&path=/v2ray-rolly#🔒 VL-WS-TLS 🇺🇸 US-151.101.169.57:443
 vless://cd37e48f-b356-4bc2-9104-c4ed5b4abe8c@139.162.49.215:443?security=tls&sni=sg3-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇸🇬 SG-139.162.49.215:443
 vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@195.85.59.25:443?security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&type=ws#🔒 VL-WS-TLS 🇨🇾 CY-195.85.59.25:443
 vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@104.21.43.221:443?security=tls&sni=bypass-filter.jvnml.workers.dev&type=ws&host=bypass-filter.jvnml.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.43.221:443
@@ -83,3 +81,5 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.219.195:443?security=tls&sni
 vless://58a57566-090d-438b-8795-bd959b5757e7@5.145.115.206:2086?security=none&type=ws&host=ariogames.ir&path=%2Fdash#🔒 VL-WS-NONE 🇮🇷 IR-5.145.115.206:2086
 vless://2f89d070-5644-4f71-8c65-57db6cfe8ba7@51.77.212.202:443?security=tls&sni=fr.linceed.com&type=tcp&allowInsecure=1#🔒 VL-TCP-TLS 🇫🇷 FR-51.77.212.202:443
 vless://734072e0-82af-4ca9-979e-3f84c6b66b97@104.26.1.19:80?security=none&type=ws&host=%E4%B8%8D%E8%A6%81%E5%AF%B9%E4%B8%96newlife.%E7%AB%99%E9%95%BFbadho.silence2.%E5%A4%9C%E7%8C%AB%E5%AD%90%E9%85%92%E5%90%A7%E6%9E%AA%E6%88%98.suonycars.buzz.&path=%2Ft.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.1.19:80
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@91.149.239.234:443?security=tls&sni=jp300.ylks01.eu.org&type=ws&path=/proxyip#🔒 VL-WS-TLS 🇺🇸 US-91.149.239.234:443
+vless://3f435429-081a-41e0-8e77-f21e8a51fbbf@188.114.97.12:443?security=tls&sni=VirgInIaVpn.PaGes.DeV&type=ws&host=VirginiaVpn.Pages.DEV&path=%2F%3Fed&fp=ios&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.12:443

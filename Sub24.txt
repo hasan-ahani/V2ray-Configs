@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://d26c6e29-0efa-43d1-b3d1-89795c09da15@185.146.173.58:2096?security=tls&sni=fl.ZoV2ray.cfd&type=grpc&serviceName=@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2#🔒 VL-GRPC-TLS 🇸🇪 SE-185.146.173.58:2096
-vless://cf0d1479-11d6-4e30-85f1-d6b87714da21@172.67.171.49:80?security=none&type=ws&host=Nl1.vless.site.&path=/vless#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.171.49:80
 vless://d9b3134e-007e-41e0-a146-8c53977e27f5@104.25.221.166:443?security=tls&sni=academivpn1-bo7.pages.dev&type=ws&host=academivpn1-bo7.pages.dev&path=%2F&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.221.166:443
 vless://9f0d517d-45d5-5596-b235-7dc981821997@172.67.187.38:2053?security=tls&sni=esetsecuritylicense.mrgimsy.wORKeRs.DeV&type=ws&host=esetsecuritylicense.mrgimsy.wORKeRs.DeV&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.187.38:2053
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.107.29:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.107.29:443
@@ -83,3 +81,5 @@ vless://c54dd620-fa5f-46de-82c2-9d1492ee74e4@103.98.215.248:443?security=tls&flo
 vless://b0138d55-a493-4dc3-9932-c6f0391707c1@162.159.36.66:443?security=tls&sni=edge.020770.xyz&type=ws#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.36.66:443
 vless://2f4d8ee0-496e-4107-9dc6-2c31eaf1a2e6@194.247.187.130:22305?security=none&type=tcp#🔒 VL-TCP-NONE 🇩🇪 DE-194.247.187.130:22305
 vless://f0ffd8a9-2daa-4152-ed2a-e93d67799f09@172.67.204.84:2095?security=none&type=ws&host=V2ray-_-_-_-_-vMESSKHODAM.lars1.nl.#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.204.84:2095
+vless://b0138d55-a493-4dc3-9932-c6f0391707c1@188.114.96.1:2082?security=none&type=ws&host=malaysiadj.card-937.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.96.1:2082
+vless://6cc5b6b6-b3d2-4c60-8197-5defdc8d6aa1@104.24.197.20:443?security=tls&sni=4sat.shop&type=ws&host=public.4sat.shop&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.197.20:443
