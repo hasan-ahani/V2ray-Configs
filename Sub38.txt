@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@94.242.229.9:2083?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F#🔒 VL-WS-TLS 🇱🇺 LU-94.242.229.9:2083
+vless://51905fd3-29de-4b4e-b351-83542f1d5390@104.22.33.78:443?security=tls&sni=Bia.alLhub.Ltd&type=ws&host=biA.ALlhub.LTD&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.33.78:443
 vless://67ac2966-c633-4fbe-92dd-8c666881c6de@172.64.229.27:8080?security=none&type=ws&host=worker-hidden-thunder-00c3.test29-c85.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.229.27:8080
 vless://8f4b7da5-0467-4c70-a6e2-91d49d994e0e@49.13.225.84:443?security=none&type=tcp#🔒 VL-TCP-NONE 🇩🇪 DE-49.13.225.84:443
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@167.68.11.116:443?security=tls&sni=xin306.ylks.link&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-167.68.11.116:443
@@ -81,5 +83,3 @@ vless://9e1e9a24-3611-48e6-b2f9-a1db010c3298@188.114.97.2:80?security=none&type=
 vless://cede337b-9ea5-40e5-a8b1-690bf49ff41d@172.67.156.210:443?security=tls&sni=storeships.toptechnonews.com&type=ws&host=storeships.toptechnonews.com&path=%2Fnimws%3Fed%3D2560%40V2ray_Alpha&fp=qq&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.156.210:443
 vless://b39d9e5a-f4ac-48c4-a311-ddaf5b5b85b9@162.159.136.232:2052?security=none&type=ws&host=%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B7%E4%BE%AF%E8%B5%9Bsuperspeed12.ff2ray.cfd.&path=%2F%3Fed%3D2053#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.136.232:2052
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.64.144:80?security=none&type=ws&host=binance.co.kp#🔒 VL-WS-NONE 🇺🇸 US-151.101.64.144:80
-vless://46f72049-4c32-455c-af5b-d6a6c0039679@104.21.19.32:443?security=tls&sni=no1-vless.sshmax.xyz&type=ws&host=no1-vless.sshmax.xyz&path=%2Fvless#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.19.32:443
-vless://7df71ea7-ad2f-48d1-ae7c-4429ee780537@104.22.73.145:2087?security=tls&sni=academivpn1.academi-vpn-4f8.workers.dev&type=ws&host=academivpn1.academi-vpn-4f8.workers.dev&path=%2F%3Fed%3D2560+%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.73.145:2087

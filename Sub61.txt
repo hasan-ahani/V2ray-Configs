@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://d480372f-6596-4177-ae85-28af07adf1cb@172.67.206.221:2053?security=tls&sni=selinc--5--selinc--5--selinc.muosqv.workers.dev&type=ws&host=selinc--5--selinc--5--selinc.muosqv.workers.dev&path=vless-ws%2F%3Fed%3D2048&fp=safari&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.206.221:2053
+vless://dba21741-9901-4e3f-b9fe-a52ec3633b67@172.66.213.0:2083?security=tls&sni=s14.sg-forum.info&type=ws&host=s14.sg-forum.info&path=/&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.213.0:2083
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.231:2053?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.231:2053
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.213:443?security=tls&sni=join-tEleGRAAm-chANNEL-DiSVpN.PaGeS.DEv&type=ws&host=JOiN-tELEgRAam-channEl-dIsVPN.PAGEs.dev&path=%2FTelegram+Join%3A+%40DisVpn%2CTelegram+Join%3A+%40DisVpn&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.213:443
 vless://1dbe32b7-708f-4e88-8785-3400fcc7e071@172.64.150.28:2096?security=tls&sni=telegram-id-vpn-ocean.telegram-id-vpn-ocean-3.workers.dev&type=ws&host=telegram-id-vpn-ocean.telegram-id-vpn-ocean-3.workers.dev&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.150.28:2096
@@ -81,5 +83,3 @@ vless://fb301d2e-4430-4b41-95d6-764460b8ef13@104.19.43.166:2053?security=tls&sni
 vless://7b596427-ad11-4350-bb66-52c26d4eacf1@104.21.58.195:2083?security=tls&sni=new-nt-cd.shoponetop.com&type=grpc&serviceName=xyz&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.58.195:2083
 vless://947391e1-408e-4ba2-8a56-05cd972082e5@104.24.176.248:8443?security=tls&sni=ri.aminivip2023.site&type=ws&host=ri.aminivip2023.site&path=/V2zed&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.176.248:8443
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@47.236.180.51:8443?security=tls&sni=v116.ylkszy.eu.org&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇸🇬 SG-47.236.180.51:8443
-vless://df81e978-ef0e-4ded-bf5c-e0d8c6f02ee2@154.197.75.98:80?serviceName=-Telegram:-@UraniumVpn-Telegram:&path=/#🔒 VL-TCP-NA 🇸🇨 SC-154.197.75.98:80
-vless://40466920-330c-430f-be2c-99a31f87008e@104.16.25.248:443?security=tls&sni=hpv2ray-netherlands.goldxray.com&type=grpc&serviceName=TELEGRAM:@HpV2rayNg&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.25.248:443

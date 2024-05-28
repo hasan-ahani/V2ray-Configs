@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://2ca42987-551b-4494-a854-da2d9178f4cd@104.21.4.115:2087?security=tls&sni=IxHiWwAs22.zImBa-zUlA.OrG&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.4.115:2087
+vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.21.211.74:443?security=tls&sni=current.iraniancp.click&type=ws#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.211.74:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.173:2087?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.173:2087
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.163.59:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.163.59:443
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@47.237.95.146:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇸🇬 SG-47.237.95.146:8443
@@ -81,5 +83,3 @@ vless://8a7982ff-7696-4f2c-9265-46f6ff45d5f5@104.25.16.194:2083?security=tls&sni
 vless://e02cb20b-6c9b-48da-a3bc-7da3d80867df@[0000:0000:0000:0000:0000:ffff:d055:1793]:443?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇪🇸 ES-[0000:0000:0000:0000:0000:ffff:d055:1793]:443
 vless://4d4da811-c5f3-4e73-a64a-232042b19fb7@185.146.173.94:2082?path=/TEL#🔒 VL-TCP-NA 🇸🇪 SE-185.146.173.94:2082
 vless://16782c80-8b2c-4eb1-81da-dd0435bfa586@104.18.202.232:8880?security=none&type=ws&host=cloudvezzzzzzev2ray.v2rayng6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.doornadoor.com&path=/VezzeWmV2rayGmSix6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.202.232:8880
-vless://283516af-082c-4f67-b392-ea3add35b9c1@172.67.144.15:443?security=tls&sni=vvv.v2ray96.filegear-sg.me&type=grpc&serviceName=188.114.99.0&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.144.15:443
-vless://ddb00f36-d544-4e35-afbf-64297aa68d03@188.114.96.1:2083?security=tls&sni=sisana.muzres.WORKerS.DeV&type=ws&host=sisana.muzres.WORKerS.DeV&path=vless-ws%2F%3Fed%3D2048&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.1:2083

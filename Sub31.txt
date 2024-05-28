@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://e8b87dd9-cc8f-407c-a1f3-a564009fe6ee@172.66.47.130:443?security=tls&sni=dc1bf227.vf-8co.pages.dev&type=ws&host=dc1bf227.vf-8co.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.130:443
+vless://d7858867-cb84-41b6-84a8-f59c94170f48@104.21.51.44:2053?security=tls&sni=Loop.v2rayvpn2.sbs&type=grpc&serviceName=@piavpngo-@piavpngo-@piavpngo-@piavpngo-@piavpngo-@piavpngo-@piavpngo-&alpn=http/1.1,h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.51.44:2053
 vless://10716279-b1ee-41d8-b63e-87782088305b@104.16.149.244:443?security=tls&sni=MAmaNE-fILtERchi.pAgeS.DEV&type=ws&host=mamAnE-FILTERchI.PageS.dEv&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.149.244:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.7.174:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.7.174:443
 vless://95443db4-3efb-47ec-87ff-500501863977@172.66.213.5:8080?security=none&type=ws&serviceName=@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISIریاکشناشباشما&host=V%50%4e%43UST%4fMI%5aE.%56%32ra%79.Community.&path=%2FJ%6fi%6e--V%50%4e%43UST%4fMI%5aE.V2ray.re%3Fed%3D8080#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.213.5:8080
@@ -81,5 +83,3 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.244.1:443?security=tls&sni=m
 vless://ff2a337f-b215-49e1-8b1e-d7734b648c4a@172.67.204.9:2083?security=tls&sni=all1.mebird1.fun&type=ws&host=all1.mebird1.fun&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.204.9:2083
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.18.250.103:80?security=none&type=ws&path=/?ed#🔒 VL-WS-NONE 🇨🇭 CH-185.18.250.103:80
 vless://5a045a1e-d392-4c5b-b658-b57e4ea01b4f@104.21.18.147:443?security=tls&sni=virapn-d-3be7883659a1d2ba4c545dfdf85b61eda1.asiatechnicalwest.ir.&type=grpc&serviceName=@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.18.147:443
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.20:2083?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.20:2083
-vless://664f5f11-1231-486d-b416-b7b3ecdae76a@104.19.130.28:443?security=tls&sni=HETZNER-D.pages.DEV&type=ws&host=HETZNER-D.pages.DEV&path=%2F%3Fed%3D2048&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.130.28:443

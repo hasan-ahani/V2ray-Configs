@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://auto@104.26.12.54:443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.26.12.54:443
+trojan://wkmY1R4EcP@45.76.228.197:443?security=tls&sni=z-v2-003263.kailib.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇺🇸 US-45.76.228.197:443
 trojan://9yu6m5okr@104.21.50.5:443?security=tls&sni=production.tj.ojan.workers.dev&type=ws&host=production.tj.ojan.workers.dev&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.50.5:443
 trojan://7b06d62b-25ed-45ed-ac0d-bc28a4779ef9@172.67.132.6:2096?sni=channel.v2bamdad.tech&type=grpc&serviceName=lK1wclmJRbMxj4FxIzvwxUDoX&allowInsecure=1#🔒 TR-GRPC-NA 🏴‍☠️ NA-172.67.132.6:2096
 trojan://241f01b9-8dfc-474f-8342-3fbd5c46417e@104.21.51.242:2087?sni=grpcfr.arminhadadi.site&type=grpc&serviceName=grpc&allowInsecure=1#🔒 TR-GRPC-NA 🏴‍☠️ NA-104.21.51.242:2087
@@ -81,5 +83,3 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.17.147.11:443?security=tls&sni=job
 trojan://4732adfa16c6450bbef87264e41332db@104.17.147.4:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.4:443
 trojan://TeleGram-VPNCTVIP@164.38.155.61:443?security=tls&sni=trojan-ws.vpnctvip.dns-dynamic.NeT&type=ws&host=trojan-ws.vpnctvip.dns-dynamic.NeT&path=%2FproxyIP%3Dproxyip.us.fxxk.dedyn.io&fp=random&alpn=h3,h2,http/1.1#🔒 TR-WS-TLS 🇬🇧 GB-164.38.155.61:443
 trojan://b17fa17d-13a0-4e8a-a398-8e549ea8b208@23.227.38.11:443?sni=syndication-statutes-wanted-logo.trycloudflare.com&type=ws&path=/argox-tr&allowInsecure=1#🔒 TR-WS-NA 🇨🇦 CA-23.227.38.11:443
-trojan://fMucnQTndf@129.213.63.5:443?#🔒 TR-TCP-NA 🇺🇸 US-129.213.63.5:443
-trojan://1ZTbMoSRnm@188.42.89.174:2083?security=tls&sni=mIkAsa.mEgAfAiR.sToRe&type=grpc&serviceName=/Telegram:@MikasaVPN&fp=chrome&alpn=h3,h2,http/1.1#🔒 TR-GRPC-TLS 🇱🇺 LU-188.42.89.174:2083
