@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.113.164:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.113.164:443
+vless://e4e7b149-8bd8-4266-8cbb-0987604dbc87@104.18.140.222:443?security=tls&sni=toujiediansigema.5112233.xyz&type=ws&host=toujiediansigema.5112233.xyz&path=TG%40juzibaipiao%E5%81%B7%E8%8A%82%E7%82%B9%E6%AD%BB%E5%90%97#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.140.222:443
+vless://0a869459-f7a2-4f93-9412-066554c869c4@104.16.120.85:2096?security=tls&sni=sd2.dwv2ray.site&type=grpc&serviceName=@Dataworld_ir&alpn=http/1.1,h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.120.85:2096
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@147.78.140.5:443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=/?ed#🔒 VL-WS-TLS 🇧🇬 BG-147.78.140.5:443
 vless://d74d8e62-90c2-4fee-bcf3-d239956ee51a@104.21.40.164:2096?security=tls&sni=jp.vps.wengmail.link&type=ws&host=jp.vps.wengmail.link#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.40.164:2096
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@13.68.186.91:443?security=tls&sni=xin332.ylks.link&type=ws&path=/proxyip#🔒 VL-WS-TLS 🇺🇸 US-13.68.186.91:443
@@ -80,6 +83,3 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@99.79.21.186:22222?security=tls&sni
 vless://4c03d139-631b-41dd-be68-933c3df0d7c2@162.159.1.33:443?security=tls&sni=qifei2024.dns.army&type=ws&host=qifei2024.dns.army#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.1.33:443
 vless://67d5ce83-742d-4c0c-8c10-4eced2e339f8@95.38.132.72:2082?security=none&type=tcp&host=telewebion.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-95.38.132.72:2082
 vless://93a23561-7665-4b2e-8824-85eed640d4de@104.18.23.19:80?security=none&type=ws&host=linood-fra.scriptboy.ir&path=%2F%40Vpnv2rayspeed%2Cvpnv2rayspeedbot%2Cturk%3Fed%3D22900#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.23.19:80
-vless://0f988015-266b-43ac-9264-f04c99bd4aa2@104.21.89.5:2083?security=tls&sni=csgo217.ahvazservers.online&type=ws&host=csgo217.ahvazservers.online&path=%2Fhaft&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.89.5:2083
-vless://965d0c88-a91d-4bef-950c-a59649bbfa14@104.18.96.186:8080?security=none&type=ws&host=Coc.unique69.com.&path=/HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.96.186:8080
-vless://908aac8f-e6d7-48ea-99e1-5de09c712d71@172.67.170.71:2083?security=tls&sni=d.nonoall.com&type=grpc&serviceName=@v2ray_nonoal,@v2ray_nonoal,@v2ray_nonoal,@v2ray_nonoal,@v2ray_nonoal,@v2ray_nonoal,@v2ray_nonoal,@v2ray_nonoal,@v2ray_nonoal,@v2ray_nonoal,@v2ray_nonoal,@v2ray_nonoal,@v2ray_nonoal&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.170.71:2083
