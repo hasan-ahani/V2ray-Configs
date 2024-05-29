@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://fb301d2e-4430-4b41-95d6-764460b8ef13@172.67.130.66:2053?security=tls&sni=9b56CFEe5b258C44c45bA18FA122293.mIToweAr.cOm&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.130.66:2053
 vless://12ef2fb8-4c06-4e9e-b1b6-0dbde357790b@172.67.193.36:2087?security=tls&sni=arguvpnnn.v2raycfz.cloud&type=grpc&serviceName=www.speedtest.net&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.193.36:2087
 vless://3c110307-dcf0-4002-b944-6d2c9530dd23@104.18.12.130:2083?security=tls&sni=dash.zedmodeon.lat&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.12.130:2083
 vless://ecd404a2-70b2-4e89-8339-89536cdfae52@172.67.178.114:8080?security=none&type=ws&host=king1980us.50fo8itj.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.178.114:8080
@@ -82,4 +83,3 @@ vless://9e67f15c-178f-494c-a843-f371e3b3fa5d@198.41.223.225:8080?security=none&s
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.143.18:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=TELEGRAM-MARAMBASHI%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.143.18:443
 vless://b08240fd-72a7-48ce-97cf-905c499a3fda@104.17.145.25:80?security=none&type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.145.25:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.100.228:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.100.228:443
-vless://9e966c38-3460-40d6-b18f-9a118808de8f@94.242.231.46:80?security=none&type=ws&host=tj.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&path=%2FZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEONZEDMODEON#🔒 VL-WS-NONE 🇱🇺 LU-94.242.231.46:80
