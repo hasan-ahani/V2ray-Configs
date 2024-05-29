@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@31.43.179.131:443?security=tls&sni=v332.ylkszy.eu.org&type=ws&path=/?proxyip#🔒 VL-WS-TLS 🇰🇿 KZ-31.43.179.131:443
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.81.4:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.81.4:443
-vless://02e75d78-58ad-4a73-afca-24b781d8fd12@104.16.124.14:8443?security=tls&sni=Isa.kasler.sbs&type=grpc&serviceName=کانال+@ev2rayy&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.124.14:8443
-vless://79978027-ef16-4137-b18e-905f8c18f845@198.41.223.64:8080?security=none&type=ws&host=cdnanycasteuorg.fjacz6xe.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.223.64:8080
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.236.9.152:2083?security=tls&sni=zdy331.kpcloud.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇸🇬 SG-47.236.9.152:2083
-vless://2bc24f26-a635-4842-a2ac-e25d92f57616@95.38.132.111:443?security=none&type=tcp&host=www.pcmag.com&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-95.38.132.111:443
-vless://4045c6b7-1d53-4574-98cd-df21db40b0dc@172.67.161.60:2053?security=tls&sni=itcenteriran.blog&type=ws&host=itcenteriran.blog&path=%2Fp%3D19&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.161.60:2053
 vless://42f8f57b-25b4-4a91-8ffb-b47dbc290a01@108.162.195.215:443?security=tls&sni=qwioc5.vortexnvpnew.top&type=ws&host=qwioc5.vortexnvpnew.top&path=%2Fwss#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.195.215:443
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@61.247.83.116:39308?security=tls&sni=v332.ylkszy.eu.org&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇰🇷 KR-61.247.83.116:39308
 vless://186c6afe-7234-4911-839f-77086e9b7278@198.41.198.177:2086?security=none&type=ws&host=workerr.d6dkppf4.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.198.177:2086
@@ -83,3 +76,10 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@152.228.191.232:443?security=tls&sn
 vless://64921a6f-d4ca-4f4c-b279-73b96e32a9d3@104.21.49.245:443?security=tls&sni=z-v2-007203.kailib.com&type=ws&host=z-v2-007203.kailib.com&path=%2Fstore%3Fed#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.49.245:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@146.70.175.110:80?security=none&type=ws&path=%2Fblue#🔒 VL-WS-NONE 🇳🇱 NL-146.70.175.110:80
 vless://f6dc6757-39c8-4107-aa75-ef41e4a72864@185.146.173.58:2087?security=tls&sni=liV2rayb.lightningv.ir&type=grpc&serviceName=/@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-@LiV2ray&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇸🇪 SE-185.146.173.58:2087
+vless://a04be4ef-1797-4ca9-a549-4385ce42494c@188.114.97.0:443?security=tls&sni=vls2.nimaxmusic.ir&type=ws&host=vls2.nimaxmusic.ir&path=%2Fvls2ws&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.0:443
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.59.187.130:34237?security=tls&sni=v022.ylks.link&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-45.59.187.130:34237
+vless://77a571fb-4fd2-4b37-8596-1b7d9728bb5c@104.21.95.205:443?security=tls&sni=xw.r4d.workers.dev&type=ws&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.95.205:443
+vless://e5f38cb2-d25c-464c-9aa6-a8890148bbb9@162.159.133.234:80?type=ws&host=mnvxar.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&path=%2FZEDMODEON-%40ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.133.234:80
+vless://713e999f-9590-4419-e49c-5a682ec5d4f7@104.16.102.112:2083?security=tls&sni=ch.RxV2ray.space&type=grpc&serviceName=@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.102.112:2083
+vless://01ab9337-f478-4765-9534-88f009f83ddb@47.236.144.208:2053?security=tls&sni=aut300.ylks.link&type=ws&path=/?ed#🔒 VL-WS-TLS 🇸🇬 SG-47.236.144.208:2053
+vless://10716279-b1ee-41d8-b63e-87782088305b@172.67.123.23:443?security=tls&sni=mAManE-FilTERChi.paGES.deV&type=ws&host=mamane-fIlTERchI.PagEs.DeV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.123.23:443
