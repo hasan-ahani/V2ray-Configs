@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://e92f94a8-8a5c-4733-a8f0-6780f699d2d7@92.246.76.130:80?security=none&type=ws&host=speedtest.net&path=/@aklisvpn@aklisvpn-@aklisvpn@aklisvpn-@aklisvpn@aklisvpn-@aklisvpn@aklisvpn-@aklisvpn@aklisvpn-@aklisvpn@aklisvpn-@aklisvpn@aklisvpn-@aklisvpn@aklisvpn-#🔒 VL-WS-NONE 🇺🇿 UZ-92.246.76.130:80
-vless://44333527-d4f0-4118-8466-a2393a252eb7@188.114.98.62:80?security=none&type=ws&host=7.isv.vpn.v2ray.yk.nedayevarzesh.ir.newsless.ir.らわなさらわ.isvphp.Ir.&path=/vless#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.98.62:80
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@146.56.188.95:48888?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇰🇷 KR-146.56.188.95:48888
 vless://61d93b9b-00d0-4df1-8027-6e036f4c1f11@172.67.168.58:443?security=tls&sni=freedom13.bypasojd.workers.dev&type=ws&host=freedom13.bypasojd.workers.dev&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.168.58:443
 vless://7108df3e-e7b3-44a5-8195-1657f103ea18@172.67.141.172:2095?security=none&type=ws&host=cloudmehranmmdv2ray.v2rayng6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.nofiltering2.SBS.&path=%2F%3Fed%3D1024#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.141.172:2095
 vless://1d1a7193-61a9-4fc1-9778-dd517cf9f919@172.67.136.208:8443?security=tls&sni=workerr.mcgrooge12.workers.dev&type=ws&host=workerr.mcgrooge12.workers.dev&path=%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.136.208:8443
@@ -83,3 +80,6 @@ vless://01ab9337-f478-4765-9534-88f009f83ddb@8.219.210.57:2083?security=tls&sni=
 vless://dcf149ac-2220-4cf8-987e-803baa0201e9@104.25.255.187:443?security=tls&sni=cc3.kosnanatfilterchi.eu.org&type=ws&host=cc3.kosnanatfilterchi.eu.org&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.255.187:443
 vless://932857b6-e094-4a31-ab66-ab45ae9d0d7a@185.148.105.52:2083?security=tls&sni=join20.maznet.cfd&type=ws&host=join20.maznet.cfd&path=@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-185.148.105.52:2083
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.111.121:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.111.121:443
+vless://fb8c4fdf-43b2-40fc-9a75-0f57931e6995@212.33.206.110:38597?security=none&type=tcp&host=www.speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-212.33.206.110:38597
+vless://a0e33e35-ad8d-4226-8d95-3c2fec5f23cc@104.16.149.128:2053?security=tls&sni=isa.kasler.sbs&type=grpc&serviceName=%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%40ev2rayy&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.149.128:2053
+vless://86cb9a9b-dc2e-45d6-b35d-7ce1daa32a15@172.64.229.28:8443?security=tls&sni=dns68.shift.cloudns.org&type=ws#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.229.28:8443

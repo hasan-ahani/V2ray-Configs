@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://185784ef-6068-49ec-b4cf-56b4a73d62a7@104.25.254.90:2096?security=tls&sni=im.jomong.space&type=grpc&serviceName=%40NT_Safe&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.25.254.90:2096
-vless://b81edee6-a129-4160-ad29-488f0b5d81b4@104.24.180.16:2087?security=tls&sni=vpn-ocean4.cdn-user2.workers.dev&type=ws&host=vpn-ocean4.cdn-user2.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=safari&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.180.16:2087
-vless://de44b044-8f90-4e18-b742-16591667ff96@47.242.60.161:443?security=tls&sni=edgetunnel-free.pages.dev&type=ws&path=%2F%3Fed&fp=randomized#🔒 VL-WS-TLS 🇭🇰 HK-47.242.60.161:443
 vless://f7ab07a2-7df6-4242-a9b5-c1d2514a3226@104.21.74.214:8443?security=tls&sni=hesha.servernet.cfd&type=grpc&serviceName=@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.74.214:8443
 vless://4b3a956b-94a8-496e-af7d-363a5dfef937@172.66.213.5:2095?security=none&type=ws&serviceName=Telegram:@proxy_mtm&host=%56%32ra%79-_-_-_-_-_-V%50%4e%43UST%4fMI%5aE.keLLekcoLLection.com.&path=%2FV%32ra%79C%55ST%4f%4dI%5aE%3Fed%3D1024#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.213.5:2095
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.26.7.37:443?security=tls&sni=kk306.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.7.37:443
@@ -83,3 +80,6 @@ vless://01ab9337-f478-4765-9534-88f009f83ddb@101.36.127.49:443?security=tls&sni=
 vless://2a3263e2-891c-4446-b474-a8c63acb6e25@173.245.58.154:2096?security=tls&sni=swe2.mbh-meti.com&type=ws&host=swe2.mbh-meti.com&path=/&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-173.245.58.154:2096
 vless://266db9bc-419e-463c-9ae8-b2a4d2076822@45.14.174.201:8880?security=none&type=ws&host=Daily-ConfigsV2rayGmSix6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.vigilantecollection.com.&path=%2FTel%3A%40Daily_ConfigsTel%3A%40Daily_ConfigsTel%3A%40Daily_ConfigsTel%3A%40Daily_ConfigsTel%3A%40Daily_Configs#🔒 VL-WS-NONE 🇩🇪 DE-45.14.174.201:8880
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@94.177.8.26:130?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇦🇹 AT-94.177.8.26:130
+vless://a0e33e35-ad8d-4226-8d95-3c2fec5f23c5@104.18.149.233:2053?security=tls&sni=isa.kasler.sbs&type=grpc&serviceName=%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%40ev2rayy&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.149.233:2053
+vless://436e7428-381d-404e-ad67-915e98ce357d@172.66.45.6:443?security=tls&sni=43b35ef5.aminitiger.pages.dev&type=ws&host=43b35ef5.aminitiger.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.45.6:443
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.216.195:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-45.159.216.195:443

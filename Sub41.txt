@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://a0e33e35-ad8d-4226-8d95-3c2fec5f23c5@104.18.149.233:2053?security=tls&sni=isa.kasler.sbs&type=grpc&serviceName=%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%40ev2rayy&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.149.233:2053
-vless://436e7428-381d-404e-ad67-915e98ce357d@172.66.45.6:443?security=tls&sni=43b35ef5.aminitiger.pages.dev&type=ws&host=43b35ef5.aminitiger.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.45.6:443
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.216.195:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-45.159.216.195:443
 vless://ddb00f36-d544-4e35-afbf-64297aa68d03@188.114.97.2:2096?security=tls&sni=sisana.muzres.wOrKerS.DEV&type=ws&host=sisana.muzres.wOrKerS.DEV&path=vless-ws%2F%3Fed%3D2048&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.2:2096
 vless://b97cdd0e-bba9-4391-b265-b72f80b670db@188.114.96.1:2052?type=ws&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-188.114.96.1:2052
 vless://be920353-91a0-4d35-be2d-48dc2d4ed8dd@172.64.146.80:443?security=tls&sni=de1.v2vless.xyz&type=ws&host=de1.v2vless.xyz&path=@FRAv2ray,@FRAv2ray,@FRAv2ray/#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.146.80:443
@@ -83,3 +80,6 @@ vless://6c3c8396-e94b-4a79-b1aa-9306d4749409@185.206.94.225:8880?security=none&t
 vless://dba21741-9901-4e3f-b9fe-a52ec3633b67@172.66.213.0:2083?security=tls&sni=s14.sg-forum.info&type=ws&host=s14.sg-forum.info&path=/&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.213.0:2083
 vless://7767dcb7-8f55-4fb0-8d65-aeb021d5f730@104.17.21.178:2096?security=tls&sni=kanal.metesla.site&type=grpc&serviceName=@global_net_vpn&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.21.178:2096
 vless://d4e4f972-15fb-4748-85ef-f5c77438ee91@162.159.136.232:2096?security=tls&sni=poy-uk.sg-forum.info&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.136.232:2096
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@160.123.255.226:2053?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇿🇦 ZA-160.123.255.226:2053
+vless://67aba2de-5f78-435a-a18b-0400f3fc3059@172.67.171.94:80?security=none&type=ws&host=Ch2-vless.sshmax.xyz.&path=/vless#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.171.94:80
+vless://52de3fa6-1673-4918-a90d-21d2b69de98e@172.64.172.28:443?security=tls&sni=eb8c0c64.888766.pages.dev&type=ws&host=eb8c0c64.888766.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.172.28:443
