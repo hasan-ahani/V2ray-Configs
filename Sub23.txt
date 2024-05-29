@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://e00a9dba-fa4c-4e07-c868-3eb02c3a905f@104.22.32.78:8880?security=none&type=ws&host=free.poloo.ir&path=%2Ftelegram-%40cyberse_bot%2Ctelegram-%40cyberse_bot%2Ctelegram-%40cyberse_bot%2Ctelegram-%40cyberse_bot%2Ctelegram-%40cyberse_bot%2Ctelegram-%40cyberse_bot%2Ctelegram-%40cyberse_bot%2CCyV2ray%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.32.78:8880
-vless://2a3263e2-891c-4446-b474-a8c63acb6e25@173.245.58.154:2096?security=tls&sni=swe2.mbh-meti.com&type=ws&host=swe2.mbh-meti.com&path=%2F&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-173.245.58.154:2096
-vless://92c12734-d19e-40a1-f7a2-1735711d039b@104.21.25.178:443?security=tls&sni=slayer.mestavorze.workers.dev&type=ws&host=slayer.mestavorze.workers.dev&path=/downloader/32185&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.25.178:443
-vless://9f0d517d-45d5-5596-b235-7dc981821997@104.21.72.173:8443?security=tls&sni=esetsecuritylicense.mrgimsy.WorkeRS.Dev&type=ws&host=esetsecuritylicense.mrgimsy.WorkeRS.Dev&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.72.173:8443
-vless://63dd3174-ca18-4dc5-95ff-b017e05639f0@162.159.130.234:2096?security=tls&sni=de-cdn.NetGurdians.tech&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.130.234:2096
-vless://526cb764-c815-4375-951d-87cefe70d1a7@185.146.173.54:8880?security=none&type=ws&host=xn---qhantayawi--d-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.lightning6.xyz.&path=/@LIGHTNING6,+@LIGHTNING6#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.54:8880
 vless://299c94d6-c2a4-4e7d-8155-f006e4d179cd@104.21.69.44:2083?security=tls&sni=Download.Pcfc24.ir&type=ws&host=Download.Pcfc24.ir&path=/@Alfred_Config,@Alfred_Config,@Alfred_Config,@Alfred_Config,@Alfred_Config&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.69.44:2083
 vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@104.21.59.95:443?security=tls&sni=w1.sylar8.eu.org&type=ws&host=w1.sylar8.eu.org&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.59.95:443
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@8.218.53.110:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇭🇰 HK-8.218.53.110:8443
@@ -83,3 +77,9 @@ vless://bb27a0c6-aa5e-4105-a943-b87239507057@172.66.47.66:443?security=tls&sni=p
 vless://593fa383-f4c3-47ec-88bd-33b65316f0cf@94.242.229.170:443?security=tls&sni=2222222222asas.in-case-jadid-mane-follow-nemikone-vali-fane.site&type=grpc&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🇱🇺 LU-94.242.229.170:443
 vless://ffea89e6-3d42-4714-90e8-73be6ce45111@104.26.4.57:443?security=tls&sni=vps-aby.pages.dev&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.4.57:443
 vless://485c4e8f-f436-4724-a2ed-746281cce22b@69.164.203.163:2003?security=tls&sni=us2-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇺🇸 US-69.164.203.163:2003
+vless://b04859a9-1156-4d22-8873-60980d5b599d@172.67.193.102:443?security=tls&sni=free.connectix.workers.dev&type=ws&path=/connectix&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.193.102:443
+vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@47.236.180.51:2096?security=tls&sni=vless.pagess.filegear-sg.me&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇸🇬 SG-47.236.180.51:2096
+vless://25c5cbda-39e5-47ed-b36c-b87ffef2378d@104.18.8.38:443?security=tls&sni=worker-fancy-base-7d08.yajici1215.workers.DEV&type=ws&host=worker-fancy-base-7d08.yajici1215.workers.DEV&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.8.38:443
+vless://ca9e46f9-6545-47ce-a6f5-66ad998092d0@66.235.200.67:8443?security=tls&sni=vmessorg.xn--54qv00ez5ar77g.co&type=ws&host=vmessorg.xn--54qv00ez5ar77g.co&path=/&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-66.235.200.67:8443
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@147.78.140.5:443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=/?ed#🔒 VL-WS-TLS 🇧🇬 BG-147.78.140.5:443
+vless://2f0b8dcd-8c01-4714-89f0-5a855049cebd@104.21.50.213:443?security=tls&sni=vahem.minusober.com&type=ws&path=/vahem#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.50.213:443
