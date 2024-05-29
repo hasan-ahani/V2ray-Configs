@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://54ce117a-fd26-4b2e-b540-15f95ba3cc63@104.21.39.202:443?security=reality&sni=www.xbox.com&type=grpc&fp=chrome&pbk=1_NaRFGvbJUim7_qlQ8Dibh_27d3X_p_w2xUvrGZlhg&sid=751ba1a6#🔒 VL-GRPC-RLT 🏴‍☠️ NA-104.21.39.202:443
+vless://c3a8831f-ca02-446f-aa6f-102a61e7eb3f@95.179.142.231:2053?security=reality&sni=cdn.discordapp.com&type=grpc&serviceName=xyz&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒 VL-GRPC-RLT 🇳🇱 NL-95.179.142.231:2053
+vless://ae5aed77-be23-4f6c-bd51-c73745038952@185.142.238.222:8443?security=reality&flow=xtls-rprx-vision&sni=maps.google.com&type=tcp&fp=chrome&pbk=NbtOWq_km9k_SKgCJatXla3Jl7gGKVbjQ-GAtGg4bEk&sid=bfde1c85a6a4112a#🔒 VL-TCP-RLT 🇳🇱 NL-185.142.238.222:8443
+vless://0e29d0de-fde0-4809-b5bd-f2c83c60c276@70.34.252.235:43549?security=reality&sni=dash.cloudflare.com&type=grpc&serviceName=%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar&fp=chrome&pbk=GXdXIpeDmm3rwUKLXjcW-dxmUffHDBmyEfBpU87iYxI&sid=11c06f#🔒 VL-GRPC-RLT 🇵🇱 PL-70.34.252.235:43549
 vless://a0562dec-26ac-43d4-ba1d-785c334e644f@37.27.21.47:443?security=reality&sni=greenpepper.ir&type=grpc&serviceName=@ipV2Ray&fp=chrome&pbk=FVe7_gsA7lnuX9z_V0vZXI9gD5outBiWIWZQsBpIzlI&sid=fada4f5f#🔒 VL-GRPC-RLT 🇫🇮 FI-37.27.21.47:443
 vless://a3c79bd9-44ff-4b56-9a26-bf756b2fa929@20.174.9.115:2096?security=reality&sni=msdn1.microsoft.com&type=tcp&fp=chrome&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=3a622700e73c6642#🔒 VL-TCP-RLT 🇦🇪 AE-20.174.9.115:2096
 vless://200e059b-51ec-4825-8e95-5e49db5d22ad@141.95.75.212:443?security=reality&sni=analytics.google.com&type=tcp&fp=chrome&pbk=yiHA11T4BplJbQxAfsQkiiAzAmyxWau-KR7dQptwjDU&sid=c741ad33#🔒 VL-TCP-RLT 🇫🇷 FR-141.95.75.212:443
@@ -79,7 +83,3 @@ vless://0905460d-6edc-4a82-8ec8-6b76090b41c8@104.21.2.27:443?security=tls&sni=wh
 vless://fe64cd72-3288-4c31-9b09-fff9b26b7437@185.143.232.200:80?type=ws&host=free-02.artemis-03.sbs&path=/@Artemis_vpn#🔒 VL-WS-NA 🇮🇷 IR-185.143.232.200:80
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.170.103:443?security=tls&sni=3k.pureboy.eu.org&type=ws&host=3k.pureboy.eu.org#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.170.103:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.21.224.150:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.224.150:443
-vless://39c11d14-4419-4735-a605-d41f50d5120f@66.235.200.129:8443?security=tls&sni=vmessorg.xn--54qv00ez5ar77g.co&type=ws&host=vmessorg.xn--54qv00ez5ar77g.co&path=%2F&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-66.235.200.129:8443
-vless://23ff8e34-2382-49cc-b068-d5de5b716e61@104.21.50.233:80?security=none&type=ws&host=telegram-vpnhttpinjectorfree-45.bononem349.workers.dev&path=%2FTelegram%3A%40VPNHTTPInjectorfree-Telegram%3A%40VPNHTTPInjectorfree-Telegram%3A%40VPNHTTPInjectorfree%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.50.233:80
-vless://21c67716-e8cb-452d-a36c-a6ca41e17d1a@172.67.204.84:2096?security=tls&sni=re4.v2logy.xyz&type=grpc&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.204.84:2096
-vless://145c16a8-e356-454e-ab5c-77aaf0ed9337@185.146.173.94:80?security=none&type=ws&host=shaa列男事的事列上赛rdv2raygmsix6.6.6.6.ir.com.site.列列男事的事列上赛男.xn-mg-bg0fk-a44dhgc.sbs.#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.94:80

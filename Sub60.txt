@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://7900f35a-e036-45b4-b028-82903e3fce5f@151.101.8.159:443?security=tls&sni=google.com&type=ws&host=aklisvpn.com&path=/@aklisvpn@aklisvpn-@aklisvpn@aklisvpn-@aklisvpn@aklisvpn-@aklisvpn@aklisvpn-@aklisvpn@aklisvpn-@aklisvpn@aklisvpn-@aklisvpn@aklisvpn-@aklisvpn@aklisvpn-&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-151.101.8.159:443
+vless://1675964d-6099-4f73-9814-fac67ad7fd26@172.64.35.226:80?type=ws&host=7fe600d3b53c4bb9de9c863cad96d1.nv2ron.ir&path=%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%3Fed%3D2048#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.35.226:80
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.176.26.79:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇰🇿 KZ-185.176.26.79:443
+vless://f15ec648-5637-494e-a2be-0a2c8d757653@172.66.47.198:443?security=tls&sni=bc788f58.parsa-aryayi.pages.dev&type=ws&host=bc788f58.parsa-aryayi.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.198:443
 vless://10716279-b1ee-41d8-b63e-87782088305b@104.25.232.249:443?security=tls&sni=MAMANe-FIlTerChI.pAgEs.deV&type=ws&host=maMAne-FiltErCHI.PAgEs.deV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.232.249:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@172.67.75.194:2083?security=tls&sni=jp022.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.75.194:2083
 vless://64d291ef-1fa2-4bb3-a99c-e184708e4ea0@176.126.113.161:443?security=tls&sni=nl2-full.privateip.net&type=ws&path=/VLESS&allowInsecure=1#🔒 VL-WS-TLS 🇳🇱 NL-176.126.113.161:443
@@ -79,7 +83,3 @@ vless://88363077-79d2-441e-b96b-cd8e4346794d@104.21.15.78:2096?security=tls&sni=
 vless://742cd304-be2a-4629-bdbc-ad87a22a5eb1@104.18.23.19:443?security=tls&sni=api2.shabazian.ir&type=ws&host=api2.shabazian.ir&path=%2F&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.23.19:443
 vless://fbdf202a-02b0-486e-a8f7-3fde4398ffec@104.21.19.241:2095?security=none&type=ws&host=spdnet-ok-.1.1.1.1.1.snapp.com.xn--blqw2a5no5ed8cm6xw0gw2i6ooehteuz1wcw61apn4a.com.&path=%2FspdNET-spdNET-spdNET-spdNET-spdNET-spdNET-spdNET-%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.19.241:2095
 vless://1ff59fad-6cc6-4714-82b1-d4af47de08eb@188.42.88.15:80?security=none&type=ws&host=DiReCt49-13-163-226.CleAnMaRk.IR&path=/DiReCt49-13-163-226-CleAnMaRk-IR#🔒 VL-WS-NONE 🇱🇺 LU-188.42.88.15:80
-vless://fe859d2f-3e06-40fe-9961-6fb6f9eb589e@172.67.204.84:2053?security=tls&sni=zaher.digibook-shop.com&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.204.84:2053
-vless://b97cdd0e-bba9-4391-b265-b72f80b670db@104.21.19.202:2052?security=none&type=ws&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.19.202:2052
-vless://f9bfe7bb-dc57-4223-8648-e3fbc12689f7@162.159.138.232:2052?security=none&type=ws&host=%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B7%E4%BE%AF%E8%B5%9Bsuperspeed12.ff2ray.cfd.&path=%2F%3Fed%3D2053#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.138.232:2052
-vless://e2ed91fe-808a-4d63-bcd9-1487769bfaaa@185.146.173.22:2083?security=tls&sni=forward222.maryam1500.top&type=grpc&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🇸🇪 SE-185.146.173.22:2083

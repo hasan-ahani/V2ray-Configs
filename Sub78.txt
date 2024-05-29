@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://1bab0961-b22c-411f-b955-09c4aed2d2c1@23.227.39.133:443?security=tls&sni=us4.hnkkt.top&type=ws&path=/gsjc/us4#🔒 VL-WS-TLS 🇨🇦 CA-23.227.39.133:443
+vless://dd777f39-2996-4269-b88f-0b64436d0274@104.31.16.133:2096?security=tls&sni=joinchannel.sameasyou.sbs&type=ws&host=capitalnet.sameasyou.sbs&path=/&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.31.16.133:2096
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@204.93.210.185:8443?security=tls&sni=a.ssll.gay&type=ws&path=twitterfreecodes#🔒 VL-WS-TLS 🇺🇸 US-204.93.210.185:8443
+vless://d9f3966e-0821-407a-9e70-25c37cc3fd7a@172.66.213.5:8443?security=tls&sni=unlimiteddev.xn--9iqr0tm1r4wg.co&type=ws&host=unlimiteddev.xn--9iqr0tm1r4wg.co&path=%2F%3FTelegram%3A%40FreeVirGoolNet#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.213.5:8443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.16.152.132:443?security=tls&sni=KWOdphURST8jSJGgLs4.goteli.com&type=ws&host=KWOdphURST8jSJGgLs4.goteli.com&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.152.132:443
 vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@104.21.90.210:2087?security=tls&sni=tnetplus-1wc.pages.dev&type=ws&host=tnetplus-1wc.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.90.210:2087
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@47.237.0.31:2096?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇸🇬 SG-47.237.0.31:2096
@@ -79,7 +83,3 @@ vless://d716b17b-f097-49ae-8367-ae84a3760659@104.18.41.176:8080?security=none&ty
 vless://b0138d55-a493-4dc3-9932-c6f0391707c1@108.162.193.239:2082?type=ws#🔒 VL-WS-NA 🏴‍☠️ NA-108.162.193.239:2082
 vless://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.199.19:2087?security=tls&sni=s1.darroborobinim.com&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.199.19:2087
 vless://61958b98-d52a-420e-bb42-a3fd22985895@104.17.247.203:2096?security=tls&sni=italia.dalixw.fun&type=grpc&serviceName=.....&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.247.203:2096
-vless://739aef27-7cf4-4457-839c-449e707d64ea@104.31.16.90:443?security=tls&sni=sqvsjpkqkfw5lgfvcznq.digikala.network&type=ws&host=sqvsjpkqkfw5lgfvcznq.digikala.network&path=%2F12979%2FDigi-Atl&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.31.16.90:443
-vless://75b11d9a-0073-4f95-9f56-94882bfa2a4f@172.67.154.112:443?security=tls&sni=FAlcuNarGoo.16C6D5A124.woRKerS.DEV&type=ws&host=fALCUnARGoO.16c6D5A124.WoRkERS.Dev&path=%2FkQmBXVgVS6wPRtQg%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.154.112:443
-vless://f5a9dfa6-14e2-473d-a66f-671ece5e8dd2@172.67.160.233:2052?security=none&type=ws&host=cfnb.v3nom.top&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.160.233:2052
-vless://5075f728-3074-4655-be5b-488e60697c72@198.41.199.89:2082?security=none&type=ws&host=netflixvgiuf.yduuvgguspeedtest.netiigyquhoihtfxtopuitgju.orghojV2rayolhgmetrix.irvyvlknouvrdfed2s2svyhij22kkuogifjfkfifofotitirruye63467r8t8t8tgigjgjvnvmfsraew4w4w5e5e7t8y9u9uhoihopjjpkbbkvngnmcmchfyfd.files.windows-update.com.#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.199.89:2082
