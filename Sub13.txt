@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://457ce692-8a0e-485a-a80b-6f057ea1ba61@jp-full.privateip.net:443#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20Trojan%20@V2rayStore
-trojan://4bfd6060-9bae-4450-a1e7-03b77e2c95cf@fr-full.privateip.net:443#%F0%9F%87%AB%F0%9F%87%B7%20France%20Trojan%20@V2rayStore
-trojan://ef86718e-5d48-4163-a076-66078ee4d954@fr2-full.privateip.net:443#%F0%9F%87%AB%F0%9F%87%B7%20France%20Trojan%20@V2rayStore
 trojan://fc1e07b5-840b-4446-8232-94b0606f2e0d@fr3-full.privateip.net:443#%F0%9F%87%AB%F0%9F%87%B7%20France%20Trojan%20@V2rayStore
 vless://a2359222-1ba4-4362-a4bc-ec678a3e7326@us-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Vless%20WS%20@V2rayStore
 vless://485c4e8f-f436-4724-a2ed-746281cce22b@us2-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Vless%20WS%20@V2rayStore
@@ -65,7 +62,6 @@ vmess://eyJhZGQiOiAiZnIzLWZ1bGwucHJpdmF0ZWlwLm5ldCIsICJhaWQiOiAiMCIsICJob3N0Ijog
 
 vmess://eyJhZGQiOiJodHRwczovL2dpdGh1Yi5jb20vQUxJSUxBUFJPL3YycmF5TkctQ29uZmlnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IkZyZWUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQzMyIsInBzIjoi8J+SgPCfmI4gUHJvamVjdCBCeSBBTElJTEFQUk8iLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 ss://eyJhZGQiOiJodHRwczovL2dpdGh1Yi5jb20vQUxJSUxBUFJPL3YycmF5TkctQ29uZmlnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IkZyZWUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQzMyIsInBzIjoi8J+SgPCfmI4gUHJvamVjdCBCeSBBTElJTEFQUk8iLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@152.228.191.232:443?security=tls&sni=kk022.ylks.link&type=ws&path=%2Fyoutube-%E7%94%B1%E9%9B%B6%E9%96%8B%E5%A7%8B#@Hope_Net-join-us-on-Telegram
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.139.111:8443?security=tls&sni=baipiao1.curly-train.pages.dev&type=ws&host=baipiao1.curly-train.pages.dev#@Hope_Net-join-us-on-Telegram
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@66.81.247.24:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#@Hope_Net-join-us-on-Telegram
 vless://e70e676a-adcc-471d-892d-365daca635ef@gama.ir:8080?path=%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray&security=none&encryption=none&host=ch3.dontbow.store.&type=ws#%40flyv2ray
@@ -83,3 +79,7 @@ vless://9f98310e-25c2-4016-9d3c-8adaa8b160dc@104.16.120.158:2087?security=tls&sn
 vless://33de6c1b-f78b-41dc-9593-e3cb37cb2160@173.245.59.100:80?security=none&type=ws&host=V2ray.afV2ray.V2ray.V2ray.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B784.Store.&path=%2Ftelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%2Ctelegram-AfV2ray%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 vless://e4106072-c324-4c27-a797-2e7ce6df0307@162.159.153.2:443?security=tls&sni=de3.v2vless.xyz&type=ws&host=de3.v2vless.xyz&path=/vless#@Hope_Net-join-us-on-Telegram
 vless://1622d31e-9023-4f1a-b553-9d10d7d2da90@156.238.18.246:443?security=tls&sni=free-sweden-c8f4261f9f46e6465709e17ebea7a92b.mitowear.com&type=ws&host=free-sweden-c8f4261f9f46e6465709e17ebea7a92b.mitowear.com#@Hope_Net-join-us-on-Telegram
+vless://44db8537-d0f7-4a43-9887-bb334385a1bd@104.17.42.10:2082?security=none&type=ws&host=irov2rayn-irov2rayn-irov2rayn-join-iroazadi-irov2rayn-join.ardeshirssh13.shop.&path=%2F%40irov2rayN-Telegram-%40irov2rayN-Telegram-%40irov2rayN-Telegram-%40irov2rayN-Telegram-%40irov2rayN-Telegram-m-%40irov2rayN-Telegram-%40irov2rayN-Telegram-%40irov2rayN-Telegram-%40irov2rayN-Telegram-%40irov2rayN-Telegram-%40irov2rayN-Telegram%3Fed%3D2082#@Hope_Net-join-us-on-Telegram
+vless://ada35bae-0fde-41a1-b302-f5d97aadf648@172.66.192.70:443?security=tls&sni=mindroom-5cz.pages.dev&type=ws&host=mindroom-5cz.pages.dev&path=%40MIND_ROOM2%2F%3Fed%3D2560&fp=chrome&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
+vless://63912603-7f57-42ca-9f1c-131d893d581e@ch.ni-ham.info:2082?path=%2F%3Fed%3D2087&security=none&encryption=none&host=ajghr.f-vipo.ir&type=ws#%40proxyymeliii
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.43.242.142:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
