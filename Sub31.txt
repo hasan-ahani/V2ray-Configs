@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://075a365b-b0c7-4ba3-b5a6-597850c223f9@104.16.24.34:8880?security=none&type=ws&host=sinaazizpor.wapgiz.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.24.34:8880
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@8.218.74.119:2083?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇭🇰 HK-8.218.74.119:2083
 vless://62c58634-d097-4a57-b232-450d8bdd5918@172.67.179.133:2096?security=tls&sni=bomb.epsia.cfd&type=grpc&serviceName=@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.179.133:2096
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@8.222.138.166:21737?security=tls&sni=v300.ylkszy.eu.org&type=ws&path=/?proxyip#🔒 VL-WS-TLS 🇸🇬 SG-8.222.138.166:21737
@@ -83,3 +82,4 @@ vless://321264ab-44ce-4599-a303-7d9a56e67018@185.146.173.100:2082?security=none&
 vless://d26009b6-d347-403f-95ce-1816bb8b8ca4@104.20.19.168:8880?security=none&type=ws&host=v2raylandd.werokac991.workers.Dev&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.19.168:8880
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@45.205.0.173:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-45.205.0.173:8443
 vless://8f9945e6-02ff-44fe-add5-fce891045eb7@94.131.104.66:443?security=tls&sni=lv2-vless.sshmax.xyz&type=ws&path=%2Fvless#🔒 VL-WS-TLS 🇱🇻 LV-94.131.104.66:443
+vless://fbc0ecd4-9fd3-4533-8df7-33d29493ff65@188.114.98.255:443?security=tls&sni=mwa100100m.a2c6ec2a96.workers.dev&type=ws&host=mwa100100m.a2c6ec2a96.workers.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.255:443
