@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://01ab9337-f478-4765-9534-88f009f83ddb@47.236.165.25:2083?security=tls&sni=aut226.ylks.link&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇬 SG-47.236.165.25:2083
 vless://331c5f9f-540e-4c28-ddde-16ffc2bdf80c@103.184.44.4:2083?security=tls&sni=mk.AntiV2ray.space&type=grpc&serviceName=@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2#🔒 VL-GRPC-TLS 🇨🇳 CN-103.184.44.4:2083
 vless://5ef01b16-ca53-4516-9d0e-6f9f3e6da0d0@172.67.163.103:2087?security=tls&sni=al.moienmusic.space&type=grpc&serviceName=Telegram:@POLPROXY-Telegram:@POLPROXY-Telegram:@POLPROXY-Telegram:@POLPROXY-Telegram:@POLPROXY-Telegram:@POLPROXY-Telegram:@POLPROXY-Telegram:@POLPROXY&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.163.103:2087
 vless://48bd4d22-e42f-4749-af6a-85ecf716c823@172.67.73.163:80?security=none&type=ws&host=fkhamnei.kosnanatfilterchi.eu.org#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.73.163:80
@@ -83,3 +82,4 @@ vless://1ff59fad-6cc6-4714-82b1-d4af47de08eb@103.184.44.39:80?security=none&type
 vless://db1eeace-797f-4d75-ac27-9a97acda853d@104.21.27.231:443?security=tls&sni=folani.iiipok.WORKers.Dev&type=ws&host=folani.iiipok.WORKers.Dev&path=/pikk.minusober.com:443/pikk&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.27.231:443
 vless://de543079-9ff5-4dce-8b68-97f61685efd7@104.20.22.46:443?security=tls&sni=hdfy1c1.cpiforpersia.uk&type=ws&host=hdfy1c1.cpiforpersia.uk&path=%2FLNGeLLJXXIlSdZMqnuxG&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.22.46:443
 vless://6bf9b7d0-7fdb-4da6-80f2-c209cdaeebc9@85.9.103.28:17841?security=none&type=tcp&serviceName=@ViraV2ray,@ViraV2ray,@ViraV2ray,@ViraV2ray,@ViraV2ray,@ViraV2ray,@ViraV2ray,@ViraV2ray,@ViraV2ray,&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.9.103.28:17841
+vless://9dba67d5-5398-4ad9-a848-55c673846644@172.67.157.203:2053?security=tls&sni=orientation-da1639422ad8f355d2371428.mitowear.com&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.157.203:2053

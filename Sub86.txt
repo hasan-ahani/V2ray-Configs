@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://4c4dfa50-e321-11ee-9b28-1239d0255272@144.217.81.44:443?security=tls&sni=chatbuzzteambhm.chatbuzzt7150.workers.dev&type=tcp#🔒 TR-TCP-TLS 🇨🇦 CA-144.217.81.44:443
 trojan://telegram-id-privatevpns@16.170.18.210:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-16.170.18.210:22222
 trojan://NISHIKUITAN222@210.126.38.13:33452?security=tls&sni=t331.ylks.link&type=ws&host=t331.ylks.link&path=%2F#🔒 TR-WS-TLS 🇰🇷 KR-210.126.38.13:33452
 trojan://e8105dfd24414268b6c7652c63731097@198.41.220.20:443?security=tls&sni=avianrecruit.com&type=ws&host=avianrecruit.com&path=/6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.20:443
@@ -83,3 +82,4 @@ trojan://ce8b8b30ebba45f2a38dd608b85e8628@104.16.159.9:443?security=tls&sni=bang
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.245:8443?security=tls&sni=tjjd.yzyx1.v6.army&type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.245:8443
 trojan://4732adfa16c6450bbef87264e41332db@104.17.147.4:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.4:443
 trojan://tIErrUuX7j@172.66.213.38:2053?security=tls&sni=vr.v2ray962.filegear-sg.me&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 TR-GRPC-TLS 🏴‍☠️ NA-172.66.213.38:2053
+trojan://224c91ee-7e18-4f1e-86bb-c1836f218c95@172.207.247.199:443?#🔒 TR-TCP-NA 🇯🇵 JP-172.207.247.199:443
