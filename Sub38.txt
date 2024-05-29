@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://775213ac-3976-439a-8977-3277c0e4735d@79.99.30.138:8443?security=tls&sni=fq521.6789.cloudns.be&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇳🇱 NL-79.99.30.138:8443
 vless://eb44e1c7-e5ba-4446-807c-a0768a8f4589@104.16.120.182:2083?security=tls&sni=amovpn6.fqservers.com&type=ws&host=amovpn6.fqservers.com&path=/channel:@VPNAMOHELP_@VPNAMOHELP_@VPNAMOHELP_@VPNAMOHELP_@VPNAMOHELP_@VPNAMOHELP&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.120.182:2083
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.233.162:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.233.162:443
 vless://e6a09d33-2b59-4a34-a720-fa4d5c46dcad@172.67.171.49:443?security=tls&sni=de1.vless.site&type=ws&host=de1.vless.site&path=/vless#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.171.49:443
@@ -82,4 +83,3 @@ vless://0f4ec9e8-19ef-11ef-ad11-0016b061439e@104.22.66.230:80?security=none&type
 vless://dfd87a9f-98db-46ff-b483-301897411931@104.19.140.4:2087?security=tls&sni=virapn-t-3be7883659a1d2ba4c545dfdf85b61eda1.asiatechnicalwest.ir.&type=grpc&serviceName=@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN&fp=firefox#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.19.140.4:2087
 vless://ef893f48-2bfb-4a6d-9ed3-a0af769f0ba3@172.67.163.116:2083?security=tls&sni=anonymousswi.shoponetop.com.&type=grpc&serviceName=xyz&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.163.116:2083
 vless://156b2022-7b2d-43b1-9a2a-784adf9aa1e7@104.18.202.232:2096?security=tls&sni=mah5.HasMailkOrea.storE&type=grpc&serviceName=%40mahsa_net+%40azadi_az_inja_migzare&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.202.232:2096
-vless://a5368290-9ce5-4fc4-9652-06221e6689fa@104.24.197.20:8880?type=ws&host=cdn1.yasinvps.sbs&path=/#🔒 VL-WS-NA 🏴‍☠️ NA-104.24.197.20:8880
