@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://ddb00f36-d544-4e35-afbf-64297aa68d03@172.67.165.200:2096?security=tls&sni=sisana.muzres.wOrKerS.DEV&type=ws&host=sisana.muzres.wOrKerS.DEV&path=vless-ws%2F%3Fed%3D2048&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.165.200:2096
+vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@108.162.192.198:443?security=tls&sni=bia-PaiN-baCHE.PAGeS.DeV&type=ws&host=bia-pAin-bAChE.PaGeS.dEV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.192.198:443
 vless://e0a9fdc4-3bdb-4e7c-b938-60e7745f3eb5@162.159.153.2:2053?security=tls&sni=ee2.v2vless.xyz&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.153.2:2053
 vless://01ab9337-f478-4765-9534-88f009f83ddb@47.237.14.220:2083?security=tls&sni=aut306.ylks.link&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇬 SG-47.237.14.220:2083
 vless://6668a238-6420-4c60-9f36-05a6a9c95275@104.26.6.202:8880?security=none&type=ws&host=2.V2ray.debian.org.fxp.debian.org.speedtest.net.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95%E3%82%89%E3%82%8F.mralpha-vpn.COM.&path=%2FTelegram-mainv2ray%2CTelegram-mainv2ray%2CTelegram-mainv2ray%2CTelegram-mainv2ray%2CTelegram-mainv2ray%2CTelegram-mainv2ray%2CTelegram-mainv2ray%2CTelegram-mainv2ray%2CTelegram-mainv2ray%2CTelegram-mainv2ray%2CTelegram-mainv2ray%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.6.202:8880
@@ -81,5 +83,3 @@ vless://6584ed53-90b2-45d6-aa78-ff34867c814c@206.238.236.18:8443?security=tls&sn
 vless://01ab9337-f478-4765-9534-88f009f83ddb@8.219.67.133:2053?security=tls&sni=aut306.ylks.link&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇬 SG-8.219.67.133:2053
 vless://bcfdf639-1f7c-408a-fe6d-a1668d4f5bb5@62.60.161.148:33265?type=ws&host=Skyroom.online&path=/@ViraV2ray/@ViraV2ray/@ViraV2ray/@ViraV2ray/@ViraV2ray/@ViraV2ray/@ViraV2ray/@ViraV2ray/@ViraV2ray/@ViraV2ray/#🔒 VL-WS-NA 🇭🇰 HK-62.60.161.148:33265
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.26.53:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=/?ed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.26.53:443
-vless://bf7e1009-1574-44f7-86df-6cbecd338477@172.66.47.106:443?security=tls&sni=pardazeshvpn-tg18.pages.dev&type=ws&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.106:443
-vless://c2ec17cc-e5a9-4f4a-88dc-496e3215dbab@104.18.158.102:443?security=tls&sni=sALAm-wOrD.pagEs.deV&type=ws&host=saLaM-Word.PaGeS.Dev&path=Telegram-V2ray_Alpha%2F%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.158.102:443

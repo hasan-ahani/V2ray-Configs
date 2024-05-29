@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@172.67.5.78:443?security=tls&sni=jp300.ylks01.eu.org&type=ws&path=/blue#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.5.78:443
+vless://db1eeace-797f-4d75-ac27-9a97acda853d@172.67.169.207:443?security=tls&sni=folani.iiipok.WORKers.Dev&type=ws&host=folani.iiipok.WORKers.Dev&path=/pikk.minusober.com:443/pikk&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.169.207:443
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@45.159.218.162:8443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-45.159.218.162:8443
 vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@172.67.144.73:443?security=tls&sni=bypass.dd-6b2.workers.dev&type=ws#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.144.73:443
 vless://5870e7d7-24e6-411a-914e-c965d7f7ae8a@104.17.82.198:80?security=none&type=ws&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.82.198:80
@@ -81,5 +83,3 @@ vless://d6f6df40-ff35-4707-adb0-ca68b1e8765f@188.114.98.225:2095?security=none&t
 vless://226dfc94-9413-470b-ad06-89834fd2dc41@104.25.254.35:8443?security=tls&sni=t.mmd111.sbs&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.25.254.35:8443
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.157.50.6:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇨🇦 CA-15.157.50.6:22222
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@198.41.208.143:80?security=none&type=ws&host=us1.rtacg.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.208.143:80
-vless://364d568e-b434-444f-a8f1-3b5f4b3cf525@104.18.12.229:80?security=none&type=ws&host=1.ftp.debian.org.www.speedtest.net.%E5%85%8D%E8%B4%B9%E4%B8%8A%E7%BD%9167.Site.&path=%2F%2Ftelegram-proxy-mtm-telegram-proxy-mtm-telegram-proxy-mtm%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.12.229:80
-vless://46e475d2-28e0-40f1-8a06-38713072a199@185.146.173.9:2095?security=none&type=ws&host=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&path=%2F#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.9:2095

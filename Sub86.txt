@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://a6292090-afe1-4640-97a7-4f1d1d877cf1@95.179.128.114:443?security=tls&sni=hdfy8d1.cpi1.eu.org&type=grpc&serviceName=8bHUAD5IX0lC5KffvrsN6rqb&fp=chrome&alpn=h2#🔒 TR-GRPC-TLS 🇳🇱 NL-95.179.128.114:443
+trojan://2cba4104748467d49d18319e5ade1b93ab5@198.41.220.10:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.10:443
 trojan://dbbaba11-1a70-4514-8005-f410a684145b@95.164.114.43:443?#🔒 TR-TCP-NA 🇰🇿 KZ-95.164.114.43:443
 trojan://4aec4e7f8cf8454ea4613659822e1a61@104.17.147.8:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.8:443
 trojan://maradona_vpn@185.174.138.209:443?security=tls&sni=teo.history-paint.art&type=ws&host=teo.history-paint.art&path=%2Fwss24142%3Fed%3D2048&fp=chrome&alpn=http%2F1.1#🔒 TR-WS-TLS 🇷🇺 RU-185.174.138.209:443
@@ -81,5 +83,3 @@ trojan://ac92cc40-17de-11ef-8e1b-1239d0255272@51.38.65.155:443?security=tls&sni=
 trojan://telegram-id-privatevpns@16.170.18.210:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-16.170.18.210:22222
 trojan://auto@172.67.204.84:2087?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.204.84:2087
 trojan://2cba4104747d49d18319e5ade1b93ab5@104.17.61.5:443?security=tls&sni=jobscareerfortoday.com&type=ws&host=jobscareerfortoday.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.61.5:443
-trojan://telegram-id-directvpn@13.49.98.220:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.49.98.220:22222
-trojan://fMucnQTndf@129.213.63.5:443?#🔒 TR-TCP-NA 🇺🇸 US-129.213.63.5:443

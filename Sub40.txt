@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@205.233.181.0:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-205.233.181.0:443
+vless://d672ec4f-afba-4f61-af09-eec872f97e99@104.21.84.110:443?security=tls&sni=test24.pages.dev&type=ws&host=test24.pages.dev&path=/Twitter苏小柠&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.84.110:443
 vless://16d99f65-b71f-5cdf-8ce6-fc35e171a192@104.21.9.147:8443?security=tls&sni=esetsecuritylicense.ikgbvch.WOrKeRS.DEV&type=ws&host=esetsecuritylicense.ikgbvch.WOrKeRS.DEV&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.9.147:8443
 vless://8e52f39a-1e22-45a7-a943-a54beb1868ab@172.67.217.107:8880?security=none&type=ws&host=buyz.ribiwa9933.workers.dev.japuz.ir&path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.217.107:8880
 vless://7e39754c-9924-498c-a4cf-5f13badf16a7@23.227.60.130:2087?security=tls&sni=lan.moienmusic.space&type=grpc&serviceName=Telegram:@POLPROXY-Telegram:@POLPROXY-Telegram:@POLPROXY-Telegram:@POLPROXY-Telegram:@POLPROXY-Telegram:@POLPROXY-Telegram:@POLPROXY-Telegram:@POLPROXY&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇨🇦 CA-23.227.60.130:2087
@@ -81,5 +83,3 @@ vless://b75b3034-36ab-4979-beae-3d02db1b11ec@172.64.80.150:443?security=tls&sni=
 vless://5556a3da-77a5-4bbf-a335-55d2e7ddd262@95.164.46.235:2003?security=tls&sni=it-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇮🇹 IT-95.164.46.235:2003
 vless://d672ec4f-afba-4f61-af09-eec872f97e99@23.227.60.7:443?security=tls&sni=test43.pages.dev&type=ws&host=test43.pages.dev&path=Path%2FTelegram%40--%40TV_v2ray--%40TV_v2ray--%40TV_v2ray--%40TV_v2ray--%40TV_v2ray--%40TV_v2ray--%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇨🇦 CA-23.227.60.7:443
 vless://a75cb418-c1d6-476a-9464-ad1bd5181e3c@162.159.135.234:8080?security=none&type=ws&host=de.vpncustomize.Website&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.135.234:8080
-vless://10716279-b1ee-41d8-b63e-87782088305b@195.85.59.95:443?security=tls&sni=MAMANe-fiLTERChi.pAges.DEv&type=ws&host=MamANe-FILTeRcHi.paGEs.DEv&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇨🇾 CY-195.85.59.95:443
-vless://d672ec4f-afba-4f61-af09-eec872f97e99@162.159.135.234:8443?security=tls&sni=test006.pages.dev&type=ws&host=test006.pages.dev&path=%2F%3Fed%3D2048&fp=ios&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.135.234:8443

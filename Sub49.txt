@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://e848dbe4-530e-4d33-8802-172bbb721d59@5.182.36.218:8080?security=none&type=tcp#🔒 VL-TCP-NONE 🇨🇭 CH-5.182.36.218:8080
+vless://d342d11e-d424-4583-b36e-524ab1f0afa7@172.66.44.168:8443?security=tls&sni=ed9485634jkfhggh.pages.dev&type=ws&host=ed9485634jkfhggh.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.168:8443
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@45.205.0.83:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-45.205.0.83:8443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@64.94.86.147:2053?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇨🇦 CA-64.94.86.147:2053
 vless://f49c6e00-bb63-4f9d-ae4f-145fe44a6cb5@104.21.94.85:80?security=none&type=ws&host=fr2-vless.sshmax.xyz&path=%2Fvless#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.94.85:80
@@ -81,5 +83,3 @@ vless://df471c1e-7f41-4fce-9a94-e63a53baaa80@185.146.173.134:8080?security=none&
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.41:8443?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.41:8443
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@45.59.186.34:34237?security=tls&sni=xin313.ylks.link&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-45.59.186.34:34237
 vless://2375d7bb-64ff-4168-aaf2-851a3223fad1@172.64.155.141:2083?security=tls&sni=cdn.gzwuyxq.WoRkerS.DEv&type=ws&host=cdn.gzwuyxq.WoRkerS.DEv&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.155.141:2083
-vless://79008720-f4c7-4e03-ae5c-1566d531533a@185.146.173.77:8880?security=none&type=ws&host=xn--v2ray-qhantayawi--a-mwxzc08arba93xpvac79043ht5ia.xn--v2-gn1d638jbjx.xyz.&path=%2F%40L%49%47HTNING6-TEL--%40L%49%47HTNING6-TEL--%40L%49%47HTNING6-TEL--%40L%49%47HTNING6-JOIN-%40L%49%47HTNING6-TEL--%40L%49%47HTNING6-JOIN-%40L%49%47HTNING6-TEL-%40L%49%47HTNING6-TEL--%40L%49%47HTNING6-JOIN-%40L%49%47HTNING6-TEL--%40LIGHTNING6-%40LiV2ray#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.77:8880
-vless://947391e1-408e-4ba2-8a56-05cd972082e5@104.17.254.26:8443?security=tls&sni=ri.aminivip2023.site&type=ws&host=ri.aminivip2023.site&path=/V2zed&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.254.26:8443

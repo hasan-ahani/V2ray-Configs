@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@94.247.142.245:2096?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz#🔒 VL-WS-TLS 🇬🇧 GB-94.247.142.245:2096
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.84.68:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.84.68:443
 vless://fb301d2e-4430-4b41-95d6-764460b8ef13@156.238.19.131:2053?security=tls&sni=9b56CFEe5b258C44c45bA18FA122293.mIToweAr.cOm&type=grpc#🔒 VL-GRPC-TLS 🇺🇸 US-156.238.19.131:2053
 vless://d672ec4f-afba-4f61-af09-eec872f97e99@162.159.133.234:8443?security=tls&sni=test006.pages.dev&type=ws&host=test006.pages.dev&path=%2F%3Fed%3D2048&fp=ios&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.133.234:8443
 vless://c1ce4c07-4e02-4475-82ad-944c474d7519@104.22.32.78:2052?security=none&type=ws&host=Free.poloo.ir&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.32.78:2052
@@ -81,5 +83,3 @@ vless://d7858867-cb84-41b6-84a8-f59c94170f48@104.21.51.44:2053?security=tls&sni=
 vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@47.236.117.48:2096?security=tls&sni=2022585a-86a7-4231-b3a0-eeda14f77f4d.8f18237c-8e5f-4ffb-a434-1b2948c87be3.ddnsfree.com&type=ws&path=/pasge.pages.dev/?ed#🔒 VL-WS-TLS 🇸🇬 SG-47.236.117.48:2096
 vless://16266848-758e-4335-83fc-e47a150a7693@185.143.233.120:2082?type=ws&host=xn--gtqr40b05t9tep19b.xn--gtqr40b05t9tep19b.IR.#🔒 VL-WS-NA 🇮🇷 IR-185.143.233.120:2082
 vless://b0138d55-a493-4dc3-9932-c6f0391707c1@141.101.123.151:2082?type=ws#🔒 VL-WS-NA 🏴‍☠️ NA-141.101.123.151:2082
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@35.222.230.126:2053?security=tls&sni=jd.wxgqlfx.top&type=ws&path=/?ed&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-35.222.230.126:2053
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.16.6.189:443?security=tls&sni=gOdZillA-mR-DaRKarSha-ONETOpKIng.PaGEs.dEV&type=ws&host=GodZiLla-Mr-darkarsha-ONeTOPKING.pAGes.DEv&path=%2FhmBvkyQIpkFvHI5p%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.6.189:443
