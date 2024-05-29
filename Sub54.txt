@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://10716279-b1ee-41d8-b63e-87782088305b@190.93.244.18:443?security=tls&sni=MamAne-FiLTerCHi.pageS.DEV&type=ws&path=%2Fb6UrlUHh79QzoYvF%3Fed&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.244.18:443
-vless://a71a41ad-c986-4ed1-93b8-fcddb110bb48@136.244.64.101:8080?security=none&type=tcp#🔒 VL-TCP-NONE 🇬🇧 GB-136.244.64.101:8080
 vless://0af1c46d-5cb9-40ae-bce2-369017b78c6c@95.164.116.35:443?security=tls&flow=xtls-rprx-vision&sni=tr-full.privateip.net&type=tcp&path=%2f&allowInsecure=1#🔒 VL-TCP-TLS 🇹🇷 TR-95.164.116.35:443
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@152.32.239.228:443?security=tls&sni=xin332.ylks.link&type=ws&path=/proxyip#🔒 VL-WS-TLS 🇭🇰 HK-152.32.239.228:443
 vless://76d43f2c-6f0c-4c58-8358-37d9fe56352a@212.33.206.95:8099?security=none&type=tcp&host=telewebion.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-212.33.206.95:8099
@@ -83,3 +81,5 @@ vless://5265becd-b1b0-4482-a7d0-4d552c2346b5@167.71.209.134:25409?security=none&
 vless://e5c62241-69be-4d74-b4f8-b458425403e1@31.7.70.200:49901?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-31.7.70.200:49901
 vless://9e67f15c-178f-494c-a843-f371e3b3fa5d@172.67.101.176:8080?type=ws&host=king1980.b91sptsl.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.101.176:8080
 vless://9f98310e-25c2-4016-9d3c-8adaa8b160dc@104.16.12.82:2087?security=tls&sni=agtw4gmgtuulnbadgfxbsyjtdhsryw4nd.fqservers.com&type=ws&host=agtw4gmgtuulnbadgfxbsyjtdhsryw4nd.fqservers.com&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.12.82:2087
+vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@172.66.45.32:443?security=tls&sni=t-netplus-4vx.pages.dev&type=ws&host=t-netplus-4vx.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.45.32:443
+vless://8545c44f-b1b4-4295-ae98-f0b6301a537f@172.66.45.42:2096?security=tls&sni=ios-azadnet.pages.dev&type=ws&path=%2F%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.45.42:2096
