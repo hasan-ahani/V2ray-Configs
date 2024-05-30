@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://d92f2c5c-5fe5-4034-b48a-6e50ff820877@104.17.248.203:2086?security=none&sni=de7.vlessx.us&type=ws#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.248.203:2086
 vless://953e8159-8f03-4bda-b63b-2ccead3d3798@108.162.193.10:443?security=tls&sni=v.networknim.site&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-108.162.193.10:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.85.252:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.85.252:443
 vless://51b939e6-ffbe-4b1a-8347-710436f5a704@172.67.204.84:2095?security=none&type=ws&host=V2ray-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.204.84:2095
@@ -83,3 +82,4 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.22.37.243:2053?security=tls&sni
 vless://fd1a257d-4de1-4bfb-92df-ed83c26de348@154.197.75.232:8080?security=none&type=ws&host=VPNCUSTOMIZE.V2ray.Community.&path=%2FJoin--VPNCUSTOMIZE.V2ray.re#🔒 VL-WS-NONE 🇸🇨 SC-154.197.75.232:8080
 vless://a0e33e35-ad8d-4226-8d95-3c2fec5f23cb@104.24.166.211:2053?security=tls&sni=isa.kasler.sbs&type=grpc&serviceName=%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%40ev2rayy&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.24.166.211:2053
 vless://e15117c7-59d0-4b40-8cce-0724e68f98f3@185.146.173.185:8080?type=ws&host=V2ray-_-_-_-_-MdVpnSec.TelegramChannelJoinBede.com.&path=/#🔒 VL-WS-NA 🇸🇪 SE-185.146.173.185:8080
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@94.140.0.99:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇦🇪 AE-94.140.0.99:443

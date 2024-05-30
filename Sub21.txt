@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://727ed92f-a1eb-4d43-91f0-bdc36dab7349@217.69.0.175:7594?security=reality&sni=dash.cloudflare.com&type=grpc&serviceName=%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar&fp=chrome&pbk=cSqOa9ARU8DDlB5G9j3Kd2AiT8b5-cYvFzCcA90b2Tw&sid=3e0c7827#🔒 VL-GRPC-RLT 🇫🇷 FR-217.69.0.175:7594
 vless://519a0f7f-5d5f-4e1d-8ded-69763fc9369a@77.105.146.212:8443?security=reality&sni=discordapp.com&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒 VL-TCP-RLT 🇩🇪 DE-77.105.146.212:8443
 vless://32fd9da9-8b81-4914-b19e-6523d06b0063@95.111.210.110:2095?security=reality&sni=ftp.debian.org&type=http&host=varzesh3.co%2C+digikala.com&path=%2F&fp=chrome&pbk=O1_CB3dL6PBgxrcJ5ZWJoABqYDPBnpm28QubsqVoNSU&sid=147adcf8#🔒 VL-HTTP-RLT 🇺🇸 US-95.111.210.110:2095
 vless://354a4626-918f-4f4d-a603-89e18718d92d@172.232.154.185:443?security=reality&sni=ghbi.ir&type=grpc&fp=chrome&pbk=rW_BTQ5EiomL4nMuvj3EbxqjRdLYt9Q0rpCaS9Iy8Eo&sid=804894e8#🔒 VL-GRPC-RLT 🇸🇪 SE-172.232.154.185:443
@@ -83,3 +82,4 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@147.78.246.86:53443?security=tls&sn
 vless://61d93b9b-00d0-4df1-8027-6e036f4c1f11@172.67.168.58:443?security=tls&sni=freedom13.bypasojd.workers.dev&type=ws&host=freedom13.bypasojd.workers.dev&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.168.58:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.204.183:443?security=tls&sni=936a99B4.Vde5-MlX81LANeo.pAgES.dEv&type=ws&host=936a99B4.vDE5-MLx81LANeO.pAgeS.DEV&path=%2FKkhHL0gsSoZ7M6id%2FZGU1Lm1lcmxpbm56Lmxpbms%3D%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.204.183:443
 vless://e143ae36-5c70-4025-b74d-ceba310c6547@104.18.14.19:80?security=none&type=ws&host=1.ftp.debian.org.www.speedtest.net.%E5%85%8D%E8%B4%B9%E4%B8%8A%E7%BD%9167.Site.&path=%2F%2Ftelegram-proxy-mtm-telegram-proxy-mtm-telegram-proxy-mtm%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.14.19:80
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@154.85.99.151:443?security=tls&sni=hk116.ylks.link&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-154.85.99.151:443
