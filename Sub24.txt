@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.216.227:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🔒 VL-WS-TLS 🇺🇸 US-45.159.216.227:443
-vless://51905fd3-29de-4b4e-b351-83542f1d5390@104.22.33.78:443?security=tls&sni=Bia.alLhub.Ltd&type=ws&host=Bia.alLhub.Ltd&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.33.78:443
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@43.154.74.39:30958?security=tls&sni=v313.ylks.link&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇭🇰 HK-43.154.74.39:30958
-vless://16d99f65-b71f-5cdf-8ce6-fc35e171a192@172.67.160.47:8443?security=tls&sni=esetsecuritylicense.ikgbvch.WorKeRS.dEV&type=ws&host=esetsecuritylicense.ikgbvch.WorKeRS.dEV&path=vless-ws%2F%3Fed%3D2048&fp=edge&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.160.47:8443
-vless://5a6555ea-a997-4381-aac7-8a53b6d2f5a5@104.25.5.6:2087?security=tls&sni=suping2.snapppfood.sbs&type=grpc&serviceName=@AFC_vpn.@AFC_vpn.@AFC_vpn&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.25.5.6:2087
 vless://d6493b12-d19a-4284-a084-e89f777cb179@78.109.194.92:52567?security=none&type=tcp&host=telewebion.com&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-78.109.194.92:52567
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@125.128.211.23:35368?security=tls&sni=xin300.ylks.link&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇰🇷 KR-125.128.211.23:35368
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@47.237.95.156:2087?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇸🇬 SG-47.237.95.156:2087
@@ -83,3 +78,8 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.26.5.57:2053?security=tls&sni=j
 vless://10716279-b1ee-41d8-b63e-87782088305b@172.67.123.23:443?security=tls&sni=mAManE-FilTERChi.paGES.deV&type=ws&host=mamane-fIlTERchI.PagEs.DeV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.123.23:443
 vless://85bc3be1-f8d3-4f8c-806c-65375fd364df@104.18.177.104:8880?security=none&type=ws&host=2.V2ray.debian.org.fxp.debian.org.speedtest.net.らわなさらわ.mralpha-vpn.COM.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.177.104:8880
 vless://010da807-b050-42ce-8fac-4afb2f17a21f@104.21.46.129:443?security=tls&sni=kinG-kinG-KinG-king.pagEs.dev&type=ws&host=KIng-KING-kING-kING.pages.deV&path=%2Ftelegram-proxy_mtmTelegram-proxy_mtm%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.46.129:443
+vless://9ad2883c-1c39-4e42-8ec0-38abd3fa914e@198.41.206.124:80?security=none&type=ws&host=xn---ndu.ntjdjpdb--a-9wl9jqtr75a136V2raya8b97V2rajdk44yjwac23607hkhja2.My-Archive69.site.&path=%2F%40LOCKEY_VPN-%40LOCKEY_VPN-%40LOCKEY_VPN-%40LOCKEY_VPN-V2#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.206.124:80
+vless://7e29f2e2-e0ec-47c5-94ec-38ef90f7a106@188.114.99.215:443?security=tls&sni=qopyz.oxnetirz11.ONfLAShdRIvE.aPp&type=ws&host=qopyz.oxnetirz11.ONfLAShdRIvE.aPp&path=vless-ws%2F%3Fed%3D2048&fp=edge&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.99.215:443
+vless://c394494d-2d8f-4b35-9edd-6df276676873@188.114.98.225:2083?security=tls&sni=V2rayng.aminhossienam.ir&type=grpc&serviceName=@V2rayeServers@V2rayeServers@V2rayeServers@V2rayeServers@V2rayeServers@V2rayeServers@V2rayeServers@V2rayeServers@V2rayeServers@V2rayeServers&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-188.114.98.225:2083
+vless://f1408723-2921-40a0-99cd-7e04951db11c@104.23.107.241:2053?security=tls&sni=ajghg.f-vipo.ir&type=ws&host=ajghg.f-vipo.ir&path=%2F%3Fed%3D2087&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.23.107.241:2053
+vless://242b7fb0-d590-57bd-9924-38092b4a8f21@104.21.45.92:2096?security=tls&sni=esetsecuritylicense.ujlqwtae.WoRkErs.Dev&type=ws&host=esetsecuritylicense.ujlqwtae.WoRkErs.Dev&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.45.92:2096
