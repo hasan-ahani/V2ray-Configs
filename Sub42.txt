@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.234.148:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.234.148:443
-vless://dd72f90e-d0d1-4e9e-af3d-ec0442c36d8a@95.217.27.124:39264?security=none&type=tcp&host=fast.com&path=/&headerType=http#🔒 VL-TCP-NONE 🇫🇮 FI-95.217.27.124:39264
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@216.116.134.43:2053?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz#🔒 VL-WS-TLS 🇺🇸 US-216.116.134.43:2053
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.21.23.72:443?security=tls&sni=jp300.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.23.72:443
 vless://b499b663-7531-4014-b5a2-19069389574b@104.20.205.66:8443?security=tls&sni=unlimiteddev.xn--9iqr0tm1r4wg.co&type=ws&host=unlimiteddev.xn--9iqr0tm1r4wg.co&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.205.66:8443
 vless://4f76d39b-7aa6-46f8-8701-0fe9963f92ee@160.153.0.179:443?security=tls&sni=7Fe600D3b53c4bb9de9C863cad96d1.nv2ROn.ir&type=ws&host=7fe600d3b53c4bb9de9c863cad96d1.nv2ron.ir&path=%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%3Fed%3D2048&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-160.153.0.179:443
@@ -83,3 +80,6 @@ vless://4f15d52a-36a0-47b9-96c2-396a098d1634@104.21.42.84:2083?security=tls&sni=
 vless://acff6dbd-a47f-40f1-8df8-d491154bf3ce@185.211.58.86:2095?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-185.211.58.86:2095
 vless://a2359222-1ba4-4362-a4bc-ec678a3e7326@138.124.184.173:2003?security=tls&sni=us-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇺🇸 US-138.124.184.173:2003
 vless://3365caca-abaa-47ba-ed1d-7e81c753fabe@104.16.209.12:2083?security=tls&sni=nl.cypherpunks.fun&type=ws&host=nl.cypherpunks.fun&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.209.12:2083
+vless://dd6688db-9ea8-4cb2-bc97-78af94f82081@95.164.114.43:2003?security=tls&sni=kz-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇰🇿 KZ-95.164.114.43:2003
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@27.50.49.232:8443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇸🇬 SG-27.50.49.232:8443
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@172.67.75.172:443?security=tls&sni=zdy332.kpcloud.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.75.172:443

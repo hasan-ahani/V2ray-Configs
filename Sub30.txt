@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://ecce74ca-e43a-4a98-a3c7-84463365805b@103.35.189.42:443?security=tls&sni=sourceforge.net&type=grpc&serviceName=grpc&fp=chrome#🔒 VL-GRPC-TLS 🇺🇸 US-103.35.189.42:443
-vless://4045c6b7-1d53-4574-98cd-df21db40b0dc@172.67.131.138:2053?security=tls&sni=itcenteriran.blog&type=ws&host=itcenteriran.blog#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.131.138:2053
-vless://21c67716-e8cb-452d-a36c-a6ca41e17d1a@104.21.69.44:2096?security=tls&sni=re4.v2logy.xyz&type=grpc&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.69.44:2096
 vless://d6493b12-d19a-4284-a084-e89f777cb179@78.109.194.92:52567?security=none&type=tcp&host=telewebion.com&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-78.109.194.92:52567
 vless://c5a265b1-d3d7-4079-9dd2-e7d5c7da3637@188.114.96.216:443?security=tls&sni=ffffrwewrg3.af3025eb2e.workers.dev&type=ws&host=ffffrwewrg3.af3025eb2e.workers.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.216:443
 vless://2bc24f26-a635-4842-a2ac-e25d92f57616@95.38.132.111:443?security=none&type=tcp&host=www.pcmag.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-95.38.132.111:443
@@ -83,3 +80,6 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.21.254:80?security=none&type
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@20.185.28.234:44056?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-20.185.28.234:44056
 vless://e999ef63-e15f-415d-810a-c16bd245bf74@104.18.23.19:443?security=tls&sni=dl2.exoshop.ir&type=ws&host=dl2.exoshop.ir&path=/&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.23.19:443
 vless://e35e7272-db34-41ae-baab-e8af09e80d2e@104.17.180.185:2083?security=tls&sni=Coc.unique69.com&type=ws&host=Coc.unique69.com.&path=%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za&fp=firefox#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.180.185:2083
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@66.235.200.158:2083?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-66.235.200.158:2083
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@8.217.121.207:2053?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇭🇰 HK-8.217.121.207:2053
+vless://cc63b584-be6e-42a7-a3ad-bce6b285b166@104.18.32.69:80?security=none&type=ws&host=moham.net.93djh3qwtest.comxn--jhdcjhwe2381.jhdjhw3.hjdwhcedcxhws3h.wirenew.fpsvpn.SHOP.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.32.69:80
