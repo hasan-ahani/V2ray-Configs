@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.230.219:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=TELEGRAM-MARAMBASHI%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.230.219:443
 vless://01ab9337-f478-4765-9534-88f009f83ddb@47.237.8.82:2083?security=tls&sni=aut331.ylks.link&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇬 SG-47.237.8.82:2083
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@193.227.99.183:443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F#🔒 VL-WS-TLS 🇲🇹 MT-193.227.99.183:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@185.135.9.15:443?security=tls&sni=zdy300.kpcloud.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇩🇪 DE-185.135.9.15:443
@@ -82,4 +83,3 @@ vless://6be8ca9a-3d2f-4401-f7c5-3b2baf238977@104.21.20.148:2095?security=none&ty
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@146.56.171.182:11659?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇰🇷 KR-146.56.171.182:11659
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@125.133.160.129:39419?security=tls&sni=xin332.ylks.link&type=ws&path=/proxyip#🔒 VL-WS-TLS 🇰🇷 KR-125.133.160.129:39419
 vless://8952c47b-cf77-49b5-b961-2038596f6b97@85.9.108.43:47068?security=none#🔒 VL-TCP-NONE 🇮🇷 IR-85.9.108.43:47068
-vless://55341cc4-d38a-42d2-b5a7-61fcc77b56f1@108.162.192.154:2087?security=tls&sni=Tigoo.dignity-19.com&type=grpc&serviceName=Psp&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-108.162.192.154:2087

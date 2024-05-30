@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://1622d31e-9023-4f1a-b553-9d10d7d2da90@156.238.18.79:443?security=tls&sni=free-sweden-c8f4261f9f46e6465709e17ebea7a92b.mitowear.com&type=ws&host=free-sweden-c8f4261f9f46e6465709e17ebea7a92b.mitowear.com#🔒 VL-WS-TLS 🇺🇸 US-156.238.18.79:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.128.253:443?security=tls&sni=worker-little-frost-1b1c.cataben844.workers.Dev&type=ws&host=worker-little-frost-1b1c.cataben844.workers.Dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.128.253:443
 vless://b499b663-7531-4014-b5a2-19069389574b@104.20.205.66:8443?security=tls&sni=unlimiteddev.xn--9iqr0tm1r4wg.co&type=ws&host=unlimiteddev.xn--9iqr0tm1r4wg.co&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.205.66:8443
 vless://161fa2ac-9618-4a3c-bc9b-5420ecc1826e@104.21.47.6:443?security=tls&sni=v2ray-vmess-free.irnoen.workers.dev&type=ws&host=v2ray-vmess-free.irnoen.workers.dev&path=/?@VPN_ROOM------@VPN_ROOM&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.47.6:443
@@ -82,4 +83,3 @@ vless://2b2268a7-5f8f-4947-a5a2-018340df3e1c@172.67.171.49:443?security=tls&sni=
 vless://54a47217-b810-4017-adb7-237e273c35ce@172.67.171.187:8443?security=tls&sni=r.donekaftr.ir&type=grpc&serviceName=abc&fp=ios&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.171.187:8443
 vless://cae07bc9-33e8-4689-8b25-c7998bfee63a@185.59.218.48:443?security=tls&sni=join-telegraam-channel-disvpn.pages.dev&type=ws&host=join-telegraam-channel-disvpn.pages.dev&path=/server&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇷🇺 RU-185.59.218.48:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@146.70.175.164:80?security=none&type=ws&path=%2Fblue#🔒 VL-WS-NONE 🇳🇱 NL-146.70.175.164:80
-vless://338469e5-b7d6-43f2-ab41-837b9fbea6a4@172.67.192.245:443?security=tls&sni=armanibashtestamouzesh.askdhbasikjbas.shop&type=ws&host=armanibashtestamouzesh.askdhbasikjbas.shop&path=/&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.192.245:443
