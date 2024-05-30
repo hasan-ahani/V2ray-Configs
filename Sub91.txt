@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://telegram-id-privatevpns@3.70.146.72:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-3.70.146.72:22222
-trojan://71409d3e488548e8bb076d229778f008@104.17.147.77:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.77:443
-trojan://qG9K8AGnn9XH5jUqeFu96g@104.16.123.175:2083?security=tls&sni=cdn13.cdn2cdn.com&type=ws&host=cdn13.cdn2cdn.com&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.123.175:2083
-trojan://b84d16a244460e09@5.44.249.44:3306?sni=n2.gladns.com&type=ws&host=TG.WangCai_1&path=/gateway/connect#🔒 TR-WS-NA 🇸🇬 SG-5.44.249.44:3306
-trojan://telegram-id-directvpn@54.228.109.189:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-54.228.109.189:22222
 trojan://299025b9-6b55-430c-be38-9a18c06873ac@91.199.84.57:12052?sni=china3.one.edu.kg&allowInsecure=1#🔒 TR-TCP-NA 🇭🇰 HK-91.199.84.57:12052
 trojan://951bbbc9-c5fd-441e-ac3d-c7fcfbf4a751@173.245.58.100:443?security=tls&sni=se1.trojanvpn.de&type=ws&host=se1.trojanvpn.de&path=%2Fwebsocket#🔒 TR-WS-TLS 🏴‍☠️ NA-173.245.58.100:443
 trojan://66101086-51c5-4437-9ff4-a00096cefc78@104.21.82.13:2053?security=tls&sni=promoapi.sensorpage.com&type=ws&host=promoapi.sensorpage.com&path=/yaNf9QdW9c8AvuTzAlEAJseJ96b&fp=firefox&alpn=http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.82.13:2053
@@ -83,3 +78,8 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.162.200.181:5000#🔒 SS-TCP-NA �
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@23.157.40.83:4444#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.83:4444
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZmJlYjY2OGY0ODQxNGY2@77.91.75.144:57456#🔒 SS-TCP-NA 🇰🇿 KZ-77.91.75.144:57456
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.68.134.9:6379#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.9:6379
+ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@204.93.164.41:16899#🔒 SS-TCP-NA 🇺🇸 US-204.93.164.41:16899
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.111.114.133:5001#🔒 SS-TCP-NA 🇨🇦 CA-38.111.114.133:5001
+ss://YWVzLTI1Ni1nY206enk4ZUNIbW9HNDhibEtvV2dONndCMg==@45.8.147.88:45961#🔒 SS-TCP-NA 🇸🇪 SE-45.8.147.88:45961
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@4.158.105.128:443#🔒 SS-TCP-NA 🇬🇧 GB-4.158.105.128:443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3QVNmQmJ4TGl2bGpaRDFFUDNXTGJm@195.2.76.71:60422#🔒 SS-TCP-NA 🇷🇺 RU-195.2.76.71:60422

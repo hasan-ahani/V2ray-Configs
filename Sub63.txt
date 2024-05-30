@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.133.247.35:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇸🇨 SC-45.133.247.35:443
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@79.99.30.190:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇳🇱 NL-79.99.30.190:8443
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.18.74.55:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.74.55:443
-vless://1773441d-8b07-43c0-81e6-226cce288e13@104.18.15.166:80?security=none&type=ws&host=cpy2.cpy-teel-1-32f.workers.dev&path=%2F%3Fed%3D2560+%40CPY_TEEL+%40CPY_TEEL+%40CPY_TEEL+%40CPY_TEEL+%40CPY_TEEL+%40CPY_TEEL+%40CPY_TEEL+%40CPY_TEEL+%40CPY_TEEL+%40CPY_TEEL+%40CPY_TEEL+%40CPY_TEEL+%40CPY_TEEL+%40CPY_TEEL+%40CPY_TEEL+%40CPY_TEEL+%40CPY_TEEL+%40CPY_TEEL+%40CPY_TEEL+%40CPY_TEEL+%40CPY_TEEL+%40CPY_TEEL+%40CPY_TEEL+%40CPY_TEEL+%40CPY_TEEL#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.15.166:80
-vless://9eed4ef6-fd5e-40d5-8f2c-4e90c92011ca@104.21.32.238:8443?security=tls&sni=re1.v2logy.xyz&type=grpc&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.32.238:8443
 vless://1622d31e-9023-4f1a-b553-9d10d7d2da90@156.238.18.246:443?security=tls&sni=free-sweden-c8f4261f9f46e6465709e17ebea7a92b.mitowear.com&type=ws&host=free-sweden-c8f4261f9f46e6465709e17ebea7a92b.mitowear.com#🔒 VL-WS-TLS 🇺🇸 US-156.238.18.246:443
 vless://70aa6fd6-9d04-4657-9eaa-2946541f6deb@188.114.96.217:80?security=none&type=ws&host=071ll2532.16965a6a7d.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.96.217:80
 vless://6d73f7ae-6424-4f03-ad93-10d9fd63fcaf@104.21.25.49:80?security=none&type=ws&host=Fr1-vless.sshmax.xyz.&path=/vless#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.25.49:80
@@ -83,3 +78,8 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@216.24.181.38:54324?security=tls&sn
 vless://1043dcf4-b8a4-45de-bb61-e64535939ebc@104.26.15.85:8080?security=none&type=ws&host=vipserverservice.snapp.ir.com.org.spd.spod.xn--chinese-fs4l.xn--blqw2a5no5ed8cm6xw0gw2i6ooehteuz1wcw61apn4a.com.&path=Mmdv2rayng-V2rayngmmd-telegram-mmd_v2rayng%3Fed%3D80#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.15.85:8080
 vless://ce44db58-ed9a-49f4-86b2-99053b0b54cf@213.176.6.211:2087?security=tls&sni=nl1.anonymous011.me&type=ws&path=/#🔒 VL-WS-TLS 🇮🇷 IR-213.176.6.211:2087
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.132.246:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.132.246:443
+vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@194.152.44.220:443?security=tls&sni=v300.ylkszy.eu.org&type=ws&path=/?proxyip#🔒 VL-WS-TLS 🇳🇱 NL-194.152.44.220:443
+vless://42cd7fff-39c8-4efd-88b0-75df7c88e894@[::ffff:ac40:6f94]:443?security=tls&sni=de2.v2vless.xyz&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-[::ffff:ac40:6f94]:443
+vless://9d272efb-7bc6-4124-b15b-b088e374cb0b@172.67.147.79:8443?security=tls&sni=Hot_V2Ry.tahrim-shekan.space&type=ws&host=Hot_V2Ry.tahrim-shekan.space&path=/&fp=chrome&alpn=http/1.1,h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.147.79:8443
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@193.122.116.52:30864?security=tls&sni=jd.wxgqlfx.top&type=ws&path=/#🔒 VL-WS-TLS 🇰🇷 KR-193.122.116.52:30864
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.107.213:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-185.148.107.213:443
