@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://9d5e7586-64e1-4c29-9d47-6cbbd57fe8d1@104.16.190.131:8443?security=tls&sni=pardazeshvpn-tg48.pages.dev&type=ws&host=pardazeshvpn-tg48.pages.dev&path=%2FTelegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.190.131:8443
-vless://de70c2ab-3b16-44c2-8579-9b05fedc3b36@172.66.44.139:443?security=tls&sni=pardazeshvpn-tg3.pages.dev&type=ws&host=pardazeshvpn-tg3.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.139:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.140.172:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.140.172:443
 vless://54ef4ecf-ff37-436a-be13-95c8a8a1114d@188.121.118.55:443?security=tls&sni=vIrGiNiAvPn-nL.pAgEs.dEv&type=ws&host=ViRgInIaVpN-Nl.PaGeS.DeV&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇮🇷 IR-188.121.118.55:443
 vless://cca319c7-d0d3-46bc-be9f-cf9eabd7b7f7@63.141.128.17:443?security=tls&sni=classify6.appclouddeveloper.com&type=grpc&serviceName=5e56daa0&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🇺🇸 US-63.141.128.17:443
@@ -83,3 +81,5 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.212:2087?security=tls&sni
 vless://b97cdd0e-bba9-4391-b265-b72f80b670db@104.21.90.218:2052?security=none&type=ws&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.90.218:2052
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@91.193.59.37:2096?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz#🔒 VL-WS-TLS 🇬🇧 GB-91.193.59.37:2096
 vless://57e15194-5fca-43bf-9672-9a51578ece6e@162.159.15.252:2053?security=tls&sni=fix.ahwaz14.ir&type=grpc&serviceName=fix.ahwaz14.ir&fp=firefox&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.15.252:2053
+vless://d672ec4f-afba-4f61-af09-eec872f97e99@162.159.133.234:8443?security=tls&sni=test006.pages.dev&type=ws&host=test006.pages.dev&path=%2F%3Fed%3D2048&fp=ios&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.133.234:8443
+vless://c32b1429-92aa-4be7-912e-4d63b0a31fc7@172.64.172.207:443?security=tls&sni=can01.nimserver.top&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.64.172.207:443

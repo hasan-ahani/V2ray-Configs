@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@222.112.65.62:13876?security=tls&sni=xin226.ylks.link&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇰🇷 KR-222.112.65.62:13876
-vless://f0719911-2e64-47bc-ac2c-18f6d3f2eb75@104.23.135.255:8443?security=tls&sni=unlimiteddev.xn--9iqr0tm1r4wg.co&type=ws&host=unlimiteddev.xn--9iqr0tm1r4wg.co&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.23.135.255:8443
 vless://d18d7d62-40ba-4588-a7b2-88e89db32557@104.16.218.243:8443?security=tls&sni=off.v2box.lol.&type=grpc&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.218.243:8443
 vless://ead6b74b-c156-5b2d-8f9a-9fc1a83a531e@172.67.205.175:2083?security=tls&sni=web.v2ray-ab-841-vpn.WoRkErS.DEv&type=ws&host=web.v2ray-ab-841-vpn.WoRkErS.DEv&path=%2Fvless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.205.175:2083
 vless://713e999f-9590-4419-e49c-5a682ec5d4f7@104.16.103.112:2083?security=tls&sni=ch.RxV2ray.space&type=grpc&serviceName=@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.103.112:2083
@@ -83,3 +81,5 @@ vless://bb27a0c6-aa5e-4105-a943-b87239507057@172.66.44.190:443?security=tls&sni=
 vless://75f5b089-0836-46e5-b6b5-f2850168f377@91.193.58.20:80?security=none&type=ws&host=fijffjdfjdfjdwieiriiririfjfndnmx.goldxray.com&path=/Telegram:@Hpv2rayNG-Telegram:@Hpv2rayNG-Telegram:@Hpv2rayNG-Telegram:@Hpv2rayNG-Telegram:@Hpv2rayNG-Telegram:@Hpv2rayNG-Telegram:@Hpv2rayNG-Telegram:@Hpv2rayNGTelegram:@Hpv2rayNGTelegram:@Hpv2rayNG-Telegram:@Hpv2rayNG#🔒 VL-WS-NONE 🇬🇧 GB-91.193.58.20:80
 vless://f8276ba9-be27-43bf-8b04-a948c984640d@185.146.173.237:2087?security=tls&sni=aa-vpnwedbaz-tls.sibanimage.ir.&type=grpc&serviceName=@vpnwedbazTEL@vpnwedbazTEL@vpnwedbazTEL@vpnwedbazJOIN@vpnwedbazTEL@vpnwedbazJOIN@vpnwedbazTEL@vpnwedbazTEL@vpnwedbazJOIN@vpnwedbazTEL@vpnwedbaz&fp=safari&alpn=h2#🔒 VL-GRPC-TLS 🇸🇪 SE-185.146.173.237:2087
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@205.233.181.182:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-205.233.181.182:443
+vless://88b6885d-e5dd-46f9-b72c-f3b9794c4724@37.152.176.31:8080?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇮🇷 IR-37.152.176.31:8080
+vless://ed0dc7de-364f-4228-abf6-b027890bcd93@162.159.153.2:2053?security=tls&sni=cf.yicanny.com&type=ws&path=/?ed#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.2:2053

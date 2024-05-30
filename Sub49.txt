@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://e5c62241-69be-4d74-b4f8-b458425403e1@31.7.70.200:49901?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-31.7.70.200:49901
-vless://cc236a51-836f-4d96-b622-49ddb937671b@172.66.44.168:443?security=tls&sni=BpB-98d.pAgES.dEv&type=ws&host=Bpb-98D.PAGES.dEV&path=%2Fk6ugsbLtk1GoYZw6%3Fed%3D2048&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.168:443
 vless://9e67f15c-178f-494c-a843-f371e3b3fa5d@172.67.235.131:8080?security=none&sni=king1980.b91sptsl.workers.dev&type=ws&host=king1980.b91sptsl.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.235.131:8080
 vless://1bab0961-b22c-411f-b955-09c4aed2d2c1@185.146.173.29:443?security=tls&sni=us1.hnkkt.top&type=ws&path=/gsjc/us1#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.29:443
 vless://f327e06a-b7d3-41b8-a713-76ef9f8a355e@104.18.27.94:443?security=tls&sni=esetsecuritylicense.djyhzmd.workers.dev&type=ws&host=esetsecuritylicense.djyhzmd.workers.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.27.94:443
@@ -83,3 +81,5 @@ vless://1ff59fad-6cc6-4714-82b1-d4af47de08eb@104.31.16.196:80?security=none&type
 vless://727b54ea-0ae5-412f-d5bf-9590d3f91246@104.21.37.215:443?security=tls&sni=new1.alpha5.top&type=grpc&serviceName=@V2ray_Alpha%20@V2ray_Alpha%20@V2ray_Alpha#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.37.215:443
 vless://c16cfefa-3ca3-4853-a582-02cd7205ae65@104.21.92.156:443?security=tls&sni=rightel1.chaghooosazi.shop&type=ws&host=rightel1.chaghooosazi.shop&path=/9AYvqFVnWz0w4dr32c8Sz5kJF4Ehx3&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.92.156:443
 vless://b08240fd-72a7-48ce-97cf-905c499a3fda@104.17.145.25:80?security=none&type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.145.25:80
+vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@31.43.179.178:443?security=tls&sni=v300.ylkszy.eu.org&type=ws&path=/?proxyip#🔒 VL-WS-TLS 🇰🇿 KZ-31.43.179.178:443
+vless://e1a928be-e289-4aef-b92e-4106fabdf42f@141.101.115.235:80?security=none&type=ws&host=mahi.kosnanatfilterchi.eu.org#🔒 VL-WS-NONE 🏴‍☠️ NA-141.101.115.235:80
