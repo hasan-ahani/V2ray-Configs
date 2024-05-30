@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://ead6b74b-c156-5b2d-8f9a-9fc1a83a531e@172.67.205.175:2083?security=tls&sni=web.v2ray-ab-841-vpn.WoRkErS.DEv&type=ws&host=web.v2ray-ab-841-vpn.WoRkErS.DEv&path=%2Fvless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.205.175:2083
+vless://ed0dc7de-364f-4228-abf6-b027890bcd93@172.67.70.188:8443?security=tls&sni=cf.yicanny.com&type=ws&path=/?ed#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.70.188:8443
 vless://a61ef647-36c6-40c1-8fff-a3a65e473c7a@104.21.32.208:2096?security=tls&sni=p30download.ir-notting-hill.com&type=ws&host=proxy.ir-notting-hill.com&path=%2F&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.32.208:2096
 vless://5243fc51-0634-4ef0-97ca-679b781da609@104.31.16.144:8880?security=none&type=ws&host=xn---qhantayawi--b-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.xn--94q488fl6grlogzeo1h.xyz.&path=%2F%40LIG%48TN%49NG6+TEL++%40LIG%48TN%49NG6+TEL++%40LIG%48TN%49NG6+TEL++%40LIG%48TN%49NG6+JOIN+%40LIG%48TN%49NG6+TEL++%40LIG%48TN%49NG6+JOIN+%40LIG%48TN%49NG6+TEL++%40LIG%48TN%49NG6+TEL++%40LIG%48TN%49NG6+JOIN+%40LIG%48TN%49NG6+TEL++%40LIG%48TN%49NG6+%40LiV2ray#🔒 VL-WS-NONE 🏴‍☠️ NA-104.31.16.144:8880
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.173:2087?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.173:2087
@@ -81,5 +83,3 @@ vless://0eab9ab8-d0f0-4823-8af9-d1f95db842e8@178.239.154.203:3013?security=none&
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.176.26.79:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇰🇿 KZ-185.176.26.79:443
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@47.236.144.156:2083?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇸🇬 SG-47.236.144.156:2083
 vless://94e21834-b1db-4e47-b575-4fdfd4c194ba@104.24.215.58:2053?security=tls&sni=jo0o0o0in.golestan-vpn.link.&type=ws&host=jo0o0o0in.golestan-vpn.link.&path=%2Ftelegram-gol621%2Ctelegram-gol621%2Ctelegram-gol621%2Ctelegram-gol621%2Ctelegram-gol621%2Ctelegram-gol621%2Ctelegram-gol621%2Ctelegram-gol621%2Ctelegram-gol621%2Ctelegram-gol621%2Ctelegram-gol621%2Ctelegram-gol621%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.215.58:2053
-vless://2ca42987-551b-4494-a854-da2d9178f4cd@172.67.132.209:2087?security=tls&sni=KxQhHtGc22.zImBa-zUlA.OrG&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.132.209:2087
-vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@181.214.1.138:443?security=tls&sni=v300.ylkszy.eu.org&type=ws&path=/?proxyip#🔒 VL-WS-TLS 🇦🇪 AE-181.214.1.138:443

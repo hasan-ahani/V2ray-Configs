@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@77.37.33.173:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇩🇪 DE-77.37.33.173:8443
+vless://13be7b64-8a46-4724-9cf2-4c7eddd4c56b@172.64.138.167:2096?security=tls&sni=sPeEd.vbox778.info.&type=grpc&fp=firefox&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.64.138.167:2096
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@103.20.199.180:59397?security=tls&sni=xin332.ylks.link&type=ws&path=/proxyip#🔒 VL-WS-TLS 🇯🇵 JP-103.20.199.180:59397
 vless://e6a047f0-734b-4bd7-82aa-367f2d88f4a4@172.67.223.175:443?security=tls&sni=httpstmev2rayvmessfree.raminramin006.workers.dev&type=ws&host=httpstmev2rayvmessfree.raminramin006.workers.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.223.175:443
 vless://97492659-ca83-489e-acd5-eeb598b3fc28@104.24.246.154:2083?security=tls&sni=salavati.globalnetchanell.site&type=grpc&serviceName=@global_net_vpn#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.24.246.154:2083
@@ -81,5 +83,3 @@ vless://25b45954-6209-48c2-a412-c568c8154cf0@104.21.67.95:2083?security=tls&sni=
 vless://ffcb16ff-bb76-48b3-a44c-06bdf35e8482@172.67.214.169:443?security=tls&sni=free.itsvpns.app&type=ws&host=free.itsvpns.app&path=%2Fwsfree&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.214.169:443
 vless://d5aae20c-a7be-416e-806b-70a21ad20f52@172.67.159.193:443?security=tls&sni=PPAL03.MIss-GonzaLO-hOEGEr.WorKeRs.DEV&type=ws&host=PPal03.misS-gOnZAlo-hoEGeR.WOrKERs.DEV&path=%2FJukua2PWR_aDc8iX%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.159.193:443
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.25.136:80?security=none&type=ws&host=us1.rtacg.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.25.136:80
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@192.210.231.33:18091?security=tls&sni=xin226.ylks.link&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-192.210.231.33:18091
-vless://01ab9337-f478-4765-9534-88f009f83ddb@47.237.81.112:2083?security=tls&sni=aut306.ylks.link&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇬 SG-47.237.81.112:2083

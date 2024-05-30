@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://5d19853b-93ed-4718-b228-2979cf38cc28@95.164.116.35:2003?security=tls&sni=tr-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇹🇷 TR-95.164.116.35:2003
+vless://593fa383-f4c3-47ec-88bd-33b65316f0cf@94.242.229.170:443?security=tls&sni=2222222222asas.in-case-jadid-mane-follow-nemikone-vali-fane.site&type=grpc&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🇱🇺 LU-94.242.229.170:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.2:8443?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.2:8443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.9.138:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=/?ed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.9.138:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.125.39:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.125.39:443
@@ -81,5 +83,3 @@ vless://00e5ad17-dbe6-432e-be8f-bcfe25922bbb@172.67.187.245:80?type=ws&host=sala
 vless://8fddcceb-a576-450e-824c-1394dcad0978@104.21.82.13:2053?security=tls&sni=promoapi.sensorpage.com&type=ws&host=promoapi.sensorpage.com&path=/G3iZEcY3hCvuTzAlEAJseJ96b&fp=firefox&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.82.13:2053
 vless://1ff59fad-6cc6-4714-82b1-d4af47de08eb@188.42.88.36:80?security=none&type=ws&host=DiReCt49-13-163-226.CleAnMaRk.IR&path=/DiReCt49-13-163-226-CleAnMaRk-IR#🔒 VL-WS-NONE 🇱🇺 LU-188.42.88.36:80
 vless://1bab0961-b22c-411f-b955-09c4aed2d2c1@23.227.39.158:443?security=tls&sni=fr1.hnkkt.top&type=ws&path=/gsjc/fr1#🔒 VL-WS-TLS 🇨🇦 CA-23.227.39.158:443
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.126:443?security=tls&sni=73FF2B24.bpb-PaNEl-B1Q.PaGes.dEv&type=ws&host=73fF2B24.bPB-PAnEl-B1Q.paGEs.dEv&path=%2FiXyGTa2hkso0v8lU%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.126:443
-vless://10699622-1b25-499c-a424-58f8f4dfb7f7@104.16.125.175:2083?security=tls&sni=id-falcunargo.sociy12386.workers.dev&type=ws&host=id-falcunargo.sociy12386.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.125.175:2083
