@@ -3,19 +3,15 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://telegram-id-directvpn@3.139.153.231:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇺🇸US | 🟢 | trojan | @DirectVPN | 4
-trojan://telegram-id-directvpn@3.99.110.205:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇨🇦CA | 🟢 | trojan | @DirectVPN | 5
-trojan://telegram-id-directvpn@35.183.146.34:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇨🇦CA | 🟢 | trojan | @DirectVPN | 6
-trojan://telegram-id-directvpn@54.228.142.185:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇮🇪IE | 🟢 | trojan | @DirectVPN | 7
-trojan://telegram-id-directvpn@63.34.168.207:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇮🇪IE | 🟢 | trojan | @DirectVPN | 8
-trojan://telegram-id-directvpn@18.133.66.243:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇬🇧GB | 🟢 | trojan | @DirectVPN | 9
-trojan://telegram-id-directvpn@13.41.166.52:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇬🇧GB | 🟢 | trojan | @DirectVPN | 10
-trojan://telegram-id-directvpn@35.181.232.66:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR | 🟢 | trojan | @DirectVPN | 11
-trojan://telegram-id-directvpn@13.37.41.215:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR | 🟢 | trojan | @DirectVPN | 12
-trojan://telegram-id-directvpn@13.49.248.238:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇸🇪SE | 🟢 | trojan | @DirectVPN | 13
-trojan://telegram-id-directvpn@16.171.201.148:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇸🇪SE | 🟢 | trojan | @DirectVPN | 14
-trojan://telegram-id-directvpn@35.156.143.15:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪DE | 🟢 | trojan | @DirectVPN | 15
-trojan://telegram-id-directvpn@3.73.110.210:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪DE | 🟢 | trojan | @DirectVPN | 16
+trojan://telegram-id-directvpn@3.99.110.205:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇨🇦CA | 🟢 | trojan | @DirectVPN | 7
+trojan://telegram-id-directvpn@35.183.146.34:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇨🇦CA | 🟢 | trojan | @DirectVPN | 8
+trojan://telegram-id-directvpn@54.228.142.185:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇮🇪IE | 🟢 | trojan | @DirectVPN | 9
+trojan://telegram-id-directvpn@63.34.168.207:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇮🇪IE | 🟢 | trojan | @DirectVPN | 10
+trojan://telegram-id-directvpn@18.133.66.243:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇬🇧GB | 🟢 | trojan | @DirectVPN | 11
+trojan://telegram-id-directvpn@13.41.166.52:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇬🇧GB | 🟢 | trojan | @DirectVPN | 12
+trojan://telegram-id-directvpn@35.181.232.66:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR | 🟢 | trojan | @DirectVPN | 13
+trojan://telegram-id-directvpn@13.37.41.215:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR | 🟢 | trojan | @DirectVPN | 14
+trojan://telegram-id-directvpn@13.49.248.238:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇸🇪SE | 🟢 | trojan | @DirectVPN | 15
 vmess://eyJhZGQiOiIxNDYuNTkuMTQ3LjI1MCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiI4MjQ0N2FiZi1kY2I5LTQwOGEtOWNhNi03OWUwYTc2OThkMDgiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI5Nzc2Iiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGViXHVkODNjXHVkZGY3RlIgfCBcdWQ4M2RcdWRmZTIgfCB2bWVzcyB8IEB2MnJheV9vdXRsaW5laXIgfCAwIn0=
 vmess://eyJ2IjoiMiIsImFkZCI6IjE4My4yMzIuMTk5LjI4IiwicG9ydCI6IjE1NjA1IiwiaWQiOiJhYWFhYWFhYS1hYWFhLWFhYWEtYWFhYS1kYWFhYWFhYWFhYWQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiJcLyIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJwcyI6Ilx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRmM0NOIHwgXHVkODNkXHVkZmUyIHwgdm1lc3MgfCBAbWZ0aXppIHwgMCJ9
 vmess://eyJ2IjoiMiIsImFkZCI6ImhrLndpc2gubWwiLCJwb3J0IjoiMjA1MiIsImlkIjoiYzI4NmRhYTItNTlkZS00NTVjLThkZTgtZWMwMzJiNmNlMmU4IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6ImhrMi53aXNoLm1sIiwicGF0aCI6IlwvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4VVMgfCBcdWQ4M2RcdWRmZTIgfCB2bWVzcyB8IEBtZnRpemkgfCA1In0=
@@ -80,6 +76,10 @@ vless://df471c1e-7f41-4fce-9a94-e63a53baaa80@162.159.135.232:8080?path=/melov2ra
 vless://Telegram-ipV2Ray-koe@185.146.173.58:80?path=/Telegram-ipV2Ray?ed=2048&security=none&encryption=none&host=2.V2ray.ftp.debian.org.www.speedtest.net.免费上网68.Site.&type=ws#🇸🇪SE | 🔴 | vless | @prrofile_purple | 160
 vmess://eyJhZGQiOiIxODUuMTQ2LjE3My45NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoieG4tLTA0N2guYWFhYS5tZXJvc2Fib3Jhbi5tb25zdGVyLiIsImlkIjoiMDc0OTQwMDMtMjQ1Ni00MWIwLTk5YzEtZTVhMThiNDA4MTFkIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9AbWVocm9zYWJvcmFuIiwicG9ydCI6IjgwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVhU0UgfCBcdWQ4M2RcdWRmZTIgfCB2bWVzcyB8IEBwcnJvZmlsZV9wdXJwbGUgfCAxNjMifQ==
 vless://Parsashonam-77@185.146.173.58:8080?path=/&security=none&encryption=none&host=Parsashonam.我们累了.tech.&type=ws#🇸🇪SE | 🔴 | vless | @prrofile_purple | 164
-vless://#TVCrwpdmvfced
+vless://#TVCbeqwlpkgkj
 vless://1f98b5cc-140f-46b4-987f-6936da9f2238@104.26.7.95:80?path=/?ed=2048&security=none&encryption=none&host=crxre.ribiwa9933.workers.dev&type=ws#🚩CF | 🔴 | vless | @prrofile_purple | 166
 vmess://eyJhZGQiOiIxODguMTE0Ljk3LjMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImRlMi52MnZtZXNzLnNpdGUiLCJpZCI6ImY4MTE3MjJmLTZhZWEtNGRkZS04ZjU2LWM2YWFhYWM4MjA1OSIsIm5ldCI6IndzIiwicGF0aCI6Ilwvdm1lc3MgQGhvcGV2MnJheSBlZD0yMDQ4IiwicG9ydCI6IjQ0MyIsInNjeSI6Im5vbmUiLCJzbmkiOiJkZTIudjJ2bWVzcy5zaXRlIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIiwicHMiOiJcdWQ4M2RcdWRlYTlDRiB8IFx1ZDgzZFx1ZGZlMiB8IHZtZXNzIHwgQHBycm9maWxlX3B1cnBsZSB8IDE2NyJ9
+vmess://eyJhZGQiOiIxODUuMTQ2LjE3My41NSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiRmkyLnZtZXNzLnNpdGUuIiwiaWQiOiI3ZDQ1NTAwMi02NDI3LTQ3NmUtYjdhMC00YmU0ZjJhZmE3MjEiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3ZtZXNzIiwicG9ydCI6IjgwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVhU0UgfCBcdWQ4M2RcdWRmZTIgfCB2bWVzcyB8IEBwcnJvZmlsZV9wdXJwbGUgfCAxNjgifQ==
+vless://Join-VPNCUSTOMIZE@join--vpncustomize.v2ray.re:8080?path=/Join--VPNCUSTOMIZE.V2ray.re?ed=8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#🇬🇧GB | 🔴 | vless | @prrofile_purple | 169
+vless://--MahanVPN-free@185.146.173.105:80?path=/?ed=2053&security=none&encryption=none&host=mahanv2raygmsix6.6.6.6.ir.com.site.列列男事的事列上赛男.setmedia.site.stn4.mahanmrz.ToP.&type=ws#🇸🇪SE | 🔴 | vless | @prrofile_purple | 170
+vless://a81b314c-3ab7-48d3-b8c0-584c89e5f616@104.16.54.150:80?path=/Telegram@Free_V2rng?ed=2048&security=none&encryption=none&host=xswa.kevani8800.workers.dev&type=ws#🚩CF | 🔴 | vless | @prrofile_purple | 171
