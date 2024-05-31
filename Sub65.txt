@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@156.225.72.49:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-156.225.72.49:443
-vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@194.152.44.220:443?security=tls&sni=v300.ylkszy.eu.org&type=ws&path=/?proxyip#🔒 VL-WS-TLS 🇳🇱 NL-194.152.44.220:443
 vless://696926f0-ffd8-5bc0-bebf-4db4e4260d64@172.67.177.17:2096?security=tls&sni=esetsecuritylicense.ybvmit.woRKErS.deV&type=ws&host=esetsecuritylicense.ybvmit.woRKErS.deV&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.177.17:2096
 vless://ef6746d5-d4c5-5092-9b7f-fbfd372446b3@172.67.147.10:2087?security=tls&sni=esetsecuritylicense.shsxucu.workeRS.Dev&type=ws&host=esetsecuritylicense.shsxucu.workeRS.Dev&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.147.10:2087
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@107.172.86.60:21072?security=tls&sni=hk022.ylks.link&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-107.172.86.60:21072
@@ -83,3 +81,5 @@ vless://678ac895-92c2-4f27-a9d4-f1a89c5f5365@91.195.110.131:2083?security=tls&sn
 vless://12822cde-491b-40b9-8301-814fc10b5547@188.114.96.163:2083?security=tls&sni=de1.v2vless.xyz&type=ws&host=de1.v2vless.xyz&path=%2Fvless#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.163:2083
 vless://8a89b27d-2564-4938-a9db-42e87c8ed0d9@104.18.22.185:80?security=none&type=ws&host=2.v2ray.debian.org.fxp.debian.org.speedtest.net.zula.ir.iranserver.com.らわなさらわ.isvphp.ir.&path=/vless#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.22.185:80
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@204.93.210.213:8443?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-204.93.210.213:8443
+vless://13be7b64-8a46-4724-9cf2-4c7eddd4c56b@162.159.133.148:2096?security=tls&sni=sPeEd.vbox778.info.&type=grpc&fp=firefox&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.133.148:2096
+vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@59.3.3.161:443?security=tls&sni=2022585a-86a7-4231-b3a0-eeda14f77f4d.8f18237c-8e5f-4ffb-a434-1b2948c87be3.ddnsfree.com&type=ws&path=%2Fpasge.pages.dev%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇰🇷 KR-59.3.3.161:443

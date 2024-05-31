@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://a46b6a32-e66e-49a2-a59c-e98663d27286@212.33.206.95:2305?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#🇮🇷IR | 🔴 | vless | @flyv2ray | 15
-vless://df31dad5-9cda-4fa1-a846-3b52da26e14d@hami.partk.top:47148?type=tcp&path=/&host=divarcdn.com&headerType=http&security=none#🇮🇷IR | 🔴 | vless | @iP_CF | 2
 vless://ad6c5e94-a7fc-4ecf-9ed5-2856a489c807@45.63.119.103:2053?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=xyz&sni=discordapp.com#🇩🇪DE | 🔴 | vless | @iP_CF | 4
 trojan://trojan@185.146.173.94:80?path=/?ed=2560&security=none&host=freevpn.ahadadi796.workers.dev&type=ws#🇸🇪SE | 🔴 | trojan | @iP_CF | 5
 vless://1c06b6c9-d762-4092-a876-a5e6dd9ff85f@188.114.96.2:2087?path=/@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-@LiV2ray?ed=1024&security=tls&encryption=none&alpn=h2,http/1.1&host=LiV2raya.yoyoyo.ir&fp=chrome&type=ws&sni=LiV2raya.yoyoyo.ir#🚩CF | 🔴 | vless | @mehrosaboran | 0
@@ -83,3 +81,5 @@ vless://8d13529a-e8ac-4f9f-941b-06696630f7a7@wgap.mesalzadani.pw:44123?type=grpc
 vless://7cdafc2a-4a20-4af8-9f4f-ceab1d695321@172.234.120.167:2053?type=grpc&serviceName=&authority=&security=none#🇸🇪SE | 🔴 | vless | @raze_vpn | 8
 vless://a2359222-1ba4-4362-a4bc-ec678a3e7326@us-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Vless%20WS%20@V2rayStore
 vless://1f9bdc4c-b45f-425e-bc14-20fbefc5ee74@us2-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Vless%20WS%20@V2rayStore
+vless://5d19853b-93ed-4718-b228-2979cf38cc28@tr-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20Vless%20WS%20@V2rayStore
+vless://dd6688db-9ea8-4cb2-bc97-78af94f82081@kz-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20Vless%20WS%20@V2rayStore

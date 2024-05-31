@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://85b3672b-f7a2-4f29-9237-035e2ce47939@141.105.130.94:54674?security=none&type=tcp&host=fast.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇺🇦 UA-141.105.130.94:54674
-vless://8ceac519-7b18-47a5-b53e-d37ba318b0aa@172.66.47.185:443?security=tls&sni=c1c569fc.irani-eub.pages.dev&type=ws&host=c1c569fc.irani-eub.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.185:443
 vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.210.133:8919?type=tcp&serviceName=-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any&host=varzesh3.com&path=/&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-62.60.210.133:8919
 vless://35d6705e-044e-40fa-8864-0e2d647c70f7@167.71.209.134:14836?security=none&type=ws&host=android.googleapis.com&path=%2F#🔒 VL-WS-NONE 🇸🇬 SG-167.71.209.134:14836
 vless://5795e1cb-a420-43ac-98df-61328394395c@103.184.44.89:8880?security=none&type=ws&host=xn---qhantayawi--b-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.lightning6.xyz.&path=/@LIGHTNING6,+@LIGHTNING6,+@LIGHTNING6,+@LIGHTNING6,@LIGHTNING6,@LIGHTNING6,@LIGHTNING6,@LIGHTNING6#🔒 VL-WS-NONE 🇨🇳 CN-103.184.44.89:8880
@@ -83,3 +81,5 @@ vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@141.11.202.210:2083?security=tls&sn
 vless://60d7155a-ed19-4287-88d1-4619f6f88089@104.31.16.17:443?security=tls&sni=dl1.spikevpn.cfd&type=grpc&serviceName=@spikevpn&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.31.16.17:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.64.35.70:443?security=tls&sni=worker-noisy-salad-00fe.geloyit451.workers.Dev&type=ws&host=worker-noisy-salad-00fe.geloyit451.workers.Dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.35.70:443
 vless://ffea89e6-3d42-4714-90e8-73be6ce45111@104.26.4.57:443?security=tls&sni=vps-aby.pages.dev&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.4.57:443
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@147.78.140.242:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇧🇬 BG-147.78.140.242:443
+vless://f478a594-5882-4713-bfdc-80c3e9345bd1@146.75.73.60:80?security=none&type=ws&host=dailyconfigs.com#🔒 VL-WS-NONE 🇬🇧 GB-146.75.73.60:80
