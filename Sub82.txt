@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@130.162.228.148:443?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org#🔒 VL-WS-TLS 🇩🇪 DE-130.162.228.148:443
+vless://f047f640-7345-470b-a312-eed16247a8c5@185.146.173.94:2087?security=tls&sni=allnet.deragv2ray.net&type=grpc&serviceName=@DeragNet&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🇸🇪 SE-185.146.173.94:2087
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@129.154.223.89:15800?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇰🇷 KR-129.154.223.89:15800
+vless://308d0488-0230-4f92-9e9f-978a3583434a@95.38.155.212:2096?type=ws&host=bulgtn.private-server.host&path=/#🔒 VL-WS-NA 🇮🇷 IR-95.38.155.212:2096
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.25.44.33:443?security=tls&sni=3k.pureboy.eu.org&type=ws&host=3k.pureboy.eu.org#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.44.33:443
 vless://3575d763-5557-4f01-baec-1a6fc5c5f58f@172.66.47.158:80?security=none&type=ws&host=GGO5Ho.dIVaR.prO&path=/backup#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.47.158:80
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@45.133.247.151:443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇸🇨 SC-45.133.247.151:443
@@ -79,7 +83,3 @@ vless://9f327269-04b8-4288-a5c3-4536136674e4@162.159.153.2:2052?security=none&ty
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.171.70:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.171.70:80
 vless://6e569c43-f7e6-4ab7-b3a7-f616a39ff6a1@104.21.70.11:8080?security=none&type=ws&host=dw.huondadalioshop.ir#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.70.11:8080
 vless://b48ee0fe-db2c-4e32-9d57-ac70c88ffa8d@104.21.95.147:2053?security=tls&sni=t5.funlifea.shop&type=grpc&fp=chrome&alpn=http/1.1,h2,h3#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.95.147:2053
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@138.2.61.180:443?security=tls&sni=hk331.ylks.link&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇯🇵 JP-138.2.61.180:443
-vless://920d0e13-fdd0-4a36-a044-a9086f123d7b@172.66.47.191:443?security=tls&sni=b4a3567c.servernett.pages.dev&type=ws&host=b4a3567c.servernett.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.191:443
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@47.236.174.206:2096?security=tls&sni=jd.wxgqlfx.top&type=ws&path=/?ed#🔒 VL-WS-TLS 🇸🇬 SG-47.236.174.206:2096
-vless://ebf043a0-76f0-4194-a93f-e9c8c10fb662@104.23.99.63:80?security=none&type=ws&host=rayanconf.irayanconfig.ir#🔒 VL-WS-NONE 🏴‍☠️ NA-104.23.99.63:80
