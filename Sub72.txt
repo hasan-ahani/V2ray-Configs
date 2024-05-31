@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.192.144:443?security=tls&sni=GOV.UK&type=ws&host=k.kp&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-151.101.192.144:443
+vless://266169d9-665f-4fed-b1a8-da29794ee3cd@172.67.202.140:2083?security=tls&sni=berovps.masoodbiranvand-230.workers.dev&type=ws&host=berovps.masoodbiranvand-230.workers.dev&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.202.140:2083
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@27.50.49.232:8443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇸🇬 SG-27.50.49.232:8443
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@47.236.93.176:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇬 SG-47.236.93.176:8443
 vless://8ae7ba42-91ba-4831-8f8e-c26a5867778b@185.146.173.185:8443?security=tls&sni=im.jomong.space&type=grpc&serviceName=Tel%3A+%40NT_Safe&fp=chrome#🔒 VL-GRPC-TLS 🇸🇪 SE-185.146.173.185:8443
@@ -81,5 +83,3 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@170.114.45.231:443?security=tls&sni
 vless://947391e1-408e-4ba2-8a56-05cd972082e5@104.17.182.61:8443?security=tls&sni=ri.aminivip2023.site&type=ws&host=ri.aminivip2023.site&path=/V2zed&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.182.61:8443
 vless://87d637da-eec2-4563-986f-d4c6501734ed@104.19.125.91:2087?security=tls&sni=virapn-t-3be7883659a1d2ba4c545dfdf85b61eda1.asiatechnicalwest.ir.&type=grpc&serviceName=@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN&fp=firefox&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.19.125.91:2087
 vless://696926f0-ffd8-5bc0-bebf-4db4e4260d64@172.67.177.17:8443?security=tls&sni=esetsecuritylicense.ybvmit.wOrKeRs.Dev&type=ws&host=esetsecuritylicense.ybvmit.wOrKeRs.Dev&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.177.17:8443
-vless://10716279-b1ee-41d8-b63e-87782088305b@190.93.244.18:443?security=tls&sni=MamAne-FiLTerCHi.pageS.DEV&type=ws&path=%2Fb6UrlUHh79QzoYvF%3Fed&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.244.18:443
-vless://61817e64-10ca-47be-97e8-9d6ff6aa2a5d@172.67.147.142:443?security=tls&sni=rsfrndc.foriran.trade&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.147.142:443
