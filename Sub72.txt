@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.21.76.195:443?security=tls&sni=kk022.ylks.link&type=ws&path=%2Fyoutube-%E7%94%B1%E9%9B%B6%E9%96%8B%E5%A7%8B#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.76.195:443
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.163.230:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.163.230:80
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.235.128:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.235.128:80
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@172.67.70.191:2083?security=tls&sni=jp306.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.70.191:2083
-vless://01ab9337-f478-4765-9534-88f009f83ddb@47.236.205.188:2053?security=tls&sni=aut331.ylks.link&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇬 SG-47.236.205.188:2053
 vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.44.163:443?security=tls&sni=ghazal7799.pages.dev&type=ws&host=ghazal7799.pages.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.163:443
 vless://7e333f65-09bc-4ecb-bb47-b9e9aead2742@162.159.130.234:2096?security=tls&sni=re4.v2logy.xyz&type=grpc&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.130.234:2096
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@150.230.63.93:443?security=tls&sni=v331.ylks.link&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇯🇵 JP-150.230.63.93:443
@@ -83,3 +78,8 @@ vless://94de0d76-92ea-491e-ada3-d834cfa5f668@172.67.140.36:2087?security=tls&sni
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@172.67.159.117:443?security=tls&sni=v300.ylkszy.eu.org&type=ws&path=/?proxyip#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.159.117:443
 vless://7599245e-0605-4365-ae29-6027e5312b76@104.21.81.200:443?security=tls&sni=uiranir-uciranir-uiranir-uciranir-uciranir-uciranir-uciranir.mavas55027.workers.dev&type=ws&host=uiranir-uciranir-uiranir-uciranir-uciranir-uciranir-uciranir.mavas55027.workers.dev&path=%2F-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR%2F%3Fed%3D2047&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.81.200:443
 vless://09eb936a-6a4c-4a07-92b8-cd27712fc4c3@104.18.254.78:80?security=none&type=ws&host=telegram-vpnhttpinjectorfree-9.veleh14860.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.254.78:80
+vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.49.133:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.49.133:443
+vless://02e75d78-58ad-4a73-afca-24b781d8fd12@104.16.124.14:8443?security=tls&sni=Isa.kasler.sbs&type=grpc&serviceName=کانال+@ev2rayy&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.124.14:8443
+vless://4ebbfaa6-7c73-431e-9ca7-e5704b60babd@49.13.225.84:2096?security=none&type=tcp#🔒 VL-TCP-NONE 🇩🇪 DE-49.13.225.84:2096
+vless://7f3b1947-b67a-46b5-b8d2-c5cedde0a389@178.239.154.144:2040?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-178.239.154.144:2040
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@103.44.255.27:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇨🇳 CN-103.44.255.27:443
