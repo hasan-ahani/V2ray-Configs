@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://0fdc0235-0055-4203-a66f-f29e7e663d10@172.66.44.147:443?security=tls&sni=tnetplus3.pages.dev&type=ws&host=tnetplus3.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.147:443
+vless://3fd97eba-2517-4011-8bc3-50356388cf91@85.158.145.202:2083?security=tls&sni=Panel.amazonwashop2.top&type=grpc&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🇳🇱 NL-85.158.145.202:2083
 vless://fb301d2e-4430-4b41-95d6-764460b8ef13@193.9.49.40:2053?security=tls&sni=9b56CFEe5b258C44c45bA18FA122293.mIToweAr.cOm&type=grpc#🔒 VL-GRPC-TLS 🇷🇺 RU-193.9.49.40:2053
 vless://9d272efb-7bc6-4124-b15b-b088e374cb0b@172.67.147.79:8443?security=tls&sni=Hot_V2Ry.tahrim-shekan.space&type=ws&host=Hot_V2Ry.tahrim-shekan.space&path=/&fp=chrome&alpn=http/1.1,h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.147.79:8443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.212:8443?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.212:8443
@@ -81,5 +83,3 @@ vless://ffea89e6-3d42-4714-90e8-73be6ce45111@103.184.45.68:443?security=tls&sni=
 vless://696926f0-ffd8-5bc0-bebf-4db4e4260d64@104.21.17.156:2083?security=tls&sni=esetsecuritylicense.ybvmit.WoRKERS.DeV&type=ws&host=esetsecuritylicense.ybvmit.WoRKERS.DeV&path=vless-ws%2F%3Fed%3D2048&fp=ios&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.17.156:2083
 vless://44ab0683-1a75-4859-88ce-ef9ffea53c91@172.67.195.126:8880?security=none&type=ws&host=falcunargo-telegram.384f2ed785.workers.Dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.195.126:8880
 vless://29f00915-4107-491d-ba71-c9328e845a00@104.18.202.209:80?type=grpc&serviceName=Telegram#🔒 VL-GRPC-NA 🏴‍☠️ NA-104.18.202.209:80
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.132:443?security=tls&sni=mahDISerVer-Bb0.PAgES.dev&type=ws&host=MaHdiSERVEr-bB0.pAgES.deV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.132:443
-vless://5b99e071-49ca-456f-ab88-47431abd04fa@104.21.75.149:443?security=tls&sni=ch1.melobigg.site&type=ws&path=/melov2ray&fp=chrome&alpn=http/1.1,h2&allowInsecure=false#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.75.149:443

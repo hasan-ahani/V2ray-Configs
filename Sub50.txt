@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://ffea89e6-3d42-4714-90e8-73be6ce45111@103.184.44.188:443?security=tls&sni=vps-aby.pages.dev&type=ws&path=%2F%3Fed&fp=randomized#🔒 VL-WS-TLS 🇨🇳 CN-103.184.44.188:443
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.80.111.8:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇩🇪 DE-45.80.111.8:443
 vless://823adabe-a404-4683-99bf-9f49e36bd111@104.21.75.79:443?security=tls&sni=ch1-vless.sshmax.xyz&type=ws&host=ch1-vless.sshmax.xyz&path=%2Fvless#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.75.79:443
 vless://4c03d139-631b-41dd-be68-933c3df0d7c2@162.159.9.55:443?security=tls&sni=qifei2024.dns.army&type=ws&host=qifei2024.dns.army#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.9.55:443
 vless://d8010195-c7dd-4073-9f22-0baef7ba0b9d@23.227.38.20:80?security=none&type=httpupgrade&host=O70lpIHab4.takreal.ir&path=%2FJfDhd3XZsdZ97Ign#🔒 VL-HTTPUPGRADE-NONE 🇨🇦 CA-23.227.38.20:80
@@ -81,5 +83,3 @@ vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@172.67.165.191:443?security=tls&sni
 vless://f4cec6cc-6177-423c-90f8-2ad9f0dd996b@172.67.193.36:2096?security=tls&sni=vpnct.arvancode.eu.org&type=ws&host=vpnct.arvancode.eu.org&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.193.36:2096
 vless://13be7b64-8a46-4724-9cf2-4c7eddd4c56b@104.18.254.25:2096?security=tls&sni=sPeEd.vbox778.info.&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.254.25:2096
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@45.85.119.23:443?security=tls&sni=v300.ylkszy.eu.org&type=ws&path=/?proxyip#🔒 VL-WS-TLS 🇷🇴 RO-45.85.119.23:443
-vless://ff8ad9f7-8d85-4b0e-8e9b-392ba6121414@172.67.198.146:2083?security=tls&sni=napsternetv2-napsternetv2.qqphsj.workers.dev&type=ws&host=napsternetv2-napsternetv2.qqphsj.workers.dev&path=vless-ws%2F%3Fed%3D2048&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.198.146:2083
-vless://fb301d2e-4430-4b41-95d6-764460b8ef13@141.193.213.247:2053?security=tls&sni=9b56CFEe5b258C44c45bA18FA122293.mIToweAr.cOm&type=grpc#🔒 VL-GRPC-TLS 🇺🇸 US-141.193.213.247:2053

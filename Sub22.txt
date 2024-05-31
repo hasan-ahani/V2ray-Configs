@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://d7beb6e4-67ad-478b-8ea9-9848fd388ccd@95.179.188.108:32452?security=reality&sni=dash.cloudflare.com&type=grpc&serviceName=%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar&fp=chrome&pbk=9Sdypj1V70mtPCbNw6IlVyIiUEvoOdDVc0YA5ejArXc&sid=9e3596a8#🔒 VL-GRPC-RLT 🇳🇱 NL-95.179.188.108:32452
+vless://ee1a92a0-936a-449a-bbe5-060ecfc057ea@128.140.78.78:443?security=reality&flow=xtls-rprx-vision&sni=direct.playstation.com&type=tcp&fp=chrome&pbk=SF3Hh2nJngYLNMf9_4gs045vCKpKu_0g3EogBDl0zj0&sid=016796fc#🔒 VL-TCP-RLT 🇩🇪 DE-128.140.78.78:443
 vless://0309b215-5f95-4165-a603-5be7373efb8d@45.76.38.124:12310?security=reality&sni=wordpress.org&type=grpc&serviceName=%2FV2ray.@seyyedmT-@seyyedmT-@seyyedmT-@seyyedmT-@seyyedmT&fp=safari&pbk=22e-AZYxT-QhU2obecAwTLl_s2juJsafKtfm33t6KUk&sid=6be94a87#🔒 VL-GRPC-RLT 🇳🇱 NL-45.76.38.124:12310
 vless://85399fea-2ee3-51b5-ad4e-d8b78a2cf1d9@157.90.145.163:443?security=reality&flow=xtls-rprx-vision-udp443&sni=www.speedtest.net&type=tcp&fp=chrome&pbk=9D4FoKRukUuWRV8jx5ya5HHTmKC4sYH2Tk5RGWjGSmI&sid=ce#🔒 VL-TCP-RLT 🇩🇪 DE-157.90.145.163:443
 vless://1ef15fed-e6e2-65ec-9ee2-cdea715545bb@178.33.115.124:443?security=reality&sni=panel.licensesara.com&type=grpc&serviceName=xyz&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒 VL-GRPC-RLT 🇪🇸 ES-178.33.115.124:443
@@ -81,5 +83,3 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.21.76.195:2087?security=tls&sni
 vless://8d7405ca-200e-4d0b-8d87-5a30011376bb@104.31.16.61:443?security=tls&sni=free.forcedparadise.store&type=grpc&serviceName=@P_tech2024&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.31.16.61:443
 vless://c57db8e2-555e-4c48-b262-ec20b4ae6a50@172.67.178.69:443?security=tls&sni=selinc--3--3--3--selinc.eubda.workers.dev&type=ws&host=selinc--3--3--3--selinc.eubda.workers.dev&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.178.69:443
 vless://dd5a38d3-71a0-4f22-8693-bad730adbd0b@162.159.7.247:443?security=tls&sni=sky.ararat3d.com&type=ws&host=sKy.ARaraT3d.cOm.&path=/&fp=chrome&alpn=http/1.1,h2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.7.247:443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@185.176.24.64:443?security=tls&sni=zdy222.kpcloud.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇷🇺 RU-185.176.24.64:443
-vless://d6f79630-aa94-4536-b2ef-899b5acb3b49@104.21.34.74:443?security=tls&sni=unmanliest.appreviewcenter.com&type=ws&host=unmanliest.appreviewcenter.com&path=%2Fnimws#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.34.74:443

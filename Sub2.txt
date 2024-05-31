@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://_VPNCUSTOMIZE_@188.114.98.224:8080?path=/Join--VPNCUSTOMIZE.V2ray.re?ed=8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#🚩CF | 🔴 | vless | @VPNCUSTOMIZE | 1
-vless://_VPNCUSTOMIZE_@ww.ninjacdn.org.:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=@VPNCUSTOMIZE#🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 2
-vless://_VPNCUSTOMIZE_@Join--VPNCUSTOMIZE.V2ray.re:8080?path=/Join--VPNCUSTOMIZE.V2ray.re?ed=8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#🇩🇪DE | 🔴 | vless | @VPNCUSTOMIZE | 3
 vless://MCI@ww.ninjacdn.org.:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=@VPNCUSTOMIZE#🇨🇦CA | 🔴 | vless | @VPNCUSTOMIZE | 4
 vless://ff49a775-a816-4d46-b07c-30645642e5e2@188.114.98.224:8080?path=/Join--VPNCUSTOMIZE.V2ray.re?ed=8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#🚩CF | 🔴 | vless | @VPNCUSTOMIZE | 7
 vless://ff49a775-a816-4d46-b07c-30645642e5e2@VPNCUSTOMIZE.Elmahstyle.ir:8080?path=/Join--VPNCUSTOMIZE.V2ray.re?ed=8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#🇸🇪SE | 🔴 | vless | @VPNCUSTOMIZE | 8
@@ -41,7 +38,7 @@ vless://55797df0-89fd-4bd6-a3d4-348664783f90@chat.openai.com:8080?type=ws&path=/
 vless://55797df0-89fd-4bd6-a3d4-348664783f90@www.visa.com:8080?host=ch1.dontbow.store.&path=/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray&security=none&type=ws#🇺🇸US | 🔴 | vless | @melov2ray | 3
 vless://3fd6b8ec-5adf-4e55-87ca-ccef63a86ba7@discord.com:8080?type=ws&path=/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray&host=de2.过滤器.store.&security=none#🇺🇸US | 🔴 | vless | @melov2ray | 4
 vless://3fd6b8ec-5adf-4e55-87ca-ccef63a86ba7@185.146.173.134:8080?host=ch2.dontbow.store.&path=/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray&security=none&type=ws#🇸🇪SE | 🔴 | vless | @melov2ray | 5
-vless://afe17092-2377-4e04-9bba-ef04012102db@chat.openai.com:8080?type=ws&path=/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray&host=de.过滤器.store.&security=none#🇺🇸US | 🔴 | vless | @melov2ray | 6
+vless://afe17092-2377-4e04-9bba-ef04012102db@chat.openai.com:8080?type=ws&path=/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray&host=de.过滤器.store.&security=none#🇨🇦CA | 🔴 | vless | @melov2ray | 6
 vless://afe17092-2377-4e04-9bba-ef04012102db@www.visa.com:8080?host=ch1.dontbow.store.&path=/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray&security=none&type=ws#🇺🇸US | 🔴 | vless | @melov2ray | 7
 vless://0f129e55-b1ce-4e11-8519-6cf24ab907ee@all.msv2ray.online:443?type=ws&host=ss.st1lol.ir.&path=/Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia&security=tls&fp=chrome&sni=ss.st1lol.ir&alpn=http/1.1#🇺🇸US | 🔴 | vless | @V2pedia | 1
 vless://d6091385-7749-4c57-ae5c-8e4d56ed1208@arpc.mashti.link:80?type=ws&host=2.V2ray.debian.org.fxp.debian.org.speedtest.net.らわなさらわ.st1lol.ir.&path=/Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia&security=none#🇸🇪SE | 🔴 | vless | @V2pedia | 2
@@ -83,3 +80,6 @@ vless://4a1ff889-5836-4b5c-9cbc-42239833ce40@185.146.173.9:2095?path=/&security=
 vless://2678dc7c-3d0b-4370-9615-eeecc2317cc4@V.telegramchanneljoinbede.com.:443?type=grpc&mode=gun&serviceName=@Shh_Proxy,@Shh_Proxy&security=tls&alpn=http/1.1,h2#🇺🇸US | 🔴 | vless | @shh_proxy | 5
 vless://1842492b-0245-4835-9b6f-d47d0d2cdba1@185.146.173.94:2095?path=/&security=none&encryption=none&host=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&type=ws#🇸🇪SE | 🔴 | vless | @shh_proxy | 6
 vless://9c620d16-004c-423f-a853-e2d97488c326@V.telegramchanneljoinbede.com.:443?type=grpc&serviceName=&security=tls&fp=&alpn=http/1.1,h2#🇺🇸US | 🔴 | vless | @shh_proxy | 8
+vless://292b70d5-de7a-4ff9-9269-244906102624@185.146.173.9:2095?path=/&security=none&encryption=none&host=V2ray-_-_-_-_-_ShhProxy.TelegramChannelJoinBede.com.&type=ws#🇸🇪SE | 🔴 | vless | @shh_proxy | 9
+vless://62598170-06f5-4f3f-b346-0847732e45fb@185.146.173.94:2095?path=/&security=none&encryption=none&host=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&type=ws#🇸🇪SE | 🔴 | vless | @shh_proxy | 10
+vless://92e11a39-1b06-442d-a193-720ebc0c0463@185.146.173.94:2095?path=/&security=none&encryption=none&host=V2ray-_-_-_-_-_ShhProxy.TelegramChannelJoinBede.com.&type=ws#🇸🇪SE | 🔴 | vless | @shh_proxy | 12

@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@1.221.115.142:29133?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇰🇷 KR-1.221.115.142:29133
+vless://53b0dad9-104a-4d39-95d5-8d7124c6541c@104.18.21.135:443?security=tls&sni=irancloidflare.pages.dev&type=ws&host=irancloidflare.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.21.135:443
 vless://3bdb2fe3-ab05-4548-8af6-d6e9113c3fb2@104.21.83.212:2083?security=tls&sni=hamrah-aval-irancell-raitel.wwdpyn.workers.dev&type=ws&host=hamrah-aval-irancell-raitel.wwdpyn.workers.dev&path=vless-ws%2F%3Fed%3D2048&fp=ios&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.83.212:2083
 vless://d6f79630-aa94-4536-b2ef-899b5acb3b49@104.16.68.38:8880?type=ws&host=vless-sub.n7p8ri7j.workers.dev&path=%2Funmanliest.appreviewcenter.com%2Fnimws#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.68.38:8880
 vless://fcf414f7-38ac-49dc-8227-d75d94c35476@151.101.169.57:443?security=tls&sni=fastly.com&type=ws&host=v2rayrolly.com&path=/Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly#🔒 VL-WS-TLS 🇺🇸 US-151.101.169.57:443
@@ -81,5 +83,3 @@ vless://6e569c43-f7e6-4ab7-b3a7-f616a39ff6a1@104.21.70.11:8080?security=none&typ
 vless://7ac39a71-e678-4621-80bc-a0fc38866d17@172.66.47.171:443?security=tls&sni=pardazeshvpn-tg95.pages.dev&type=ws&host=pardazeshvpn-tg95.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.171:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@193.123.239.18:49248?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🔒 VL-WS-TLS 🇰🇷 KR-193.123.239.18:49248
 vless://d360d11e-d426-4583-b55e-524ab1f0afa9@104.26.4.60:2096?security=tls&sni=worker-gentle-waterfall-6de8.tigerhungry4.workers.dev&type=ws&host=worker-gentle-waterfall-6de8.tigerhungry4.workers.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.4.60:2096
-vless://e1876870-0f4c-11ef-a747-1239d0255272@23.158.72.133:80?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇺🇸 US-23.158.72.133:80
-vless://a079019f-cc54-4440-ac1b-8e98bc55191e@79.175.162.196:35964?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-79.175.162.196:35964

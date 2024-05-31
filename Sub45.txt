@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://d78497b1-5298-4337-852f-fe38ac6a9222@13.87.92.42:443?security=tls&sni=cdn.hinata.ir&type=ws&path=%2F#🔒 VL-WS-TLS 🇬🇧 GB-13.87.92.42:443
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@192.18.150.121:443?security=tls&sni=xin222.ylks.link&type=ws&path=/blue#🔒 VL-WS-TLS 🇨🇦 CA-192.18.150.121:443
 vless://10699622-1b25-499c-a424-58f8f4dfb7f7@104.17.245.203:2083?security=tls&sni=id-falcunargo.sociy12386.workers.dev&type=ws&host=id-falcunargo.sociy12386.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.245.203:2083
 vless://7624e3f2-889b-4b0b-82df-a3269e549be9@104.27.4.11:8080?security=none&type=ws&host=dailyconfigs.v2ray.mihanyas.ir.mbj.farsroid.com.vigilantecollection.com.&path=/Telegram---Daily_Configs---Daily_Configs---Telegram---Daily_Configs---Daily_Configs#🔒 VL-WS-NONE 🏴‍☠️ NA-104.27.4.11:8080
 vless://9e67f15c-178f-494c-a843-f371e3b3fa5d@172.67.131.93:8080?security=none&sni=king1980.b91sptsl.workers.dev&type=ws&host=king1980.b91sptsl.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.131.93:8080
@@ -81,5 +83,3 @@ vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@8.219.42.72:2096?security=tls&sni=3
 vless://075a365b-b0c7-4ba3-b5a6-597850c223f9@104.16.24.34:8880?security=none&type=ws&host=sinaazizpor.wapgiz.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.24.34:8880
 vless://9e966c38-3460-40d6-b18f-9a118808de8f@94.242.231.46:80?security=none&type=ws&host=tj.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&path=%2FZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEONZEDMODEON#🔒 VL-WS-NONE 🇱🇺 LU-94.242.231.46:80
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@8.219.42.72:80?security=none&type=ws&path=/blue#🔒 VL-WS-NONE 🇸🇬 SG-8.219.42.72:80
-vless://3f266d25-21aa-4498-bb1a-ce6d1d327aaf@172.67.199.23:443?security=tls&sni=freedom14.geraxex389.workers.dev&type=ws&host=freedom14.geraxex389.workers.dev&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.199.23:443
-vless://919ed879-a2ae-4425-cd17-80ab84cdd7d7@203.32.121.53:2087?security=tls&sni=des.pablovpn.pw&type=grpc#🔒 VL-GRPC-TLS 🇻🇬 VG-203.32.121.53:2087

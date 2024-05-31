@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://7d370c34-bcec-4cff-a39b-518bc0ab4854@162.159.141.116:443?security=tls&sni=zac1.striside.com&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.141.116:443
+vless://01ab9337-f478-4765-9534-88f009f83ddb@47.237.14.220:2053?security=tls&sni=aut331.ylks.link&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇬 SG-47.237.14.220:2053
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@77.37.33.9:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇩🇪 DE-77.37.33.9:8443
 vless://6bb60db8-2251-482d-bdef-73f3fab3cd7a@104.16.238.68:80?security=none&type=ws&host=%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B7%E4%BE%AFfreerxteamirteamop.rxteam.tech.&path=%2F%3Fed%3D2053#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.238.68:80
 vless://ab26f44d-72c4-4028-a9b8-580585316b4f@104.18.27.94:80?security=none&type=ws&host=esetsecuritylicense.ipevnfj.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.27.94:80
@@ -81,5 +83,3 @@ vless://8a89b27d-2564-4938-a9db-42e87c8ed0d9@104.18.23.185:80?security=none&type
 vless://69d22fb3-7bd5-422c-8a85-69f3845dc2c9@65.109.205.184:8080?security=none&type=tcp#🔒 VL-TCP-NONE 🇫🇮 FI-65.109.205.184:8080
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.22.77:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.22.77:80
 vless://01ab9337-f478-4765-9534-88f009f83ddb@47.237.100.206:2083?security=tls&sni=aut306.ylks.link&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇬 SG-47.237.100.206:2083
-vless://fd1a257d-4de1-4bfb-92df-ed83c26de348@104.18.202.232:8080?security=none&type=ws&host=.V2ray.Community.&path=/Join--.V2ray.re#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.202.232:8080
-vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@172.66.47.123:443?security=tls&sni=BIA-PaIN-BAcHe.pAGeS.deV&type=ws&host=bIA-pAiN-BaCHE.paGeS.DeV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.123:443
