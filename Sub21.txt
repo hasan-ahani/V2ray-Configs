@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://c584aa40-feab-415f-9917-885993ac60d0@190.93.246.241:8080?security=reality&sni=bia-to.code-v2.cfd&type=grpc&serviceName=@V2ray_Alpha&fp=chrome&pbk=o9ZHbcwSXSoc_8qYCy19iFR27lyTDbypcMKsaHkM3Go&allowInsecure=1#🔒 VL-GRPC-RLT 🏴‍☠️ NA-190.93.246.241:8080
+vless://3def451a-6ce2-4275-9be0-39ab01a39b07@188.119.113.68:8443?security=reality&sni=172.67.173.11&type=tcp&host=nl1.x2fast.net&path=/http&headerType=http&fp=chrome&pbk=iOq9XFgvr8uyenRX9HUNjxrDpWVmfadlLcTZGXX0m0k&sid=836a980ffcbd9a64#🔒 VL-TCP-RLT 🇳🇱 NL-188.119.113.68:8443
 vless://b0753dbe-6187-4d7f-8931-4c0d1a975104@[::ffff:5fa4:243b]:2096?security=reality&flow=xtls-rprx-vision&sni=104.21.70.42&type=tcp&fp=chrome&pbk=Iqqixc1Fcq2knbl1IbuKOHuZn2QDQIgri2J1acmDuTw&sid=bbe1ba3d62f09e09#🔒 VL-TCP-RLT 🇦🇹 AT-[::ffff:5fa4:243b]:2096
 vless://b60431bb-df0c-45e7-adee-89e1e55201b5@45.33.101.184:443?security=reality&flow=xtls-rprx-vision&sni=www.speedtest.net&type=tcp&fp=chrome&pbk=Lp-TWm_9jWbuzIAGdNO4xYFwHRXBKcmONlXpu1HEwXc&sid=666db971#🔒 VL-TCP-RLT 🇺🇸 US-45.33.101.184:443
 vless://365af793-f099-4325-ac30-d433d22a6dba@54.37.64.98:8443?security=reality&flow=xtls-rprx-vision&sni=discordapp.com&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒 VL-TCP-RLT 🇫🇷 FR-54.37.64.98:8443
@@ -81,5 +83,3 @@ vless://ecac94b8-b67f-470c-d1e7-4472dab1a3a7@23.174.200.123:38396?security=reali
 vless://446df392-9de3-43f6-ebf0-8ba0f9d9f82f@38.181.70.15:443?security=reality&flow=xtls-rprx-vision&sni=446df392.com&type=tcp&fp=chrome&pbk=Z3ZGnAOdKkzJ07gR_7_0k9_iTTFP6paDOrqx1rN2LU4#🔒 VL-TCP-RLT 🇸🇬 SG-38.181.70.15:443
 vless://4e4822a1-9db0-42ef-abdf-d87133425a5c@135.181.151.143:443?security=reality&sni=serwus.net&type=grpc&serviceName=Channel---Telegram---ZED_VPN---ZED_VPN---Telegram---ZED_VPN---ZED_VPN---Telegram---ZED_VPN---ZED_VPN&fp=chrome&pbk=K_ud1ATa-ff70uTk82NPWUxKSt5EL797ya-BJUPVwEg&sid=dcb98a49#🔒 VL-GRPC-RLT 🇫🇮 FI-135.181.151.143:443
 vless://eefcf749-fcfc-4321-b974-2828d4acb15c@185.142.238.222:443?security=reality&flow=xtls-rprx-vision&sni=guerrilla-games.com&type=tcp&fp=chrome&pbk=imTeVCUujulNZ2LJNaZrWlOGcN0tgm0km15N8jc55j4&sid=dcd651ed#🔒 VL-TCP-RLT 🇳🇱 NL-185.142.238.222:443
-vless://fce0f0e4-425a-4cf6-a0ca-e7513517ff38@151.232.67.12:4004?security=reality&flow=xtls-rprx-vision&sni=www.speedtest.net&type=tcp&fp=chrome&pbk=ui0fGumZiFhEhGU13KYIcR3coPPVHuGQMvK-_TThCVc&sid=e3631859#🔒 VL-TCP-RLT 🇮🇷 IR-151.232.67.12:4004
-vless://ee1a92a0-936a-449a-bbe5-060ecfc057ea@128.140.78.78:443?security=reality&flow=xtls-rprx-vision&sni=direct.playstation.com&type=tcp&fp=chrome&pbk=SF3Hh2nJngYLNMf9_4gs045vCKpKu_0g3EogBDl0zj0&sid=016796fc#🔒 VL-TCP-RLT 🇩🇪 DE-128.140.78.78:443
