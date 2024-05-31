@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://98268aee-f8c1-41f1-8c9f-0273ada3af8c@45.80.110.133:443?security=tls&sni=pOriyA-waRPHidDiFy-paneL.PaGeS.dEv&type=ws&path=%2F0SBXgskOtFstJVYL%3Fed&fp=chrome#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.133:443
-vless://03a9c9ee-1e6e-4779-8171-b2aac2357d0c@104.17.175.151:8443?security=tls&sni=Tigoo.dignity-19.com&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.175.151:8443
-vless://01ab9337-f478-4765-9534-88f009f83ddb@130.61.239.203:443?security=tls&sni=aut022.ylks.link&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇩🇪 DE-130.61.239.203:443
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.75.210:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.75.210:443
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.36.228:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.36.228:443
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@129.154.206.254:59158?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇰🇷 KR-129.154.206.254:59158
 vless://ed139c1e-660a-4845-aced-a7069dcb6e7d@172.67.217.68:8443?security=tls&sni=eyd.saeedgalaxy.xyz&type=ws&host=eyd.saeedgalaxy.xyz&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.217.68:8443
@@ -83,3 +79,7 @@ vless://195a6525-3e82-4a03-9fa8-0462db52bfd2@158.58.190.122:21344?security=none&
 vless://89b6ddc8-da0a-4efd-93e5-9275ead14e18@162.159.1.169:2096?security=tls&sni=new2.4four4.top.&type=ws&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.1.169:2096
 vless://b81edee6-a129-4160-ad29-488f0b5d81b4@104.24.180.16:2087?security=tls&sni=vpn-ocean4.cdn-user2.workers.dev&type=ws&host=vpn-ocean4.cdn-user2.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=safari&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.180.16:2087
 vless://827cb2f7-2387-40ee-dfb8-5e87250c7fc0@104.21.39.202:443?security=tls&sni=azmvm75.iranservicenet.pics&type=ws&path=%2Fws&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.39.202:443
+vless://5dd32697-77e6-4e2d-996a-21ea331cb61f@31.7.70.182:9103?security=none&type=tcp&host=iranserver.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-31.7.70.182:9103
+vless://10716279-b1ee-41d8-b63e-87782088305b@104.16.149.244:443?security=tls&sni=MAmaNE-fILtERchi.pAgeS.DEV&type=ws&host=mamAnE-FILTERchI.PageS.dEv&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.149.244:443
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.217.123:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-45.159.217.123:443
+vless://9f0d517d-45d5-5596-b235-7dc981821997@104.21.72.173:2083?security=tls&sni=esetsecuritylicense.mrgimsy.WORKErs.dEV&type=ws&host=esetsecuritylicense.mrgimsy.WORKErs.dEV&fp=chrome&alpn=h3,h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.72.173:2083

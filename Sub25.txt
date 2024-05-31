@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://13180ff2-e438-4472-b824-48eb2390bd3f@172.67.173.73:8443?security=tls&sni=earth4.sportstreams.info&type=ws&host=earth4.sportstreams.info&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.173.73:8443
-vless://c5c2a168-0a42-4796-a484-4bcd69d40c45@173.245.58.51:2096?security=tls&sni=www.zedmodeon1.online&type=grpc&serviceName=TELEGRAM:@ZEDMODEON-TELEGRAM:@ZEDMODEON-TELEGRAM:@ZEDMODEON,TELEGRAM:@ZEDMODEON&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-173.245.58.51:2096
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.16.241:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.16.241:443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.22.36.243:443?security=tls&sni=jp306.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.36.243:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.52.134:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.52.134:443
 vless://79a0b2a8-f5f7-43bc-a6e3-2b8ff3f526b2@172.67.218.115:2095?type=ws#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.218.115:2095
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.17.11.11:443?security=tls&sni=3k.pureboy.eu.org&type=ws&host=3k.pureboy.eu.org&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.11.11:443
@@ -83,3 +79,7 @@ vless://07865379-86dd-4ca6-ad22-81255519c482@172.67.193.36:2083?security=tls&sni
 vless://f86b8189-e52b-407b-ae3d-d1b4ef0971ea@5.160.152.108:18312?security=none&type=tcp&host=Zula.ir&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.160.152.108:18312
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@51.107.13.85:8443?security=tls&sni=jp222.ylks01.eu.org&type=ws&path=/proxyip#🔒 VL-WS-TLS 🇨🇭 CH-51.107.13.85:8443
 vless://03cc2ac6-d625-4d07-963c-a391ae1b457b@172.64.35.215:443?security=tls&sni=37cc5f.shimbot.top&type=ws&path=/wss#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.35.215:443
+vless://62d35e0e-d58a-4f6b-ae6f-20a3127e3e28@162.159.138.232:2095?security=none&type=ws&host=abi.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&path=%2FZEDMDODON-ZEDMODEON-ZEDMODEON-ZEDMODEON#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.138.232:2095
+vless://f47fb03f-7f15-41e0-bd7e-2371dc710e32@188.114.96.183:80?security=none&type=ws&path=%2F%3Fed#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.96.183:80
+vless://4045c6b7-1d53-4574-98cd-df21db40b0dc@172.64.20.37:2053?security=tls&sni=itcenteriran.blog&type=ws&host=itcenteriran.blog&path=%2Fp%3D19#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.20.37:2053
+vless://5ebd15b5-d9a8-4a47-8f3b-453d5e4ca89a@104.23.107.241:2053?security=tls&sni=ajghg.f-vipo.ir&type=ws&host=ajghg.f-vipo.ir&path=%2F%3Fed%3D2087&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.23.107.241:2053
