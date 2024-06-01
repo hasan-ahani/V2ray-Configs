@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://90f1fa90-75f7-4691-b5b7-a8e4a84d66d9@66.90.74.84:20012?security=reality&flow=xtls-rprx-vision&sni=www.timeto.com&type=tcp&fp=chrome&pbk=Wt9cTNEcGKp6Qy2n050o5U3sDCEK1C-iuzQFYSzXknU&sid=4a3749e4#🔒 VL-TCP-RLT 🇦🇷 AR-66.90.74.84:20012
-vless://e33d8ca8-573a-4199-b067-acc14e010cdd@104.168.107.230:6722?security=reality&flow=xtls-rprx-vision&sni=js.hsforms.net&type=tcp&fp=chrome&pbk=8BiQIRM0TBZUpRwiB6vsfTPOj4AJoYd1dvX65GhfFW4&sid=a41cc82f29d6308c#🔒 VL-TCP-RLT 🇺🇸 US-104.168.107.230:6722
-vless://e82351c5-c339-4d48-b90d-3524c5547912@142.93.166.107:443?security=reality&sni=*.partyverleih-glauberg.de&type=grpc&serviceName=@ipV2Ray&fp=chrome&pbk=LD8y7bs5T8tNSLcB83NQXpo0_LfHk76WWykNwXJRG3I&sid=304a9854#🔒 VL-GRPC-RLT 🇩🇪 DE-142.93.166.107:443
-vless://4174db66-4688-410b-b847-90ee8e570831@104.168.107.230:6067?security=reality&flow=xtls-rprx-vision&sni=themeforest.net&type=tcp&fp=chrome&pbk=5JlDUnqfJV4tNLiIn1ctcPRaGVxGdNrjfF5QMD0lLFM&sid=7a922f4091d33d43#🔒 VL-TCP-RLT 🇺🇸 US-104.168.107.230:6067
-vless://46aa0425-a78b-4ddd-87e8-192ad5decae3@80.79.114.80:443?security=reality&flow=xtls-rprx-vision&sni=vk.com&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒 VL-TCP-RLT 🇪🇪 EE-80.79.114.80:443
-vless://baaaccb-baca-cbaa-adcb-acccbbaabcba@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
 vless://ccbaaba-abca-abca-bdca-baaccbbcaabc@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 SAT-12-KHORDAD-1403 🕑 13:54
 vless://661e4131-514a-457e-bbc7-748cbb92253d@172.66.44.238:443?security=tls&sni=pardazesh14.pages.dev&type=ws&host=pardazesh14.pages.dev&path=%40VPNHTTPInjectorfree#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.238:443
 vless://c72ce5a5-6419-4356-82d3-440fdf3136b1@104.20.254.143:80?security=none&type=ws&host=unlimiteddev.xn--9iqr0tm1r4wg.co.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.254.143:80
@@ -83,3 +77,9 @@ vless://9af577f2-0a7a-4448-ae0b-6985c53ea634@172.67.196.100:2083?security=tls&sn
 vless://b837e366-6768-4bb3-937a-387afbf86477@104.16.102.112:80?security=none&type=ws&host=mmd.net.v2rayng6.6.6.6.ir.com.site.%E5%83%AC%E4%B8%8A%E6%BE%A8%E4%B8%95%E8%96%97%E4%B8%95%E5%83%AB%E7%83%93%E5%83%AB%E6%BE%A7%E4%B8%91.ZeoTreX.Lol.&path=%2FZeoTreXsHop1348900sg%2F-hhrigkdgeotYlln.%3D2053#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.102.112:80
 vless://10716279-b1ee-41d8-b63e-87782088305b@104.21.42.237:443?security=tls&sni=HEY.bAcHebiaPAiN.ir&type=ws&host=heY.baChEBiaPAIn.IR&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.42.237:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@79.99.30.51:2087?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇳🇱 NL-79.99.30.51:2087
+vless://67ac2966-c633-4fbe-92dd-8c666881c6de@162.159.254.222:8080?security=none&type=ws&host=worker-hidden-thunder-00c3.test29-c85.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.254.222:8080
+vless://b330823e3b654d2a89fc5a65584614a5@104.21.19.241:80?security=none&type=ws&host=holand-telegram1.1.1.1.shop.ir.com.xn--gmqy8gvtb111b6b123kgm4aq4n.com.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.19.241:80
+vless://6df35166-d850-40ad-8a8f-603463e966fe@146.75.69.57:443?security=tls&sni=fastly.com&type=ws&host=pardazeshvpn.tg1.com&path=%2Fvless#🔒 VL-WS-TLS 🇮🇩 ID-146.75.69.57:443
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@64.94.86.123:8443?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇨🇦 CA-64.94.86.123:8443
+vless://661e4131-514a-457e-bbc7-748cbb92253d@172.66.47.18:443?security=tls&sni=pardazesh14.pages.dev&type=ws&host=pardazesh14.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.18:443
+vless://f6e3171f-f614-4640-8469-6a5019ba7c6e@103.35.189.42:443?security=tls&sni=xxx-----------------AstroVPN-official-----------------xxxx---d.xxxx-----------pornhub-com-------------AstroVPN-official------x.workers.dev&type=tcp&host=us1.x2fast.net&path=/http&headerType=http&fp=chrome#🔒 VL-TCP-TLS 🇺🇸 US-103.35.189.42:443
