@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://3a3f6867-bd39-44f0-804f-feba88a5168e@45.80.111.10:443?security=tls&sni=pxr.snapfooding.com&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇩🇪 DE-45.80.111.10:443
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.113.164:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.113.164:443
-vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.177.110:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.177.110:443
 vless://f54c1c56-d3b2-41b3-9974-78bdd8807939@104.22.51.162:8880?security=none&type=ws&host=liV2raya.善良的闪电.monster&path=/@LIGHTNING6#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.51.162:8880
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@172.67.71.122:2053?security=tls&sni=jp306.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.71.122:2053
 vless://82299fb9-f8b0-43bc-ae63-290881a89f72@188.114.97.3:443?security=tls&sni=jAVidSHAH-aRiaMeHR.pagEs.DEV&type=ws&host=jAviDSHAH-ArIamEhR.PageS.deV&path=%2F&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.3:443
@@ -83,3 +80,6 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.243.139.85:80?security=none&type
 vless://1622d31e-9023-4f1a-b553-9d10d7d2da90@45.159.218.41:443?security=tls&sni=free-sweden-c8f4261f9f46e6465709e17ebea7a92b.mitowear.com&type=ws&host=free-sweden-c8f4261f9f46e6465709e17ebea7a92b.mitowear.com#🔒 VL-WS-TLS 🇺🇸 US-45.159.218.41:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.24.1.11:443?security=tls&sni=B3543d31.OxNEt-bu711.pAgeS.DEV&type=ws&host=B3543d31.OxNEt-bu711.pAgeS.DEV#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.1.11:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.43.179.20:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇰🇿 KZ-31.43.179.20:443
+vless://1622d31e-9023-4f1a-b553-9d10d7d2da90@104.24.157.122:443?security=tls&sni=free-sweden-c8f4261f9f46e6465709e17ebea7a92b.mitowear.com&type=ws&host=free-sweden-c8f4261f9f46e6465709e17ebea7a92b.mitowear.com#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.157.122:443
+vless://850e1920-7a02-4cd3-8072-dd338eea7b0f@104.21.69.44:2086?security=none&type=ws&host=nl4.vlessx.us#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.69.44:2086
+vless://b71b0234-3967-4cfb-bbac-00a9ec8b1637@104.19.251.69:8443?security=tls&sni=melody.howareu.xyz&type=ws&host=melody.howareu.xyz&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.251.69:8443

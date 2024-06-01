@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://64d291ef-1fa2-4bb3-a99c-e184708e4ea0@176.126.113.161:2003?security=tls&sni=nl2-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇳🇱 NL-176.126.113.161:2003
-vless://d38554b2-da9d-47ed-adce-f76395a36eda@185.146.173.196:8880?security=none&type=ws&host=2.V2ray.debian.org.fxp.debian.org.speedtest.net.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95%E3%82%89%E3%82%8F.mralpha-vpn.COM.&path=%2FTelegram-mainv2ray%2CTelegram-mainv2ray%2CTelegram-mainv2ray%2CTelegram-mainv2ray%2CTelegram-mainv2ray%2CTelegram-mainv2ray%2CTelegram-mainv2ray%2CTelegram-mainv2ray%2CTelegram-mainv2ray%2CTelegram-mainv2ray%2CTelegram-mainv2ray%3Fed%3D2048#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.196:8880
-vless://3286a0e7-72b3-4def-8327-8409d795585f@188.114.97.1:443?security=tls&sni=v2vus2.rayvenstorm.com&type=ws&path=%2Fzz&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.1:443
 vless://d78497b1-5298-4337-852f-fe38ac6a9222@161.145.150.11:443?security=tls&sni=cdn.hinata.ir&type=ws&host=cdn.hinata.ir&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-161.145.150.11:443
 vless://dad0ea17-d7b5-4c5b-8acd-9618740a247b@104.21.233.140:80?security=none&type=ws&host=924654422.v2rAy.speedtest.net.parSpaCk.coM.pCi.ir.xn--10-cg7e.xn--4oqa52uba3842Dca.kiNg4uSd.sHop.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.233.140:80
 vless://fbc0ecd4-9fd3-4533-8df7-33d29493ff65@188.114.98.255:443?security=tls&sni=mwa100100m.a2c6ec2a96.workers.dev&type=ws&host=mwa100100m.a2c6ec2a96.workers.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.255:443
@@ -83,3 +80,6 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@164.38.155.75:443?security=tls&sni=
 vless://49aab5f5-889c-4937-be35-9ad901240e5c@104.26.14.85:80?security=none&type=ws&host=xjftydftg7654AafHvF.ir.com.bargo.lol.&path=%2FBARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.14.85:80
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@193.122.197.111:443?security=tls&sni=kk222.ylks.link&type=ws&path=/blue#🔒 VL-WS-TLS 🇺🇸 US-193.122.197.111:443
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.192.173:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.192.173:443
+vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@151.101.2.219:443?security=tls&sni=sAnDwORm.pAGeS.dEV&type=ws&host=sANdWOrm.paGEs.dev&path=/MkDRgI4CUJpkpgyo&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-151.101.2.219:443
+vless://eb20ac7b-1462-4209-ab0d-c0e7d7a8bf69@104.26.14.85:2053?security=tls&sni=telegram-falcunargo-emirates.falcunar.asso.eu.org&type=ws&host=telegram-falcunargo-emirates.falcunar.asso.eu.org&path=%2F%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.14.85:2053
+vless://4d6fa72f-62cf-4b4a-92b1-a7dbf354e4c6@95.164.117.128:2003?security=tls&sni=de2-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇩🇪 DE-95.164.117.128:2003
