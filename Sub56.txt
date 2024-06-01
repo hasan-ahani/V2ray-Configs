@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://1ff59fad-6cc6-4714-82b1-d4af47de08eb@23.227.60.186:80?security=none&type=ws&host=DiReCt49-13-163-226.CleAnMaRk.IR&path=/DiReCt49-13-163-226-CleAnMaRk-IR#🔒 VL-WS-NONE 🇨🇦 CA-23.227.60.186:80
-vless://e848dbe4-530e-4d33-8802-172bbb721d59@5.182.36.218:8080?security=none&type=tcp#🔒 VL-TCP-NONE 🇨🇭 CH-5.182.36.218:8080
-vless://fb301d2e-4430-4b41-95d6-764460b8ef13@147.78.140.192:2053?security=tls&sni=9b56CFEe5b258C44c45bA18FA122293.mIToweAr.cOm&type=grpc#🔒 VL-GRPC-TLS 🇧🇬 BG-147.78.140.192:2053
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.161.173:80?type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.161.173:80
-vless://a2b4d9d3-3773-4c39-9669-6e24bfc3b33b@172.66.44.166:8443?security=tls&sni=pardazeshvpn-tg66.pages.dev&type=ws&host=pardazeshvpn-tg66.pages.dev&path=%2FTelegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.166:8443
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.175:8443?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.175:8443
 vless://c838f915-90f6-4b3b-9b89-e8cce84d4f26@104.21.52.182:80?security=none&type=ws&host=6.v2ray.bm.nedayevarzesh.ir.newsless.ir.xn--48jyb6ec1ad.tech.irapulsplus.sbs&path=%2Ftelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.52.182:80
 vless://9e67f15c-178f-494c-a843-f371e3b3fa5d@172.67.255.196:8080?security=none&sni=king1980.b91sptsl.workers.dev&type=ws&host=king1980.b91sptsl.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.255.196:8080
 vless://25d0ee2d-4190-52be-b892-45811c6ba210@104.21.68.173:8443?security=tls&sni=folani.iiipok.wORkeRs.DEV&type=ws&host=folani.iiipok.wORkeRs.DEV&path=%2Fvless-ws%2F%3Fed%3D2048&fp=safari&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.68.173:8443
@@ -83,3 +77,9 @@ vless://41f3f20b-c8fe-4981-a99d-75f965335749@185.146.173.94:80?security=none&typ
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@185.148.105.225:8443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-185.148.105.225:8443
 vless://d345d11e-c424-4583-b36e-527ab1f0afa4@104.18.10.128:8443?security=tls&sni=v2raynselling.kir-rasol-kir.workers.dev&type=ws&host=v2raynselling.kir-rasol-kir.workers.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.10.128:8443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.85.220:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.85.220:443
+vless://76241e82-8ded-416a-9d4c-84d5a0989149@162.159.153.2:443?security=tls&sni=pORiyA-wArPhIDDIFy-pAneL.PaGES.dEv&type=ws&host=pOriya-waRpHidDIfY-pAneL.PAGeS.dEV&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.2:443
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@45.159.218.162:8443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-45.159.218.162:8443
+vless://5335d16e-7e42-4c9b-93a3-9e83bfd3073d@172.67.168.60:80?security=none&type=ws&host=workerr.johnstoner.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.168.60:80
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.220.153:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.220.153:443
+vless://9e67f15c-178f-494c-a843-f371e3b3fa5d@172.67.143.22:8080?type=ws&host=king1980.b91sptsl.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.143.22:8080
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.22.68.66:2053?security=tls&sni=xxx.donated004.workers.dev&type=ws&host=xxx.donated004.workers.dev&path=%2F@V2VIPCHANNEL%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.68.66:2053
