@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://00bd0e52-a7b6-49b8-b69d-e26ac00d7ad1@85.9.96.167:3260?security=none&type=tcp&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.9.96.167:3260
 vless://b9bb32e0-c523-4d93-a0db-d64ebffe6872@104.25.255.254:8880?security=none&type=ws&host=2.v2ray.debian.org.fxp.debian.org.speedtest.net.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95%E3%82%89%E3%82%8F%E3%82%89%E3%81%B0.mrasghari.ir.&path=%2Fasrnovin-ArV2ray%2Casrnovin-ArV2ray%2Casrnovin-ArV2ray%2Casrnovin-ArV2ray%2Casrnovin-ArV2ray%2Casrnovin-ArV2ray%2Casrnovin-ArV2ray%2Casrnovin-ArV2ray%2Casrnovin-ArV2ray%2Casrnovin-ArV2ray%2Casrnovin-ArV2ray%2Casrnovin-ArV2ray%3Fed%3D80#🔒 VL-WS-NONE 🏴‍☠️ NA-104.25.255.254:8880
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.12.229:80?security=none&type=ws&host=telegram-vpnhttpinjectorfree-66.alyia3.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.12.229:80
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@172.67.159.117:443?security=tls&sni=v300.ylkszy.eu.org&type=ws&path=/?proxyip#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.159.117:443
@@ -82,4 +83,3 @@ vless://a636c0fd-c580-469c-b32b-a8be341e0f15@172.67.170.33:8443?security=tls&sni
 vless://d5696bc1-c9c6-43d8-959e-7378423a1b13@104.21.12.176:443?security=tls&sni=pq-gr-1.doctornim.ir&type=grpc&serviceName=tg3Vu3EboaFgTRqgBlzUTAbQ1730P&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.12.176:443
 vless://8ceac519-7b18-47a5-b53e-d37ba318b0aa@172.66.47.185:443?security=tls&sni=c1c569fc.irani-eub.pages.dev&type=ws&host=c1c569fc.irani-eub.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.185:443
 vless://7e333f65-09bc-4ecb-bb47-b9e9aead2742@162.159.133.234:2096?security=tls&sni=re4.v2logy.xyz&type=grpc&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.133.234:2096
-vless://242b7fb0-d590-57bd-9924-38092b4a8f21@172.67.212.171:2053?security=tls&sni=esetsecuritylicense.ujlqwtae.WorkErS.DEV&type=ws&host=esetsecuritylicense.ujlqwtae.WorkErS.DEV&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.212.171:2053

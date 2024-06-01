@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://d9f86526-6899-4b7b-a561-b774cd97e1b2@104.26.3.0:2083?security=tls&sni=varda2.manwe.ir&type=ws&host=varda2.manwe.ir&path=/&fp=chrome&alpn=http/1.1,h2,h3#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.3.0:2083
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@104.21.37.112:443?security=tls&sni=sANDWOrM.PaGES.DEV&type=ws&host=SaNdWORM.pAgES.DEV&path=/D5PXtLY0cCm3QaZ8&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.37.112:443
 vless://b97cdd0e-bba9-4391-b265-b72f80b670db@104.21.90.218:2052?security=none&type=ws&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.90.218:2052
 vless://fb301d2e-4430-4b41-95d6-764460b8ef13@104.19.43.166:2053?security=tls&sni=9b56CFEe5b258C44c45bA18FA122293.mIToweAr.cOm&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.19.43.166:2053
@@ -82,4 +83,3 @@ vless://a94ccf98-19c8-4de4-bfb3-ac37a6696729@172.66.47.16:8443?security=tls&sni=
 vless://e1a5cc95-a43b-4cb9-93ce-16f2bdaf49d6@45.205.0.50:2095?security=none&type=ws&host=a.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&path=%2FZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON#🔒 VL-WS-NONE 🇺🇸 US-45.205.0.50:2095
 vless://920d0e13-fdd0-4a36-a044-a9086f123d7b@172.66.47.191:443?security=tls&sni=b4a3567c.servernett.pages.dev&type=ws&host=b4a3567c.servernett.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.191:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.136.128:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.136.128:443
-vless://7767dcb7-8f55-4fb0-8d65-aeb021d5f730@104.17.21.178:2096?security=tls&sni=kanal.metesla.site&type=grpc&serviceName=@global_net_vpn&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.21.178:2096
