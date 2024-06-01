@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.135.172:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.135.172:443
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.123.220:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.123.220:443
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.130:2087?security=tls&sni=a.ssll.gay&type=ws&path=twitterfreecodes#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.130:2087
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@219.76.13.167:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🔒 VL-WS-TLS 🇭🇰 HK-219.76.13.167:443
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.251.103:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.251.103:80
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.12.75.79:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-31.12.75.79:443
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@54.212.77.119:80?security=tls&sni=xin116.ylks.link&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-54.212.77.119:80
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@60.246.180.236:32544?security=tls&sni=tg.dns68.cloudns.nz&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇲🇴 MO-60.246.180.236:32544
@@ -83,3 +78,8 @@ vless://a0e33e35-ad8d-4226-8d95-3c2fec5f23c5@104.18.149.233:2053?security=tls&sn
 vless://681ad492-75bf-47e7-c73c-1f705300da51@172.67.208.39:8443?security=tls&sni=ws.ArV2ray.fun&type=ws&host=ws.ArV2ray.fun&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.208.39:8443
 vless://073055b5-7c41-432d-bb15-0efe23c212e3@104.17.239.159:8880?security=none&type=ws&host=mikasa.megafair.store&path=/Telegram:@MikasaVPN#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.239.159:8880
 vless://3f5bcc1b-6286-43c1-8930-6438b9730ae6@104.16.125.175:8080?security=none&type=ws&host=nl15.vlessx.us#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.125.175:8080
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.69.44:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.69.44:443
+vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.106.216:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.106.216:443
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.170.220:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.170.220:80
+vless://a46b6a32-e66e-49a2-a59c-e98663d27286@212.33.206.95:2305?security=none&type=tcp&host=telewebion.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-212.33.206.95:2305
+vless://1cee36ed-5b67-4d62-cb83-01c783ef6fa2@190.93.246.241:8443?security=tls&sni=antiV2ray-poV2ray-gRPC-WS.AhV2ray.fun&type=grpc&serviceName=@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-190.93.246.241:8443
