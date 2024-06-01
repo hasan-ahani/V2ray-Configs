@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://30b3ecdf-64da-4b0e-b214-db5139b2ac59@172.67.136.197:2052?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.136.197:2052
+vless://b0138d55-a493-4dc3-9932-c6f0391707c1@141.101.123.101:2082?type=ws#🔒 VL-WS-NA 🏴‍☠️ NA-141.101.123.101:2082
 vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@8.219.97.50:2096?security=tls&sni=fc071d49-af91-42d6-a20e-5a64e24a53bc.71a45835-dd0c-4d51-8bd4-9ccf9f223662.casacam.net&type=ws&path=%2Fpasge.pages.dev%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇸🇬 SG-8.219.97.50:2096
 vless://5b2bad9a-139f-4985-891f-00956573c448@104.16.31.34:80?security=none&type=ws&host=hello-world-bitter-silence-09ff.conig57303.workers.DEV#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.31.34:80
 vless://f182fdb7-6945-4719-bd4f-868465e5a2d7@172.66.44.158:80?security=none&type=ws&host=yeCtW3ZIVaWuNVSezf6F.cInIMO.apP&path=%2Fbackup#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.44.158:80
@@ -81,5 +83,3 @@ vless://92505265-b1d6-40ac-ad3a-ac031970d5af@104.24.32.188:2087?security=tls&sni
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@162.159.130.81:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.130.81:443
 vless://44db8537-d0f7-4a43-9887-bb334385a1bd@104.17.42.10:2082?security=none&type=ws&host=irov2rayn-irov2rayn-irov2rayn-join-iroazadi-irov2rayn-join.ardeshirssh13.shop.&path=%2F%40irov2rayN-Telegram-%40irov2rayN-Telegram-%40irov2rayN-Telegram-%40irov2rayN-Telegram-%40irov2rayN-Telegram-m-%40irov2rayN-Telegram-%40irov2rayN-Telegram-%40irov2rayN-Telegram-%40irov2rayN-Telegram-%40irov2rayN-Telegram-%40irov2rayN-Telegram%3Fed%3D2082#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.42.10:2082
 vless://6b99dce7-99b0-4e80-97a6-2f517b048409@162.55.188.244:29947?security=none&type=tcp#🔒 VL-TCP-NONE 🇩🇪 DE-162.55.188.244:29947
-vless://790adf74-4e4d-4ae2-9fc4-121b95f77297@104.21.23.243:2053?security=tls&sni=gr.boskot.com&type=grpc&serviceName=vless#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.23.243:2053
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@45.205.0.76:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=twitterfreecodes#🔒 VL-WS-TLS 🇺🇸 US-45.205.0.76:8443
