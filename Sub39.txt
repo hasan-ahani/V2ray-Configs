@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://d41f9cfb-9610-49bf-a07f-56fd43c54f1f@104.21.13.64:80?type=ws&host=alwaysconnect.ddns.net&path=/alwaysconnect#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.13.64:80
+vless://e0de7b12-20dd-4d6b-bfaa-307fed5a1d2b@172.64.148.140:2087?security=tls&sni=Cloud.zed-zoon.tech&type=grpc&serviceName=Channel---Telegram---ZED_VPN---ZED_VPN---Telegram---ZED_VPN---ZED_VPN---Telegram---ZED_VPN---ZED_VPN&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.64.148.140:2087
+vless://266169d9-665f-4fed-b1a8-da29794ee3cd@172.67.202.140:2083?security=tls&sni=berovps.masoodbiranvand-230.workers.dev&type=ws&host=berovps.masoodbiranvand-230.workers.dev&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.202.140:2083
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.243.78:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.243.78:443
 vless://16d99f65-b71f-5cdf-8ce6-fc35e171a192@172.67.160.47:2096?security=tls&sni=esetsecuritylicense.ikgbvch.WOrkErS.DEV&type=ws&host=esetsecuritylicense.ikgbvch.WOrkErS.DEV&path=vless-ws%2F%3Fed%3D2048&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.160.47:2096
 vless://7bedf632-b4c2-4e90-9d8b-f42ee7145534@172.66.40.118:443?security=tls&sni=shinobbbnbu.yaemiko.cloudns.org&type=ws&host=shinobu.yaemiko.cloudns.org&path=%2F&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.40.118:443
@@ -80,6 +83,3 @@ vless://d9c2a43c-8f02-4d79-a006-161ce108ace0@172.67.198.105:443?security=tls&sni
 vless://81afe82c-f1c3-4794-8eaf-aaffe4c664b9@185.146.173.206:443?security=tls&sni=g3ov.ferdowsi.shop&type=grpc&serviceName=Telegram:@SurfShark_ALA-Telegram:@SurfShark_ALA-Telegram:@SurfShark_ALA-Telegram:@SurfShark_ALA-Telegram:@SurfShark_ALA-Telegram:@SurfShark_ALA-Telegram:@SurfShark_ALA-Telegram:@SurfShark_ALA-Telegram:@SurfShark_ALA-Telegram:@SurfShark_ALA#🔒 VL-GRPC-TLS 🇸🇪 SE-185.146.173.206:443
 vless://02a99135-d557-4c65-b63b-4d8cf0d84e1a@104.18.202.232:443?security=tls&sni=m.mashti.link.&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&fp=chrome&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.202.232:443
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@190.93.247.14:443?security=tls&sni=current.ircp.online&type=ws&host=current.ircp.online&path=%2F%3Fed%3D2048&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.247.14:443
-vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.184.12:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.184.12:443
-vless://4368aef8-e31b-4ace-9e3d-fd02db1a466d@104.16.6.67:8080?type=ws&host=join-to.vmessorg.Community.#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.6.67:8080
-vless://5184b87c-8537-41d6-be54-5027c8432d50@185.146.173.122:443?security=tls&sni=PARvIzsABETI.paGeS.DEv&type=ws&path=%2FTelegram-+%40SiNABiGO-Telegram-+%40SiNABiGO%2F%3Fed&fp=randomized#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.122:443

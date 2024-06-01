@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://dc83e81b-f527-42f4-8013-ce9e1d5f6967@172.67.204.84:2096?security=tls&sni=arxx.amshvip.ir&type=grpc&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.204.84:2096
+vless://bb2af53a-8a2a-4466-bcf4-7e7de11b8381@172.67.195.105:443?security=tls&sni=mtnasl001.chaghooosazi.shop&type=ws&host=mtnasl001.chaghooosazi.shop&path=/xMKyVeMwq7FLS5oNsuc&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.195.105:443
+vless://cceceb28-5761-4a01-b5b1-29d7581529bc@104.18.203.232:2083?security=tls&sni=all3.savagev2ray.site&type=grpc&serviceName=@SavageV2ray,@SavageV2ray#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.203.232:2083
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.21.40.63:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.40.63:443
 vless://4d5400ef-201d-43a3-890f-c767746fc524@104.21.32.208:443?security=tls&sni=PpaL03.EDmUnD-RAU.wORkeRs.dev&type=ws&host=pPaL03.EdMUnD-RAu.WoRKErS.DEv&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.32.208:443
 vless://8ae7ba42-91ba-4831-8f8e-c26a5867778b@185.146.173.185:8443?security=tls&sni=im.jomong.space&type=grpc&serviceName=Tel%3A+%40NT_Safe&fp=chrome#🔒 VL-GRPC-TLS 🇸🇪 SE-185.146.173.185:8443
@@ -80,6 +83,3 @@ vless://07865379-86dd-4ca6-ad22-81255519c482@104.21.20.148:2083?security=tls&sni
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.18.120.148:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.120.148:443
 vless://d7fe048f-0e2d-4c67-8986-f6bcfd4f47e2@172.67.73.163:80?security=none&type=ws&host=xjftydftg7654AafHvF.ir.com.bargo.lol.&path=/BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.73.163:80
 vless://242b7fb0-d590-57bd-9924-38092b4a8f21@172.67.212.171:2096?security=tls&sni=esetsecuritylicense.ujlqwtae.woRKerS.dEV&type=ws&host=esetsecuritylicense.ujlqwtae.woRKerS.dEV&fp=chrome&alpn=h3,h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.212.171:2096
-vless://d7858867-cb84-41b6-84a8-f59c94170f48@172.67.220.184:2053?security=tls&sni=Loop.v2rayvpn2.sbs&type=grpc&serviceName=@piavpngo-@piavpngo-@piavpngo-@piavpngo-@piavpngo-@piavpngo-@piavpngo-&alpn=http/1.1,h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.220.184:2053
-vless://3f266d25-21aa-4498-bb1a-ce6d1d327aaf@172.67.199.23:443?security=tls&sni=freedom14.geraxex389.workers.dev&type=ws&host=freedom14.geraxex389.workers.dev&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.199.23:443
-vless://2f0b8dcd-8c01-4714-89f0-5a855049cebd@104.21.50.213:443?security=tls&sni=vahem.minusober.com&type=ws&path=/vahem&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.50.213:443
