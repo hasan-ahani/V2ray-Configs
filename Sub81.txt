@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://49c2667e-5fb9-4202-d106-762fbec3442a@104.20.224.95:443?security=tls&sni=*.starv2ray.cfd&type=ws&path=%2F&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.224.95:443
+vless://a0e33e35-ad8d-4226-8d95-3c2fec5f2311@104.18.16.130:2053?security=tls&sni=isa.kasler.sbs&type=grpc&serviceName=%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%40ev2rayy&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.16.130:2053
 vless://ee1cc081-7cef-4ff3-b952-06539c731157@172.66.44.186:443?security=tls&sni=cardervpn1.pages.dev&type=ws&host=cardervpn1.pages.dev&path=%40VPNHTTPInjectorfree#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.186:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@65.75.194.2:34237?security=tls&sni=jp313.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-65.75.194.2:34237
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@47.236.102.102:2087?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F#🔒 VL-WS-TLS 🇸🇬 SG-47.236.102.102:2087
@@ -81,5 +83,3 @@ vless://00e5ad17-dbe6-432e-be8f-bcfe25922bbb@172.67.187.245:80?type=ws&host=sala
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.20.135:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.20.135:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.252.195:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.252.195:443
 vless://417c54fa-78c7-492f-bbc9-66f61be02ced@162.159.40.113:2083?security=tls&sni=selinc--selinc--selinc--selinc--selinc.fqsnv.workers.dev&type=ws&host=selinc--selinc--selinc--selinc--selinc.fqsnv.workers.dev&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.40.113:2083
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.80.111.8:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇩🇪 DE-45.80.111.8:443
-vless://e15117c7-59d0-4b40-8cce-0724e68f98f3@185.146.173.185:8080?type=ws&host=V2ray-_-_-_-_-MdVpnSec.TelegramChannelJoinBede.com.&path=/#🔒 VL-WS-NA 🇸🇪 SE-185.146.173.185:8080
