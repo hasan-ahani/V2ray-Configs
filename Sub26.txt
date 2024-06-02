@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.239.186:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.239.186:80
+vless://a0e33e35-ad8d-4226-8d95-3c2fec5f2313@104.25.136.172:2053?security=tls&sni=isa.kasler.sbs&type=grpc&serviceName=%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%40ev2rayy&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.25.136.172:2053
+vless://253e78fc-d3eb-454c-89e5-3268f76c6276@104.18.203.232:8443?security=tls&sni=04.ev02-02-q2wx8ryz0vic3bfmd1sng7pjjn6lqk4p.tech&type=grpc&serviceName=@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.203.232:8443
 vless://ce526092-81c1-42be-8354-88e58946c1f3@104.21.74.139:443?security=tls&sni=monardas.aurorainiceland.com&type=ws&path=/nimws&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.74.139:443
 vless://30e091d9-a870-4c73-ac00-0f3f48fc5f4e@95.38.242.93:2083?security=none&type=tcp&host=ixqkmlbd.speedtest1.shatel.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-95.38.242.93:2083
 vless://36496095-e07f-4e0a-9697-409f761d1f67@162.159.137.232:2087?security=tls&sni=ShprxyV2ray.digitalciity.Tech&type=ws&host=ShprxyV2ray.digitalciity.Tech&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.137.232:2087
@@ -80,6 +83,3 @@ vless://7e29f2e2-e0ec-47c5-94ec-38ef90f7a106@162.159.134.234:2053?security=tls&s
 vless://bc14b176-c672-4f20-b73c-9fb882224ded@195.123.213.46:443?security=tls&sni=ua-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇱🇻 LV-195.123.213.46:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@193.123.233.169:39803?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇰🇷 KR-193.123.233.169:39803
 vless://440a5fc6-4d97-46d5-93f7-adf90996081e@104.18.10.114:80?security=none&type=ws&host=bia-to-channel4.unlimiteddev.shop&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.10.114:80
-vless://23a1d836-33a8-48f2-aa00-f0a08b412923@79.133.57.57:20256?type=tcp&host=zula.ir&headerType=http#🔒 VL-TCP-NA 🇩🇪 DE-79.133.57.57:20256
-vless://02a99135-d557-4c65-b63b-4d8cf0d84e1a@172.67.157.101:443?security=tls&sni=m.mashti.link.&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&fp=chrome&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.157.101:443
-vless://9e1616dc-3d46-4da4-8abc-1f613760fe00@104.21.32.238:2096?security=tls&sni=re4.v2logy.xyz&type=grpc&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.32.238:2096
