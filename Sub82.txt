@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.206.252:80?type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.206.252:80
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.52.236:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.52.236:443
 vless://090ac18d-09db-4abe-b525-52d361da0e1b@104.17.98.95:8443?security=tls&sni=contact.my-contorol.com&type=grpc&serviceName=azaronline.com&fp=safari#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.98.95:8443
 vless://5389a4f5-6a56-4efe-8497-e3c2d42f2d58@104.248.17.18:44634?security=none&type=tcp&host=91.241.94.160&path=%2F91.241.94.160&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-104.248.17.18:44634
@@ -82,4 +83,3 @@ vless://5c132f79-9f32-49fd-baa9-e7c997ab1ded@104.18.14.19:2083?security=tls&sni=
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@47.236.158.158:2087?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F#🔒 VL-WS-TLS 🇸🇬 SG-47.236.158.158:2087
 vless://36496095-e07f-4e0a-9697-409f761d1f67@162.159.137.232:2087?security=tls&sni=ShprxyV2ray.digitalciity.Tech&type=ws&host=ShprxyV2ray.digitalciity.Tech&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.137.232:2087
 vless://01ab9337-f478-4765-9534-88f009f83ddb@47.236.169.141:2083?security=tls&sni=aut300.ylks.link&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇬 SG-47.236.169.141:2083
-vless://90cd4a77-141a-43c9-991b-08263cfe9c10@162.159.195.143:443?security=tls&sni=syq-8y3.pages.dev&type=ws&host=syq-8y3.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.195.143:443

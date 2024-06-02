@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://dcdb3552-9550-4278-b0e7-09ce5a73a6b3@185.146.173.88:8880?type=grpc&serviceName=Telegram#🔒 VL-GRPC-NA 🇸🇪 SE-185.146.173.88:8880
 vless://a0514d9b-d109-47fd-b173-1e7f83268f21@104.21.235.76:80?type=ws&path=/graphql#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.235.76:80
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.27.62.243:443?security=tls&sni=miumiUMadReKoSE.pAgES.dEv&type=ws&host=MIumIumADrEkOsE.pAGeS.dev&path=%2F@VPNHTTPInjectorfree#🔒 VL-WS-TLS 🏴‍☠️ NA-104.27.62.243:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@146.56.161.141:45593?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇰🇷 KR-146.56.161.141:45593
@@ -82,4 +83,3 @@ vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@47.236.144.156:2083?security=tls&sn
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@140.238.195.98:443?security=tls&sni=xin222.ylks.link&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇦🇺 AU-140.238.195.98:443
 vless://f68b1ea9-3c4e-405a-98b1-35ee3db36000@172.64.160.36:80?type=ws&path=/graphql#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.160.36:80
 vless://1fb465ac-60fb-4b77-b4a6-cc590ee6124e@104.21.24.57:443?security=tls&sni=freedom3.pacica4041.workers.dev&type=ws&host=freedom3.pacica4041.workers.dev&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.24.57:443
-vless://eeb24630-bdf7-4af0-bb9e-e03a979128c4@188.114.98.224:2095?security=none&type=ws&host=2.V2ray.debian.org.fxp.debian.org.speedtest.net.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95%E3%82%89%E3%82%8F.sony-playstation.fun.&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.98.224:2095

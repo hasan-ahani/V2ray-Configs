@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://908aac8f-e6d7-48ea-99e1-5de09c712d71@172.67.170.71:2083?security=tls&sni=d.nonoall.com&type=grpc&serviceName=%40v2ray_nonoal%2C%40v2ray_nonoal%2C%40v2ray_nonoal%2C%40v2ray_nonoal%2C%40v2ray_nonoal%2C%40v2ray_nonoal%2C%40v2ray_nonoal%2C%40v2ray_nonoal%2C%40v2ray_nonoal%2C%40v2ray_nonoal%2C%40v2ray_nonoal%2C%40v2ray_nonoal%2C%40v2ray_nonoal&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.170.71:2083
 vless://aa2dc840-be38-4b4d-a002-ba234999fd55@172.67.65.180:8080?security=none&type=ws&host=cdn-allxn--b6gaceuorg.l4o117en.workers.dev&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.65.180:8080
 vless://ba34bf8f-e046-5934-a81e-b1612fb2d9b7@172.66.46.252:2095?security=none&type=ws&host=sugar.sugarbreakervpn.WorKeRs.Dev#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.46.252:2095
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.172.177:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.172.177:80
@@ -82,4 +83,3 @@ vless://8ca98c98-fb0b-4007-a6e8-c8294e546763@104.16.235.30:443?security=tls&sni=
 vless://fb301d2e-4430-4b41-95d6-764460b8ef13@45.94.169.134:2053?security=tls&sni=9b56CFEe5b258C44c45bA18FA122293.mIToweAr.cOm&type=grpc#🔒 VL-GRPC-TLS 🇺🇦 UA-45.94.169.134:2053
 vless://be920353-91a0-4d35-be2d-48dc2d4ed8dd@104.18.41.176:443?security=tls&sni=de1.v2vless.xyz&type=ws&host=de1.v2vless.xyz&path=@FRAv2ray,@FRAv2ray,@FRAv2ray/#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.41.176:443
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.252.167:80?security=none&type=ws&host=us1.rtacg.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.252.167:80
-vless://2b278414-fad7-51c9-a8df-11848fee1487@172.67.189.149:2053?security=tls&sni=esetsecuritylicense.rihej59344.wORkERs.dEv&type=ws&host=esetsecuritylicense.rihej59344.wORkERs.dEv&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.189.149:2053
