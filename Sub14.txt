@@ -3,6 +3,16 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://772edba2-cf5e-415d-b290-fb77c95566e5@sg-full.privateip.net:443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Trojan%20@V2rayStore
+trojan://310370b3-5cf5-48f4-887b-6f50e56f04a0@sg2-full.privateip.net:443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Trojan%20@V2rayStore
+trojan://b3965d2d-3b82-45cc-927b-1336aca3f3fe@sg3-full.privateip.net:443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Trojan%20@V2rayStore
+trojan://0c6d1da1-4950-4f18-be27-7d7b30fe7164@id-full.privateip.net:443#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%20Trojan%20@V2rayStore
+trojan://f2e3b2f8-f3a7-4218-85f3-1a4842130226@hk-full.privateip.net:443#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20Trojan%20@V2rayStore
+trojan://b35fd6a9-1d42-4d0b-a9a8-b0b6a56d37a3@nl-full.privateip.net:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20Trojan%20@V2rayStore
+trojan://ca0888b0-f505-4411-ad10-efb2841bf962@nl2-full.privateip.net:443#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20Trojan%20@V2rayStore
+trojan://e0557db1-585e-4469-aaab-3e9061fc53ac@ca-full.privateip.net:443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20Trojan%20@V2rayStore
+trojan://b232f4f3-c241-4718-85b5-089f6c04739e@in-full.privateip.net:443#%F0%9F%87%AE%F0%9F%87%B3%20India%20Trojan%20@V2rayStore
+trojan://ba43b064-03f6-4b80-9ba6-f96e491cf2eb@fr-full.privateip.net:443#%F0%9F%87%AB%F0%9F%87%B7%20France%20Trojan%20@V2rayStore
 trojan://50404548-1d4d-4463-8b41-09694d2771bf@fr2-full.privateip.net:443#%F0%9F%87%AB%F0%9F%87%B7%20France%20Trojan%20@V2rayStore
 trojan://fc1e07b5-840b-4446-8232-94b0606f2e0d@fr3-full.privateip.net:443#%F0%9F%87%AB%F0%9F%87%B7%20France%20Trojan%20@V2rayStore
 vless://9c0ff824-2915-4fbc-8687-992dfb3e3a79@us-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Vless%20WS%20@V2rayStore
@@ -73,13 +83,3 @@ vless://fe8a5e3f-9455-4cc4-b096-24389e41249a@luciana.ns.cloudflare.com:443/?type
 vless://bfa993e8-b8dd-4ad9-9a04-a73ed5a71f70@luciana.ns.cloudflare.com:443/?type=ws&encryption=none&host=mdi5lp.galeknewnvpmj.top&path=%2Fwss&security=tls&sni=mdi5lp.galeknewnvpmj.top#[🇨🇦]t.me/ConfigsHub`
 vless://d4e62913-3e19-4525-b9fd-28dfe68d019b@brady.ns.cloudflare.com:443/?type=ws&encryption=none&host=o4sghq.boopiyta.top&path=%2Fwss&security=tls&sni=o4sghq.boopiyta.top#[🇺🇸]t.me/ConfigsHub`
 vless://1019d534-4613-4d7b-95a1-2f8ed792e080@brady.ns.cloudflare.com:443/?type=ws&encryption=none&host=p717w0.simpateen.top&path=%2Fwss&security=tls&sni=p717w0.simpateen.top#[🇺🇸]t.me/ConfigsHub`
-vless://c1570e67-f5dd-4e25-bfdb-ff1ff0a41dbd@brady.ns.cloudflare.com:443/?type=ws&encryption=none&path=%2F&security=tls&sni=2p4clu.wotipoon.website#[🇺🇸]t.me/ConfigsHub`
-vless://281a23a9-85db-4cc0-a228-4b988d500487@brady.ns.cloudflare.com:443/?type=ws&encryption=none&host=sfe7rv.gipoonta.top&path=%2Fwss&security=tls&sni=sfe7rv.gipoonta.top#[🇨🇦]t.me/ConfigsHub`
-vless://5646b153-c811-458d-8a87-3f802f41f6c5@brady.ns.cloudflare.com:443/?type=ws&encryption=none&host=3guqtx.tensoapp.website&path=%2Fwss&security=tls&sni=3guqtx.tensoapp.website#[🇨🇦]t.me/ConfigsHub`
-vless://6d40f27d-5b8f-42c5-9b0e-0bfadac576f9@brady.ns.cloudflare.com:443/?type=ws&encryption=none&host=tkw09r.rimtiop.top&path=%2Fwss&security=tls&sni=tkw09r.rimtiop.top#[🇨🇦]t.me/ConfigsHub`
-vless://010ca30e-5d90-4f1f-a616-ba1ba7046251@brady.ns.cloudflare.com:443/?type=ws&encryption=none&host=f12xc0.wotipoon.website&path=%2Fwss&security=tls&sni=f12xc0.wotipoon.website#[🇨🇦]t.me/ConfigsHub`
-vless://d0aef488-7cfe-4edd-9a26-1c3337159f5c@AstroVPN-official.AstroVPN-official.workers.dev:443?path=%2FJoin-Telegram-Channel-@AstroVPN_official&security=tls&encryption=none&host=ua1.vless.site&sni=ua1.vless.site&type=ws#[🇨🇦]t.me/ConfigsHub`
-vless://bd793ed4-84c8-4521-9e76-a2a743d7662e@kinsta.mostafahasanpour.ir:1999?type=tcp&path=%2Fkinsta_service&host=online.ir&headerType=http&security=none#[🏁]t.me/ConfigsHub`
-vmess://eyJhZGQiOiJzcGVlZC5jbG91ZGZsYXJlLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidXM0ZS0yMDI0MDExMS52MmZyZWV2cG4uY29tIiwiaWQiOiIyYThhMTBmYi05Y2EzLTM2N2UtYTIzNC1jZjA5Zjg0MWJlNGYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdjE0OS1kc2tkczY1IiwicG9ydCI6IjgwIiwicHMiOiJb8J+HqPCfh6ZddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9`
-vless://634641db-b26c-4f1b-9b4e-69b933f8b85d@ch.ni-ham.info:2053?path=%2F%3Fed%3D2087&security=tls&encryption=none&alpn=h2&host=ajghrr.f-vipo.ir&fp=chrome&type=ws&sni=ajghrr.f-vipo.ir#%40proxyymeliii
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.253.101:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇫🇷`
