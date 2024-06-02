@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@154.83.2.27:443?security=tls&sni=v300.ylkszy.eu.org&type=ws&path=/?proxyip#🔒 VL-WS-TLS 🇸🇨 SC-154.83.2.27:443
+vless://25d0ee2d-4190-52be-b892-45811c6ba210@172.67.166.192:2087?security=tls&sni=folani.iiipok.WoRkeRs.Dev&type=ws&host=folani.iiipok.WoRkeRs.Dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=safari&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.166.192:2087
+vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@47.236.171.205:2096?security=tls&sni=vless.pagess.filegear-sg.me&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇸🇬 SG-47.236.171.205:2096
 vless://10699622-1b25-499c-a424-58f8f4dfb7f7@104.16.123.175:2083?security=tls&sni=id-falcunargo.sociy12386.workers.dev&type=ws&host=id-falcunargo.sociy12386.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.123.175:2083
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.183.252:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.183.252:80
 vless://01ab9337-f478-4765-9534-88f009f83ddb@47.237.14.220:2083?security=tls&sni=aut306.ylks.link&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇬 SG-47.237.14.220:2083
@@ -80,6 +83,3 @@ vless://9f98310e-25c2-4016-9d3c-8adaa8b160dc@104.16.120.158:2087?security=tls&sn
 vless://1f9bdc4c-b45f-425e-bc14-20fbefc5ee74@69.164.203.163:443?security=tls&sni=us2-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇺🇸 US-69.164.203.163:443
 vless://4d68a5be-30a6-43cc-a7f8-f49dca92ffb2@193.134.100.233:443?security=none&type=tcp&host=divar.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-193.134.100.233:443
 vless://9c0ff824-2915-4fbc-8687-992dfb3e3a79@138.124.184.173:2003?security=tls&sni=us-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇺🇸 US-138.124.184.173:2003
-vless://de70c2ab-3b16-44c2-8579-9b05fedc3b36@172.66.44.139:443?security=tls&sni=pardazeshvpn-tg3.pages.dev&type=ws&host=pardazeshvpn-tg3.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.139:443
-vless://292d810c-7267-46bc-ad82-1449f1088e63@172.234.120.151:443?security=tls&sni=data.em2.cloudflare.com&type=ws&host=access-trail.research.cloudflare.com&path=%2FVLESS&fp=safari&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇸🇪 SE-172.234.120.151:443
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@198.41.202.44:80?type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NA 🏴‍☠️ NA-198.41.202.44:80
