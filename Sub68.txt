@@ -3,15 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://92505265-b1d6-40ac-ad3a-ac031970d5af@104.20.196.26:2087?security=tls&sni=melody.howareu.xyz&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.20.196.26:2087
-vless://3554d65d-738b-474c-80ea-ebf1e26f5a08@104.17.0.11:443?security=tls&sni=confingland-nl.pages.Dev&type=ws&host=confingland-nl.pages.Dev&path=%2FqJnQ4vhddX2WtYlf&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.0.11:443
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@8.218.155.238:2087?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇭🇰 HK-8.218.155.238:2087
-vless://f478a594-5882-4713-bfdc-80c3e9345bd1@146.75.73.60:80?security=none&type=ws&host=dailyconfigs.com#🔒 VL-WS-NONE 🇬🇧 GB-146.75.73.60:80
-vless://0895c839-54e8-4522-cfa0-d1a5b1b34827@104.21.90.218:2086?security=none&type=ws&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.90.218:2086
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@158.178.228.8:10010?security=tls&sni=hk313.ylks.link&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇸🇬 SG-158.178.228.8:10010
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.12.75.46:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-31.12.75.46:443
-vless://6b408331-0bd5-4a8e-bd27-aa18862c90e5@91.193.58.4:8080?security=none&type=ws&host=tddu.nimserverr.xyz.&path=/#🔒 VL-WS-NONE 🇬🇧 GB-91.193.58.4:8080
-vless://4045c6b7-1d53-4574-98cd-df21db40b0dc@172.64.20.37:2053?security=tls&sni=itcenteriran.blog&type=ws&host=itcenteriran.blog#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.20.37:2053
 vless://420cdff4-40fa-4b49-a078-008c5475bce1@188.212.97.62:2023?security=none&type=tcp&host=playstation.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-188.212.97.62:2023
 vless://ff49a775-a816-4d46-b07c-30645642e5e2@190.93.247.155:8080?security=none&type=ws&serviceName=Telegram:@Archive_Android,Telegram:@Archive_Android,Telegram:@Archive_Android,Telegram:@Archive_Android,Telegram:@Archive_Android,Telegram:@Archive_Android,Telegram:@Archive_Android,Telegram:@Archive_Android,Telegram:@Archive_Android,Telegram:@Archive_Android,Telegram:@Archive_Android,Telegram:@Archive_Android&host=%56%50%4e%43UST%4fMI%5aE.V2ray.Community.&path=%2FJ%6fin--%56%50%4e%43UST%4fMI%5aE.V2ray.re%3Fed%3D8080#🔒 VL-WS-NONE 🏴‍☠️ NA-190.93.247.155:8080
 vless://fc1191c8-e724-482f-a492-90d3d386719c@172.67.182.207:8443?security=tls&sni=sisand.waztow.wORkERS.dEv&type=ws&host=sisand.waztow.wORkERS.dEv&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.182.207:8443
@@ -83,3 +74,12 @@ vless://713e999f-9590-4419-e49c-5a682ec5d4f7@172.67.66.177:2083?security=tls&sni
 vless://f211caae-afdd-4aa8-c332-83a375bdab06@172.67.168.21:443?security=tls&sni=prod01-cloud-sea-net01.cyberscaler.com&type=ws&host=prod01-cloud-sea-net01.cyberscaler.com&path=/ski-sales-online/&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.168.21:443
 vless://d9a66cc5-0e40-459f-b7aa-6272e46839ee@172.67.66.177:2053?security=tls&sni=Pm.RxV2ray.space&type=ws&host=Pm.RxV2ray.space&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.66.177:2053
 vless://1c11222d-1aca-4ef9-8872-bf0b8a55228d@172.66.44.152:443?security=tls&sni=pardazeshvpn-tg94.pages.dev&type=ws&host=pardazeshvpn-tg94.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.152:443
+vless://d0be39fd-4bca-4e37-80d5-715d512aad7e@172.64.202.127:443?security=tls&sni=server17.aibox.tv&type=ws&host=server17.aibox.tv&path=/ws/&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.202.127:443
+vless://c3114b07-95a6-4cb0-8bbd-b3f0931233b2@104.21.5.226:443?security=tls&sni=ir1.v-mizban.info&type=ws&path=/vqkubV5xX0Tulg7tx5HRa&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.5.226:443
+vless://e6aae0f8-e19a-4bc5-a3f4-efe82ad83673@172.67.214.179:443?security=tls&sni=le.bo3kot.com&type=grpc&serviceName=@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.214.179:443
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.48.49:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.48.49:443
+vless://2241fc16-20e2-4e70-b11d-7bed62f16849@172.64.138.167:443?security=tls&sni=fi2-vless.sshmax.xyz&type=ws&host=fi2-vless.sshmax.xyz&path=%2Fvless#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.138.167:443
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@130.250.137.147:2052?security=none&type=ws&path=%2Fblue#🔒 VL-WS-NONE 🇺🇸 US-130.250.137.147:2052
+vless://7b798c2f-7f0f-48e8-d713-743c4b93cde3@104.31.16.164:80?security=none&type=ws&host=snapp.ir.iran.ir.bank-maskan.ir.isna.ir.nobat.ir.namava.ir.iauh.ac.ir.hamshahrionline.ir.emalls.ir.snappfood.ir.irna.ir.sid.ir.namava.ir.nobat.ir.blog.ir.khamenei.ir.bki.ir.iranjib.ir.avval.ir.mche.or.ir.araku.ac.ir.%E7%96%AF%E7%8B%82%E7%9A%84%E8%8E%AB%E8%BF%AA17.shop.&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.31.16.164:80
+vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@172.64.22.170:443?security=tls&sni=bia-pain-bAche.PaGES.DEV&type=ws&host=biA-pAIn-bacHe.pageS.dev&path=%2F0npfJqIw1ez41QpK%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.22.170:443
+vless://e971e939-c844-4209-8720-e93db30210e3@104.18.200.220:443?security=tls&sni=tara2.striside.com&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.200.220:443
