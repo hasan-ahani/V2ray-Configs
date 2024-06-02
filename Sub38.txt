@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://b1c53b03-8d32-4d2c-a572-c3f6c81bda8c@5.10.244.228:80?security=none&type=ws&host=a.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&path=%2FZEDMODEON-TEL-ZEDMODEON-ZEDMODEON#🔒 VL-WS-NONE 🇳🇱 NL-5.10.244.228:80
+vless://3cbaf436-93cc-4db1-be69-c5353076be15@172.67.128.217:80?type=ws&path=/graphql#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.128.217:80
+vless://ee797f86-e248-40be-b8fc-200b977f4bfb@172.67.204.84:8443?security=tls&sni=footlo.argha-v2pedia.monster&type=grpc&serviceName=Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.204.84:8443
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@94.247.142.245:2096?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz#🔒 VL-WS-TLS 🇬🇧 GB-94.247.142.245:2096
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.184.156:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.184.156:443
 vless://36c18437-2956-49c5-b129-7a087efc6bca@104.24.65.199:443?security=tls&sni=grpc.havafaza.shop&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.24.65.199:443
@@ -80,6 +83,3 @@ vless://5c6c5660-5ef7-4cbc-93b2-c3cae9b57926@104.17.45.62:443?security=tls&sni=R
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.22.116.225:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇬🇧 GB-31.22.116.225:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@8.210.203.7:80?security=none&type=ws&path=%2Fblue#🔒 VL-WS-NONE 🇭🇰 HK-8.210.203.7:80
 vless://e4106072-c324-4c27-a797-2e7ce6df0307@162.159.153.2:443?security=tls&sni=de3.v2vless.xyz&type=ws&host=de3.v2vless.xyz&path=/vless#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.2:443
-vless://e0eab0ce-63ab-4c00-b681-1a61f53aa538@78.39.56.138:1408?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-78.39.56.138:1408
-vless://07342ff4-57be-46c7-9080-4b2b7e1f8a7e@104.17.247.203:8080?security=none&sni=nl4.vlessx.us&type=ws#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.247.203:8080
-vless://e1a928be-e289-4aef-b92e-4106fabdf42f@172.67.19.244:80?security=none&type=ws&host=mahi.kosnanatfilterchi.eu.org&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.19.244:80

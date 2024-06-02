@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.130.133:443?security=tls&sni=www.arizona.edu&type=ws&host=ton.apple&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-151.101.130.133:443
+vless://e41b9c55-9fcd-46e8-a913-2812d7805eb7@185.126.11.250:443?security=none&type=tcp&host=speedtest.net&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.126.11.250:443
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@64.94.86.147:2053?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇨🇦 CA-64.94.86.147:2053
 vless://1696dbdc-43f3-4493-a1f4-31dd26761648@104.18.61.189:2052?security=none&type=ws&host=%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B7%E4%BE%AF%E8%B5%9B%E5%9B%A0freeforiran.net.v2rayng.8.8.8.8.free.skullbasher.wex.wex.wex.wex.mf.ssd.youcantplayinvoker.tech.&path=%2Ft.me%2FV2rayFa-V2rayng-v2rayNgfree-telegram-t.me%2FV2rayfa_telegram%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.61.189:2052
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.202.204:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.202.204:443
 vless://a0222d15-7bdc-4f1b-8d91-a43c7dd00568@172.67.204.84:2052?security=none&type=ws&host=406e51065f80f2c5.cDn.V2ray.SarBazit.cOm#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.204.84:2052
@@ -80,6 +83,3 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@185.148.107.223:443?security=tls&sn
 vless://10716279-b1ee-41d8-b63e-87782088305b@198.41.223.7:443?security=tls&sni=HeY.BaChebiapAin.IR&type=ws&host=hEy.bAchEBIaPaIn.ir&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.223.7:443
 vless://82494092-bd0c-405b-920c-8ebfaf5d8b81@188.114.97.170:80?security=none&type=ws&path=/?ed#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.97.170:80
 vless://10716279-b1ee-41d8-b63e-87782088305b@104.18.44.195:443?security=tls&sni=hey.BacHeBIApain.ir&type=ws&host=HEY.bAcheBIApAiN.ir&path=/sDCHkLUrA8UJ1DkZ?ed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.44.195:443
-vless://feed264d-a3dd-41e8-a081-dd5b54902700@104.22.1.87:2096?security=tls&sni=re7.v2logy.xyz&type=grpc&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.22.1.87:2096
-vless://42ffee2f-49ce-402b-a4df-43aa118d9061@91.195.110.64:8080?security=none&type=ws&host=V2ray.digikala.com-mykit.ir.nobitex.com.IMhyW5477e.DAILYCONFIGS.vigilantecollection.com.&path=%2F---%40Daily_Configs---%40Daily_Configs---%40Daily_Configs---%40Daily_Configs---%40Daily_Configs#🔒 VL-WS-NONE 🇨🇴 CO-91.195.110.64:8080
-vless://a0acb9f9-b2f1-4af4-b4eb-32234a254c71@172.66.213.0:80?security=none&type=ws&host=SwMeHrV2ray.naziitness.com.#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.213.0:80
