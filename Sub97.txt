@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://e82e36a8-0f65-46ac-bb56-5b0e2ee54741@45.131.4.226:80?security=none&type=ws&host=2.v2ray.mihanyas.ir.mbj.farsroid.com.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B778.ShOp.&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048#🔒 VL-WS-NONE 🇳🇱 NL-45.131.4.226:80
-vless://de44b044-8f90-4e18-b742-16591667ff96@47.242.60.161:443?security=tls&sni=edgetunnel-free.pages.dev&type=ws&path=%2F%3Fed&fp=randomized#🔒 VL-WS-TLS 🇭🇰 HK-47.242.60.161:443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.18.4.237:2087?security=tls&sni=jp022.ylks01.eu.org&type=ws&path=/blue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.4.237:2087
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@66.235.200.1:443?security=tls&sni=698Aa4AA.Swz-UUz-316.PageS.Dev&type=ws&path=%2Fluc4ru4kdzzim5l9%2Fns40mi43ns4xodm#🔒 VL-WS-TLS 🇺🇸 US-66.235.200.1:443
 vless://006725ce-42b4-43ff-99c5-8899fe8414f6@[::ffff:104.17.217.15]:2053?security=tls&sni=ddaeec28-8da6-4fe1-b832-f97e9c1a2e01.granzinhannah.workers.dev&type=ws&host=green-math.granzinhannah.workers.dev&path=vless-ws%2F%3Fed%3D2048&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-[::ffff:104.17.217.15]:2053
 vless://e8afb3c4-0178-4813-adbf-93abe76759c5@172.67.190.236:2087?security=tls&sni=gmV2raybo.shhproxyfree.com&type=ws&host=gmV2raybo.shhproxyfree.com&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.190.236:2087
 vless://61d93b9b-00d0-4df1-8027-6e036f4c1f11@172.67.168.58:443?security=tls&sni=freedom13.bypasojd.workers.dev&type=ws&host=freedom13.bypasojd.workers.dev&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.168.58:443
@@ -83,3 +79,7 @@ trojan://09afab13-a23c-4264-9da4-985e3b62b789@104.24.173.19:443?security=tls&sni
 trojan://ce8b8b30ebba45f2a38dd608b85e8628@104.19.159.14:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.159.14:443
 trojan://UtO9m5wsDz@54.169.171.52:49465?security=none&type=ws&host=m.instagram.com&path=/#🔒 TR-WS-NONE 🇸🇬 SG-54.169.171.52:49465
 trojan://b4e8771997c94732acbc9ec4d19c2589@198.41.220.8:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=/6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.8:443
+trojan://compassvpn-794T1C3EDa@104.17.176.171:2083?security=tls&sni=147457129.19kala.co&type=ws&host=147457129.19kala.co&path=/&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.176.171:2083
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.175:443?security=tls&sni=tjjd.yzyx1.v6.army&type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.175:443
+trojan://auto@162.159.135.232:8443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.135.232:8443
+trojan://4f9b018e-f217-4f94-9bcc-d9e32283803b@69.164.203.163:443?#🔒 TR-TCP-NA 🇺🇸 US-69.164.203.163:443
