@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://1ac0b613-ea29-4a6d-96d0-e5d59fdf4078@es-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20Vless%20WS%20@V2rayStore
+vless://41632df1-92bc-40af-8382-5d46f7725a9a@sg-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Vless%20WS%20@V2rayStore
+vless://3a545c46-3e0b-40b8-bacc-dbebf79f23f1@sg2-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Vless%20WS%20@V2rayStore
+vless://cd37e48f-b356-4bc2-9104-c4ed5b4abe8c@sg3-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Vless%20WS%20@V2rayStore
+vless://0d687a8f-3ae0-4636-9ffc-fd5c03565b76@id-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%20Vless%20WS%20@V2rayStore
 vless://784ac000-557e-4b07-ba1b-de1ef3788ec7@hk-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20Vless%20WS%20@V2rayStore
 vless://3b7eea06-232f-4f96-acc5-95db2b768538@nl-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20Vless%20WS%20@V2rayStore
 vless://305705d2-ffcc-487f-a827-e728e61681d2@nl2-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20Vless%20WS%20@V2rayStore
@@ -78,8 +83,3 @@ vless://1ea4fa2c-392a-4e51-ac68-c9bda2603c3e@188.114.97.3:443?encryption=none&se
 vmess://eyJhZGQiOiIxMDQuMjEuODcuNDIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiZnJhZ21lbnQiOiI4MC0yNTAsMTAtMTAwLHRsc2hlbGxvIiwiaG9zdCI6ImRsMi50ZWxlZ3JhbS5kYXJrdnBucHJvLuaEn+imuuWBmuafkOS7tuS6i+eahOaZgumWk+W3sue2k+mBjuWOuy5yb3BlLnN1b255Y2Fycy5idXp6LiIsImlkIjoiNmNkZDFjZDktZTllYy00ZDZlLTkyMDEtOTcyZjg5YTEyODZjIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzIiwicG9ydCI6IjgwIiwicHMiOiJb8J+HqPCfh6ZddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9`
 vless://b2f9eb87-67cf-446e-8a34-165a44756359@us1.x2fast.net:443?encryption=none&security=tls&sni=xxx-----------------AstroVPN-official-----------------xxxx---d.xxxx-----------pornhub-com-------------AstroVPN-official------x.workers.dev&fp=chrome&type=tcp&headerType=http&host=us1.x2fast.net&path=%2Fhttp#[🇺🇸]t.me/ConfigsHub`
 vless://5342e5f2-f086-426a-ad9a-b1cacc232637@AstroVPN-official.AstroVPN-official.workers.dev:443?encryption=none&security=tls&sni=ru1.vless.site&type=ws&host=ru1.vless.site&path=%2F#[🇨🇦]t.me/ConfigsHub`
-vless://af660c35-b670-4b77-8538-ef38e259bc0c@AstroVPN-official.AstroVPN-official.workers.dev:443?encryption=none&security=tls&sni=ca3.vless.site&type=ws&host=ca3.vless.site&path=%2FJoin-Telegram-Channel-@AstroVPN_official#[🇨🇦]t.me/ConfigsHub`
-vless://05b6e9e9-91ef-44bb-8ed3-11952029e27a@AstroVPN-official.AstroVPN-official.workers.dev:443?encryption=none&security=tls&sni=ua2.vless.site&type=ws&host=ua2.vless.site&path=%2FJoin-Telegram-Channel-@AstroVPN_official#[🇨🇦]t.me/ConfigsHub`
-vless://795028db-507c-44bb-b78c-cb1c615a29da@AstroVPN-official.AstroVPN-official.workers.dev:443?encryption=none&security=tls&sni=ua1.v2vless.xyz&type=ws&host=ua1.v2vless.xyz&path=%2FJoin-Telegram-Channel-@AstroVPN_official#[🇨🇦]t.me/ConfigsHub`
-vless://ec3de2db-bfc3-4ac3-9b3e-0ea9f04ed251@AstroVPN-official.AstroVPN-official.workers.dev:443?encryption=none&security=tls&sni=it2.v2vless.xyz&type=ws&host=it2.v2vless.xyz&path=%2FJoin-Telegram-Channel-@AstroVPN_official#[🇨🇦]t.me/ConfigsHub`
-vless://ff425c99-4d74-4645-8471-bc3626d7e14d@AstroVPN-official.AstroVPN-official.workers.dev:443?encryption=none&security=tls&sni=nl2.v2vless.xyz&type=ws&host=nl2.v2vless.xyz&path=%2FJoin-Telegram-Channel-@AstroVPN_official#[🇨🇦]t.me/ConfigsHub`

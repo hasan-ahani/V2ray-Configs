@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.12:8443?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.12:8443
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@47.236.144.156:2096?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇸🇬 SG-47.236.144.156:2096
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.252.184:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=TELEGRAM-MARAMBASHI%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.252.184:443
+vless://d92f2c5c-5fe5-4034-b48a-6e50ff820877@104.16.122.175:8080?security=none&sni=de7.vlessx.us&type=ws#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.122.175:8080
+vless://23002f00-35b4-4080-bea1-31c03920a9bd@172.67.73.168:8443?security=tls&sni=sky4.alldownloads.info&type=ws&host=sky4.alldownloads.info&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.73.168:8443
 vless://a0bd15ab-577a-47ea-940c-741319e89069@162.159.136.234:2083?security=tls&sni=re2.v2logy.xyz&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.136.234:2083
 vless://e3b89bf0-3e33-4722-b2d4-99129445c039@85.9.111.19:5054?security=none&type=ws&host=s15.leader21.top&path=/http#🔒 VL-WS-NONE 🇮🇷 IR-85.9.111.19:5054
 vless://13be7b64-8a46-4724-9cf2-4c7eddd4c56b@104.25.233.225:2096?security=tls&sni=sPeEd.vbox778.info.&type=grpc&fp=firefox&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.25.233.225:2096
@@ -78,8 +83,3 @@ vless://51baeda8-1288-458a-b5ae-b8b080b937b6@104.16.61.8:8880?security=none&type
 vless://e03be1d4-bd9a-45dd-a6cd-4ada8e9be94a@172.66.47.98:2053?security=tls&sni=defcjkodfvgerjifkvsdfcedfcdv78d5f4jijijjh785696.bale.bio&type=ws&host=defcjkodfvgerjifkvsdfcedfcdv78d5f4jijijjh785696.bale.bio&path=/backup&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.98:2053
 vless://5820fa47-3140-45f8-cdf0-d3e71cfe8cc5@104.24.191.39:2083?security=tls&sni=dev-cloud-srv01.cyberscaler.com&type=ws&host=dev-cloud-srv01.cyberscaler.com&path=/online-store-shoes/&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.191.39:2083
 vless://f57d8714-2331-4287-97a6-eb823ae77ffc@66.235.200.107:8443?security=tls&sni=vmessorg.xn--54qv00ez5ar77g.co&type=ws&host=vmessorg.xn--54qv00ez5ar77g.co&path=%2F&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-66.235.200.107:8443
-vless://470e861d-9be1-4057-bbdd-1c7278fe375f@190.93.247.247:443?security=tls&sni=AntiV2ray.godratmand.link&type=grpc&serviceName=@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-190.93.247.247:443
-vless://2b278414-fad7-51c9-a8df-11848fee1487@104.21.89.155:2087?security=tls&sni=esetsecuritylicense.rihej59344.wORkErs.dEV&type=ws&host=esetsecuritylicense.rihej59344.wORkErs.dEV&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.89.155:2087
-vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@31.43.179.106:443?security=tls&sni=v300.ylkszy.eu.org&type=ws&path=/?proxyip#🔒 VL-WS-TLS 🇰🇿 KZ-31.43.179.106:443
-vless://9eed4ef6-fd5e-40d5-8f2c-4e90c92011ca@172.67.156.210:8443?security=tls&sni=re1.v2logy.xyz&type=grpc&fp=safari&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.156.210:8443
-vless://92505265-b1d6-40ac-ad3a-ac031970d5af@104.24.32.188:2087?security=tls&sni=melody.howareu.xyz&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.24.32.188:2087

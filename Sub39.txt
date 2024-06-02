@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://70aa6fd6-9d04-4657-9eaa-2946541f6deb@188.114.96.217:443?security=tls&sni=071ll2532.16965a6a7d.workers.dev&type=ws&host=071ll2532.16965a6a7d.workers.dev&path=%2F%3Fed%3D2560&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.217:443
+vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.53.20:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.53.20:443
+vless://3d84e2d2-5569-4d20-91a6-f1bf88b7eaad@188.114.98.4:8880?security=none&type=ws&host=%D0%BE%D1%8F-nayawi-%D9%88%D8%AF%D8%A2%D9%86-%E9%96%83%E9%9B%BBd.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&path=%2F%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+JOIN+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+JOIN+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+JOIN+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+%40ZeV2ray#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.98.4:8880
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.133:2087?security=tls&sni=a.ssll.gay&type=ws&path=twitterfreecodes#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.133:2087
+vless://de44b044-8f90-4e18-b742-16591667ff96@172.66.47.196:443?security=tls&sni=edgetunnel-free.pages.dev&type=ws&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.196:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@152.69.199.70:8443?security=tls&sni=zdy222.kpcloud.eu.org&type=ws&path=/blue#🔒 VL-WS-TLS 🇯🇵 JP-152.69.199.70:8443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@108.165.216.42:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-108.165.216.42:443
 vless://f5a5b033-d600-11ee-aaa8-00505603e70d@172.67.73.241:443?security=tls&sni=st-gb-1.brocdn.com&type=ws&host=st-gb-1.brocdn.com&path=/websocket#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.73.241:443
@@ -78,8 +83,3 @@ vless://775213ac-3976-439a-8977-3277c0e4735d@5.10.245.59:443?security=tls&sni=fq
 vless://9d272efb-7bc6-4124-b15b-b088e374cb0b@104.21.60.80:8443?security=tls&sni=Hot_V2Ry.tahrim-shekan.space&type=ws&host=Hot_V2Ry.tahrim-shekan.space&path=%2F&fp=chrome&alpn=http%2F1.1%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.60.80:8443
 vless://e4e7b149-8bd8-4266-8cbb-0987604dbc87@162.159.58.82:443?security=tls&sni=toujiediansigema.5112233.xyz&type=ws&host=toujiediansigema.5112233.xyz&path=TG%40juzibaipiao%E5%81%B7%E8%8A%82%E7%82%B9%E6%AD%BB%E5%90%97#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.58.82:443
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@185.18.250.25:443?security=tls&sni=xin111.ylks.link&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇨🇭 CH-185.18.250.25:443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@146.70.175.111:80?security=none&type=ws&path=%2Fblue#🔒 VL-WS-NONE 🇳🇱 NL-146.70.175.111:80
-vless://8545c44f-b1b4-4295-ae98-f0b6301a537f@172.66.46.214:8443?security=tls&sni=ios-azadnet.pages.dev&type=ws&path=%2F%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.46.214:8443
-vless://2a93a49b-d7dd-43fd-834c-b8786c063f44@104.17.175.151:2087?security=tls&sni=hukfyukgilkgil.mic-mokhaderat-irancell-shatel-irancel.shop&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.175.151:2087
-vless://e25c05de-3386-45a7-a0bd-87f474f5efa6@104.26.15.85:80?security=none&type=ws&host=xjftydftg7654AafHvF.ir.com.bargo.lol.&path=%2FBARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.15.85:80
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.26.13.54:443?security=tls&sni=PrOXySTORePANeL.eU.ORg&type=ws&host=pROXYSTorepAnEl.Eu.OrG&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.13.54:443
