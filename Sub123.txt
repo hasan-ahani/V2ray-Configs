@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://telegram-id-privatevpns@13.42.168.219:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A5102
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.75.136.21:5003#US40%201.9MB%2Fs
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.87:8118#US41%201.9MB%2Fs
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.162.200.181:8008#%E6%9C%AA%E7%9F%A5103%201.9MB%2Fs
 trojan://4xKIHqPURA@54.169.171.52:16547?security=tls&type=ws&sni=m.zoom.us&path=/#%E6%9C%AA%E7%9F%A5104
 trojan://telegram-id-directvpn@3.8.228.220:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A5105
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.157.40.120:8091#US42%201.9MB%2Fs
@@ -83,3 +79,7 @@ ss://MThjYjFlODQtYWVjMi00NGIzLWFhZGQtNWQwNDBmNDdhODQyOg==@104.27.0.136:443#%E6%9
 trojan://951bbbc9-c5fd-441e-ac3d-c7fcfbf4a751@173.245.58.100:443?security=tls&type=ws&sni=se1.trojanvpn.de&path=/websocket&host=se1.trojanvpn.de#%E6%9C%AA%E7%9F%A5158
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.162.200.181:7306#%E6%9C%AA%E7%9F%A5159%201.9MB%2Fs
 trojan://224c91ee-7e18-4f1e-86bb-c1836f218c95@23.102.247.249:443?#HK5
+ss://NWZhYTk0YzYtZWEyNy00ZWEwLTllMzktMmRlM2Q2ZWE5YmUxOg==@104.21.33.85:8880#%E6%9C%AA%E7%9F%A5160
+ss://ZjdkMmU1M2UtMDcyOC00OWIwLTg5ZjctYWQ3MzBlZTBjYzQ5Og==@172.67.190.251:443#%E6%9C%AA%E7%9F%A5161
+ss://Nzk5NzgwMjctZWYxNi00MTM3LWIxOGUtOTA1ZjhjMThmODQ1Og==@104.26.15.0:8080#%E6%9C%AA%E7%9F%A5162
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTYzIDE3LjhNQi9zIiwiYWRkIjoiMTcyLjY3Ljc0LjQiLCJwb3J0IjoiNDQzIiwiaWQiOiI0NDFkYTM0Mi1jZTkwLTQ0MWUtYmZmOS1kMmNlYjU1ZTY4Y2EiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJtaWthc2EueWFlbWlrby5jbG91ZG5zLm9yZyIsInBhdGgiOiIvaXZpZGVvcy5zYnMvbGlua3dzIiwidGxzIjoidGxzIiwic25pIjoibWlrYXNhLnlhZW1pa28uY2xvdWRucy5vcmciLCJ0ZXN0X25hbWUiOiIxNjMifQ==
