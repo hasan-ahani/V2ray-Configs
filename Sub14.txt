@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://3a545c46-3e0b-40b8-bacc-dbebf79f23f1@sg2-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Vless%20WS%20@V2rayStore
 vless://cd37e48f-b356-4bc2-9104-c4ed5b4abe8c@sg3-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Vless%20WS%20@V2rayStore
 vless://0d687a8f-3ae0-4636-9ffc-fd5c03565b76@id-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%20Vless%20WS%20@V2rayStore
 vless://784ac000-557e-4b07-ba1b-de1ef3788ec7@hk-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20Vless%20WS%20@V2rayStore
@@ -82,4 +83,3 @@ vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.67.217:443?security=tls&sni=
 vless://67bc7aed-a81c-40f4-810f-61e44c077644@185.146.173.58:8080?security=none&type=ws&host=El.V2ray.Community.&path=%2FJoin--ELiV2Ray.El.V2ray.community#@Hope_Net-join-us-on-Telegram
 vless://91484c71-0762-47b8-82ad-8eae6f240278@162.159.128.233:2096?security=tls&sni=join-zedmodeon.zedmodeon-zedmodeon-zedmodeon.shop&type=grpc&serviceName=%40ZEDMODEON+%40ZEDMODEON+%40ZEDMODEON&fp=chrome&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram`vless://0ac87cdb-e122-46c9-f3ce-6a02d5b1678f@5.161.103.154:20569?security=none&type=tcp&host=speedtest.net&headerType=http#[🇺🇸]t.me/ConfigsHub`
 vless://8d494739-b3cc-494d-b405-5bc10b998213@ch.ni-ham.info:2053?path=%2F%3Fed%3D2087&security=tls&encryption=none&alpn=h2&host=ajghrr.f-vipo.ir&fp=chrome&type=ws&sni=ajghrr.f-vipo.ir#%40proxyymeliii
-vless://f28803ab-a87d-4aa4-97cd-de070a779cf1@LIGHTNING6-joinbed.filj.top:8880?path=/@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-@LiV2ray&security=none&encryption=none&host=LiV2raye.lightningz.ir.&type=ws#[🇸🇪]t.me/ConfigsHub`
