@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://8ecd66d4-9e6a-4513-8d20-75d4e28514bd@87.107.164.103:2022?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-87.107.164.103:2022
-vless://c9b81f8d-035e-4feb-9a15-ab470aea4f3e@193.151.149.30:2052?security=none&type=tcp&host=sheypoor.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-193.151.149.30:2052
-vless://e9d4444f-e9f6-41e4-b066-8cf38b86a862@172.67.217.144:443?security=tls&sni=ua2-vless.sshmax.xyz&type=ws&host=ua2-vless.sshmax.xyz&path=%2Fvless#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.217.144:443
 vless://f0f67b84-2770-4413-8b26-cfb302fac247@172.67.158.108:80?security=none&type=ws&host=v2fly.milik-fukada.eu.org&path=%2F%40vano_ganzzz#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.158.108:80
 vless://7fd7c15d-95cd-4f5c-bf59-f21e5eb27580@104.19.204.138:2083?security=tls&sni=3k.dabee.top&type=ws&host=3k.dabee.top&path=%E3%80%90TG%EF%BC%9A%40juzibaipiao%E3%80%91%E5%AE%9A%E6%97%B6%E6%9B%B4%E6%96%B0%E8%8A%82%E7%82%B9#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.204.138:2083
 vless://85d14a78-afc6-4490-85c8-9f2a16fb063f@104.21.94.60:443?security=tls&sni=n31nl.rashopfa.ir&type=grpc&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.94.60:443
@@ -83,3 +80,6 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@[::ffff:6816:4442]:2053?security=tl
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.168.166.62:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇬🇧 GB-18.168.166.62:22222
 vless://7bedf632-b4c2-4e90-9d8b-f42ee7145534@141.193.213.10:443?security=tls&sni=shinobbbnbu.yaemiko.cloudns.org&type=ws&host=shinobu.yaemiko.cloudns.org&path=/&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇺🇸 US-141.193.213.10:443
 vless://420cdff4-40fa-4b49-a078-008c5475bce1@188.212.97.62:2023?security=none&type=tcp&host=playstation.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-188.212.97.62:2023
+vless://222badf2-8e87-479a-8b77-1a3c952edac2@104.21.92.186:2096?security=tls&sni=vipping.antiping.click&type=grpc&serviceName=sourceforge.net&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.92.186:2096
+vless://42ffee2f-49ce-402b-a4df-43aa118d9061@91.195.110.64:8080?security=none&type=ws&host=V2ray.digikala.com-mykit.ir.nobitex.com.IMhyW5477e.DAILYCONFIGS.vigilantecollection.com.&path=%2F---%40Daily_Configs---%40Daily_Configs---%40Daily_Configs---%40Daily_Configs---%40Daily_Configs#🔒 VL-WS-NONE 🇨🇴 CO-91.195.110.64:8080
+vless://1fc36454-5885-4ffb-9bec-fb207b30c8dd@172.104.147.211:16132?security=none&type=tcp#🔒 VL-TCP-NONE 🇩🇪 DE-172.104.147.211:16132

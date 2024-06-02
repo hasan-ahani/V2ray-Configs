@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://1622d31e-9023-4f1a-b553-9d10d7d2da90@45.159.218.41:443?security=tls&sni=free-sweden-c8f4261f9f46e6465709e17ebea7a92b.mitowear.com&type=ws&host=free-sweden-c8f4261f9f46e6465709e17ebea7a92b.mitowear.com#🔒 VL-WS-TLS 🇺🇸 US-45.159.218.41:443
-vless://9cf47438-4a75-47bf-8f86-102644470797@104.16.124.175:8080?security=none&sni=nl16.vlessx.us&type=ws#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.124.175:8080
-vless://6d29d7cf-befc-4dd7-9238-5885960c6bc4@104.20.224.95:443?security=tls&sni=7Fe600D3b53c4bb9de9C863cad96d1.nv2ROn.ir&type=ws&host=7fe600d3b53c4bb9de9c863cad96d1.nv2ron.ir&fp=chrome&alpn=h3,h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.224.95:443
 vless://1bab0961-b22c-411f-b955-09c4aed2d2c1@23.227.39.31:443?security=tls&sni=us3.hnkkt.top&type=ws&path=/gsjc/us3#🔒 VL-WS-TLS 🇨🇦 CA-23.227.39.31:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.10.128:2096?security=tls&sni=xxx.donated002.workers.dev&type=ws&host=xxx.donated002.workers.dev&path=%2F@V2VIPCHANNEL%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.10.128:2096
 vless://4b1d9f3a-6cdf-49e8-929b-5e5cedae5d31@172.67.131.240:443?security=tls&sni=freedom15.maber99212.workers.dev&type=ws&host=freedom15.maber99212.workers.dev&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.131.240:443
@@ -83,3 +80,6 @@ vless://bcf50589-9654-4331-93a6-da896914ec47@172.66.47.2:443?security=tls&sni=de
 vless://d480372f-6596-4177-ae85-28af07adf1cb@104.21.37.97:2053?security=tls&sni=selinc--5--selinc--5--selinc.muosqv.workers.dev&type=ws&host=selinc--5--selinc--5--selinc.muosqv.workers.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.37.97:2053
 vless://6e08a6cc-6c5c-4a10-b2b3-efbeede3ca0f@104.18.177.104:8880?security=none&type=ws&host=v2kingfree.6.5.4.5.ir.speedtest.shop.com.xn--fhqpqv8rrth13sbaaac958pc94anf0d8gmha8i.shop.&path=%2FV2kingfree-V2ray69Speed.ir.shop.com%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.177.104:8880
 vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@47.236.164.215:2087?security=tls&sni=8582b6f2-7192-4da8-a4cb-c480b71e6c58.e8e54e0f-6317-448a-9999-95f6e16f7117.ooguy.com&type=ws&path=%2Fpasge.pages.dev%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇸🇬 SG-47.236.164.215:2087
+vless://1235b6fb-7f15-4361-8da3-d1a079bdf484@104.21.7.50:443?security=tls&sni=who-doesnt-care.BacheBiaPain.IR&type=ws&host=who-doesnt-care.BacheBiaPain.IR&path=%2F&fp=randomized&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.7.50:443
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.85.230:80?security=none&type=ws&host=us1.rtacg.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.85.230:80
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@193.9.49.114:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-193.9.49.114:443

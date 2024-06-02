@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://1bab0961-b22c-411f-b955-09c4aed2d2c1@23.227.39.133:443?security=tls&sni=us4.hnkkt.top&type=ws&path=/gsjc/us4#🔒 VL-WS-TLS 🇨🇦 CA-23.227.39.133:443
-vless://57eeb7e6-2925-408f-b377-4d4ec4eeb55e@104.17.169.114:80?security=none&type=ws&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.169.114:80
-vless://3d84e2d2-5569-4d20-91a6-f1bf88b7eaad@188.114.98.4:8880?security=none&type=ws&host=%D0%BE%D1%8F-nayawi-%D9%88%D8%AF%D8%A2%D9%86-%E9%96%83%E9%9B%BBd.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&path=%2F%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+JOIN+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+JOIN+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+JOIN+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+%40ZeV2ray#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.98.4:8880
 vless://5dc23bba-0e31-4016-895f-517ce4b7ccc0@172.67.178.12:443?security=tls&sni=glassiest.toptechnonews.com&type=ws&path=/nimws#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.178.12:443
 vless://2ca42987-551b-4494-a854-da2d9178f4cd@104.21.13.125:2087?security=tls&sni=KxQhHtGc22.zImBa-zUlA.OrG&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.13.125:2087
 vless://eb3ad716-faf4-417e-85d2-b0504e3a7912@162.159.130.234:8443?security=tls&sni=discord.gg&type=grpc&serviceName=@u3erVpn&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.130.234:8443
@@ -83,3 +80,6 @@ vless://f647faa9-81db-43ed-b438-25fba61e2eda@172.66.44.76:443?security=tls&sni=p
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.244.1:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=TELEGRAM-MARAMBASHI%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.244.1:443
 vless://242b7fb0-d590-57bd-9924-38092b4a8f21@172.67.212.171:2096?security=tls&sni=esetsecuritylicense.ujlqwtae.workers.Dev&type=ws&host=esetsecuritylicense.ujlqwtae.workers.Dev&path=vless-ws%2F%3Fed%3D2048&fp=edge&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.212.171:2096
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@35.230.79.26:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇺🇸 US-35.230.79.26:443
+vless://ca55bbf2-0c13-4b63-9dcd-047c38551750@104.21.75.237:2087?security=tls&sni=erfan.erfan90.oNflaShdriVe.app.&type=grpc&fp=firefox&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.75.237:2087
+vless://7143e704-5957-42db-bd38-670062722461@172.67.217.107:80?security=none&type=ws&host=buyz.ribiwa9933.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.217.107:80
+vless://3a9185b8-34b7-4105-b442-e41e8a0128a7@172.67.171.43:443?security=tls&sni=fr1-vless.sshmax.xyz&type=ws&host=fr1-vless.sshmax.xyz&path=%2Fvless#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.171.43:443
