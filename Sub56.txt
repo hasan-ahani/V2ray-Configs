@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://1c4520d8-b91d-4a6d-b21e-fbe98da8f363@104.26.6.149:2053?security=tls&sni=norooz.cconfigv2ray.workers.dev&type=ws&host=norooz.cconfigv2ray.workers.dev&path=vless-ws%2F%3Fed%3D2048&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.6.149:2053
-vless://e95d51c4-b8aa-464e-9524-89f3655ed33a@104.21.237.55:2053?security=tls&sni=x.cr0047.workers.dev&type=ws&host=x.cr0047.workers.dev&path=vless-ws%2F%3Fed%3D2048&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.237.55:2053
-vless://ffb792e9-f974-48f9-9914-4441481b43a3@104.24.196.20:8080?security=none&type=ws&host=fire.abrarvan.xyz&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.196.20:8080
-vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.64.105.25:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.105.25:443
-vless://df31dad5-9cda-4fa1-a846-3b52da26e14d@185.215.231.223:47148?security=none&type=tcp&host=divarcdn.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.215.231.223:47148
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.18.28.171:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.28.171:443
-vless://7ac39a71-e678-4621-80bc-a0fc38866d17@172.66.47.171:443?security=tls&sni=pardazeshvpn-tg95.pages.dev&type=ws&host=pardazeshvpn-tg95.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.171:443
 vless://17b4ec75-c687-4948-9de8-af6c2180ee44@104.21.25.46:443?security=tls&sni=de2-vless.sshmax.xyz&type=ws&host=de2-vless.sshmax.xyz&path=%2Fvless&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.25.46:443
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@210.186.12.244:443?security=tls&sni=v222.ylkszy.eu.org&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇲🇾 MY-210.186.12.244:443
 vless://a290c15c-066a-4c25-9fa2-f50b0d3d9ba6@104.17.80.220:2095?security=none&type=ws&host=svm.zula.ir.gta.ir.zula.com.mast.com.rast.com.shoplfooioood.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95karsovalomn.atkfood.com.&path=%2FAMVPN%3Fed%3D1024#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.80.220:2095
@@ -83,3 +76,10 @@ vless://79dcfd28-02af-42fd-af73-232f31ae0201@172.67.73.174:8880?type=ws&host=kia
 vless://e35e7272-db34-41ae-baab-e8af09e80d2e@104.17.180.185:2083?security=tls&sni=Coc.unique69.com&type=ws&host=Coc.unique69.com.&path=/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.180.185:2083
 vless://305705d2-ffcc-487f-a827-e728e61681d2@176.126.113.161:2003?security=tls&sni=nl2-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇳🇱 NL-176.126.113.161:2003
 vless://ecd404a2-70b2-4e89-8339-89536cdfae52@172.67.178.114:8080?security=none&type=ws&host=king1980us.50fo8itj.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.178.114:8080
+vless://b9fffe76-52b6-40fb-acd1-de7a577773cb@172.66.213.5:2087?security=tls&sni=LiV2rayd.yoyoyo.ir&type=ws&host=LiV2rayd.yoyoyo.ir.&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.213.5:2087
+vless://fc1191c8-e724-482f-a492-90d3d386719c@172.67.182.207:2096?security=tls&sni=sisand.waztow.wOrkErS.DEv&type=ws&host=sisand.waztow.wOrkErS.DEv&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.182.207:2096
+vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@198.41.212.232:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.212.232:443
+vless://10aecf00-ad54-49d5-9643-e356b5a16bab@172.67.194.102:443?security=tls&sni=selinc-selinc-selinc-selinc.kuhkf.workers.dev&type=ws&host=selinc-selinc-selinc-selinc.kuhkf.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=safari&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.194.102:443
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.109.21.173:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-185.109.21.173:443
+vless://283516af-082c-4f67-b392-ea3add35b9c1@172.67.144.15:443?security=tls&sni=vvv.v2ray96.filegear-sg.me&type=grpc&serviceName=188.114.99.0&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.144.15:443
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.76.77.103:2096?security=tls&sni=zdy222.kpcloud.eu.org&type=ws&path=/blue#🔒 VL-WS-TLS 🇭🇰 HK-47.76.77.103:2096
