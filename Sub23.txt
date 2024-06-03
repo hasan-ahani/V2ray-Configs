@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://30a28aa5-d0fd-47c9-9eaf-17d62e1c9659@162.159.134.13:2095?security=none&type=ws&host=C1.snapifood.oRg.&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.134.13:2095
-vless://df3a075c-13b4-442d-b789-4832defc4abd@162.159.153.2:8443?security=tls&sni=telegram-falcunargo-bulgari.falcunar.asso.eu.org&type=ws&host=telegram-falcunargo-bulgari.falcunar.asso.eu.org&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.2:8443
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.217.107:443?security=tls&sni=EA6530e9.nXZu-61iuaN-xD.PageS.DEV&type=ws&host=EA6530e9.nXzu-61iuAn-XD.PaGEs.dEV&path=%2F..TeleGram..%40Free_V2rng..%3D%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.217.107:443
-vless://9cc8a2cb-3d1c-4d0c-bf50-a727d38a371b@172.67.142.10:2087?security=tls&sni=turkey-mci-hhh.jsfui232.ir&type=grpc&fp=safari&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.142.10:2087
 vless://b2de993e-1be6-4540-af56-d44b81d7ab3a@5.61.36.77:35028?type=tcp&host=telewebion.com&headerType=http#🔒 VL-TCP-NA 🇩🇪 DE-5.61.36.77:35028
 vless://01ab9337-f478-4765-9534-88f009f83ddb@8.219.78.188:2083?security=tls&sni=aut226.ylks.link&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇬 SG-8.219.78.188:2083
 vless://f08ed492-e498-4e86-b1c1-6997f90cd4e6@104.21.74.214:2052?security=none&type=ws&host=1.ftp.debian.org.www.speedtest.net.%E5%85%8D%E8%B4%B9%E4%B8%8A%E7%BD%9167.Site.&path=%2F%2Ftelegram-proxy-mtm-telegram-proxy-mtm-telegram-proxy-mtm%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.74.214:2052
@@ -83,3 +79,7 @@ vless://f478a594-5882-4713-bfdc-80c3e9345bd1@140.248.161.35:80?security=none&typ
 vless://c72ce5a5-6419-4356-82d3-440fdf3136b1@104.20.254.143:80?security=none&type=ws&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.254.143:80
 vless://bef03301-0488-4ecd-8561-78d95d27ef4e@185.146.173.92:443?security=tls&sni=de3.v2vless.xyz&type=ws&host=de3.v2vless.xyz&path=%2Fvless+%40hopev2ray%2C%40hopev2ray%2C%40hopev2ray%2C%40hopev2ray%2C%40hopev2ray+ed%3D2048#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.92:443
 vless://9eca653e-c443-4e37-a9ec-e417e5fa072e@104.18.202.232:2095?security=none&type=ws&host=2.v2ray.debian.org.fxp.debian.org.speedtest.net.らわなさらわ.taje-kabir.online.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.202.232:2095
+vless://4f2ae754-5819-4a53-b5f2-c37b5a7ffccc@195.244.41.38:25168?security=none&type=tcp&host=speedtest.net&path=/@SafeNetIR-@SafeNetIR-@SafeNetIR-@SafeNetIR-@SafeNetIR-@SafeNetIR-@SafeNetIR-@SafeNetIR-@SafeNetIR-@SafeNetIR-@SafeNetIR-@SafeNetIR-@SafeNetIR-@SafeNetIR&headerType=http#🔒 VL-TCP-NONE 🇹🇷 TR-195.244.41.38:25168
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.31.105:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=/?ed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.31.105:443
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@204.93.210.128:2096?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-204.93.210.128:2096
+vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.173.226:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.173.226:443
