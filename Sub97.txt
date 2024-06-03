@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.159.149.192:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇩🇪 DE-35.159.149.192:22222
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@91.149.239.72:443?security=tls&sni=hk222.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-91.149.239.72:443
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.18.28.171:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.28.171:443
+vless://55a425bd-b7ea-58f6-a719-684b1f6effcc@104.21.0.215:2096?security=tls&sni=subsurf.surfboardc16.WoRKErs.Dev&type=ws&host=subsurf.surfboardc16.WoRKErs.Dev&path=vless-ws%2F%3Fed%3D2048&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.0.215:2096
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.97.123:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.97.123:443
 vless://f211caae-afdd-4aa8-c332-83a375bdab06@104.21.50.56:443?security=tls&sni=prod01-cloud-sea-net01.cyberscaler.com&type=ws&host=prod01-cloud-sea-net01.cyberscaler.com&path=/ski-sales-online/&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.50.56:443
 vless://5ef01b16-ca53-4516-9d0e-6f9f3e6da0d0@172.67.163.103:2087?security=tls&sni=al.moienmusic.space&type=grpc&serviceName=Telegram:@POLPROXY-Telegram:@POLPROXY-Telegram:@POLPROXY-Telegram:@POLPROXY-Telegram:@POLPROXY-Telegram:@POLPROXY-Telegram:@POLPROXY-Telegram:@POLPROXY&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.163.103:2087
@@ -79,7 +83,3 @@ vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.59.83:443?security=tls&sni=s
 vless://3d39930a-b33a-45d0-b511-f2b8d4d00c1e@91.195.110.245:2053?security=tls&sni=kfkjhkuyg.mic-mokhaderat-irancell-shatel-irancel.shop&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🇨🇴 CO-91.195.110.245:2053
 vless://de44b044-8f90-4e18-b742-16591667ff96@199.19.106.244:443?security=tls&sni=edgetunnel-free.pages.dev&type=ws&path=%2F%3Fed&fp=randomized#🔒 VL-WS-TLS 🇺🇸 US-199.19.106.244:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@8.218.74.119:80?security=none&type=ws&path=/blue#🔒 VL-WS-NONE 🇭🇰 HK-8.218.74.119:80
-vless://76434743-2a94-4cfd-8170-8e3971419b36@172.66.44.237:443?security=tls&sni=pardazeshvpn-tg85.pages.dev&type=ws&host=pardazeshvpn-tg85.pages.dev&path=%2FTelegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.237:443
-vless://770e8a1b-980e-474d-b583-2e4e98acb854@8.217.159.210:2083?security=tls&sni=notls.11111111.eu.org&type=ws&path=/proxyip#🔒 VL-WS-TLS 🇭🇰 HK-8.217.159.210:2083
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@129.154.206.254:59158?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇰🇷 KR-129.154.206.254:59158
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.202.204:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.202.204:443

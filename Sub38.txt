@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.241.10:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.241.10:443
+vless://bb8f41c4-ebfe-4210-f0d9-14a65c3e433e@193.111.236.194:8443?security=tls&sni=skyroom.online.usir.pingvps.shop&type=tcp&fp=chrome&allowInsecure=1#🔒 VL-TCP-TLS 🇮🇷 IR-193.111.236.194:8443
+vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.16.122.175:443?security=tls&sni=bIa-PAIN-bACHe.paGeS.Dev&type=ws&host=biA-PaiN-bACHe.pagES.DeV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.122.175:443
+vless://f457feed-2a34-40c0-98f2-6e7ae5cc2865@104.25.254.88:8880?security=none&type=ws&host=2.v2ray.debian.org.fxp.debian.org.speedtest.net.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95%E3%82%89%E3%82%8F.jomong.space.&path=%2Ftel-nt-safe%2Ctel-nt-safe%2Ctel-nt-safe%2Ctel-nt-safe%2Ctel-nt-safe%3Fed%3D80#🔒 VL-WS-NONE 🏴‍☠️ NA-104.25.254.88:8880
 vless://f56362e0-909f-4094-a15e-fb4b32b952cb@45.131.208.0:2087?security=tls&sni=ililoxnu.ziroxbioxa.OnFLashDrive.aPp&type=ws&host=ililoxnu.ziroxbioxa.OnFLashDrive.aPp&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇳🇱 NL-45.131.208.0:2087
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.18.26.94:8443?security=tls&sni=jp226.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.26.94:8443
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.252.167:80?security=none&type=ws&host=us1.rtacg.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.252.167:80
@@ -79,7 +83,3 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.170.220:80?security=none&typ
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.94.169.99:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇦 UA-45.94.169.99:443
 vless://88b6885d-e5dd-46f9-b72c-f3b9794c4724@168.119.239.93:8080?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇩🇪 DE-168.119.239.93:8080
 vless://5a045a1e-d392-4c5b-b658-b57e4ea01b4f@104.21.18.147:443?security=tls&sni=virapn-d-3be7883659a1d2ba4c545dfdf85b61eda1.asiatechnicalwest.ir.&type=grpc&serviceName=@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.18.147:443
-vless://b01e3f02-d51b-43d8-af76-227a20fb0d0a@172.67.148.122:443?security=tls&sni=3.irancloudflare.cab&type=ws&host=3.irancloudflare.cab&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.148.122:443
-vless://d3fd9082-6ba0-42ef-9a79-87c7fea7eda9@172.67.137.35:443?security=tls&sni=garnet.torch1.top&type=ws&path=/&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.137.35:443
-vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@158.178.240.232:23559?security=tls&sni=v300.ylkszy.eu.org&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇸🇬 SG-158.178.240.232:23559
-vless://ae53d90e-618d-448a-96c5-66cdb0374077@37.27.26.224:2080?security=none&type=tcp&host=speedtest.net&path=/&headerType=http#🔒 VL-TCP-NONE 🇫🇮 FI-37.27.26.224:2080

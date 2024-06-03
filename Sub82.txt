@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://970a7f46-00c3-4ddc-8299-eadc5026ff32@195.123.213.46:2003?security=tls&sni=ua-full.privateip.net&type=grpc&serviceName=GRPC&path=/&allowInsecure=1#🔒 VL-GRPC-TLS 🇱🇻 LV-195.123.213.46:2003
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@47.236.144.156:2083?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇸🇬 SG-47.236.144.156:2083
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.125.39:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.125.39:443
+vless://4f430965-fb96-4a2e-c8cc-5e10d66e46ed@172.67.163.103:2096?security=tls&sni=sahari.savarkaraan.ir&type=grpc&serviceName=Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.163.103:2096
 vless://25d0ee2d-4190-52be-b892-45811c6ba210@104.21.91.52:2087?security=tls&sni=folani.iiipok.WoRkeRs.Dev&type=ws&host=folani.iiipok.WoRkeRs.Dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=safari&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.91.52:2087
 vless://298e7088-4d04-41cf-8122-e907c35e7a43@104.21.20.82:443?security=tls&sni=ww.napovafoodka.com.&type=grpc&serviceName=%40v2rayN_OPENAVPN%2C%40v2rayN_OPENAVPN%2C%40v2rayN_OPENAVPN%2C%40v2rayN_OPENAVPN%40v2rayN_OPENAVPN%40v2rayN_OPENAVPN%2C%40v2rayN_OPENAVPN&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.20.82:443
 vless://4045c6b7-1d53-4574-98cd-df21db40b0dc@172.67.118.209:2053?security=tls&sni=itcenteriran.blog&type=ws&host=itcenteriran.blog#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.118.209:2053
@@ -79,7 +83,3 @@ vless://c078b121-8bff-4ba5-82f2-9a2ac8b3aa75@172.67.146.50:2083?security=tls&sni
 vless://d672ec4f-afba-4f61-af09-eec872f97e99@104.18.29.181:8443?security=tls&sni=test75.pages.dev&type=ws&host=test75.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.29.181:8443
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.64.206.138:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.206.138:443
 vless://2362217c-bfee-4074-8f6f-478876f77fd4@190.93.247.32:2052?security=none&type=ws&host=3.ftp.debian.org.www.speedtest.net.人人人人人人人人人人.shop.#🔒 VL-WS-NONE 🏴‍☠️ NA-190.93.247.32:2052
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.211.142.221:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇺🇸 US-18.211.142.221:22222
-vless://aedc2f43-c824-49ed-aae7-b7e836d54a65@162.251.82.187:80?type=ws&host=7fe600d3b53c4bb9de9c863cad96d1.nv2ron.ir&path=%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%3Fed%3D2048#🔒 VL-WS-NA 🇺🇸 US-162.251.82.187:80
-vless://ecd404a2-70b2-4e89-8339-89536cdfae52@172.67.178.114:8080?security=none&type=ws&host=king1980us.50fo8itj.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.178.114:8080
-vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.78.249:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.78.249:443

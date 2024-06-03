@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@47.238.40.58:2053?security=tls&sni=vless.pagess.filegear-sg.me&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇭🇰 HK-47.238.40.58:2053
+vless://cbcceb3e-63be-42b3-ab9c-c36563c73526@104.24.197.20:8080?type=ws&host=ws.nastoh1.sbs&path=/#🔒 VL-WS-NA 🏴‍☠️ NA-104.24.197.20:8080
+vless://678ac895-92c2-4f27-a9d4-f1a89c5f5365@77.74.228.97:2087?security=tls&sni=mositr.freenods.sbs&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇧🇦 BA-77.74.228.97:2087
+vless://1426a594-04c9-40cc-9296-807c0f2bd7d6@104.31.16.32:2083?security=tls&sni=filternakonmadarjende.may-the-force-be-with-you.sbs&type=ws&host=filternakonmadarjende.may-the-force-be-with-you.sbs&path=/&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.31.16.32:2083
 vless://de837bd2-0abb-438d-87a2-0649d0703579@80.75.213.62:5016?security=none&type=tcp&host=nobitex.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-80.75.213.62:5016
 vless://4696af30-226f-4c73-8e65-82a239c87125@104.16.6.67:8080?type=ws&host=join-to.vmessorg.Community.#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.6.67:8080
 vless://c255f68f-18f7-488a-b7fc-06a5676564f0@104.21.4.8:2052?type=ws#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.4.8:2052
@@ -79,7 +83,3 @@ vless://10638abe-7adc-4cdb-f3aa-6c41813de2a9@104.21.31.15:2053?security=tls&sni=
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@190.93.244.152:443?security=tls&sni=mmdv2.pages.dev&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.244.152:443
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@14.102.228.141:2096?security=tls&sni=tg.dns68.cloudns.nz&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-14.102.228.141:2096
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@198.41.214.108:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.214.108:443
-vless://01ab9337-f478-4765-9534-88f009f83ddb@47.236.145.85:2053?security=tls&sni=aut226.ylks.link&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇬 SG-47.236.145.85:2053
-vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.79.188:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.79.188:443
-vless://5bad0d35-6fab-4044-d161-6d7633d639ae@18.160.41.38:443?security=tls&sni=app3-noizji4r.b4a.run&type=ws&path=/vless1#🔒 VL-WS-TLS 🇺🇸 US-18.160.41.38:443
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.18.182.141:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.182.141:443
