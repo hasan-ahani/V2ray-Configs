@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vmess://eyJhZGQiOiAiNDUuMTQuMjQ0LjEzMyIsICJhbGxvd0luc2VjdXJlIjogdHJ1ZSwgImFscG4iOiAiaDIsaHR0cC8xLjEiLCAiaWQiOiAiYTBlYTVjZTctYjFiMC00Y2E0LTg2MDctZGFjNTVkMDVjYTczIiwgIm5ldCI6ICJncnBjIiwgInBhdGgiOiAiIiwgInBvcnQiOiA0NDMsICJwcyI6ICIlRjAlOUYlODclQjMlRjAlOUYlODclQjElMjBQcmVtaXVtJTIwTmV3JTIwUFJFTUlVTSUyMCUyMEBWMnJheVN0b3JlIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
 vless://e64b691d-086d-4fa3-e27e-cbd707b761e7@de1.alphav2ray.link:443?type=grpc&serviceName=&security=tls&fp=&alpn=&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Premium%20PREMIUM%20%20@V2rayStore
 vless://292a05eb-f655-443c-befc-2c67ad1f497e@167.235.150.39:443?type=grpc&serviceName=&authority=&security=tls&fp=&alpn=http%2F1.1%2Ch2&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Premium%20DE%20PREMIUM%20%20@V2rayStore
 vmess://eyJhZGQiOiAiaW4tdjJyYXkuaXByYWNldnBuLmNvbSIsICJhaWQiOiAiMCIsICJhbHBuIjogImgyLGh0dHAvMS4xIiwgImhvc3QiOiAiIiwgImlkIjogImM3ZTkyZTMzLWIxNmUtNDc0NC04OGM0LWQ4YzBiMjM4NjBhZiIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiNDQzIiwgInBzIjogIiVGMCU5RiU4NyVBRSVGMCU5RiU4NyVCMyUyMEluZGlhJTIwJTIwQFYycmF5U3RvcmUiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
@@ -82,4 +83,3 @@ ss://aes-256-gcm:b830cf90-4d07-4899-aaec-9e454caf34b6@tr-full.privateip.net:8443
 ss://aes-256-gcm:665abb10-45be-4020-9b58-094b24422645@kz-full.privateip.net:8443#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20Shadowsocks%20@V2rayStore
 ss://aes-256-gcm:631df7de-2406-4798-b9a8-0fc8b2559513@uk-full.privateip.net:8443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20Shadowsocks%20@V2rayStore
 ss://aes-256-gcm:ef9cb891-bd8e-4011-9c88-1b37b675aa35@uk2-full.privateip.net:8443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20Shadowsocks%20@V2rayStore
-ss://aes-256-gcm:e16c25df-6e59-4fdc-9073-bde4b77a6532@de-full.privateip.net:8443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Shadowsocks%20@V2rayStore

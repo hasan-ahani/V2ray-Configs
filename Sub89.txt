@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://01ab9337-f478-4765-9534-88f009f83ddb@47.237.95.140:2053?security=tls&sni=aut226.ylks.link&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇬 SG-47.237.95.140:2053
 vless://c4d98ed1-69a5-49ad-b785-25fd2e081326@172.67.219.166:2053?security=tls&sni=Poshtiban.ehsa0535.top&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.219.166:2053
 vless://77a571fb-4fd2-4b37-8256-1b7d9728bb5c@104.18.5.250:80?security=none&type=ws&host=telegram-vpnhttpinjectorfree-013.elenore55.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.5.250:80
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@8.219.191.110:8443?security=tls&sni=zdy331.kpcloud.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇸🇬 SG-8.219.191.110:8443
@@ -82,4 +83,3 @@ vless://2f758eb2-d936-4254-9227-71c38fc04609@172.66.47.166:443?security=tls&sni=
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.204.183:8443?security=tls&sni=f43-OA8BtD-uD73-DH-sU38-d-2jD9-NxHAy2-i33-dCE33-iBZy26.pAGES.DeV&type=ws&host=f43-oa8btD-uD73-DH-su38-D-2jd9-nXHAY2-I33-DCE33-IBZY26.PaGes.deV&path=%2F----------%40Free_V2rng----------%40Free_V2rng----------%40Free_V2rng----------%40Free_V2rng----------%40Free_V2rng----------%40Free_V2rng----------%40Free_V2rng----------%40Free_V2rng----------%40Free_V2rng----------%40Free_V2rng----------%40Free_V2rng----------%40Free_V2rng----------%3D%3D%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.204.183:8443
 vless://31ee875d-63cf-4d85-839e-2def5ca4f794@104.18.15.242:2053?security=tls&sni=031c08e8175b0def.greenbook.monster&type=ws&host=031c08e8175b0def.greenbook.monster&path=%2F&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.15.242:2053
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@185.162.228.142:443?security=tls&sni=v300.ylkszy.eu.org&type=ws&path=/?proxyip#🔒 VL-WS-TLS 🇦🇲 AM-185.162.228.142:443
-vless://b87fbc0a-b080-4c5f-b20e-f065899dca6b@94.182.87.172:10193?security=none&type=tcp&host=efvu5cgz.speedtest1.shatel.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-94.182.87.172:10193

@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://af985ded-9881-4006-8792-ac230adec8b7@49.13.58.31:19231?security=none&type=tcp#🔒 VL-TCP-NONE 🇩🇪 DE-49.13.58.31:19231
 vless://eb44e1c7-e5ba-4446-807c-a0768a8f4589@104.16.12.82:2083?security=tls&sni=amovpn6.fqservers.com&type=ws&host=amovpn6.fqservers.com&path=/channel:@VPNAMOHELP_@VPNAMOHELP_@VPNAMOHELP_@VPNAMOHELP_@VPNAMOHELP_@VPNAMOHELP&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.12.82:2083
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.76.94:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.76.94:443
 vless://61958b98-d52a-420e-bb42-a3fd22985895@104.17.246.203:2096?security=tls&sni=italia.dalixw.fun&type=grpc&serviceName=.....&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.246.203:2096
@@ -82,4 +83,3 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.220.153:443?security=tls&sni
 vless://1582135f-ce66-4fcc-a231-4253db4ad098@162.159.129.233:8443?security=tls&sni=Nocdn.revil.link&type=grpc&serviceName=ORB&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.129.233:8443
 vless://e8c65e10-4030-418d-96b0-12c5650f9d9e@162.159.128.233:2086?security=none&type=ws&host=jD.neT.v2rayng6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.SaMaN.Monster.&path=%2F%2FJdv2rayng-V2rayngjd-telegram-jd_vpn%3Fed%3D80#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.128.233:2086
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.139.111:8443?security=tls&sni=baipiao1.curly-train.pages.dev&type=ws&host=baipiao1.curly-train.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.139.111:8443
-vless://38d10eab-39b9-4794-a814-b394a33da7c5@104.16.219.243:443?security=tls&sni=off.v2box.lol.&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.219.243:443
