@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://ae53d90e-618d-448a-96c5-66cdb0374077@79.175.176.216:2080?security=none&type=tcp&host=speedtest.net&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-79.175.176.216:2080
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.243.92:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.243.92:443
-vless://ffea89e6-3d42-4714-90e8-73be6ce45111@104.26.5.57:443?security=tls&sni=vps-aby.pages.dev&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.5.57:443
-vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@141.101.115.228:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-141.101.115.228:443
 vless://519a0f7f-5d5f-4e1d-8ded-69763fc9369a@77.105.146.212:8080?security=none&type=ws&host=google.com&path=%2F#🔒 VL-WS-NONE 🇩🇪 DE-77.105.146.212:8080
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.180.239:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.180.239:443
 vless://366236b3-b3cb-4097-9900-b46098a244b7@172.67.163.103:2086?security=none&type=ws&host=ip499.列列男事的事列上赛男78.com.&path=/Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.163.103:2086
@@ -83,3 +79,7 @@ vless://1d1a7193-61a9-4fc1-9778-dd517cf9f919@172.67.136.208:2096?security=tls&sn
 vless://aa2dc840-be38-4b4d-a002-ba234999fd55@198.41.223.34:8080?security=none&type=ws&host=cdn-allxn--b6gaceuorg.l4o117en.workers.dev&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.223.34:8080
 vless://9025aac9-703f-4ba8-9d0e-33986fc375fd@104.16.122.175:8880?security=none&type=ws&host=falcunargo.1035ed931e.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.122.175:8880
 vless://9e67f15c-178f-494c-a843-f371e3b3fa5d@162.159.137.102:8080?security=none&type=ws&host=king1980.b91sptsl.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.137.102:8080
+vless://86ba8b32-71a7-589c-b728-991c7c726d60@104.17.84.68:2083?security=tls&sni=esetsecuritylicense.jdnooo.wOrKErS.dEv&type=ws&host=esetsecuritylicense.jdnooo.wOrKErS.dEv&fp=chrome&alpn=h3,h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.84.68:2083
+vless://25c92028-febe-4ccd-b0b9-805328e9abb8@172.67.204.84:2053?security=tls&sni=2053.gooshttest.online&type=grpc&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.204.84:2053
+vless://7767dcb7-8f55-4fb0-8d65-aeb021d5f730@104.18.19.191:2096?security=tls&sni=kanal.metesla.site&type=grpc&serviceName=@global_net_vpn&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.19.191:2096
+vless://ee3fda1f-d8ec-44c7-942e-7e980b0b941c@104.24.234.35:2052?security=none&type=ws&host=P.a.n.jetupnet.sbs.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.234.35:2052
