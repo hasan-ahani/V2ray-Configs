@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://d1df4137-80cb-45b9-9292-36409ff7a88b@172.66.47.130:8443?security=tls&sni=pardazeshvpn-tg65.pages.dev&type=ws&host=pardazeshvpn-tg65.pages.dev&path=%2FTelegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.130:8443
-vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@162.159.46.105:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.46.105:443
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@20.239.29.247:34237?security=tls&sni=xin022.ylks.link&type=ws&path=/proxyip#🔒 VL-WS-TLS 🇭🇰 HK-20.239.29.247:34237
 vless://855d54f7-944d-4f04-9171-1ee5ab1d8b60@104.21.54.238:2086?type=ws#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.54.238:2086
 vless://12d2c26d-d64d-4942-88b8-c6e5a985c48e@104.25.73.28:8443?security=tls&sni=unlimiteddev.xn--9iqr0tm1r4wg.co&type=ws&host=unlimiteddev.xn--9iqr0tm1r4wg.co&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.73.28:8443
@@ -83,3 +81,5 @@ vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@27.50.49.13:443?security=tls&sni=ju
 vless://b33b8d28-14d2-4325-80e0-3331ed080b1d@162.159.133.233:2083?security=tls&sni=freev2fwfjkn.mahdi-zarei1436.workers.dev&type=ws&host=freev2fwfjkn.mahdi-zarei1436.workers.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.133.233:2083
 vless://1010501a-ca9a-479c-84d0-1308d97789b5@172.64.167.76:443?security=tls&sni=ehsan-ebrahimi.dolejir165.workers.dev&type=ws&host=ehsan-ebrahimi.dolejir165.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.167.76:443
 vless://10716279-b1ee-41d8-b63e-87782088305b@104.19.219.89:443?security=tls&sni=hey.BAcHebIapaIn.IR&type=ws&host=Hey.BacHEBiaPaIN.iR&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.219.89:443
+vless://80889296-f76e-49d2-8aa2-53755e42e790@172.67.73.216:443?security=tls&sni=dm.irandtehran.org&type=grpc&serviceName=@ipV2Ray&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.73.216:443
+vless://2b39449c-1063-44ce-93e4-21a984029ae7@172.67.180.67:8443?security=tls&sni=mehrdad-Spain.Zargarr.com&type=grpc&serviceName=@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.180.67:8443

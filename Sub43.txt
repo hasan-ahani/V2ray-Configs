@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://bd700852-b4e5-5acf-8463-e0af5835ff07@172.67.170.223:443?security=tls&sni=moon-yellow-dust-553a-f.fayez-jotham.WorKers.deV&type=ws&host=moon-yellow-dust-553a-f.fayez-jotham.WorKers.deV&path=vless-ws%2F%3Fed%3D2048&fp=firefox&alpn=h3,h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.170.223:443
-vless://a6cd3528-9962-4a13-ad5f-197aafb1babc@193.227.99.66:443?security=tls&sni=Xzc.donaldvpn.sbs&type=grpc&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🇲🇹 MT-193.227.99.66:443
 vless://ca2279db-9aa2-4137-a792-d88efcc2eae0@104.20.11.224:2096?security=tls&sni=full.gosharep.CoM&type=ws&path=/ws#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.11.224:2096
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@91.149.239.72:443?security=tls&sni=hk222.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-91.149.239.72:443
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@146.70.175.184:443?security=tls&sni=xin111.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇳🇱 NL-146.70.175.184:443
@@ -83,3 +81,5 @@ vless://1702734a-fe43-4b45-8a03-1ef12c5709e5@104.21.39.52:80?security=none&type=
 vless://7fd7c15d-95cd-4f5c-bf59-f21e5eb27580@104.19.204.138:2083?security=tls&sni=3k.dabee.top&type=ws&host=3k.dabee.top&path=%E3%80%90TG%EF%BC%9A%40juzibaipiao%E3%80%91%E5%AE%9A%E6%97%B6%E6%9B%B4%E6%96%B0%E8%8A%82%E7%82%B9#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.204.138:2083
 vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@104.21.90.210:2087?security=tls&sni=tnetplus-1wc.pages.dev&type=ws&host=tnetplus-1wc.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.90.210:2087
 vless://71bd091f-46f4-49f3-8dac-ecd81c328bfb@151.232.69.66:41118?security=none&type=tcp&host=nobitex.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-151.232.69.66:41118
+vless://678ac895-92c2-4f27-a9d4-f1a89c5f5365@88.216.66.74:2053?security=tls&sni=mositr.freenods.sbs&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇱🇹 LT-88.216.66.74:2053
+vless://266169d9-665f-4fed-b1a8-da29794ee3cd@104.21.60.240:2053?security=tls&sni=berovps.masoodbiranvand-230.workers.dev&type=ws&host=berovps.masoodbiranvand-230.workers.dev&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.60.240:2053

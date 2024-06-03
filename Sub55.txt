@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.21.76.195:8080?security=none&type=ws&path=%2Fyoutube-%E7%94%B1%E9%9B%B6%E9%96%8B%E5%A7%8B#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.76.195:8080
-vless://d6f79630-aa94-4536-b2ef-899b5acb3b49@104.16.67.38:2052?security=none&type=ws&host=vless-sub.n7p8ri7j.workers.dev&path=/unmanliest.appreviewcenter.com/nimws#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.67.38:2052
 vless://d6f2a18c-c334-4cda-a14a-362390cfde40@104.21.89.71:2083?security=tls&sni=selinc---6---selinc---6---selinc.gxjuztaq.workers.dev&type=ws&host=selinc---6---selinc---6---selinc.gxjuztaq.workers.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.89.71:2083
 vless://41e82b3f-d939-4c3d-83c1-09d7ff57526f@95.38.242.93:35021?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-95.38.242.93:35021
 vless://c3708323-48fe-49c2-aaef-84d0a4cd12ff@170.114.45.159:443?security=tls&sni=3my2cynahdu6esnujyt3kd0onc3orjj5nuhqvmoqqbd0sj-dyc.15zyyu2.workers.Dev&type=ws&host=3my2cynahdu6esnujyt3kd0onc3orjj5nuhqvmoqqbd0sj-dyc.15zyyu2.workers.Dev&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-170.114.45.159:443
@@ -83,3 +81,5 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.16.142.237:8443?security=tls&sn
 vless://79dcfd28-02af-42fd-af73-232f31ae0201@104.26.14.148:8880?security=none&type=ws&host=kiava.aws.amazon.com.f1.debian.org.speedtest.net.xn--mgba2h8quf.kiava.fun#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.14.148:8880
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.26.13.140:2083?security=tls&sni=jp022.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.13.140:2083
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.230.201:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.230.201:443
+vless://242b7fb0-d590-57bd-9924-38092b4a8f21@172.67.212.171:2083?security=tls&sni=esetsecuritylicense.ujlqwtae.wOrKerS.dEV&type=ws&host=esetsecuritylicense.ujlqwtae.wOrKerS.dEV&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.212.171:2083
+vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.44.181:443?security=tls&sni=vpnmarket-8bm.pages.dev&type=ws&host=vpnmarket-8bm.pages.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.181:443

@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.130.115:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.130.115:443
-vless://ad1357bd-a1ce-4977-ae09-47411d2d1eee@104.21.69.44:443?security=tls&sni=deg.iranasanejesh.org&type=grpc&serviceName=@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.69.44:443
 vless://4c03d139-631b-41dd-be68-933c3df0d7c2@172.64.32.100:443?security=tls&sni=qifei2024.dns.army&type=ws&host=qifei2024.dns.army#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.32.100:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.18.250.131:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇨🇭 CH-185.18.250.131:443
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.17.113.101:443?security=tls&sni=Bia-paiN-baCHe.PageS.dEV&type=ws&host=biA-pAIn-BachE.PaGeS.dEv&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.113.101:443
@@ -83,3 +81,5 @@ vless://e1a928be-e289-4aef-b92e-4106fabdf42f@104.21.59.125:80?security=none&type
 vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@104.16.60.8:80?type=ws&host=ada3.qowch.com#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.60.8:80
 vless://9d77ccf6-6710-4265-d0aa-1e07850e42dc@104.26.14.85:2087?security=tls&sni=prod01-cloud-sea-net01.cyberscaler.com&type=ws&host=prod01-cloud-sea-net01.cyberscaler.com&path=/sports-online/&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.14.85:2087
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.107.173:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-185.148.107.173:443
+vless://dee0cbef-9d21-49a4-8b6d-9be6bafdd849@78.39.47.109:10110?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇮🇷 IR-78.39.47.109:10110
+vless://f32c16b4-ae2b-449d-8002-599e4dfc448d@104.21.32.116:2053?security=tls&sni=bpro.ghodratebartar.ir&type=grpc&serviceName=bpro.ghodratebartar.ir&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.32.116:2053

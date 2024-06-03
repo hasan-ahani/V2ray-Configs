@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@47.243.91.58:8443?security=tls&sni=vless.pagess.filegear-sg.me&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇭🇰 HK-47.243.91.58:8443
-vless://25da296e-1d96-48ae-9867-4342796cd742@172.67.149.95:443?security=tls&sni=vless.5c2aa5bd248bc706255b0a9905f27611.workers.dev&type=ws&host=vless.5c2aa5bd248bc706255b0a9905f27611.workers.dev&path=%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.149.95:443
 vless://3db29e9b-4264-4b64-b3e1-fcc9632dda02@172.67.135.195:2087?security=tls&sni=prod01-cloud-sea-net01.cyberscaler.com&type=ws&host=prod01-cloud-sea-net01.cyberscaler.com&path=/sports-online/&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.135.195:2087
 vless://40856a88-43ba-47d2-ba1a-46478b1060eb@104.16.146.108:2087?security=tls&sni=tst.secretshop.tech&type=grpc&serviceName=%40iphonebax&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.146.108:2087
 vless://2e01ebcf-4bd6-4be4-9365-f5c623510512@104.25.37.104:2052?security=none&type=ws&host=workerr.babray.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.25.37.104:2052
@@ -83,3 +81,5 @@ vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@155.46.213.52:443?security=tls&sni=
 vless://375dd25d-0ec6-454c-be6f-ce67b196b23b@104.21.84.22:443?security=tls&sni=freedom11.fmnxmt.workers.dev&type=ws&host=freedom11.fmnxmt.workers.dev&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.84.22:443
 vless://cd08da90-1527-4077-8fca-0a5338b2e423@172.66.213.5:2086?security=none&type=ws&host=3.ftp.debian.org.www.speedtest.net.%E5%85%8D%E8%B4%B9%E4%B8%8A%E7%BD%9167.Site.&path=%2FTelegram-wizyvpn-Telegram-wizyvpn-Telegram-wizyvpn-Telegram-wizyvpn-Telegram-wizyvpn-Telegram-wizyvpn-Telegram-wizyvpn-Telegram-wizyvpn-Telegram-wizyvpn-Telegram-wizyvpn%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.213.5:2086
 vless://073055b5-7c41-432d-bb15-0efe23c212e3@104.17.239.159:8880?security=none&type=ws&host=mikasa.megafair.store&path=/Telegram:@MikasaVPN#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.239.159:8880
+vless://9c0ff824-2915-4fbc-8687-992dfb3e3a79@138.124.184.173:2003?security=tls&sni=us-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇺🇸 US-138.124.184.173:2003
+vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.173.226:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.173.226:443
