@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://4100d055-5857-44fb-9b7b-9d699dd4f347@95.217.31.246:18929?security=reality&encryption=none&pbk=rFZOWxVcsZn5--1yLku3SGglZ0Y2Ban0buZIN3-vFwU&host=bmw.com&headerType=http&fp=firefox&spx=/f2net&type=tcp&sni=testv6.tigervp.xyz&sid=cfef326c#🇫🇮FI | 🟢 | vless | @CUSTOMVPNSERVER | 13
-vless://-----DIGIV2RAY----@www.Speedtest.Net:2095?path=/DIGIV2RAY--DigiV2ray--digiv2ray--DIGIV2RAY--DigiV2ray--digiv2ray--DigiV2ray--DigiV2ray?ed=1024&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.xn--ihqvla424c49bba047b50okggl0rcfo5o3aus3a.website.&type=ws#🇺🇸US | 🔴 | vless | @DigiV2ray | 0
 vless://-----DIGIV2RAY----@185.146.173.35:2095?path=/DIGIV2RAY--DigiV2ray--digiv2ray--DIGIV2RAY--DigiV2ray--digiv2ray--DigiV2ray--DigiV2ray?ed=1024&security=none&encryption=none&host=DigiV2ray---__---DIgI.radioTehran.org.&type=ws#🇸🇪SE | 🔴 | vless | @DigiV2ray | 1
 vless://-----DIGIV2RAy----@www.Speedtest.Net:2095?path=/DIGIV2RAY--DigiV2ray--digiv2ray--DIGIV2RAY--DigiV2ray--digiv2ray--DigiV2ray--DigiV2ray?ed=1024&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.xn--ihqvla424c49bba047b50okggl0rcfo5o3aus3a.website.&type=ws#🇺🇸US | 🔴 | vless | @DigiV2ray | 2
 vless://-----DIGIV2RAy----@185.146.173.92:2095?path=/DIGIV2RAY--DigiV2ray--digiv2ray--DIGIV2RAY--DigiV2ray--digiv2ray--DigiV2ray--DigiV2ray?ed=1024&security=none&encryption=none&host=DigiV2ray---__---DIgI.radioTehran.org.&type=ws#🇸🇪SE | 🔴 | vless | @DigiV2ray | 3
@@ -83,3 +81,5 @@ trojan://telegram-id-privatevpns@52.47.188.209:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@13.37.119.28:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 5
 trojan://telegram-id-privatevpns@3.66.149.125:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 6
 trojan://telegram-id-privatevpns@18.193.97.218:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 7
+trojan://telegram-id-privatevpns@13.50.218.48:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 8
+trojan://telegram-id-privatevpns@13.48.227.44:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 9
