@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@154.85.99.151:443?security=tls&sni=hk116.ylks.link&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-154.85.99.151:443
 vless://5afb11dc-f76d-4507-93e2-e19be4c45d18@172.66.47.25:443?security=tls&sni=pardazeshvpn.pages.dev&type=ws&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.25:443
 vless://f647faa9-81db-43ed-b438-25fba61e2eda@172.66.44.76:443?security=tls&sni=pardazesh28.pages.dev&type=ws&host=pardazesh28.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.76:443
 vless://01ab9337-f478-4765-9534-88f009f83ddb@8.222.164.209:2083?security=tls&sni=aut331.ylks.link&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇬 SG-8.222.164.209:2083
@@ -82,4 +83,3 @@ vless://b6605bca-ff53-4467-be4b-076b2f9aab57@172.67.171.88:80?security=none&type
 vless://050450d4-7c7d-435f-b812-155e30fd8c7c@172.67.187.245:443?security=tls&sni=freedom1.boficax311.workers.dev&type=ws&host=freedom1.boficax311.workers.dev&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.187.245:443
 vless://252514db-3bac-4243-a039-161ada1c4ab8@104.21.85.204:443?security=tls&sni=de3.vless.site&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.85.204:443
 vless://2ca42987-551b-4494-a854-da2d9178f4cd@104.18.211.110:2087?security=tls&sni=KxQhHtGc22.zImBa-zUlA.OrG&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.211.110:2087
-vless://8e8d8ae1-aa47-4ce1-a516-0a28b6f9a814@147.78.140.39:2087?security=tls&sni=Join-Channe1-EiiiM.danesh-bonyan.Store&type=ws&host=eiiim.danesh-bonyan.Store&path=join.----------------Telegram-EiiiM----------------Telegram-EiiiM---------------.Telegram-EiiiM.#🔒 VL-WS-TLS 🇧🇬 BG-147.78.140.39:2087
