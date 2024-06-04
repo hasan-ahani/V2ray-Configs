@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.17.246.203:443?security=tls&sni=3k.pureboy.eu.org&type=ws&host=3k.pureboy.eu.org#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.246.203:443
 vless://e3b89bf0-3e33-4722-b2d4-99129445c039@85.9.111.19:5054?security=none&type=ws&host=s15.leader21.top&path=/http#🔒 VL-WS-NONE 🇮🇷 IR-85.9.111.19:5054
 vless://93a23561-7665-4b2e-8824-85eed640d4de@172.66.45.32:80?security=none&type=ws&host=linood-fra.scriptboy.ir&path=%2F%40Vpnv2rayspeed%2Cvpnv2rayspeedbot%2Cturk%3Fed%3D22900#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.45.32:80
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.5:2083?security=tls&sni=a.ssll.gay&type=ws&path=%2F#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.5:2083
@@ -83,3 +82,4 @@ vless://01ab9337-f478-4765-9534-88f009f83ddb@47.237.95.146:2083?security=tls&sni
 vless://c2028beb-0ead-4315-9374-95effe4c2b6f@185.146.173.206:2087?security=tls&sni=g4.ferdowsi.shop&type=grpc&serviceName=Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇸🇪 SE-185.146.173.206:2087
 vless://689b0559-67d2-4970-a286-a20c78cab5c6@104.25.249.225:2083?security=tls&sni=dl.nourycazablanka.online&type=ws&host=dl.nourycazablanka.online&path=%2F%3Fed%3D2048&fp=random&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.249.225:2083
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@172.64.130.2:80?type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.130.2:80
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.253.191:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=TELEGRAM-MARAMBASHI%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.253.191:443

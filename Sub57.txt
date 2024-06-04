@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.186.83:443?security=tls&sni=xxx.donated001.workers.dev&type=ws&host=xxx.donated001.workers.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.186.83:443
 vless://01ab9337-f478-4765-9534-88f009f83ddb@47.237.86.185:2053?security=tls&sni=aut306.ylks.link&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇬 SG-47.237.86.185:2053
 vless://d12e661e-7837-459f-c996-10e9e91eeec0@104.21.59.207:2096?security=tls&sni=irancpireverse.cpionline.us&type=ws&path=%2F2053&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.59.207:2096
 vless://10716279-b1ee-41d8-b63e-87782088305b@104.18.71.193:443?security=tls&sni=mAMAne-FIlTeRchI.PageS.DeV&type=ws&host=mAMAnE-fiLTerChi.paGES.deV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.71.193:443
@@ -83,3 +82,4 @@ vless://a613f225-a321-4677-dedb-d0371e88c8e9@172.67.66.177:2096?security=tls&sni
 vless://5480fd11-f544-412f-b01c-f43b0ac0785a@104.24.246.154:2053?security=tls&sni=kanal.metesla.site&type=grpc&serviceName=@global_net_vpn&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.24.246.154:2053
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.84:2087?security=tls&sni=a.ssll.gay&type=ws&path=twitterfreecodes#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.84:2087
 vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@146.56.130.201:8443?security=tls&sni=68123106-3e43-4958-b75a-b06e81eabf79.50d88e28-a870-497d-bf87-c20fb6802871.camdvr.org&type=ws&path=%2Fpasge.pages.dev%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇰🇷 KR-146.56.130.201:8443
+vless://4f95b778-7d4d-44b8-ab5e-1d72be78b7b3@172.66.44.79:443?security=tls&sni=telegram-vpnhttpinjectorfree-001.pages.dev&type=ws&host=telegram-vpnhttpinjectorfree-001.pages.dev&path=%2F%3Fed%3D2048&fp=randomized&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.79:443
