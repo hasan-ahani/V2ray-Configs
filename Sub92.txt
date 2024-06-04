@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://d7858867-cb84-41b6-84a8-f59c94170f48@172.67.220.184:2053?security=tls&sni=Loop.v2rayvpn2.sbs&type=grpc&serviceName=@piavpngo-@piavpngo-@piavpngo-@piavpngo-@piavpngo-@piavpngo-@piavpngo-&alpn=http/1.1,h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.220.184:2053
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.64.98.79:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.98.79:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.112:8443?security=tls&sni=a.ssll.gay&type=ws&path=twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.112:8443
 vless://0504ee23-2718-4c28-93c0-040af1c57632@172.67.205.127:2096?security=tls&sni=Kerman.Ptsls.Com.&type=grpc&serviceName=TEL:@Alfred_Config,TEL:@Alfred_Config,TEL:@Alfred_Config,TEL:@Alfred_Config,TEL:@Alfred_Config,TEL:@Alfred_Config&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.205.127:2096
@@ -82,4 +83,3 @@ vless://01ab9337-f478-4765-9534-88f009f83ddb@47.237.95.156:2083?security=tls&sni
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.122.48:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.122.48:80
 vless://f5234c82-5ffc-4367-a9ad-340919e1d3cc@172.67.128.201:443?security=tls&sni=PPAl03.kIrsteN-waLkeR.wORkErS.DEV&type=ws&host=ppAl03.KirsTEn-wAlkER.workERs.DEv&path=%2FCmRXqNTm3J2w6uLS%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.128.201:443
 vless://dcf3c704-0f83-440a-84b8-7fcf0649783c@5.145.119.39:2086?security=none&type=ws&host=mail.iriknet.ir&path=/OceanNetworks#🔒 VL-WS-NONE 🇮🇷 IR-5.145.119.39:2086
-vless://cf54fd38-6fd7-4991-a416-5ed234a4edd2@104.25.249.225:2083?security=tls&sni=dl.nourycazablanka.online&type=ws&host=dl.nourycazablanka.online&path=%2F%3Fed%3D2048&fp=random&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.249.225:2083

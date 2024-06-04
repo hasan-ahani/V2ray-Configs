@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://51baeda8-1288-458a-b5ae-b8b080b937b6@104.27.1.52:8880?type=ws&host=cherry.berry.strawberry.我们生活在该死的地狱里.shop.#🔒 VL-WS-NA 🏴‍☠️ NA-104.27.1.52:8880
 vless://845532a6-1f1b-405f-a3b7-cdd736a67543@188.114.96.3:2087?security=tls&sni=liV2rayb.lightningv.ir&type=grpc&serviceName=/@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-@LiV2ray&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-188.114.96.3:2087
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.216.227:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-45.159.216.227:443
 vless://fb301d2e-4430-4b41-95d6-764460b8ef13@193.9.49.40:2053?security=tls&sni=9b56CFEe5b258C44c45bA18FA122293.mIToweAr.cOm&type=grpc#🔒 VL-GRPC-TLS 🇷🇺 RU-193.9.49.40:2053
@@ -82,4 +83,3 @@ vless://e767898f-8a74-45ea-e708-9fe4e36957ea@104.17.45.92:80?security=none&type=
 vless://15a9bdbc-1af3-4d8f-84c5-486f584a5974@87.248.152.182:2096?security=none&type=tcp&host=zula.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-87.248.152.182:2096
 vless://4045c6b7-1d53-4574-98cd-df21db40b0dc@172.64.106.51:2053?security=tls&sni=itcenteriran.blog&type=ws&host=itcenteriran.blog#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.106.51:2053
 vless://e008ed83-ab42-47da-8321-bc53586966d4@185.146.173.96:8880?path=/@LIGHTNING6,#🔒 VL-TCP-NA 🇸🇪 SE-185.146.173.96:8880
-vless://27b62e51-7efb-4a18-ad9c-a4b073149f27@91.194.11.168:2003?security=tls&sni=ca-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇨🇦 CA-91.194.11.168:2003
