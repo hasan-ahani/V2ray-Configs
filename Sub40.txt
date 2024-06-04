@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://274374aa-d2d7-4301-9413-5de8c977c884@172.67.195.124:443?security=tls&sni=download.pcfc24.ir&type=grpc&serviceName=/@Alfred_Config&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.195.124:443
 vless://53b0dad9-104a-4d39-95d5-8d7124c6541c@104.18.21.135:443?security=tls&sni=irancloidflare.pages.dev&type=ws&host=irancloidflare.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.21.135:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@8.217.159.210:80?security=none&type=ws&path=/blue#🔒 VL-WS-NONE 🇭🇰 HK-8.217.159.210:80
 vless://2b39449c-1063-44ce-93e4-21a984029ae7@172.67.180.67:8443?security=tls&sni=mehrdad-Spain.Zargarr.com&type=grpc&serviceName=@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar,@Mehrdad_Zargar&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.180.67:8443
@@ -82,4 +83,3 @@ vless://9c0ff824-2915-4fbc-8687-992dfb3e3a79@138.124.184.173:443?security=tls&sn
 vless://4c3fb6f5-1a79-454f-8ca5-1484a487b793@104.21.74.231:2083?security=tls&sni=p14ne-wall.v2rybartar.monster&type=ws&host=panel14.v2rybartar.monster&path=/&fp=chrome&alpn=http/1.1,h2&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.74.231:2083
 vless://85bc3be1-f8d3-4f8c-806c-65375fd364df@104.18.177.104:8880?security=none&type=ws&host=2.V2ray.debian.org.fxp.debian.org.speedtest.net.らわなさらわ.mralpha-vpn.COM.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.177.104:8880
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.18.87.125:443?security=tls&sni=bIa-pAIn-baChE.pAgES.dev&type=ws&host=bia-pain-baCHE.PAGEs.DEv&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.87.125:443
-vless://effb1829-c983-4772-8df4-2e1b0c83d969@104.21.74.214:80?security=none&type=ws&host=1.ftp.debian.org.www.speedtest.net.免费上网67.Site.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.74.214:80

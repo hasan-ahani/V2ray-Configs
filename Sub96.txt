@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://a9c0613e-7b12-4c89-cb8b-6fb83c41ed33@172.67.147.79:8880?security=none&type=ws&host=join.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.r.cloudfront.net.kiava.fun#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.147.79:8880
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.140.84:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.140.84:443
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.71.108:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.71.108:443
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.177.110:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.177.110:443
@@ -82,4 +83,3 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@170.114.46.46:443?security=tls&sni=
 vless://5f2ae229-0e75-4ad8-be3d-c83d231cb354@172.67.193.36:2053?security=tls&sni=favarmgo.khorm.ir&type=ws&host=favarmgo.khorm.ir&path=%2F%40vpn4ir_1%2F%3Fed%3D2560&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.193.36:2053
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.16.5.189:443?security=tls&sni=gOdZillA-mR-DaRKarSha-ONETOpKIng.PaGEs.dEV&type=ws&host=GodZiLla-Mr-darkarsha-ONeTOPKING.pAGes.DEv&path=%2FhmBvkyQIpkFvHI5p%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.5.189:443
 vless://ad4aa165-c30d-48ec-9397-af1d1d3b1c4f@188.114.99.192:443?security=tls&sni=zamimm.e59b57f84c.workers.dev&type=ws&host=zamimm.e59b57f84c.workers.dev&path=%2F%3Fed%3D2560&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.99.192:443
-vless://1b4d7cb2-a387-4258-83eb-81e97787bd4a@172.67.164.193:443?security=tls&sni=qq.zedmodeon.buzz.&type=grpc&serviceName=ZEDMODEON&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.164.193:443

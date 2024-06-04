@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@172.67.199.233:2096?security=tls&sni=kk002.ylks.link&type=ws&path=/youtube-由零開始#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.199.233:2096
 vless://a079019f-cc54-4440-ac1b-8e98bc55191e@79.175.162.196:35964?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-79.175.162.196:35964
 vless://0504ee23-2718-4c28-93c0-040af1c57632@172.67.205.127:2096?security=tls&sni=Kerman.Ptsls.Com.&type=grpc&serviceName=TEL:@Alfred_Config,TEL:@Alfred_Config,TEL:@Alfred_Config,TEL:@Alfred_Config,TEL:@Alfred_Config,TEL:@Alfred_Config&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.205.127:2096
 vless://0905460d-6edc-4a82-8ec8-6b76090b41c8@172.67.128.158:443?security=tls&sni=who-cares.BacheBiaPain.IR&type=ws&host=who-cares.BacheBiaPain.IR#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.128.158:443
@@ -82,4 +83,3 @@ vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@45.205.0.189:8443?security=tls&sni=
 vless://d92f2c5c-5fe5-4034-b48a-6e50ff820877@104.17.247.203:8080?security=none&type=ws&host=de7.vlessx.us&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.247.203:8080
 vless://e64b691d-086d-4fa3-e27e-cbd707b761e7@146.19.233.85:443?security=tls&sni=de1.alphav2ray.link&type=grpc&allowInsecure=1#🔒 VL-GRPC-TLS 🇩🇪 DE-146.19.233.85:443
 vless://d621d083-5ac0-4d26-8872-efe55cf57663@172.67.200.30:2095?security=none&type=ws&host=www.mehran-net.mohammad420.sbs&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.200.30:2095
-vless://ff425c99-4d74-4645-8471-bc3626d7e14d@172.67.193.108:443?security=tls&sni=nl2.v2vless.xyz&type=ws&host=nl2.v2vless.xyz&path=%2FJoin-Telegram-Channel-%40AstroVPN_official#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.193.108:443
