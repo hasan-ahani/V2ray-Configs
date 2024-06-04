@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://1a29526b-4617-49eb-8660-5bb369254459@172.66.44.231:8443?security=tls&sni=pardazeshvpn-tg63.pages.dev&type=ws&host=pardazeshvpn-tg63.pages.dev&path=%2FTelegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.231:8443
+vless://c63e032a-6fb9-44a8-c94a-a4d730cd76e4@104.21.32.226:2053?security=tls&sni=xpace-team-mci.eystem.ir&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.32.226:2053
+vless://23002f00-35b4-4080-bea1-31c03920a9bd@104.21.96.54:8443?security=tls&sni=earth4.sportstreams.info&type=ws&host=earth4.sportstreams.info&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.96.54:8443
 vless://843d58ef-a3c9-49d8-8738-c76d173e3cb0@46.245.64.102:11470?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-46.245.64.102:11470
 vless://252514db-3bac-4243-a039-161ada1c4ab8@172.67.210.56:443?security=tls&sni=de3.vless.site&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.210.56:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.27.206.92:2083?security=tls&sni=jp222.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.27.206.92:2083
@@ -80,6 +83,3 @@ vless://f4674168-f45c-45ed-8e6c-78ed71d3114f@45.159.216.0:2087?security=tls&sni=
 vless://5ff336d5-9bea-41e9-a863-76722984da87@31.216.62.133:8080?security=tls&sni=rxopu1289.q.rxteam.ir&type=tcp&allowInsecure=1#🔒 VL-TCP-TLS 🇮🇷 IR-31.216.62.133:8080
 vless://16d99f65-b71f-5cdf-8ce6-fc35e171a192@104.21.9.147:2087?security=tls&sni=esetsecuritylicense.ikgbvch.WORKErS.DEv&type=ws&host=esetsecuritylicense.ikgbvch.WORKErS.DEv&path=vless-ws%2F%3Fed%3D2048&fp=ios&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.9.147:2087
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.26.1.86:2096?security=tls&sni=yRe2-jUd7-nN-72-OuEhgA6-UebaFx-23kl.paGEs.dEV&type=ws&path=%2FyoKAXAhz5JeXP6PO%2FdWFlMS5veG5ldHdvcmtzLmxpbms&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.1.86:2096
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@45.80.111.198:443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇩🇪 DE-45.80.111.198:443
-vless://52de3fa6-1673-4918-a90d-21d2b69de98e@172.64.172.28:443?security=tls&sni=eb8c0c64.888766.pages.dev&type=ws&host=eb8c0c64.888766.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.172.28:443
-vless://f7fe4c50-8f84-425a-8b60-6fbea946df9e@162.159.136.232:443?security=tls&sni=we.wordpass.workers.dev&type=ws&host=we.wordpass.workers.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.136.232:443
