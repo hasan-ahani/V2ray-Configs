@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://420cdff4-40fa-4b49-a078-008c5475bce1@85.133.201.13:2023?security=none&type=tcp&host=playstation.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.133.201.13:2023
 vless://681ad492-75bf-47e7-c73c-1f705300da51@172.67.208.39:8443?security=tls&sni=ws.ArV2ray.fun&type=ws&host=ws.ArV2ray.fun&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.208.39:8443
 vless://a0188401-47bc-4a1c-a7f4-635304c63c70@172.104.207.214:443?security=tls&flow=xtls-rprx-vision&sni=in-freevmess.privateip.net&type=tcp&path=%2f&allowInsecure=1#🔒 VL-TCP-TLS 🇮🇳 IN-172.104.207.214:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.255.190:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.255.190:443
@@ -82,4 +83,3 @@ vless://9ab014d4-273c-4221-bb57-464bd0cc2a09@104.18.104.223:80?security=none&typ
 vless://87c7f4f7-d87c-41fd-b7fb-8e7fcb33f879@45.67.215.26:443?security=tls&sni=ShprxyV2rayy.digitalciity.Tech&type=grpc&serviceName=@Shh_Proxy,@Shh_Proxy&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🇷🇺 RU-45.67.215.26:443
 vless://34190107-f315-4ddf-d6d4-7f9f87af715b@95.217.216.45:80?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇫🇮 FI-95.217.216.45:80
 vless://64921a6f-d4ca-4f4c-b279-73b96e32a9d3@104.21.49.245:443?security=tls&sni=z-v2-007203.kailib.com&type=ws&host=z-v2-007203.kailib.com&path=%2Fstore%3Fed#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.49.245:443
-vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@209.209.59.112:14050?security=tls&sni=vless.pagess.filegear-sg.me&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇺🇸 US-209.209.59.112:14050

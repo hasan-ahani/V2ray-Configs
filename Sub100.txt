@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://aff86a18-6eea-4409-9b2d-699e31d9323b@141.105.130.170:23939?security=none&type=tcp#🔒 VL-TCP-NONE 🇺🇦 UA-141.105.130.170:23939
 vless://ea1bec01-3ead-4648-a6db-0256f490a860@162.159.1.95:2053?security=tls&sni=configt-channels.sg-forum.info&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.1.95:2053
 vless://c2d391d5-9f1e-4721-bd25-b335d14caf07@185.146.173.20:8080?type=ws&host=DUwC0ik5lWCiueUniUDG.niGc-aR.com&path=%2Fbackup#🔒 VL-WS-NA 🇸🇪 SE-185.146.173.20:8080
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.16.4.189:443?security=tls&sni=gOdZillA-mR-DaRKarSha-ONETOpKIng.PaGEs.dEV&type=ws&host=GodZiLla-Mr-darkarsha-ONeTOPKING.pAGes.DEv&path=%2FhmBvkyQIpkFvHI5p%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.4.189:443
@@ -82,4 +83,3 @@ vless://a5f6e5be-2bea-4096-b5aa-bc5055a6d77b@217.60.239.54:12990?security=none&t
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.93.79:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.93.79:443
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.171.81:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.171.81:443
 vless://7f03b421-755f-438f-af87-0316aef4dd77@94.182.145.5:23663?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-94.182.145.5:23663
-vless://31736dbf-5537-46c8-8269-799b02711241@104.19.247.91:8080?security=none&type=ws&host=daily-configs.xn--ykqpu7pm2wzwbm5mpyner8e1ri.tech.&path=%2FTel%3A%40Daily_ConfigsTel%3A%40Daily_ConfigsTel%3A%40Daily_ConfigsTel%3A%40Daily_ConfigsTel%3A%40Daily_ConfigsTel%3A%40Daily_Configs#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.247.91:8080

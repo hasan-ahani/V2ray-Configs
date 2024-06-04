@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.238.228.87:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇪🇸 ES-185.238.228.87:443
 vless://310f3ef3-9b2f-4fc8-8438-30c68d834978@104.16.2.189:2083?security=tls&sni=dash.cloudzoom.online&type=grpc&serviceName=LikeVPN&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.2.189:2083
 vless://5335d16e-7e42-4c9b-93a3-9e83bfd3073d@172.67.168.60:80?security=none&type=ws&host=workerr.johnstoner.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.168.60:80
 vless://34daa1cd-3fc5-451f-8909-bfcdbc3d5a8d@54.204.131.247:80?security=none&type=ws&host=usa1111fstatsamericaamazonwebservice1111.wagnervpn.net#🔒 VL-WS-NONE 🇺🇸 US-54.204.131.247:80
@@ -82,4 +83,3 @@ vless://5075f728-3074-4655-be5b-488e60697c72@198.41.199.89:2082?security=none&ty
 vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@172.67.190.58:443?security=tls&sni=bypassfilter.wrevdav.workers.dev&type=ws&host=bypassfilter.wrevdav.workers.dev&path=%2F@bypass_filter%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.190.58:443
 vless://eb9c7922-ed82-4042-b45c-04a6e21d6048@104.21.69.44:2052?security=none&type=ws&host=fanlandv2raygmsix6.6.6.6.ir.com.site.列列男事的事列上赛男.科斯涅過濾器斯.retete.fun.&path=/fanlandV2rayGmSix6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.69.44:2052
 vless://2997aacd-4f1b-42fb-b225-c1596f9ca5c1@173.245.49.12:443?security=tls&sni=L9bRNgeAWfRXbrO.diamondgalery.ir&type=grpc&serviceName=JfDhd3XzSE4vrlte50vDf&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-173.245.49.12:443
-vless://d0be39fd-4bca-4e37-80d5-715d512aad7e@104.18.244.192:443?security=tls&sni=server17.aibox.tv&type=ws&host=server17.aibox.tv&path=/ws/&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.244.192:443
