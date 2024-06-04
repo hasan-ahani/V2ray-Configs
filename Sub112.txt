@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://auto@162.159.136.232:8443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.136.232:8443
+trojan://NISHIKUITAN222@172.67.75.172:2053?security=tls&sni=t306.ylks.link&type=ws&host=t306.ylks.link&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.75.172:2053
+trojan://6bc1e8b9-feeb-4d1e-9119-5529c5764ddf@95.164.117.128:443?#🔒 TR-TCP-NA 🇩🇪 DE-95.164.117.128:443
+trojan://656bcdfe-ae09-4170-a36e-1685ee10b26f@162.159.136.232:2083?security=tls&sni=missyousir.segaro.tech&type=ws&host=missyousir.segaro.tech&path=/OVmkPBATL0FijQ3AWVBo&fp=chrome&alpn=http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.136.232:2083
+trojan://auto@104.26.12.54:443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.26.12.54:443
 trojan://50e10abd-3920-42a6-ad0c-6ec731d8c826@104.20.19.168:443?security=tls&sni=golinkwuxian.top&type=ws&host=555.golinkwuxian.top&path=%2Fapple#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.19.168:443
 trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.19.171.36:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.171.36:443
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.246:2096?security=tls&sni=tjjd.yzyx1.v6.army&type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.53.246:2096
@@ -78,8 +83,3 @@ ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@103.172.116.103:9001#🔒 SS-TCP-N
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozLVROdVFWWHM0WjlseFFSZUZqMnBB@185.219.132.186:1080#🔒 SS-TCP-NA 🇹🇷 TR-185.219.132.186:1080
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@149.202.82.172:7002#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:7002
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@149.202.82.172:2375#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:2375
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.162.200.77:5499#🔒 SS-TCP-NA 🇨🇦 CA-23.162.200.77:5499
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.86.135.117:9090#🔒 SS-TCP-NA 🇺🇸 US-38.86.135.117:9090
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLQjhLQ05NTllzNUdRUFNKS1d4R2F5@45.159.249.42:7843#🔒 SS-TCP-NA 🇫🇮 FI-45.159.249.42:7843
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@15.204.87.217:2375#🔒 SS-TCP-NA 🇺🇸 US-15.204.87.217:2375
-ss://MWZiNDY1YWMtNjBmYi00Yjc3LWI0YTYtY2M1OTBlZTYxMjRlOg==@104.21.24.57:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.24.57:443

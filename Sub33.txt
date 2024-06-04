@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.189.245:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.189.245:443
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.42.89.60:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇱🇺 LU-188.42.89.60:443
+vless://a2c96a8e-0dec-49f3-945b-efb6353c11e8@23.227.39.179:2096?security=tls&sni=n2vpn.projectis.ir&type=ws&host=n2vpn.projectis.ir&path=/@n2vpn&fp=chrome#🔒 VL-WS-TLS 🇨🇦 CA-23.227.39.179:2096
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.244.122.119:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇩🇪 DE-188.244.122.119:443
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@172.66.192.0:443?security=tls&sni=jUZiBaIpiAo.5112233.xyz&type=ws&host=jUzIbaiPiaO.5112233.xyz&path=%2F%3Fed%3D2048&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.192.0:443
 vless://9af577f2-0a7a-4448-ae0b-6985c53ea634@104.21.12.212:2083?security=tls&sni=t-netplus1.pages.dev&type=ws&host=t-netplus1.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.12.212:2083
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.73.136:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.73.136:443
 vless://b5844d57-8fb8-4658-a5dc-a4b98688ee36@188.114.96.3:443?security=tls&sni=london1.darsonline1.ir&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-188.114.96.3:443
@@ -78,8 +83,3 @@ vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@162.159.46.105:443?security=tls&sni
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@47.236.144.208:2087?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇸🇬 SG-47.236.144.208:2087
 vless://47f0a1eb-c777-45a2-afb4-fac8ef3e0ae6@85.9.103.143:46279?security=none&type=tcp&host=telewebion.com&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.9.103.143:46279
 vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@172.67.161.104:2096?security=tls&sni=tnetplus.pages.dev&type=ws&host=tnetplus.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.161.104:2096
-vless://9f5b4bbf-a758-4801-875c-0d6903bb9efd@104.21.24.40:443?security=tls&sni=esetsecuritylicense.modezdlg.workers.dev&type=ws&host=esetsecuritylicense.modezdlg.workers.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.24.40:443
-vless://30a28aa5-d0fd-47c9-9eaf-17d62e1c9659@162.159.134.13:2095?security=none&type=ws&host=C1.snapifood.oRg.&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.134.13:2095
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.207.3:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.207.3:443
-vless://230a5ebc-57a6-4d3d-920a-c3bb7a4303f5@104.19.164.130:2095?security=none&type=ws&host=Noccoc.Unique69.com.&path=%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.164.130:2095
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.80.111.229:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇩🇪 DE-45.80.111.229:443
