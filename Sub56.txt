@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://845532a6-1f1b-405f-a3b7-cdd736a67543@188.114.96.3:2087?security=tls&sni=liV2rayb.lightningv.ir&type=grpc&serviceName=/@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-@LiV2ray&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-188.114.96.3:2087
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.216.227:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-45.159.216.227:443
+vless://fb301d2e-4430-4b41-95d6-764460b8ef13@193.9.49.40:2053?security=tls&sni=9b56CFEe5b258C44c45bA18FA122293.mIToweAr.cOm&type=grpc#🔒 VL-GRPC-TLS 🇷🇺 RU-193.9.49.40:2053
+vless://ddb00f36-d544-4e35-afbf-64297aa68d03@188.114.96.1:2096?security=tls&sni=sisana.muzres.wOrKerS.DEV&type=ws&host=sisana.muzres.wOrKerS.DEV&path=vless-ws%2F%3Fed%3D2048&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.1:2096
+vless://99043bd6-a1e6-4d82-948b-4c2a10349c6c@185.109.21.67:2052?security=none&type=ws&host=onepercenter安息吧菲亚的工资.suonycars.buzz.&path=/t.me-DarkVPNpro#🔒 VL-WS-NONE 🇷🇺 RU-185.109.21.67:2052
 vless://1eb7d0c2-07c5-4709-aa2c-62ca9edb6e1b@188.212.97.233:17043?security=none&type=tcp&host=zula.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-188.212.97.233:17043
 vless://79978027-ef16-4137-b18e-905f8c18f845@198.41.223.64:8080?security=none&type=ws&host=cdnanycasteuorg.fjacz6xe.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.223.64:8080
 vless://1289c2a9-046d-43f6-b8b9-ba9b5945ee84@85.192.41.140:27900?security=none&type=tcp&host=kukala.ir&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇳🇱 NL-85.192.41.140:27900
@@ -78,8 +83,3 @@ vless://15a9bdbc-1af3-4d8f-84c5-486f584a5974@87.248.152.182:2096?security=none&t
 vless://4045c6b7-1d53-4574-98cd-df21db40b0dc@172.64.106.51:2053?security=tls&sni=itcenteriran.blog&type=ws&host=itcenteriran.blog#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.106.51:2053
 vless://e008ed83-ab42-47da-8321-bc53586966d4@185.146.173.96:8880?path=/@LIGHTNING6,#🔒 VL-TCP-NA 🇸🇪 SE-185.146.173.96:8880
 vless://27b62e51-7efb-4a18-ad9c-a4b073149f27@91.194.11.168:2003?security=tls&sni=ca-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇨🇦 CA-91.194.11.168:2003
-vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@172.66.44.133:443?security=tls&sni=bIa-paIN-bAcHE.PAgeS.Dev&type=ws&host=bIA-paiN-bAcHE.PagEs.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.133:443
-vless://ec5ad73f-0d3c-4e33-8057-608f60c3fd29@2.189.59.5:443?security=tls&sni=mci.unlimiteddev-vpn.Com.&type=grpc&serviceName=Channel:@UnlimitedDev&fp=chrome#🔒 VL-GRPC-TLS 🇮🇷 IR-2.189.59.5:443
-vless://fa5d0f68-9c5f-4436-896f-e8a4cc588623@190.93.245.137:8443?security=tls&sni=20ns2-V2ray.Vpncustomize.Com&type=grpc&serviceName=@VPNCUSTOMIZE,@VPNCUSTOMIZE&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-190.93.245.137:8443
-vless://c1978266-958c-4aa3-ba34-7eacac75aca1@104.18.15.19:443?security=tls&sni=bpb-worker-panel3.pages.dev&type=ws&host=bpb-worker-panel3.pages.dev&path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2048&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.15.19:443
-vless://aa81e188-a979-411e-a10b-08287646cc43@172.67.221.199:443?security=tls&sni=vl26.rnd.biz.id&type=ws&host=vl26.rnd.biz.id#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.221.199:443
