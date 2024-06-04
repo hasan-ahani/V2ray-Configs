@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://8a84e7db-6c09-4cb8-bdfb-552f0360a6cb@172.67.164.182:2083?security=tls&sni=selinc---1----selinc----1---selinc------1.gcjmjwbq.workers.dev&type=ws&host=selinc---1----selinc----1---selinc------1.gcjmjwbq.workers.dev&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.164.182:2083
 vless://ed0dc7de-364f-4228-abf6-b027890bcd93@162.159.152.2:2053?security=tls&sni=cf.yicanny.com&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.2:2053
 vless://e0f0dc7d-426a-4f2b-86b5-a6f2965cd542@18.160.41.95:443?security=tls&sni=app3-noizji4r.b4a.run&type=ws&path=%2Fvless1#🔒 VL-WS-TLS 🇺🇸 US-18.160.41.95:443
 vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@104.19.135.85:2083?security=tls&sni=pages.20230619.love&type=ws&host=pages.20230619.love&path=telegram%2Fproxy_mtm%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.135.85:2083
@@ -82,4 +83,3 @@ vless://51905fd3-29de-4b4e-b351-83542f1d5390@104.22.32.78:443?security=tls&sni=B
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.38.198.220:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇫🇷 FR-13.38.198.220:22222
 vless://9337abc3-6606-40f3-a1cc-f8171e392a21@188.245.34.90:2963?security=none&type=tcp&host=journalofbigdata.springeropen.com&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-188.245.34.90:2963
 vless://2e01ebcf-4bd6-4be4-9365-f5c623510512@104.25.37.104:2052?security=none&type=ws&host=workerr.babray.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.25.37.104:2052
-vless://5c6c5660-5ef7-4cbc-93b2-c3cae9b57926@104.17.45.62:443?security=tls&sni=Reza.Punisher-shop-v2.site&type=grpc&serviceName=@puni_shop_v2rayNG،@puni_shop_v2rayNG،@puni_shop_v2rayNG،@puni_shop_v2rayNG&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.45.62:443
