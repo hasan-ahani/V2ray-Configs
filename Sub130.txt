@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://a9Kd5nrpnj@141.105.130.89:48280?security=none&headerType=http&type=tcp&path=/&host=CLoudflare.com,CLoudflare.net#%E6%9C%AA%E7%9F%A563
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSNG9heGlTclR1VExBWTVQOWxGVnU2@172.233.58.189:80#%E6%9C%AA%E7%9F%A564
 ss://ZDc3OTA2YTEtNTlmZC00MjIyLWJhOWUtM2RlODM0YmIzM2UyOg==@104.21.59.168:443#%E6%9C%AA%E7%9F%A565
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@77.72.5.150:989#%E6%9C%AA%E7%9F%A566%203.0MB%2Fs
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@15.204.87.225:5499#US36%201.7MB%2Fs
@@ -83,3 +81,5 @@ vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTIxIiwiYWRkIjoiMTcyLjY3LjEzMC4xNDAiLCJwb3J0
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@167.88.61.235:6679#US53%201.7MB%2Fs
 trojan://a9d4426f1c76c6b@104.21.69.44:2053?security=tls&type=grpc&sni=bestfollower.fandlaandpro.ir#%E6%9C%AA%E7%9F%A5122
 ss://MmI0YmVkMjUtYTVlZi00MzlkLTkzYjEtMzk1YjdiY2VjNThiOg==@172.67.216.166:2086#%E6%9C%AA%E7%9F%A5123
+trojan://telegram-id-privatevpns@54.93.75.43:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A5124
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.75.136.21:7307#US54%201.7MB%2Fs
