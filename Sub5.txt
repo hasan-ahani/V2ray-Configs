@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://telegram-id-privatevpns@13.37.119.28:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR | 🟢 | trojan | @PrivateVPNs | 12
-trojan://telegram-id-privatevpns@3.66.149.125:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 13
-trojan://telegram-id-privatevpns@18.193.97.218:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪DE | 🟢 | trojan | @PrivateVPNs | 14
-trojan://telegram-id-privatevpns@13.50.218.48:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 15
-trojan://telegram-id-privatevpns@13.48.227.44:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇸🇪SE | 🟢 | trojan | @PrivateVPNs | 16
-trojan://telegram-id-privatevpns@52.215.82.184:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 17
-trojan://telegram-id-privatevpns@52.48.239.108:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇮🇪IE | 🟢 | trojan | @PrivateVPNs | 18
 trojan://telegram-id-directvpn@54.220.65.185:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇮🇪IE | 🟢 | trojan | @DirectVPN | 0
 trojan://telegram-id-directvpn@54.75.218.255:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇮🇪IE | 🟢 | trojan | @DirectVPN | 1
 trojan://telegram-id-directvpn@35.176.16.25:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇬🇧GB | 🟢 | trojan | @DirectVPN | 2
@@ -83,3 +76,10 @@ vless://93a23561-7665-4b2e-8824-85eed640d4de@172.66.45.32:80?path=/@Vpnv2rayspee
 vless://b0138d55-a493-4dc3-9932-c6f0391707c1@104.21.74.214:2082?path=/Telegram-@V2ray_Alpha/?ed=2048&security=none&encryption=none&host=MalAySiAdj.CArD-937.WorKeRs.DeV.&type=ws#🚩CF | 🔴 | vless | @prrofile_purple | 143
 vless://15d55dda-94ae-4e52-a877-7ffa87b7207a@www.zula.ir:80?path=/V2ray.motorcycles?ed=80&security=none&encryption=none&host=CsgoV2ray.naziitness.cOm.&type=ws#🇺🇸US | 🔴 | vless | @prrofile_purple | 144
 vless://965d0c88-a91d-4bef-950c-a59649bbfa14@104.18.96.186:8080?path=/HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za&security=none&encryption=none&host=Coc.unique69.com.&type=ws#🚩CF | 🔴 | vless | @prrofile_purple | 145
+vless://dcf207e3-8f17-4cf7-b810-b6f303c7712c@185.146.173.94:8080?path=/&security=none&encryption=none&host=V2ray-_-_-_-_-MdVpnSec.TelegramChannelJoinBede.com.&type=ws#🇸🇪SE | 🔴 | vless | @prrofile_purple | 146
+vmess://eyJhZGQiOiIxODUuMTQ2LjE3My45NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoieG4tLTA0N2guYWFhLm1lcm9zYWJvcmFuLm1vbnN0ZXIuIiwiaWQiOiI0YmRiYTAyNi1jNjM3LTRiYWYtYTRkMC05YWQ5NTI4ZTEwZDQiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL0BtZWhyb3NhYm9yYW4iLCJwb3J0IjoiMjA4MiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJwcyI6Ilx1ZDgzY1x1ZGRmOFx1ZDgzY1x1ZGRlYVNFIHwgXHVkODNkXHVkZmUyIHwgdm1lc3MgfCBAcHJyb2ZpbGVfcHVycGxlIHwgMTQ3In0=
+vless://bc4b81f5-2a05-45d7-8e3f-8829e4804526@185.146.173.94:2095?path=/&security=none&encryption=none&host=V2ray-_-_-_-_-_ShhProxy.TelegramChannelJoinBede.com.&type=ws#🇸🇪SE | 🔴 | vless | @prrofile_purple | 148
+vless://bfba3560-84ee-48f4-b55e-495deed4e4a0@198.41.221.63:8080?path=/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za&security=none&encryption=none&host=Noccoc.Unique69.com.&type=ws#🚩CF | 🔴 | vless | @prrofile_purple | 150
+vless://v2ray_best_iran_5@89.235.116.123:34134?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#🇮🇷IR | 🔴 | vless | @prrofile_purple | 151
+vless://3429ecd7-c504-4db2-9655-6ea502712469@104.18.96.186:2095?path=/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za&security=none&encryption=none&host=Noccoc.Unique69.com.&type=ws#🚩CF | 🔴 | vless | @prrofile_purple | 152
+vless://b0138d55-a493-4dc3-9932-c6f0391707c1@104.21.74.214:2082?path=/?ed&security=none&encryption=none&host=MalAySiAdj.CArD-937.WorKeRs.DeV.&type=ws#🚩CF | 🔴 | vless | @prrofile_purple | 153
