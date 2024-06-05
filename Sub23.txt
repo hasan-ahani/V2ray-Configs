@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://200e059b-51ec-4825-8e95-5e49db5d22ad@141.95.75.212:443?security=reality&sni=analytics.google.com&type=tcp&fp=chrome&pbk=yiHA11T4BplJbQxAfsQkiiAzAmyxWau-KR7dQptwjDU&sid=c741ad33#🔒 VL-TCP-RLT 🇫🇷 FR-141.95.75.212:443
 vless://5dbefed4-b8b8-4b10-b16f-5676037e9cb8@5.42.100.104:12074?security=reality&sni=www.speedtest.net&type=grpc&fp=chrome&pbk=udDFjkCpcsnIrNp_HsG93fz8-T8vShMfEmACFrRPhX8&sid=8372225d#🔒 VL-GRPC-RLT 🇳🇱 NL-5.42.100.104:12074
 vless://54ce117a-fd26-4b2e-b540-15f95ba3cc63@104.21.39.202:443?security=reality&sni=www.xbox.com&type=grpc&fp=chrome&pbk=1_NaRFGvbJUim7_qlQ8Dibh_27d3X_p_w2xUvrGZlhg&sid=751ba1a6#🔒 VL-GRPC-RLT 🏴‍☠️ NA-104.21.39.202:443
 vless://73ad1661-b2da-4844-8427-890a9a8995b1@104.248.42.77:443?security=reality&flow=xtls-rprx-vision&sni=dash.cloudflare.com&type=tcp&fp=chrome&pbk=WSoK4aff6cLPU2GrkECLOgqX3_XxLGry3aNn7b12MSw&sid=73da32ed#🔒 VL-TCP-RLT 🇩🇪 DE-104.248.42.77:443
@@ -82,4 +83,3 @@ vless://29f00915-4107-491d-ba71-c9328e845ad9@173.245.59.100:80?security=none&typ
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@192.65.217.41:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇦🇺 AU-192.65.217.41:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@150.136.241.40:8443?security=tls&sni=kk222.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-150.136.241.40:8443
 vless://734072e0-82af-4ca9-979e-3f84c6b66b97@104.16.4.189:80?type=ws&host=%E4%B8%8D%E8%A6%81%E5%AF%B9%E4%B8%96newlife.%E7%AB%99%E9%95%BFbadho.silence2.%E5%A4%9C%E7%8C%AB%E5%AD%90%E9%85%92%E5%90%A7%E6%9E%AA%E6%88%98.suonycars.buzz.&path=%2Ft.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro%2F%3Fed%3D2048#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.4.189:80
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@193.9.49.147:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-193.9.49.147:443
