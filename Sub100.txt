@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@192.65.217.41:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇦🇺 AU-192.65.217.41:443
 vless://9e67f15c-178f-494c-a843-f371e3b3fa5d@172.67.153.75:8080?security=none&type=ws&host=king1980.b91sptsl.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.153.75:8080
 vless://6d6cab4a-13e9-4c2f-b1c2-d34cdd28215d@172.66.47.55:443?security=tls&sni=pardazeshvpn-tg19.pages.dev&type=ws&host=pardazeshvpn-tg19.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.55:443
 vless://0ff7e8e6-85ee-4039-9a2f-ee78af70ea46@172.67.143.22:2096?security=tls&sni=Mainv2ray.mashti.us.KG.&type=grpc&serviceName=@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray&fp=chrome&alpn=h3,h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.143.22:2096
@@ -83,3 +82,4 @@ vless://8a7982ff-7696-4f2c-9265-46f6ff45d5f5@104.25.16.194:2083?security=tls&sni
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@198.41.222.234:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.222.234:443
 vless://2391e9b5-f28c-4093-986e-2aff7c332dd4@172.64.86.215:2052?security=none&type=ws&host=nl6.vlessx.us&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.86.215:2052
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.71.80:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.71.80:443
+vless://ac4f9f44-a984-49c8-aee7-38454553523d@172.67.186.42:443?security=tls&sni=7Fe600D3b53c4bb9de9C863cad96d1.nv2ROn.ir&type=ws&host=7fe600d3b53c4bb9de9c863cad96d1.nv2ron.ir&path=%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%3Fed%3D2048&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.186.42:443
