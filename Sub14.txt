@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://d0a9ccc6-9ecd-40a3-8833-d2509b2759a8@sg-full.privateip.net:443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Trojan%20@V2rayStore
-trojan://0131887e-b136-4334-8716-98f9c450a4af@sg2-full.privateip.net:443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Trojan%20@V2rayStore
-trojan://b3965d2d-3b82-45cc-927b-1336aca3f3fe@sg3-full.privateip.net:443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Trojan%20@V2rayStore
-trojan://b48b4d1b-9c5a-4c9d-8297-251bae2a23e6@id-full.privateip.net:443#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%20Trojan%20@V2rayStore
-trojan://f2e3b2f8-f3a7-4218-85f3-1a4842130226@hk-full.privateip.net:443#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20Trojan%20@V2rayStore
 trojan://0d0addf9-8579-445c-b519-00a339a3f0c0@nl-full.privateip.net:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20Trojan%20@V2rayStore
 trojan://ca0888b0-f505-4411-ad10-efb2841bf962@nl2-full.privateip.net:443#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20Trojan%20@V2rayStore
 trojan://e0557db1-585e-4469-aaab-3e9061fc53ac@ca-full.privateip.net:443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20Trojan%20@V2rayStore
@@ -83,3 +78,8 @@ vless://e2b505c0-f83c-4411-94af-8dcc4583b222@xn--panter-h39i240c4xstw4d9vl644b2r
 vless://89187c5c-9e81-4b77-a5b7-f4db837d75f6@185.146.173.32:2052?security=&type=ws&path=/telegram-@Telegram,telegram-TelegraM,telegram-TelegraM,telegram-TelegraM,telegram-TelegraM,telegram-TelegraM,telegram-TelegraM,telegram-TelegraM,telegram-TelegraM,telegram-TelegraM,telegram-TelegraM,telegram-TelegraM,telegram-TelegraM,telegram-TelegraM,telegram-TelegraM,turv2rayng-V2rayngtorr-telegram-mehr-v2ray?ed%3D2560&host=%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B7%E4%BE%AF%E8%B5%9B%E5%9B%A0TanK.v2rayng6.6.6.6.ir.CoM.Site.xn--fhq0la447aac5504dea701axr1g.%E7%81%AB%E8%8A%B1%E5%9B%A2%E9%98%9F%E5%AE%89%E5%85%A8.ONLINE.&encryption=none#[🇸🇪]t.me/ConfigsHub`
 vless://4785f3ca-8fa3-4717-8c81-9d19087c73a3@172.66.44.171:443?security=tls&sni=pardazeshvpn-tg104.pages.dev&type=ws&host=pardazeshvpn-tg104.pages.dev&path=%2FTelegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN%3Fed%3D2048&fp=randomized#@Hope_Net-join-us-on-Telegram
 vless://b54541de-a74a-4aed-953a-b0dd60f73e1a@185.146.173.58:80?security=none&type=ws&host=jikjik.servernet.fun.&path=%2F#@Hope_Net-join-us-on-Telegram
+vless://fea2c640-eda9-4f4b-b00a-fb61b9370d4b@104.21.58.195:2083?security=tls&sni=llgr.shoponetop.com&type=grpc&serviceName=xyz&fp=chrome&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram`
+vless://1949f066-bcb0-49be-88e9-74abd940f80e@51.75.30.8:80?path=%2Fhttp&security=none&encryption=none&type=ws#[🇫🇷]t.me/ConfigsHub`
+vless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@188.114.97.141:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=e10c0e4b.oodaeq2.pages.dev&type=ws&sni=e10c0e4b.oodaeq2.pages.dev#[🇨🇦]t.me/ConfigsHub`
+vmess://eyJhZGQiOiIxNDcuNzguMTQwLjY4IiwiYWlkIjoiMCIsImFscG4iOiJodHRwLzEuMSIsImZwIjoiY2hyb21lIiwiaG9zdCI6IjZjNDctYnV0dGVyZmx5LTZjNDcueWV4b2ppMzc0OS53b3JrZXJzLmRldiIsImlkIjoiZjU4NGRlMTUtMjAzNC00MTcwLWE3MjMtZjQ4YzJiYWU1ZTBmIiwibmV0Ijoid3MiLCJwYXRoIjoiL2FmcmhtczE2di5iZXN0eHJheS5idXp6L2xpbmt3cyIsInBvcnQiOiI0NDMiLCJwcyI6Ilvwn4+BXXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiI2YzQ3LWJ1dHRlcmZseS02YzQ3LnlleG9qaTM3NDkud29ya2Vycy5kZXYiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==`
+vless://fa3c063e-a5eb-416b-882b-852d40a3ee09@139.162.36.248:443?security=tls&sni=sg-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#@Hope_Net-join-us-on-Telegram

@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://fea2c640-eda9-4f4b-b00a-fb61b9370d4b@104.21.58.195:2083?security=tls&sni=llgr.shoponetop.com&type=grpc&serviceName=xyz&fp=chrome&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram`
-vless://1949f066-bcb0-49be-88e9-74abd940f80e@51.75.30.8:80?path=%2Fhttp&security=none&encryption=none&type=ws#[🇫🇷]t.me/ConfigsHub`
-vless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@188.114.97.141:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=e10c0e4b.oodaeq2.pages.dev&type=ws&sni=e10c0e4b.oodaeq2.pages.dev#[🇨🇦]t.me/ConfigsHub`
-vmess://eyJhZGQiOiIxNDcuNzguMTQwLjY4IiwiYWlkIjoiMCIsImFscG4iOiJodHRwLzEuMSIsImZwIjoiY2hyb21lIiwiaG9zdCI6IjZjNDctYnV0dGVyZmx5LTZjNDcueWV4b2ppMzc0OS53b3JrZXJzLmRldiIsImlkIjoiZjU4NGRlMTUtMjAzNC00MTcwLWE3MjMtZjQ4YzJiYWU1ZTBmIiwibmV0Ijoid3MiLCJwYXRoIjoiL2FmcmhtczE2di5iZXN0eHJheS5idXp6L2xpbmt3cyIsInBvcnQiOiI0NDMiLCJwcyI6Ilvwn4+BXXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiI2YzQ3LWJ1dHRlcmZseS02YzQ3LnlleG9qaTM3NDkud29ya2Vycy5kZXYiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==`
-vless://fa3c063e-a5eb-416b-882b-852d40a3ee09@139.162.36.248:443?security=tls&sni=sg-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#@Hope_Net-join-us-on-Telegram
 vless://9149c629-1b31-4699-a410-d4549670c1a5@162.159.135.234:2087?security=tls&sni=FreeV2rayng.SHHPROXY.monster&type=ws&host=FreeV2rayng.SHHPROXY.monster&path=/#@Hope_Net-join-us-on-Telegram
 vless://9d28354b-ef3f-4dd2-863a-c99e7545d466@162.159.153.2:8880?security=none&type=ws&host=daily-configsV2rayGmSix6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.vigilantecollection.com.&path=%2F---%40Daily_Configs---%40Daily_Configs---%40Daily_Configs---%40Daily_Configs---%40Daily_Configs#@Hope_Net-join-us-on-Telegram`
 vless://9c282320-722d-4a2d-9ed1-d3c6d73e0217@104.20.104.209:80?security=none&type=ws&host=unlimiteddev.xn--9iqr0tm1r4wg.co.#@Hope_Net-join-us-on-Telegram
@@ -83,3 +78,8 @@ vmess://eyJhZGQiOiAiZGUtZnVsbC5wcml2YXRlaXAubmV0IiwgImFpZCI6ICIwIiwgImhvc3QiOiAi
 vmess://eyJhZGQiOiAiaXQtZnVsbC5wcml2YXRlaXAubmV0IiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogIjUwOWZkNWFhLTU4NTktNDYxOC04ZGU4LTQyOGIzOGMyNjllYyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvUkFDRVZQTiIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJASG9wZV9OZXQtam9pbi11cy1vbi1UZWxlZ3JhbSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
 vless://075a365b-b0c7-4ba3-b5a6-597850c223f9@104.16.2.35:8880?encryption=none&security=none&type=ws&host=sinaazizpor.wapgiz.workers.dev&path=%2F%3Fed%3D2048#[🇨🇦]t.me/ConfigsHub`
 vless://1e248837-a2d0-4d87-9358-ba2a91daf6cc@104.18.6.24:8080?path=%2FSvnProBot-V2ray69Speed.ir.shop.com%3Fed%3D2048&security=none&encryption=none&host=2.v2ray.debian.org.fxp.debian.org.speedtest.net.secretshop.tech&type=ws#[🇨🇦]t.me/ConfigsHub`
+vless://f5a5b033-d600-11ee-aaa8-00505603e70d@172.67.73.241:443?path=%2Fwebsocket&security=tls&encryption=none&host=st-gb-1.brocdn.com&type=ws&sni=st-gb-1.brocdn.com#[🇨🇦]t.me/ConfigsHub`
+vless://c6ea407d-9f3f-4625-9dda-401837f0f68f@104.16.61.8:80?path=%2F&security=none&encryption=none&host=iud1.kaghazacharrangi.sbs&type=ws#[🇨🇦]t.me/ConfigsHub`
+vless://24347e96-912c-4f53-9c67-9cc895fc6fdf@185.146.173.20:2082?path=%2F&security=none&encryption=none&host=h5.xn--gmq282ekfhyys3gs.com.&type=ws#[🇸🇪]t.me/ConfigsHub`
+vless://5af10469-3ec3-4353-94d2-297b7215a15b@172.67.177.201:443?path=%2Fws&security=tls&encryption=none&host=continuity.sasuke.ir&type=ws&sni=continuity.sasuke.ir#[🇨🇦]t.me/ConfigsHub`
+vless://fb5cfe95-ee26-4399-be4b-36d648414b9c@104.21.63.149:80?encryption=none&security=none&type=ws&host=proxiiraniii.hitido2760.workers.dev&path=%2F#[🇨🇦]t.me/ConfigsHub`

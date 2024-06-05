@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.236.118.216:2083?security=tls&sni=zdy306.kpcloud.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇸🇬 SG-47.236.118.216:2083
-vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.64.106.162:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.106.162:443
-vless://3addcd55-5709-4b47-889a-c2e11a85bf8e@151.101.130.219:443?security=tls&sni=cloud.eazyvpn.tech&type=ws&host=cloud.eazyvpn.tech&path=/vless-tls#🔒 VL-WS-TLS 🇺🇸 US-151.101.130.219:443
-vless://561bc1e2-32d2-4730-a530-920d0aa1808c@162.159.6.148:2087?security=tls&sni=prod01-cloud-sea-net01.cyberscaler.com&type=ws&host=prod01-cloud-sea-net01.cyberscaler.com&path=/sports-online/&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.6.148:2087
-vless://3fefc100-faed-43ad-b087-d47ddfe75121@162.159.48.84:443?security=tls&sni=s92qb78mnok7yh5ykir1ayugvc49aqclfapp4qmqvixdxyd8crqppthcfpsjmm2.esmpy.workers.Dev&type=ws&host=s92qb78mnok7yh5ykir1ayugvc49aqclfapp4qmqvixdxyd8crqppthcfpsjmm2.esmpy.workers.Dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.48.84:443
 vless://1bab0961-b22c-411f-b955-09c4aed2d2c1@23.227.39.31:443?security=tls&sni=us3.hnkkt.top&type=ws&path=/gsjc/us3#🔒 VL-WS-TLS 🇨🇦 CA-23.227.39.31:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.237.8.82:2053?security=tls&sni=zdy222.kpcloud.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇸🇬 SG-47.237.8.82:2053
 vless://f7274a51-ba56-4973-baa9-1e5e274f9dad@172.67.203.100:443?security=tls&sni=pasargad.top-speed.pw&type=ws&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.203.100:443
@@ -83,3 +78,8 @@ vless://ef6746d5-d4c5-5092-9b7f-fbfd372446b3@104.21.79.184:443?security=tls&sni=
 vless://ae7df84e-fb25-4a53-857d-0eeb337c8ac7@104.21.20.148:2083?security=tls&sni=64.pingpong.na.am&type=grpc&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.20.148:2083
 vless://4045c6b7-1d53-4574-98cd-df21db40b0dc@172.64.161.105:2053?security=tls&sni=itcenteriran.blog&type=ws&host=itcenteriran.blog&path=%2Fp%3D19&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.161.105:2053
 vless://f4cec6cc-6177-423c-90f8-2ad9f0dd996b@104.21.20.148:2096?security=tls&sni=vpnct.arvancode.eu.org&type=ws&host=vpnct.arvancode.eu.org&path=%2FbShq2qgG8GnX8zqm%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.20.148:2096
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.110.183:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.110.183:443
+vless://8b19d0e8-7fb6-4000-af96-1319b38e9022@185.146.173.100:8880?security=none&type=ws&host=xn---qhndlayawi--d-9v2rayqtr75q95bklb97ndla44yjnsp99007hkhja.zmv2ray.site.&path=/FreeV2RAYTEL@Alfred_ConfigTEL@Alfred_ConfigTEL@Alfred_ConfigTEL@Alfred_ConfigTEL@Alfred_Config@V2ray#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.100:8880
+vless://417c54fa-78c7-492f-bbc9-66f61be02ced@162.159.40.113:2083?security=tls&sni=selinc--selinc--selinc--selinc--selinc.fqsnv.workers.dev&type=ws&host=selinc--selinc--selinc--selinc--selinc.fqsnv.workers.dev&path=vless-ws%2F%3Fed%3D2048&fp=firefox&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.40.113:2083
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.137.88:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.137.88:443
+vless://d480372f-6596-4177-ae85-28af07adf1cb@104.21.37.97:2053?security=tls&sni=selinc--5--selinc--5--selinc.muosqv.workers.dev&type=ws&host=selinc--5--selinc--5--selinc.muosqv.workers.dev&path=vless-ws%2F%3Fed%3D2048&fp=safari&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.37.97:2053

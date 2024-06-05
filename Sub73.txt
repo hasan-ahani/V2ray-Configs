@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.216.241:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-45.159.216.241:443
-vless://1622d31e-9023-4f1a-b553-9d10d7d2da90@147.78.140.121:443?security=tls&sni=free-sweden-c8f4261f9f46e6465709e17ebea7a92b.mitowear.com&type=ws&host=free-sweden-c8f4261f9f46e6465709e17ebea7a92b.mitowear.com#🔒 VL-WS-TLS 🇧🇬 BG-147.78.140.121:443
-vless://18ed57b6-2765-4cef-a3a3-ec2ab49e0d02@104.25.255.254:443?security=tls&sni=mokh.eidafemini.monster&type=httpupgrade&host=mokh.eidafemini.monster&path=/G296AyPNm3AYwSolmll1mMLyZFsy&fp=chrome&alpn=http/1.1#🔒 VL-HTTPUPGRADE-TLS 🏴‍☠️ NA-104.25.255.254:443
-vless://f211caae-afdd-4aa8-c332-83a375bdab06@172.67.168.21:443?security=tls&sni=prod01-cloud-sea-net01.cyberscaler.com&type=ws&host=prod01-cloud-sea-net01.cyberscaler.com&path=/ski-sales-online/&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.168.21:443
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.80.111.229:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇩🇪 DE-45.80.111.229:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@146.56.145.38:50001?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇰🇷 KR-146.56.145.38:50001
 vless://10699622-1b25-499c-a424-58f8f4dfb7f7@104.17.248.203:2083?security=tls&sni=id-falcunargo.sociy12386.workers.dev&type=ws&host=id-falcunargo.sociy12386.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.248.203:2083
 vless://31192093-c3c9-442e-b9f3-4b9a7eec04d6@172.67.151.53:443?security=tls&sni=pUrPLe.MEHdIZRG88.WorKErS.dEV&type=ws&host=PURple.meHDIzrg88.woRkErs.DeV&path=%2FwUrPCt2KuAQZHGK4%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.151.53:443
@@ -83,3 +78,8 @@ vless://b97cdd0e-bba9-4391-b265-b72f80b670db@188.114.96.1:2052?type=ws&path=%2F#
 vless://7e29f2e2-e0ec-47c5-94ec-38ef90f7a106@188.114.99.215:443?security=tls&sni=qopyz.oxnetirz11.ONfLAShdRIvE.aPp&type=ws&host=qopyz.oxnetirz11.ONfLAShdRIvE.aPp&path=vless-ws%2F%3Fed%3D2048&fp=edge&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.99.215:443
 vless://b9fffe76-52b6-40fb-acd1-de7a577773cb@86.38.214.218:2087?security=tls&sni=LiV2rayd.yoyoyo.ir&type=ws&host=LiV2rayd.yoyoyo.ir.&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇱🇹 LT-86.38.214.218:2087
 vless://b897434d-892e-46a6-a760-361a92e0b911@104.21.40.128:2053?security=tls&sni=rpn1.kucss.com&type=ws&host=rpn1.kucss.com&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.40.128:2053
+vless://a445160c-1294-49cf-aea4-cc7a91ee695f@78.39.47.103:14050?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇮🇷 IR-78.39.47.103:14050
+vless://abaedaf5-8ccc-4b47-9fbe-2805a753d094@172.67.139.60:2087?security=tls&sni=ae4a80a163bbda38.rebeetb.eU.Org&type=ws&host=f6bef6525bf21bfe.rebeetb.eU.Org&path=%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.139.60:2087
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@77.37.33.32:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇩🇪 DE-77.37.33.32:8443
+vless://05ec0064-1013-4c4b-a7d1-0c561c2a232a@188.114.96.81:80?security=none&type=ws&host=V2ray.motorcycles.Elmahstyle.ir#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.96.81:80
+vless://34190107-f315-4ddf-d6d4-7f9f87af715b@95.217.216.45:80?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇫🇮 FI-95.217.216.45:80
