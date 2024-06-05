@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://494f08aa-e007-4336-a989-be6db932dcc5@162.159.133.233:443?security=tls&sni=shops.atmode.sbs&type=grpc&serviceName=cdn.discordapp.com&alpn=h2%2Chttp%2F1.1%2Ch3#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.133.233:443
-vless://30abf469-526f-4732-be36-d9c6cbae2db4@104.18.202.232:8080?security=none&type=ws&host=xn--047h.iman-v2ray.sbs.&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.202.232:8080
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.79.5:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.79.5:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@146.56.42.31:48652?security=tls&sni=a.ssll.gay&type=ws&path=telegram%F0%9F%87%A8%F0%9F%87%B3+%40wangcai_8+%2F%3Fed#🔒 VL-WS-TLS 🇰🇷 KR-146.56.42.31:48652
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@182.231.142.84:32564?security=tls&sni=jd.wxgqlfx.top&type=ws&path=/?ed#🔒 VL-WS-TLS 🇰🇷 KR-182.231.142.84:32564
@@ -83,3 +81,5 @@ vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@47.237.0.31:2096?security=tls&sni=j
 vless://1ff59fad-6cc6-4714-82b1-d4af47de08eb@172.67.171.164:80?security=none&type=ws&host=DiReCt49-13-163-2261.CleAnMaRk.IR&path=/DiReCt49-13-163-226-CleAnMaRk-IR#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.171.164:80
 vless://9ad2883c-1c39-4e42-8ec0-38abd3fa914e@198.41.206.124:80?security=none&type=ws&host=xn---ndu.ntjdjpdb--a-9wl9jqtr75a136V2raya8b97V2rajdk44yjwac23607hkhja2.My-Archive69.site.&path=/@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-V2#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.206.124:80
 vless://9d7c3e51-3918-4df7-b142-a8c3e473461f@109.61.42.254:2039?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇦🇪 AE-109.61.42.254:2039
+vless://d345d11e-c424-4583-b36e-527ab1f0afa4@104.26.5.60:8080?security=none&type=ws&host=v2raynselling.kir-rasol-kir.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.5.60:8080
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@154.83.2.139:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇸🇨 SC-154.83.2.139:443

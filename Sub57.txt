@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@211.197.26.25:32859?security=tls&sni=hk331.ylks.link&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇰🇷 KR-211.197.26.25:32859
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.40.234:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=/?ed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.40.234:443
 vless://112435f2-9343-490c-a420-2e990f7f349f@212.33.206.94:32882?security=none&type=tcp&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-212.33.206.94:32882
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.200.220:2053?security=tls&sni=baipiao1.curly-train.pages.dev&type=ws&host=baipiao1.curly-train.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.200.220:2053
 vless://fb301d2e-4430-4b41-95d6-764460b8ef13@156.238.18.246:2053?security=tls&sni=9b56CFEe5b258C44c45bA18FA122293.mIToweAr.cOm&type=grpc#🔒 VL-GRPC-TLS 🇺🇸 US-156.238.18.246:2053
@@ -83,3 +81,5 @@ vless://48b0913d-fb1c-4d0d-af20-8fc12c4ec5db@172.67.192.173:8443?security=tls&sn
 vless://234b7bfa-49d6-436b-fb8b-8805503209a7@188.114.98.224:2053?security=tls&sni=sima.danesh.shop&type=grpc&serviceName=wearestand#🔒 VL-GRPC-TLS 🏴‍☠️ NA-188.114.98.224:2053
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.139.111:2096?security=tls&sni=baipiao1.curly-train.pages.dev&type=ws&host=baipiao1.curly-train.pages.dev&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.139.111:2096
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.182.20:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.182.20:80
+vless://8028c698-7958-4c18-e7e9-869a3926d7ee@172.67.170.52:443?security=tls&sni=ledzeppelin.ripita4433.workers.dev&type=ws&host=ledzeppelin.ripita4433.workers.dev&path=/downloader/46072&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.170.52:443
+vless://593fa383-f4c3-47ec-88bd-33b65316f0cf@104.254.140.153:443?security=tls&sni=2222222222asas.in-case-jadid-mane-follow-nemikone-vali-fane.site&type=grpc&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🇺🇸 US-104.254.140.153:443

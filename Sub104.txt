@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://c69ab9d1-756e-4a12-8bf1-20f3cffe8268@104.26.14.85:2083?security=tls&sni=ErFaN2.aSdBeWg.SbS.&type=ws&host=ErFaN2.aSdBeWg.SbS.&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.14.85:2083
-vless://cacd9434-1408-4f64-8bb0-b4c33d04c42b@172.67.145.128:443?security=tls&sni=sni.funlifea.shop&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.145.128:443
 vless://b1c53b03-8d32-4d2c-a572-c3f6c81bda8c@5.10.244.228:80?security=none&type=ws&host=a.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&path=%2FZEDMODEON-TEL-ZEDMODEON-ZEDMODEON#🔒 VL-WS-NONE 🇳🇱 NL-5.10.244.228:80
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.128.253:443?security=tls&sni=worker-little-frost-1b1c.cataben844.workers.Dev&type=ws&host=worker-little-frost-1b1c.cataben844.workers.Dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.128.253:443
 vless://d7858867-cb84-41b6-84a8-f59c94170f48@104.21.51.44:2053?security=tls&sni=Loop.v2rayvpn2.sbs&type=grpc&serviceName=@piavpngo-@piavpngo-@piavpngo-@piavpngo-@piavpngo-@piavpngo-@piavpngo-&alpn=http/1.1,h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.51.44:2053
@@ -83,3 +81,5 @@ vless://cdc61aa3-0353-4753-9c64-1c8fd3f3d79c@103.184.45.119:8880?security=none&t
 vless://cd37e48f-b356-4bc2-9104-c4ed5b4abe8c@139.162.49.215:443?security=tls&sni=sg3-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇸🇬 SG-139.162.49.215:443
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.79.41:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.79.41:443
 vless://d6f2a18c-c334-4cda-a14a-362390cfde40@172.67.156.241:8443?security=tls&sni=selinc---6---selinc---6---selinc.gxjuztaq.workers.dev&type=ws&host=selinc---6---selinc---6---selinc.gxjuztaq.workers.dev&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.156.241:8443
+vless://01ab9337-f478-4765-9534-88f009f83ddb@47.236.146.249:2053?security=tls&sni=aut222.ylks.link&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇬 SG-47.236.146.249:2053
+vless://888543ff-4a2b-43a2-b540-ec0384d05635@160.153.0.179:80?type=ws&host=7fe600d3b53c4bb9de9c863cad96d1.nv2ron.ir&path=%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%3Fed%3D2048#🔒 VL-WS-NA 🇺🇸 US-160.153.0.179:80

@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://24d80106-32ca-4333-bdd0-ce486748e538@104.21.33.43:443?security=tls&sni=ns1.game2download.com&type=ws&path=%2F&fp=random&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.33.43:443
-vless://16d99f65-b71f-5cdf-8ce6-fc35e171a192@172.67.160.47:8443?security=tls&sni=esetsecuritylicense.ikgbvch.WorKeRS.dEV&type=ws&host=esetsecuritylicense.ikgbvch.WorKeRS.dEV&path=vless-ws%2F%3Fed%3D2048&fp=edge&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.160.47:8443
 vless://af0312ac-aa36-4cf4-93b1-b27e4afb50d0@104.18.13.130:2096?security=tls&sni=console.zedmodeon.lat&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.13.130:2096
 vless://45f8e7d7-d155-4bc2-8afd-3525fed2d454@172.66.47.158:443?security=tls&sni=pardazeshvpn-tg83.pages.dev&type=ws&host=pardazeshvpn-tg83.pages.dev&path=%2FTelegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.158:443
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.221.133:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.221.133:443
@@ -83,3 +81,5 @@ vless://af985ded-9881-4006-8792-ac230adec8b7@49.13.58.31:19231?security=none&typ
 vless://5a045a1e-d392-4c5b-b658-b57e4ea01b4f@172.67.182.88:443?security=tls&sni=virapn-d-3be7883659a1d2ba4c545dfdf85b61eda1.asiatechnicalwest.ir.&type=grpc&serviceName=@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN&fp=firefox&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.182.88:443
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.82.246:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.82.246:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.218.131:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.218.131:80
+vless://01ab9337-f478-4765-9534-88f009f83ddb@219.76.13.180:443?security=tls&sni=aut300.ylks.link&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇭🇰 HK-219.76.13.180:443
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@204.93.210.185:8443?security=tls&sni=a.ssll.gay&type=ws&path=twitterfreecodes#🔒 VL-WS-TLS 🇺🇸 US-204.93.210.185:8443

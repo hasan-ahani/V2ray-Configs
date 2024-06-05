@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://10aecf00-ad54-49d5-9643-e356b5a16bab@172.67.194.102:443?security=tls&sni=selinc-selinc-selinc-selinc.kuhkf.workers.dev&type=ws&host=selinc-selinc-selinc-selinc.kuhkf.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=safari&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.194.102:443
-vless://b75b3034-36ab-4979-beae-3d02db1b11ec@172.67.71.160:443?security=tls&sni=always-online1.lp-airdrop.top&type=ws&host=always-online1.lp-airdrop.top&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.71.160:443
 vless://329a4735-9d14-4fba-b8bc-5ccf8bc488cc@86.38.214.189:2087?security=tls&sni=LiV2rayc.yoyoyo.ir&type=ws&host=LiV2rayc.yoyoyo.ir.&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇱🇹 LT-86.38.214.189:2087
 vless://11ee50b5-7f90-4989-8b70-32b3c2f5c8dc@103.35.189.42:443?security=tls&sni=sourceforge.net&type=grpc&serviceName=grpc&fp=chrome#🔒 VL-GRPC-TLS 🇺🇸 US-103.35.189.42:443
 vless://3cbaf436-93cc-4db1-be69-c5353076be15@172.64.199.158:80?type=ws&path=/graphql#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.199.158:80
@@ -83,3 +81,5 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.195.186:443?security=tls&sni
 vless://f68b1ea9-3c4e-405a-98b1-35ee3db36000@172.64.202.2:80?type=ws&path=/graphql#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.202.2:80
 vless://cec5fd94-3ff0-4ad2-ad78-423269ce9717@194.87.25.86:8263?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇫🇮 FI-194.87.25.86:8263
 vless://2190715e-3524-4526-99c7-833be28e08b2@172.67.171.48:80?security=none&sni=uk2.vless.site&type=ws&host=Uk2.vless.site.&path=/vless#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.171.48:80
+vless://71dce9af-d790-4b38-a1fd-7745e0923bd3@172.67.214.223:443?security=tls&sni=uciranir-uciranir-uciranir-uciranir-uciranir-uiranir-uciranir2.marol78205.workers.dev&type=ws&host=uciranir-uciranir-uciranir-uciranir-uciranir-uiranir-uciranir2.marol78205.workers.dev&path=%2F-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR%2F%3Fed%3D2047#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.214.223:443
+vless://3a4f88e1-69ee-4c80-8261-915623929d4a@172.64.33.81:443?security=tls&sni=2xi85t.adventureseekerspro.com&type=ws&host=2xi85t.adventureseekerspro.com&path=/wss&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.33.81:443

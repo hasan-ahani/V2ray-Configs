@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://cd37e48f-b356-4bc2-9104-c4ed5b4abe8c@sg3-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Vless%20WS%20@V2rayStore
-vless://0bac1c07-cf4c-4f35-a8d1-1e9b60a68a9e@id-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%20Vless%20WS%20@V2rayStore
 vless://784ac000-557e-4b07-ba1b-de1ef3788ec7@hk-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20Vless%20WS%20@V2rayStore
 vless://3b7eea06-232f-4f96-acc5-95db2b768538@nl-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20Vless%20WS%20@V2rayStore
 vless://305705d2-ffcc-487f-a827-e728e61681d2@nl2-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20Vless%20WS%20@V2rayStore
@@ -83,3 +81,5 @@ trojan://984e400bf5d541b7b0815913fe0c432a@104.19.171.7:443?security=tls&sni=jobs
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.17.147.11:443?security=tls&sni=jobscareerfortoday.com&type=ws&host=jobscareerfortoday.com&path=6b777a91#[🇨🇦]t.me/ConfigsHub`
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.132.75:443/?type=ws&encryption=none&host=mmdv2.pages.dev&path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2048&security=tls&sni=mmdv2.pages.dev&fp=randomized#%E2%93%82%EF%B8%8F30%40oneclickvpnkeys
 vless://76f5b425-b240-455c-a9f6-c7ac66adadcd@172.64.32.100:2052/?type=ws&encryption=none&host=406e51065f80f2c5.cDn.V2ray.SarBazit.cOm&path=%2Fdashboard%3Fed%3D2048#%E2%93%82%EF%B8%8F32%40oneclickvpnkeys
+vless://6cffb34f-2197-4037-8bbe-54cd90410922@jorum.toptechnonews.com:443/?type=ws&encryption=none&path=%2Fnimws&security=tls&sni=jorum.toptechnonews.com#%E2%93%82%EF%B8%8F35%40oneclickvpnkeys
+vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@172.67.161.104:2096?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=tnetplus.pages.dev&fp=randomized&type=ws&sni=tnetplus.pages.dev#[🇨🇦]t.me/ConfigsHub`
