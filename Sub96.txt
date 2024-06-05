@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.199.84:80?type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.199.84:80
-vless://fab99d27-f7ec-4958-8759-ea6d1f160738@172.67.170.156:443?security=tls&sni=PPaL03.DeSTiNY-wiNdlER.WOrkers.deV&type=ws&host=pPAL03.DestInY-WiNdleR.workERS.dev&path=%2Fu-I-jbckSeXsTrPc%3Fed&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.170.156:443
-vless://9deec183-c239-448b-ac49-a1df69bcf314@193.107.48.63:2222?security=none&type=tcp&host=cloudflare.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-193.107.48.63:2222
-vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.113.48:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.113.48:443
 vless://e36e7147-66cf-46cd-cead-8101a51ce15d@5.42.107.1:49935?security=none&type=tcp#🔒 VL-TCP-NONE 🇷🇺 RU-5.42.107.1:49935
 vless://4f95b778-7d4d-44b8-ab5e-1d72be78b7b3@172.66.44.79:443?security=tls&sni=telegram-vpnhttpinjectorfree-001.pages.dev&type=ws&host=telegram-vpnhttpinjectorfree-001.pages.dev&path=%2F%3Fed%3D2048&fp=randomized&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.79:443
 vless://69613ff3-a469-4b75-a56e-da64ee0133ff@199.59.243.225:443?security=tls&sni=7Fe600D3b53c4bb9de9C863cad96d1.nv2ROn.ir&type=ws&host=7fe600d3b53c4bb9de9c863cad96d1.nv2ron.ir&path=%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%3Fed%3D223555&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇺🇸 US-199.59.243.225:443
@@ -83,3 +79,7 @@ vless://7767dcb7-8f55-4fb0-8d65-aeb021d5f730@104.17.21.178:2096?security=tls&sni
 vless://13be7b64-8a46-4724-9cf2-4c7eddd4c56b@104.16.198.114:2096?security=tls&sni=sPeEd.vbox778.info.&type=grpc&fp=firefox&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.198.114:2096
 vless://2169fc1b-1e61-4d44-e42e-34230695d5d5@104.18.12.126:2053?security=tls&sni=dd.foxnim.info&type=grpc&serviceName=@foxnim#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.12.126:2053
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@8.218.74.119:80?security=none&type=ws&path=/blue#🔒 VL-WS-NONE 🇭🇰 HK-8.218.74.119:80
+vless://9d77ccf6-6710-4265-d0aa-1e07850e42dc@104.26.14.85:2087?security=tls&sni=prod01-cloud-sea-net01.cyberscaler.com&type=ws&host=prod01-cloud-sea-net01.cyberscaler.com&path=/sports-online/&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.14.85:2087
+vless://a9b3ea03-e32f-432f-e9dc-f2b7ffbed7ad@104.16.106.177:443?security=tls&sni=www-2-3-4-5-0-9-8-7-6-5-1-2-3-6-1-V2ray-mci-mtn-zx1000.jonedel.com&type=grpc&serviceName=@afv2ray,@afv2ray,@afv2ray,@afv2ray,@afv2ray,@afv2ray,@afV2ray,@AfV2ray,@Afv2ray,@afv2ray,@afv2ray,@afv2ray&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.106.177:443
+vless://d5aae20c-a7be-416e-806b-70a21ad20f52@172.67.159.193:443?security=tls&sni=PPAL03.MIss-GonzaLO-hOEGEr.WorKeRs.DEV&type=ws&host=PPal03.misS-gOnZAlo-hoEGeR.WOrKERs.DEV&path=%2FJukua2PWR_aDc8iX%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.159.193:443
+vless://104380d8-f859-421a-bd11-29b2c9fbfa99@172.66.44.55:443?security=tls&sni=famil-5c8.pages.dev&type=ws&host=famil-5c8.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.55:443

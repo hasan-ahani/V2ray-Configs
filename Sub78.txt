@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://b9855ce6-9aba-460e-bf45-e6b72be25cff@104.21.63.156:443?security=tls&sni=recvpn-recnew-itworld.rivasmed.com&type=ws&host=recvpn-recnew-itworld.rivasmed.com&path=%2Fitworld%2F12250#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.63.156:443
-vless://0a70a5ab-08af-4e80-d42b-990f88b976b4@89.235.118.236:55311?security=none&type=tcp&host=divarcdn.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-89.235.118.236:55311
-vless://c117c4fa-c93c-4d52-b02c-fcbc22063bfa@172.67.171.44:443?security=tls&sni=se1-vless.sshmax.xyz&type=ws&host=se1-vless.sshmax.xyz&path=%2Fvless#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.171.44:443
-vless://d7dd3a35b68b4992b319a85b8a1fc8e5@3.35.139.150:8443?security=tls&sni=tg.dns68.cloudns.nz&type=ws&host=tg.dns68.cloudns.nz&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇰🇷 KR-3.35.139.150:8443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.139.111:2083?security=tls&sni=baipiao1.curly-train.pages.dev&type=ws#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.139.111:2083
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@172.67.71.122:2096?security=tls&sni=jp005.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.71.122:2096
 vless://c57db8e2-555e-4c48-b262-ec20b4ae6a50@104.21.31.161:2083?security=tls&sni=selinc--3--3--3--selinc.eubda.workers.dev&type=ws&host=selinc--3--3--3--selinc.eubda.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.31.161:2083
@@ -83,3 +79,7 @@ vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@8.210.107.246:8443?security=tls&sni
 vless://85bdab79-c019-43ea-814c-dfe30aa4a95c@185.146.173.122:2095?security=none&type=ws&host=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&path=/#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.122:2095
 vless://92b934bb-7007-4439-a8e4-ad44cb1e263f@65.109.205.184:443?security=none&type=tcp#🔒 VL-TCP-NONE 🇫🇮 FI-65.109.205.184:443
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@77.37.33.195:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇩🇪 DE-77.37.33.195:8443
+vless://9d68258a-453b-418a-8b90-27b7d1637a33@172.67.195.153:2053?security=tls&sni=e130917c-1b58-4136-b2d9-76dc920e0add.add97ee8-0f14-48a3-b2cd-979c56742e64.loseyourip.com&type=ws&host=e130917c-1b58-4136-b2d9-76dc920e0add.add97ee8-0f14-48a3-b2cd-979c56742e64.loseyourip.com&path=%2Fpub0000x-9.pages.dev%2F%3Fed%3D2560&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.195.153:2053
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.133.219:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.133.219:443
+vless://b81edee6-a129-4160-ad29-488f0b5d81b4@104.24.180.16:2087?security=tls&sni=vpn-ocean4.cdn-user2.workers.dev&type=ws&host=vpn-ocean4.cdn-user2.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=safari&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.180.16:2087
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@141.11.203.196:2083?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F#🔒 VL-WS-TLS 🇫🇷 FR-141.11.203.196:2083
