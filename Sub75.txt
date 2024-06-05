@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.252.60:80?type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.252.60:80
+vless://27296b86-e52d-4293-8814-20f041c291a1@172.67.169.190:8443?security=tls&sni=selinc--2--selinc--2--selinc--2.laafydr.workers.dev&type=ws&host=selinc--2--selinc--2--selinc--2.laafydr.workers.dev&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.169.190:8443
 vless://1d1a7193-61a9-4fc1-9778-dd517cf9f919@172.67.136.208:2087?security=tls&sni=workerr.mcgrooge12.workers.dev&type=ws&host=workerr.mcgrooge12.workers.dev&path=%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.136.208:2087
 vless://5f15d381-a992-45c8-aaac-5bf46f23c4d0@104.26.3.105:80?security=none&type=ws&host=nikmard.speedvadd.fun&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.3.105:80
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@156.225.72.24:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-156.225.72.24:443
@@ -81,5 +83,3 @@ vless://5bad0d35-6fab-4044-d161-6d7633d639ae@52.84.18.4:443?security=tls&sni=app
 vless://d5aae20c-a7be-416e-806b-70a21ad20f52@172.67.159.193:443?security=tls&sni=PPAL03.MIss-GonzaLO-hOEGEr.WorKeRs.DEV&type=ws&host=PPal03.misS-gOnZAlo-hoEGeR.WOrKERs.DEV&path=%2FJukua2PWR_aDc8iX%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.159.193:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@104.16.147.11:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=TG@ZDYZ2&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.147.11:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.139.111:2053?security=tls&sni=baipiao1.curly-train.pages.dev&type=ws#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.139.111:2053
-vless://ed0dc7de-364f-4228-abf6-b027890bcd93@104.26.2.223:8443?security=tls&sni=cf.yicanny.com&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.2.223:8443
-vless://66a7609a-2143-465c-b690-78dcfad6299c@[::ffff:172.67.180.12]:443?security=tls&sni=github.vipsmt.Workers.Dev&type=ws&host=github.vipsmt.Workers.Dev&path=%2Fgithub.com%2Fmhditaheri%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-[::ffff:172.67.180.12]:443

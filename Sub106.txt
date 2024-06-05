@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://2a3263e2-891c-4446-b474-a8c63acb6e25@173.245.58.154:2096?security=tls&sni=swe2.mbh-meti.com&type=ws&host=swe2.mbh-meti.com&path=%2F&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-173.245.58.154:2096
+vless://a04be4ef-1797-4ca9-a549-4385ce42494c@185.146.173.235:443?security=tls&sni=vls4de.nimaxmusic.ir&type=ws&path=%2Fvls4dews#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.235:443
 vless://3a7e0e9a-a564-49b5-aea8-0853825c7cd1@104.26.7.95:443?security=tls&sni=CreEw.RibiWa9933.WoRkeRs.DEV&type=ws&host=CrEew.RiBIwa9933.wOrkerS.deV&path=%2F%3Fed%3D2048&fp=random&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.7.95:443
 vless://3b1ba090-63a1-4710-9818-34be378bcfbd@104.21.103.216:8080?security=none&type=ws&host=realpydar.banndedd.ir&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.103.216:8080
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.60.189.175:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇨🇦 CA-52.60.189.175:22222
@@ -81,5 +83,3 @@ vless://91d9b8d8-2aab-4e1a-9573-0d59e9cd7f8e@188.114.97.3:8880?security=none&typ
 vless://13be7b64-8a46-4724-9cf2-4c7eddd4c56b@104.25.200.250:2096?security=tls&sni=sPeEd.vbox778.info.&type=grpc&fp=firefox&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.25.200.250:2096
 vless://77de458b-5d58-4379-927a-7e749b2d17f8@172.67.197.82:443?security=tls&sni=test.gold15.ir&type=grpc&serviceName=fast.com&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.197.82:443
 vless://840ca14a-ea50-465a-b679-69d9f0b7a366@104.17.2.183:2087?security=tls&sni=Helix-2.mahoraga.space&type=grpc&serviceName=Telegram-Channel%3A%40HELIX_Servers-Telegram-Channel%3A%40HELIX_Servers-Telegram-Channel%3A%40HELIX_Servers-Telegram-Channel%3A%40HELIX_Servers-Telegram-Channel%3A%40HELIX_Servers-Telegram-Channel%3A%40HELIX_Servers-Telegram-Channel%3A%40HELIX_Servers-Telegram-Channel%3A%40HELIX_Servers-Telegram-Channel%3A%40HELIX_Servers-Telegram-Channel%3A%40HELIX_Servers&fp=firefox#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.2.183:2087
-vless://b9fffe76-52b6-40fb-acd1-de7a577773cb@86.38.214.246:2087?security=tls&sni=LiV2rayd.yoyoyo.ir&type=ws&host=LiV2rayd.yoyoyo.ir.&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇱🇹 LT-86.38.214.246:2087
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.134.221:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.134.221:443

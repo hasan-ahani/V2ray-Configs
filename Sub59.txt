@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.81.4:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.81.4:443
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.228.60:443?security=tls&sni=936a99B4.Vde5-MlX81LANeo.pAgES.dEv&type=ws&host=936a99B4.vDE5-MLx81LANeO.pAgeS.DEV&path=%2FKkhHL0gsSoZ7M6id%2FZGU1Lm1lcmxpbm56Lmxpbms%3D%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.228.60:443
 vless://dffd0356-baca-4802-98da-733bdb4a010e@188.114.98.18:443?security=tls&sni=afjdh053dda.72386902d6.workers.dev&type=ws&host=afjdh053dda.72386902d6.workers.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.18:443
 vless://effb1829-c983-4772-8df4-2e1b0c83d969@198.41.198.76:80?security=none&type=ws&host=1.ftp.debian.org.www.speedtest.net.%E5%85%8D%E8%B4%B9%E4%B8%8A%E7%BD%9167.Site.&path=%2F%2Ftelegram-proxy-mtm-telegram-proxy-mtm-telegram-proxy-mtm%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.198.76:80
 vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@188.114.99.243:443?security=tls&sni=w1.sylar8.eu.org&type=ws&host=w1.sylar8.eu.org&path=Path%2FTelegram%40V2ray_alpha%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.99.243:443
@@ -81,5 +83,3 @@ vless://d096830d-b1b4-4319-8b25-2e3df19e6e3b@172.64.138.167:80?security=none&typ
 vless://fa6a1a81-fcec-4a8d-895c-a7bc6c80cebe@104.26.12.54:80?security=none&type=ws&host=proxystore11.kodaksho.eu.org&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.12.54:80
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.245.86.230:80?security=none&type=ws&path=%2Fblue#🔒 VL-WS-NONE 🇸🇬 SG-47.245.86.230:80
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.84.218:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.84.218:443
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.176.24.253:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-185.176.24.253:443
-vless://89cd187b-db2b-4e1a-a264-6abdc75bd5c3@162.159.136.234:8443?security=tls&sni=Join-Telegram-Channel-Disvpn.OnflashdrIve.App&type=ws&host=Join-Telegram-Channel-Disvpn.OnflashdrIve.App&path=Telegram%3A+%40DisVpn&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.136.234:8443

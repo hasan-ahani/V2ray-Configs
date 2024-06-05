@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.16.142.237:8443?security=tls&sni=kk005.ylks.link&type=ws&path=/blue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.142.237:8443
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.234.148:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.234.148:443
 vless://df872d7e-7f96-4cd3-9ed1-d1bc8ebdf420@45.131.4.161:8080?security=none&type=ws&host=V2ray.digikala.com-mykit.ir.nobitex.com.IMhyW5477e.DAILYCONFIGS.vigilantecollection.com.&path=/---@Daily_Configs---@Daily_Configs---@Daily_Configs---@Daily_Configs---@Daily_Configs#🔒 VL-WS-NONE 🇳🇱 NL-45.131.4.161:8080
 vless://4785f3ca-8fa3-4717-8c81-9d19087c73a3@172.66.44.171:443?security=tls&sni=pardazeshvpn-tg104.pages.dev&type=ws&host=pardazeshvpn-tg104.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.171:443
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.41.198:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.41.198:443
@@ -81,5 +83,3 @@ vless://bcae2171-9197-4efa-afe8-f809ca406dbb@172.67.155.176:443?security=tls&sni
 vless://819b80a9-197a-42d6-aee3-2dfca5415b91@45.8.21.169:12345?security=none&type=tcp&host=uplod.ir&headerType=http#🔒 VL-TCP-NONE 🇹🇷 TR-45.8.21.169:12345
 vless://fb301d2e-4430-4b41-95d6-764460b8ef13@156.238.18.246:2053?security=tls&sni=9b56CFEe5b258C44c45bA18FA122293.mIToweAr.cOm&type=grpc#🔒 VL-GRPC-TLS 🇺🇸 US-156.238.18.246:2053
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@8.218.188.129:80?security=none&type=ws&path=/blue#🔒 VL-WS-NONE 🇭🇰 HK-8.218.188.129:80
-vless://436e7428-381d-404e-ad67-915e98ce357d@172.66.46.250:443?security=tls&sni=43b35ef5.aminitiger.pages.dev&type=ws&host=43b35ef5.aminitiger.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.46.250:443
-vless://3fefc100-faed-43ad-b087-d47ddfe75121@162.159.48.84:443?security=tls&sni=s92qb78mnok7yh5ykir1ayugvc49aqclfapp4qmqvixdxyd8crqppthcfpsjmm2.esmpy.workers.Dev&type=ws&host=s92qb78mnok7yh5ykir1ayugvc49aqclfapp4qmqvixdxyd8crqppthcfpsjmm2.esmpy.workers.Dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.48.84:443

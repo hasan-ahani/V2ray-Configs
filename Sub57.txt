@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.26.53:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=/?ed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.26.53:443
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@121.166.49.104:37363?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🔒 VL-WS-TLS 🇰🇷 KR-121.166.49.104:37363
 vless://133066ba-0400-4ece-f486-d157d509d331@185.146.173.59:2096?security=tls&sni=ip1677.savarkaraan.ir&type=grpc&serviceName=Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇸🇪 SE-185.146.173.59:2096
 vless://88b6885d-e5dd-46f9-b72c-f3b9794c4724@168.119.239.93:8080?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇩🇪 DE-168.119.239.93:8080
 vless://b0138d55-a493-4dc3-9932-c6f0391707c1@172.64.111.9:443?security=tls&sni=edge.020770.xyz&type=ws&host=edge.020770.xyz&path=%2Fvless%2Fb0138d55-a493-4dc3-9932-c6f0391707c1%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.111.9:443
@@ -81,5 +83,3 @@ vless://01ab9337-f478-4765-9534-88f009f83ddb@47.237.0.31:2083?security=tls&sni=a
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.222:2087?security=tls&sni=a.ssll.gay&type=ws&path=telegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai_8%2F%3Fed#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.222:2087
 vless://636b1684-b26c-4a9c-bc6e-8e1197a36d74@104.16.60.79:2052?security=none&type=ws&host=workerr.hashdiler.workers.dev&path=%2FTelegram+Channel+%3A+@freeiranweb#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.60.79:2052
 vless://52a49c8b-680d-4e13-9799-7fb384d5c88b@104.21.78.235:443?security=tls&sni=fast-cd.iraniposhal.ir&type=ws&host=fast-cd.iraniposhal.ir&path=%2F&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.78.235:443
-vless://e0ee06c7-241f-43a7-8cdb-887a91f46e20@104.21.3.3:8080?security=none&type=ws&host=maz.像鸟一样自由.online.&path=@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.3.3:8080
-vless://5925eed9-c282-4eac-ffc0-871cfaaaf8de@185.146.173.82:443?security=tls&sni=21A455A7F7F7a7ecc5bF3c2035014a107f7894799456828eC84075ba9eDA7f1.auiyf.com&type=ws&host=21A455A7F7F7a7ecc5bF3c2035014a107f7894799456828eC84075ba9eDA7f1.auiyf.com&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.82:443

@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.195.62.141:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇫🇮 FI-45.195.62.141:443
+vless://233a7a43-3340-44b7-ab79-14c29fc02e47@172.67.2.238:8880?security=none&type=ws&host=dr-venom.aminghasemidrvenom.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.2.238:8880
 vless://dffd0356-baca-4802-98da-733bdb4a010e@188.114.98.18:80?security=none&type=ws&host=afjdh053dda.72386902d6.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.98.18:80
 vless://636b1684-b26c-4a9c-bc6e-8e1197a36d74@190.93.244.0:8080?security=none&type=ws&path=%2F%3Fed#🔒 VL-WS-NONE 🏴‍☠️ NA-190.93.244.0:8080
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@45.205.0.145:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-45.205.0.145:8443
@@ -81,5 +83,3 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.238.228.39:443?security=tls&sni
 vless://725db236-4956-4cf6-917f-6ecee2819bef@104.21.42.56:8880?security=none&type=ws&host=worker-morning-dew-a638.4d1e2665a3c461.workers.dev&path=Telegram+channel+%3A+%40pandavpntc#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.42.56:8880
 vless://4dff7215-1e48-4b7b-8a2f-8fe0be2ac6a8@172.66.213.5:2053?security=tls&sni=jetfreewarp.pages.dev&type=ws&host=jetfreewarp.pages.dev&path=%2F%3Fed%3D2560&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.213.5:2053
 vless://d345d11e-c424-4583-b36e-527ab1f0afa4@104.26.5.60:8080?security=none&type=ws&host=v2raynselling.kir-rasol-kir.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.5.60:8080
-vless://01ab9337-f478-4765-9534-88f009f83ddb@8.219.191.110:2083?security=tls&sni=aut226.ylks.link&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇬 SG-8.219.191.110:2083
-vless://242b7fb0-d590-57bd-9924-38092b4a8f21@172.67.212.171:2087?security=tls&sni=esetsecuritylicense.ujlqwtae.wORKERS.deV&type=ws&host=esetsecuritylicense.ujlqwtae.wORKERS.deV&path=vless-ws%2F%3Fed%3D2048&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.212.171:2087

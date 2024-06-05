@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://99205b1c-37ec-42ff-dfe8-59daca6b93a3@89.44.118.22:14823?security=none&type=tcp&host=nobitex.ir&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-89.44.118.22:14823
+vless://07631ca0-01f9-42fe-b8ad-bea5f8bb79e8@104.25.255.156:443?security=tls&sni=cc1.kosnanatfilterchi.eu.org&type=ws&host=cc1.kosnanatfilterchi.eu.org&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.255.156:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@185.148.107.214:443?security=tls&sni=hk005.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-185.148.107.214:443
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@104.18.62.6:80?security=none&type=ws&host=mahi.kosnanatfilterchi.eu.org&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.62.6:80
 vless://ee091af5-83cc-445c-9ced-79a65a8f9a40@173.245.49.27:443?security=tls&sni=xV6dA12cq.diamondgalery.ir&type=httpupgrade&host=xV6dA12cq.diamondgalery.ir&path=%2FJfDhd3XZsdZ97Ign&fp=chrome&alpn=h2#🔒 VL-HTTPUPGRADE-TLS 🏴‍☠️ NA-173.245.49.27:443
@@ -81,5 +83,3 @@ vless://9f98310e-25c2-4016-9d3c-8adaa8b160dc@104.16.12.76:2087?security=tls&sni=
 vless://9066bb7e-e9f0-49dc-bd72-22d07c0cf525@172.67.128.83:2096?security=tls&sni=ss.ali767.com&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.128.83:2096
 vless://53b0dad9-104a-4d39-95d5-8d7124c6541c@104.18.20.135:443?security=tls&sni=irancloidflare.pages.dev&type=ws&host=irancloidflare.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.20.135:443
 vless://01ab9337-f478-4765-9534-88f009f83ddb@8.219.122.55:2083?security=tls&sni=aut226.ylks.link&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇬 SG-8.219.122.55:2083
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.71.168:443?security=tls&sni=bbF9c21A.tEchNETBPb.PAGEs.DEV&type=ws&host=BbF9c21a.TeCHneTBPb.pAges.dev&path=%2Fl4f75fvmxHpFk3nc%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.71.168:443
-vless://9709a49f-40fc-4d0d-bc5c-77827947e30b@162.159.130.235:8080?security=none&type=ws&host=joinsevernettdd.xn--78-pv2cvta065cac9302fea377a148g.xyz.#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.130.235:8080

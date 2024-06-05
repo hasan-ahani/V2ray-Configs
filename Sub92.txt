@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://aaa05d67-a662-4e0f-b995-6bd83dd5dddd@85.9.115.180:40092?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-85.9.115.180:40092
+vless://30c54c04-983a-49aa-a859-0914882b4135@141.105.130.220:31979?security=none&type=tcp&host=speedtest.net&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇺🇦 UA-141.105.130.220:31979
 vless://a5f6e5be-2bea-4096-b5aa-bc5055a6d77b@217.60.239.54:12990?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-217.60.239.54:12990
 vless://a8f1f548-2d45-4ba2-8ec0-082aefebff9f@95.164.84.87:443?security=none&type=tcp&host=ponisha.ir&headerType=http#🔒 VL-TCP-NONE 🇳🇴 NO-95.164.84.87:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@204.93.210.131:2096?security=tls&sni=a.ssll.gay&type=ws&path=twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-204.93.210.131:2096
@@ -81,5 +83,3 @@ vless://c085eef1-b5f1-44ed-b7f1-a0b28279af34@104.21.18.64:443?security=tls&sni=d
 vless://ae048376-0c84-47e8-9031-966b73f7f2d0@54.169.171.52:43598?security=none&type=ws&host=m.facebook.com&path=/#🔒 VL-WS-NONE 🇸🇬 SG-54.169.171.52:43598
 vless://a4cc1aea-eb57-4c01-bbbd-122151dd04b1@172.67.203.182:443?security=tls&sni=telegram-vpnhttpinjectorfree-6.taylan953.workers.dev&type=ws&host=telegram-vpnhttpinjectorfree-6.taylan953.workers.dev&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.203.182:443
 vless://e767898f-8a74-45ea-e708-9fe4e36957ea@104.17.46.92:80?security=none&type=ws&host=bia-to-channel.unlimiteddev.xyz&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.46.92:80
-vless://0b9521d9-fb34-4b5e-b27c-d591f193bcf3@104.24.176.7:2096?security=tls&sni=chh.cheetahmh45.shop&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.24.176.7:2096
-vless://dcf3c704-0f83-440a-84b8-7fcf0649783c@5.145.119.39:2086?security=none&type=ws&host=mail.iriknet.ir&path=/OceanNetworks#🔒 VL-WS-NONE 🇮🇷 IR-5.145.119.39:2086
