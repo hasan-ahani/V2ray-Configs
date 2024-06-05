@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://81a27cdf-06fe-49d2-a4c3-14d292fa0ac9@172.67.213.252:2052?security=none&type=ws&path=%2F%40EsiVP%20%40EsiVP%40EsiVP%40EsiVP%40EsiVP%40EsiVP%40EsiVP%40EsiVP%40EsiVP%40EsiVP%40EsiVP%40EsiVP%40EsiVP%40EsiVP%40EsiVP%40EsiVP%40EsiVP%40EsiVP#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.213.252:2052
 vless://6752e55c-e0b0-47a6-9165-3ba92c801402@198.244.190.189:443?security=tls&flow=xtls-rprx-vision&sni=uk-full.privateip.net&type=tcp&path=%2f&allowInsecure=1#🔒 VL-TCP-TLS 🇬🇧 GB-198.244.190.189:443
 vless://bb27a0c6-aa5e-4105-a943-b87239507057@172.66.44.190:443?security=tls&sni=pardazeshvpn-tg86.pages.dev&type=ws&host=pardazeshvpn-tg86.pages.dev&path=%2FTelegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.190:443
 vless://16d99f65-b71f-5cdf-8ce6-fc35e171a192@172.67.160.47:2053?security=tls&sni=esetsecuritylicense.ikgbvch.WORkERs.DEv&type=ws&host=esetsecuritylicense.ikgbvch.WORkERs.DEv&path=vless-ws%2F%3Fed%3D2048&fp=android&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.160.47:2053
@@ -83,3 +82,4 @@ vless://9cd6e660-fa72-415d-a60d-64aa16574ab0@45.12.30.16:8080?type=ws&host=EnRhe
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.39.23:80?security=none&type=ws&host=us1.rtacg.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.39.23:80
 vless://7e29f2e2-e0ec-47c5-94ec-38ef90f7a106@104.24.0.11:2083?security=tls&sni=guq22.oXNETWoRks.liNK&type=ws&host=guq22.oXNETWoRks.liNK&path=vless-ws/?ed#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.0.11:2083
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@44.218.145.21:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇺🇸 US-44.218.145.21:22222
+vless://1bab0961-b22c-411f-b955-09c4aed2d2c1@23.227.39.31:443?security=tls&sni=us3.hnkkt.top&type=ws&path=/gsjc/us3#🔒 VL-WS-TLS 🇨🇦 CA-23.227.39.31:443
