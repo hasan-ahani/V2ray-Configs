@@ -3,6 +3,15 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://telegram-id-privatevpns@52.28.50.95:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A5691%203.5MB%2Fs
+ss://MDM3MjhiZGQtNzQ1Yy00ZWY2LWEwMWYtNzBiMDA2ZDNiYmFlOg==@172.67.178.12:443#%E6%9C%AA%E7%9F%A5692
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.17.147.11:443?security=tls&type=ws&sni=jobscareerfortoday.com&path=6b777a91&host=jobscareerfortoday.com#%E6%9C%AA%E7%9F%A5693
+trojan://a6292090-afe1-4640-97a7-4f1d1d877cf1@95.179.128.114:443?security=tls&type=grpc&sni=hdfy8d1.cpi1.eu.org#%E6%9C%AA%E7%9F%A5694
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFdnlSdmFuelJ4N0xISTNucDJteGg5@23.88.107.190:7098#%E6%9C%AA%E7%9F%A5695
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.178.87.37:805#%E6%9C%AA%E7%9F%A5696
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.75.136.108:7001#US334%201.7MB%2Fs
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.157.40.83:2375#US335%201.7MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.148:8080#US336%203.4MB%2Fs
 ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg==@5.188.181.201:9040#%E6%9C%AA%E7%9F%A5697
 vmess://eyJ2IjoiMiIsInBzIjoiVVMzMzcgMy4xTUIvcyIsImFkZCI6Im5wbWpzLmNvbSIsInBvcnQiOiI0NDMiLCJpZCI6IjZiODgwYjA3LWU5NTItNGMwYi1iNGEzLTZjOWFjNGNmOWQzZiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6ImhkZnkxYzIuZnJlZWFpcmxhaW5lcy5jb20iLCJwYXRoIjoiL1F2dHZQZERYWElsU2RaTXFudXhHIiwidGxzIjoidGxzIiwic25pIjoiaGRmeTFjMi5mcmVlYWlybGFpbmVzLmNvbSIsInRlc3RfbmFtZSI6IlVTMzM3In0=
 ss://OWU2N2YxNWMtMTc4Zi00OTRjLWE4NDMtZjM3MWUzYjNmYTVkOg==@172.67.153.75:8080#%E6%9C%AA%E7%9F%A5698
@@ -74,12 +83,3 @@ trojan://telegram-id-directvpn@52.18.206.99:22222?security=tls&headerType=none&t
 trojan://9yu6m5okr@172.67.198.177:443?security=tls&type=ws&sni=production.tj.ojan.workers.dev&path=/&host=production.tj.ojan.workers.dev#%E6%9C%AA%E7%9F%A5742
 ss://ZWIyMDE5MjMtMGUzOS00NDI1LWJkMGYtNjI0NGNkMjRlZjJhOg==@188.114.96.223:80#%E6%9C%AA%E7%9F%A5743
 ss://YWEyZGM4NDAtYmUzOC00YjRkLWEwMDItYmEyMzQ5OTlmZDU1Og==@172.67.35.200:8080#%E6%9C%AA%E7%9F%A5744
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@54.36.174.181:5000#%E6%9C%AA%E7%9F%A5745%201.5MB%2Fs
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@51.159.111.208:989#%E6%9C%AA%E7%9F%A5746%203.3MB%2Fs
-ss://NzZjZWFiYTQtZTI4NC00YjBhLTk3MmEtNzY5ZjNlNjc0MGIyOg==@104.21.43.13:443#%E6%9C%AA%E7%9F%A5747
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1U0ZpTnRqd3pDMXkyUU1QTmhyWEFUNWdrbkUxbWdIZ2dzcUw2Z1BrVUZQdldxckhDNjNVNXA1VkNOWkJrdFQ3Qk5veWtHZDFneFBaeTl6b1NzajZIcnc1WVYzWHZvUGg=@194.87.179.169:40928#%E6%9C%AA%E7%9F%A5748%20239.6KB%2Fs
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.67:2096?security=tls&type=ws&sni=tjjd.yzyx1.v6.army&path=/?ed=2048&Telegram🇨🇳 @WangCai2&host=tjjd.yzyx1.v6.army#%E6%9C%AA%E7%9F%A5749
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@23.157.40.83:6379#US355%201.7MB%2Fs
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.75.136.21:8080#US356%201.6MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZakE1WW1NeA==@185.231.205.80:8388#%E6%9C%AA%E7%9F%A5750
-trojan://telegram-id-privatevpns@13.39.230.43:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A5751
