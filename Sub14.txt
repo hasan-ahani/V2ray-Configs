@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://ff254d52-9133-4ac9-ac1a-b7072d76b89f@es-full.privateip.net:443#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20Trojan%20@V2rayStore
+trojan://d0a9ccc6-9ecd-40a3-8833-d2509b2759a8@sg-full.privateip.net:443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Trojan%20@V2rayStore
+trojan://0131887e-b136-4334-8716-98f9c450a4af@sg2-full.privateip.net:443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Trojan%20@V2rayStore
+trojan://b3965d2d-3b82-45cc-927b-1336aca3f3fe@sg3-full.privateip.net:443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Trojan%20@V2rayStore
+trojan://b48b4d1b-9c5a-4c9d-8297-251bae2a23e6@id-full.privateip.net:443#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%20Trojan%20@V2rayStore
+trojan://f2e3b2f8-f3a7-4218-85f3-1a4842130226@hk-full.privateip.net:443#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20Trojan%20@V2rayStore
 trojan://0d0addf9-8579-445c-b519-00a339a3f0c0@nl-full.privateip.net:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20Trojan%20@V2rayStore
 trojan://ca0888b0-f505-4411-ad10-efb2841bf962@nl2-full.privateip.net:443#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20Trojan%20@V2rayStore
 trojan://e0557db1-585e-4469-aaab-3e9061fc53ac@ca-full.privateip.net:443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20Trojan%20@V2rayStore
@@ -77,9 +83,3 @@ vless://68f8442f-b177-4a16-ad40-3f5357afa5f1@104.21.55.234:2087?mode=gun&securit
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.154.153.65:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇮`
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.73.147:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
 vless://d36e214f-3573-42d4-bb00-f85d15af5c48@104.21.20.148:443?security=tls&sni=salamon-alaikom.azadistadium.com&type=grpc&serviceName=telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram`
-vless://5f57c327-5316-42d1-913d-40289f34a1e5@185.146.173.146:8880?security=none&type=ws&host=Mahdi.net.346ewfsgv2ray.Comxn--Adge2535.g1ewkjd.kajdWoek2qop.laVazem456di.GamermEcfz.IR.&path=%2FMmdv2rayng-V2rayngmmd-telegram-mmd_v2rayng%3Fed%3D22900#@Hope_Net-join-us-on-Telegram`
-vless://9a3e7b98-7ac1-4693-9fcc-7f5a61e538a4@LIGHTNING6-joinbed.filj.top:8880?path=/@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-@LiV2ray&security=none&encryption=none&host=LiV2rayc.lightningz.ir.&type=ws#[🇸🇪]t.me/ConfigsHub`
-vless://f17d041a-b274-4bf3-8795-4d69ceaebf96@185.146.173.25:8080?security=&type=ws&path=/telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,V2ray,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers?ed%3D2048&host=its-legendaryking.com-so.ir-whereareyoumylady.xn--9iqtb0z3kmg58ejur6wfbwf9muugk7rck30b0frbqkvk2bye0bm1a.arvancloud.online.&encryption=none#[🇸🇪]t.me/ConfigsHub`
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.18.118.150:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇮`
-vless://4034b059-e29e-444b-89cc-a25b40c36b28@german2.activevps2.xyz:22010?type=ws&path=/&security=none&host=divarcdn.com#[🇮🇷]t.me/ConfigsHub`
-vless://4015a246-a042-4372-a64a-919171ca8593@188.114.97.3:2052?path=%2F%2Ftelegram-proxy-mtm-telegram-proxy-mtm-telegram-proxy-mtm%3Fed%3D2048&security=none&encryption=none&host=1.ftp.debian.org.www.speedtest.net.%E5%85%8D%E8%B4%B9%E4%B8%8A%E7%BD%9167.Site.&type=ws#[🇨🇦]t.me/ConfigsHub`
