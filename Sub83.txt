@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://8a84e7db-6c09-4cb8-bdfb-552f0360a6cb@172.67.164.182:2096?security=tls&sni=selinc---1----selinc----1---selinc------1.gcjmjwbq.workers.dev&type=ws&host=selinc---1----selinc----1---selinc------1.gcjmjwbq.workers.dev&path=vless-ws%2F%3Fed%3D2048&fp=android&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.164.182:2096
-vless://8ae88ee2-2f11-46ad-8302-ba388712196a@162.159.138.232:2053?security=tls&sni=cdn.biglog.sbs&type=ws&host=cdn.biglog.sbs&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.138.232:2053
-vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@188.114.97.7:443?security=tls&sni=current.iraniancp.fun&type=ws&host=current.iraniancp.fun&path=%2F%3Fed%3D2048&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.7:443
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.111.164:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.111.164:443
-vless://1c4520d8-b91d-4a6d-b21e-fbe98da8f363@172.67.205.72:2053?security=tls&sni=Free.CConfigV2ray.workers.dev&type=ws&host=Free.CConfigV2ray.workers.dev&path=vless-ws%2F%3Fed%3D2048&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.205.72:2053
-vless://1bab0961-b22c-411f-b955-09c4aed2d2c1@23.227.39.172:443?security=tls&sni=de1.hnkkt.top&type=ws&path=/gsjc/de1#🔒 VL-WS-TLS 🇨🇦 CA-23.227.39.172:443
 vless://eb44e1c7-e5ba-4446-807c-a0768a8f4589@104.16.12.226:2083?security=tls&sni=amovpn6.fqservers.com&type=ws&host=amovpn6.fqservers.com&path=/channel:@VPNAMOHELP_@VPNAMOHELP_@VPNAMOHELP_@VPNAMOHELP_@VPNAMOHELP_@VPNAMOHELP&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.12.226:2083
 vless://0ff7e8e6-85ee-4039-9a2f-ee78af70ea46@172.67.153.247:2096?security=tls&sni=Joinbede.mainv2ray.US.KG&type=grpc&serviceName=@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray&fp=chrome&alpn=h3,h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.153.247:2096
 vless://a56b225a-5f29-4c39-ad3e-e7e6de0c5df4@104.21.84.25:80?security=none&type=ws&host=ireland.cf.cdn.artificialintelligence-turbooserver.com&path=/improve-ping/b#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.84.25:80
@@ -83,3 +77,9 @@ vless://678ac895-92c2-4f27-a9d4-f1a89c5f5365@154.197.121.254:8443?security=tls&s
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@172.67.71.187:8443?security=tls&sni=xin002.ylks.link&type=ws&path=/blue#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.71.187:8443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.26.6.37:443?security=tls&sni=zdy005.kpcloud.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.6.37:443
 vless://d8b2cbd5-c6ab-4199-83ac-1cb743790e08@185.146.173.59:2096?security=tls&sni=V2ray-NAPSTERNET-IRANCELL-iran-fair-MKH.VARZESH3-cdn.site&type=grpc&serviceName=@VPNCUSTOMIZE#🔒 VL-GRPC-TLS 🇸🇪 SE-185.146.173.59:2096
+vless://d674009a-4a87-4180-a8fe-9a54f66bd7c9@104.17.58.44:443?security=tls&sni=vpn.restia.love&type=ws&host=vpn.restia.love#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.58.44:443
+vless://ba7556ea-2e96-4463-a6f2-f2ab3579a653@1.1.1.1:443?security=tls&sni=vlessct-ws-channel-vpnctvip.vpnctvip.dns-dYnaMIC.NET&type=ws&path=iranukiraniukwbpbct.majidcttls.onflashdrive.app%2FMaJiDcT%2F%3Fed&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-1.1.1.1:443
+vless://5b5c09a5-1c52-43c5-bb42-e54578cf76f5@188.42.89.197:2095?security=none&type=ws&host=moham.net.93djh3qwtest.comxn--jhdcjhwe2381.jhdjhw3.hjdwhcedcxhws3h.wirenew.fpsvpn.SHOP.&path=%2Fnew_proxy_channel-new_proxy_channel-new_proxy_channel-new_proxy_channel-new_proxy_channel%2Fnew_proxy_channel%3Fed%3D2560#🔒 VL-WS-NONE 🇱🇺 LU-188.42.89.197:2095
+vless://65136d09-0d6e-4ad6-9a08-ba436dcc72f3@104.16.30.250:443?security=tls&sni=opaso.sevenoseven.tech&type=grpc&serviceName=@VPN707,@VPN707,@VPN707,@VPN707,@VPN707,@VPN707,@VPN707,@VPN707,@VPN707,@VPN707,@VPN707,@VPN707,@VPN707&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.30.250:443
+vless://05ec0064-1013-4c4b-a7d1-0c561c2a232a@188.114.96.81:80?security=none&type=ws&host=V2ray.motorcycles.Elmahstyle.ir#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.96.81:80
+vless://e41b9c55-9fcd-46e8-a913-2812d7805eb7@185.126.11.250:443?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.126.11.250:443
