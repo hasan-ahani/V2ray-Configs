@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://2f02034c-11cb-47de-8aee-4e868e9704d1@es-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=GRPC&mode=gun#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20Vless%20gRPC%20@V2rayStore
 vless://fa3c063e-a5eb-416b-882b-852d40a3ee09@sg-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=GRPC&mode=gun#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Vless%20gRPC%20@V2rayStore
 vless://7d2d2794-ccdd-4333-9e15-8643b93b2a9b@sg2-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=GRPC&mode=gun#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Vless%20gRPC%20@V2rayStore
 vless://0bac1c07-cf4c-4f35-a8d1-1e9b60a68a9e@id-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=GRPC&mode=gun#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%20Vless%20gRPC%20@V2rayStore
@@ -83,3 +82,4 @@ vmess://eyJhZGQiOiAid2ViLmNvbSIsICJhaWQiOiAwLCAiaG9zdCI6ICJhbGl5dW5faGsxLmNuMi5m
 ss://aes-256-gcm:e075eadb-fa95-4688-8fac-35ca31f78fab@us-full.privateip.net:8443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Shadowsocks%20@V2rayStore
 ss://aes-256-gcm:b830cf90-4d07-4899-aaec-9e454caf34b6@tr-full.privateip.net:8443#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20Shadowsocks%20@V2rayStore
 ss://aes-256-gcm:665abb10-45be-4020-9b58-094b24422645@kz-full.privateip.net:8443#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20Shadowsocks%20@V2rayStore
+ss://aes-256-gcm:7b00079c-ce37-4389-8c43-8d5189af1b75@uk-full.privateip.net:8443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20Shadowsocks%20@V2rayStore

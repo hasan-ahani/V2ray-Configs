@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://10638abe-7adc-4cdb-f3aa-6c41813de2a9@104.21.31.15:2053?security=tls&sni=venosvpn-mci.bukhjabaji.ir&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.31.15:2053
 vless://d0be39fd-4bca-4e37-80d5-715d512aad7e@172.64.202.127:443?security=tls&sni=server17.aibox.tv&type=ws&host=server17.aibox.tv&path=%2Fws%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.202.127:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.130:443?security=tls&sni=00E463dC.beStVPn-4xI.PaGEs.DEV&type=ws&host=00e463DC.beStVPn-4xi.pAGEs.dEV&path=%2Ff753S4bODaWufJ5Q%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.130:443
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@185.148.106.44:2083?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=/?ed#🔒 VL-WS-TLS 🇺🇸 US-185.148.106.44:2083
@@ -83,3 +82,4 @@ vless://9ac18653-25c9-431d-ac9a-20125216e9c1@190.93.247.155:2087?security=tls&sn
 vless://29d9e61b-ff12-4dfe-bcda-64d1f2f49458@104.17.126.133:80?type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.126.133:80
 vless://ae53d90e-618d-448a-96c5-66cdb0374077@37.27.18.181:2080?security=none&type=tcp&host=speedtest.net&path=/&headerType=http#🔒 VL-TCP-NONE 🇫🇮 FI-37.27.18.181:2080
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.31.16.183:443?security=tls&sni=fragment.iraniancp.click&type=ws&host=fragment.iraniancp.click&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.31.16.183:443
+vless://4075cbc0-8b0a-480d-972d-5f09d4d3a083@188.114.96.6:8443?security=tls&sni=join-telegraam-channel-disvpn.pages.dev&type=ws&host=join-telegraam-channel-disvpn.pages.dev&path=/TelegramJoin:@DisVpn,TelegramJoin:@DisVpn&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.6:8443

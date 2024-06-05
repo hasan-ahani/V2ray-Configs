@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@79.99.30.190:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇳🇱 NL-79.99.30.190:8443
 vless://e5c62241-69be-4d74-b4f8-b458425403e1@46.245.64.105:49901?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-46.245.64.105:49901
 vless://6c8e7ae0-3f33-4bb6-a8e5-47fe226ea0e5@172.67.202.69:8443?security=tls&sni=prod01-shop-cloud.cyberscaler.com&type=ws&host=prod01-shop-cloud.cyberscaler.com&path=%2Fonline-mobile-store%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.202.69:8443
 vless://7fe3fd4d-a9ee-41c1-9129-7ebf90991699@172.67.220.203:2087?security=tls&sni=selinc---------selinc--------selinc.qupivf.workers.dev&type=ws&host=selinc---------selinc--------selinc.qupivf.workers.dev&path=vless-ws%2F%3Fed%3D2048&fp=safari&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.220.203:2087
@@ -83,3 +82,4 @@ vless://24d80106-32ca-4333-bdd0-ce486748e538@172.67.141.41:443?security=tls&sni=
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.130.230:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.130.230:443
 vless://0bac1c07-cf4c-4f35-a8d1-1e9b60a68a9e@172.232.250.160:2003?security=tls&sni=id-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇮🇩 ID-172.232.250.160:2003
 vless://9937de02-e13a-4c7d-8ace-708104e01db0@185.16.110.146:2052?security=none&type=ws&host=v2ray.debian.org.fxp.debian.org.speedtest.net萨姆吉巴尼科.golestan-vpn.link.&path=/aSAn.net.v2rayng6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g#🔒 VL-WS-NONE 🇫🇷 FR-185.16.110.146:2052
+vless://a94ccf98-19c8-4de4-bfb3-ac37a6696729@172.66.44.240:8443?security=tls&sni=pardazeshvpn-tg60.pages.dev&type=ws&host=pardazeshvpn-tg60.pages.dev&path=%2FTelegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.240:8443

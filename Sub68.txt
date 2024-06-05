@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://a73a7c3f-de06-457a-979d-30a7e7a19b0b@104.20.19.168:80?security=none&type=ws&host=worker-flat-block-16c8.academi-vpn-3-13.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.19.168:80
 vless://52de3fa6-1673-4918-a90d-21d2b69de98e@172.66.47.19:443?security=tls&sni=eb8c0c64.888766.pages.dev&type=ws&host=eb8c0c64.888766.pages.dev&path=%40VPNHTTPInjectorfree#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.19:443
 vless://e5598560-5b02-4845-bccc-9bef8f4f14e7@104.18.5.174:2087?security=tls&sni=vira-v2-3be7883659a1d2ba4c545dfdf85b61eda1.asiatechnicalwest.ir&type=grpc&serviceName=@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN&fp=firefox&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.5.174:2087
 vless://2eda5ab3-9cde-462d-a26b-9aa280f38839@172.67.137.95:80?security=none&type=ws&host=eiiim.danesh-bonyan.Store&path=join.----------------Telegram-EiiiM----------------Telegram-EiiiM---------------.Telegram-EiiiM.#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.137.95:80
@@ -83,3 +82,4 @@ vless://7dee9736-d32f-4ac9-f22a-831b81a0b101@190.93.244.103:8880?security=none&t
 vless://553f9a37-8966-40f8-b7f8-0e9d8e467aa0@62.60.141.6:5016?security=none&type=tcp&host=nobitex.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-62.60.141.6:5016
 vless://03f95805-645c-4e1c-9f0d-940e60e509bb@104.20.77.252:443?security=tls&sni=telegram-falcunargo-finlands.falcunar.asso.eu.org&type=ws&host=telegram-falcunargo-finlands.falcunar.asso.eu.org&path=%2F%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.77.252:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.138.140:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=TELEGRAM-MARAMBASHI%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.138.140:443
+vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@162.159.153.207:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.207:443
