@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@172.66.45.32:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=t-netplus-4vx.pages.dev&fp=random&type=ws&sni=t-netplus-4vx.pages.dev#[🇨🇦]t.me/ConfigsHub`
+vless://4f553bcd-4871-4a63-a7a2-adc5bca9d5be@172.64.32.100:2052?path=%2Fdashboard%3Fed%3D2048&security=none&encryption=none&host=406e51065f80f2c5.cDn.V2ray.SarBazit.cOm&type=ws#[🇨🇦]t.me/ConfigsHub`
+vless://86ed8559-9f58-4a10-9cc1-59bfe8db7f09@Next.salarvand.org:2087?path=%2Fws%3Fed%3D2048&security=tls&encryption=none&host=Gr-next.cgnm.ir&type=ws&sni=Gr-next.cgnm.ir#[🇸🇪]t.me/ConfigsHub`
+vless://9c682edf-7e17-41d6-83e1-d7f6996a9542@speed.cloudflare.com:443?path=%2FTELEGRAM-MARAMBASHI%3Fed%3D2560&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=vip1.yomato7390.workers.Dev&fp=randomized&type=ws&sni=vip1.yomato7390.workers.Dev#[🇨🇦]t.me/ConfigsHub`
+vless://3f9d3b52-1bcc-499f-aad0-ba71d6123f8b@104.18.28.181:8080?path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2048&security=none&encryption=none&host=shuige3.cbj2bxt6.workers.dev&type=ws#[🇨🇦]t.me/ConfigsHub`
 vless://09c795fd-4c13-491e-b419-2598410077b9@gama.ir:443?mode=gun&security=tls&encryption=none&authority=xn--rgbk3dif70f.jObfiNeX.ir.&type=grpc&serviceName=%2F%40custom_config%3Fed%3D2056&sni=xn--rgbk3dif70f.jObfiNeX.ir.#[🇨🇦]t.me/ConfigsHub`
 vless://c1403d0e-c7d3-4db3-b77b-eb6919ba1284@Visa.com:8880?path=%2F---%40Daily_Configs---%40Daily_Configs---%40Daily_Configs---%40Daily_Configs---%40Daily_Configs&security=none&encryption=none&host=daily-configsV2rayGmSix6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.vigilantecollection.com.&type=ws#[🇨🇦]t.me/ConfigsHub`
 vless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@188.114.97.141:443?path=TELEGRAM-proxy_mtm%2F%3Fed%3D2048&security=tls&encryption=none&host=e10c0e4b.oodaeq2.pages.dev&fp=randomized&type=ws&sni=e10c0e4b.oodaeq2.pages.dev#[🇨🇦]t.me/ConfigsHub`
@@ -78,8 +83,3 @@ vless://10aad6fc-3063-4974-83db-6134ad89dbe3@blog.nmigm.online:80?encryption=non
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@45.85.119.146:443?security=tls&sni=v005.ylkszy.eu.org&type=ws&path=/?ed#@Hope_Net-join-us-on-Telegram
 vless://a73a7c3f-de06-457a-979d-30a7e7a19b0b@172.67.2.238:80?security=none&type=ws&host=worker-flat-block-16c8.academi-vpn-3-13.workers.dev&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram`
 vless://3fb47eca-2487-4af8-b0f9-1cf25ad4b7a7@104.18.134.66:8080?security=none&type=ws&host=join-to.vmessorg.Community.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080#@Hope_Net-join-us-on-Telegram
-vless://6a89dc04-7781-46fe-b35c-e14a6b6e60b8@88.99.250.31:443?security=tls&sni=TeSt-tESt-teSt-TeSt.PAGES.DeV&type=ws&host=teSt-tEsT-TEst-TEst.PageS.dEV&path=%2F48QtUVkBchpH4B8d%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram`
-vmess://eyJhZGQiOiIxODguMTE0Ljk3Ljc5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6ImNocm9tZSIsImhvc3QiOiJsaW5kZTA2LmluZGlhdmlkZW8uc2JzIiwiaWQiOiJlZGJiMTA1OS0xNjMzLTQyNzEtYjY2ZS1lZDRmYmE0N2ExYmYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3dzIiwicG9ydCI6IjQ0MyIsInBzIjoiW/Cfh6jwn4emXXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiJsaW5kZTA2LmluZGlhdmlkZW8uc2JzIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=`
-vless://81a2a36a-faf4-4547-879d-e2d4a839966b@185.146.173.58:8080?path=%2F&security=none&encryption=none&host=redc.servernet.fun.&type=ws#[🇸🇪]t.me/ConfigsHub`
-vless://5f22e229-0e75-4ad8-be3d-c83d231cb354@104.21.20.148:2053?security=tls&sni=favarmgo.khorm.ir&type=ws&host=favarmgo.khorm.ir#[🇨🇦]t.me/ConfigsHub`
-vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@45.59.185.130:25176?security=tls&sni=v005.ylkszy.eu.org&type=ws&path=/?ed#@Hope_Net-join-us-on-Telegram`
