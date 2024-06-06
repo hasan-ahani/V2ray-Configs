@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.75:443?security=tls&sni=jp005.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.75:443
+vless://af309ad2-c943-48ea-b570-2e51a2f079d9@172.67.139.145:80?type=ws&path=%2FDSDaswd22%2111*fdfm55247.COM.#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.139.145:80
 vless://303c4e48-948c-49e8-a78e-9c84d58435e5@172.67.163.209:443?security=tls&sni=ppAl03.fLORenCe-VonRUeden.WorKERs.dEv&type=ws&host=PpAL03.fLORENCE-vOnrueden.woRKERs.dEV&path=%2Fy4aHCb-U__GL7AOj%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.163.209:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.19.173.68:2096?security=tls&sni=jp306.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.173.68:2096
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.105.108:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-185.148.105.108:443
@@ -81,5 +83,3 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa7@172.66.46.233:2096?security=tls&sni
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.18.5.237:2096?security=tls&sni=jp005.ylks01.eu.org&type=ws&path=/blue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.5.237:2096
 vless://2cd0d0da-d26a-452b-b306-a2670ae0049b@188.114.98.224:8080?security=none&type=ws&host=VPNCUSTOMIZE.V2ray.Community.&path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.98.224:8080
 vless://adbb17ae-b8cb-4aee-a890-6329965abcac@172.67.175.132:8443?security=tls&sni=newworkfaridshahrivardo.abza.workers.dev&type=ws&host=newworkfaridshahrivardo.abza.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.175.132:8443
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.34.251:443?security=tls&sni=B458aB02.cAa-CHANEL-WORKER-pAge-fREE-jhUiHnuJhpHJKL-nIHGKjn.PAges.Dev&type=ws&host=b458ab02.CAa-cHANel-woRkEr-PaGE-FRee-jHUIhNUJhPhjkl-NiHGkjn.paGEs.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.34.251:443
-vless://e42d1e2e-c305-4330-b15c-d48b77d00d37@87.107.164.103:2020?security=none&type=tcp&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-87.107.164.103:2020

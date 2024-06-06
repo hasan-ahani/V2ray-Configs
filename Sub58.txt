@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@47.242.252.237:2053?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇭🇰 HK-47.242.252.237:2053
+vless://ae048376-0c84-47e8-9031-966b73f7f2d0@47.129.39.18:43598?security=none&type=ws&host=m.facebook.com&path=/#🔒 VL-WS-NONE 🇸🇬 SG-47.129.39.18:43598
 vless://9e67f15c-178f-494c-a843-f371e3b3fa5d@162.159.137.102:8080?security=none&type=ws&host=king1980.b91sptsl.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.137.102:8080
 vless://81a27cdf-06fe-49d2-a4c3-14d292fa0ac9@104.21.23.227:2052?security=none&type=ws&path=%2F%40EsiVP%20%40EsiVP%40EsiVP%40EsiVP%40EsiVP%40EsiVP%40EsiVP%40EsiVP%40EsiVP%40EsiVP%40EsiVP%40EsiVP%40EsiVP%40EsiVP%40EsiVP%40EsiVP%40EsiVP%40EsiVP#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.23.227:2052
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@31.22.116.134:2096?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇬🇧 GB-31.22.116.134:2096
@@ -81,5 +83,3 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.16.142.237:8443?security=tls&sn
 vless://ae8e1a57-75fc-4d8d-b186-bfa92e5473cc@104.25.196.220:2083?security=tls&sni=isa.kasler.sbs&type=grpc&serviceName=%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%40ev2rayy&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.25.196.220:2083
 vless://242b7fb0-d590-57bd-9924-38092b4a8f21@104.21.45.92:2083?security=tls&sni=esetsecuritylicense.ujlqwtae.WOrKERS.Dev&type=ws&host=esetsecuritylicense.ujlqwtae.WOrKERS.Dev&path=vless-ws%2F%3Fed%3D2048&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.45.92:2083
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.179.196:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.179.196:443
-vless://6f995056-7802-4a1d-bff7-61678e626c3f@40.74.100.138:443?security=tls&sni=jpp1.azurewebsites.net&type=ws&host=jpp1.azurewebsites.net&path=%2F#🔒 VL-WS-TLS 🇯🇵 JP-40.74.100.138:443
-vless://0859b63e-cb81-4c01-bf5a-739f90e72f92@104.26.6.64:2095?security=none&type=ws&host=v2ray-_-_-_-_-_-vpn.frev2ray.kellekcollection.myname.houselife.IR.&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.6.64:2095

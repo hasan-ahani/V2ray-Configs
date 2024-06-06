@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@192.9.165.253:47580?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇦🇺 AU-192.9.165.253:47580
+vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@95.215.173.108:8919?type=tcp&serviceName=-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any&host=varzesh3.com&path=/&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-95.215.173.108:8919
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@77.37.33.195:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇩🇪 DE-77.37.33.195:8443
 vless://ee3fda1f-d8ec-44c7-942e-7e980b0b941c@104.24.234.35:2052?security=none&type=ws&host=P.a.n.jetupnet.sbs.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.234.35:2052
 vless://e5af768c-8f94-4897-844d-ff1131ccdb82@172.67.206.185:443?security=tls&sni=nano-wash.mr-apk.ir&type=grpc&serviceName=config-injectorV2,config-injectorV2,config-injectorV2,config-injectorV2&fp=chrome&alpn=h2&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.206.185:443
@@ -81,5 +83,3 @@ vless://9d68258a-453b-418a-8b90-27b7d1637a33@172.67.195.153:2053?security=tls&sn
 vless://35caec98-86de-4f38-a011-eb7e134446c7@172.67.197.28:443?security=tls&sni=ANasERviCezIlorX.IxPub.WORkErs.Dev&type=ws&host=anAseRvicEzIlOrx.IXPuB.wOrKers.dev&path=%2F@VPNHTTPInjectorfree#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.197.28:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.43.179.179:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇰🇿 KZ-31.43.179.179:443
 vless://fd667cc8-7f4e-4ec4-ba4e-46d6209c128c@162.159.240.154:2096?security=tls&sni=re6.v2logy.xyz&type=grpc&fp=chrome&alpn=http%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.240.154:2096
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@47.242.252.237:2053?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇭🇰 HK-47.242.252.237:2053
-vless://ae048376-0c84-47e8-9031-966b73f7f2d0@47.129.39.18:43598?security=none&type=ws&host=m.facebook.com&path=/#🔒 VL-WS-NONE 🇸🇬 SG-47.129.39.18:43598

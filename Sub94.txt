@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://3cbaf436-93cc-4db1-be69-c5353076be15@172.67.57.252:80?type=ws&path=/graphql#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.57.252:80
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.153:2087?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.153:2087
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.176.24.4:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-185.176.24.4:443
 vless://b0138d55-a493-4dc3-9932-c6f0391707c1@172.67.163.103:2082?security=none&type=ws&host=MalAySiAdj.CArD-937.WorKeRs.DeV.#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.163.103:2082
 vless://ae53d90e-618d-448a-96c5-66cdb0374077@37.27.80.220:2080?security=none&type=tcp&host=speedtest.net&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇫🇮 FI-37.27.80.220:2080
@@ -81,5 +83,3 @@ vless://e76fda5e-2783-4772-9af5-cea1a35b4316@172.67.171.99:80?security=none&type
 vless://20bc54fb-6eb0-468f-83dd-f95b80a27d5f@104.18.17.151:80?security=none&type=ws&host=1.ftp.debian.org.www.speedtest.net.%E5%85%8D%E8%B4%B9%E4%B8%8A%E7%BD%9167.Site.&path=%2F%2Ftelegram-%40vlees_v2rayng%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.17.151:80
 vless://739aef27-7cf4-4457-839c-449e707d64ea@104.31.16.95:443?security=tls&sni=sqvsjpkqkfw5lgfvcznq.digikala.network&type=ws&host=sqvsjpkqkfw5lgfvcznq.digikala.network&path=%2F12979%2FDigi-Atl&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.31.16.95:443
 vless://bdab18c1-d3f9-428c-a376-ca8cce0f1710@172.66.213.38:2082?security=none&type=ws&host=cdn54.nigc-ar.com&path=/backup#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.213.38:2082
-vless://fc5fd045-f911-4220-8f76-1ac4115e51c4@172.67.170.71:2087?security=tls&sni=bmw.nonoal.xyz&type=grpc&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.170.71:2087
-vless://7bedf632-b4c2-4e90-9d8b-f42ee7145534@141.193.213.10:443?security=tls&sni=shinobbbnbu.yaemiko.cloudns.org&type=ws&host=shinobu.yaemiko.cloudns.org&path=/&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇺🇸 US-141.193.213.10:443
