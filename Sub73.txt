@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://ed0dc7de-364f-4228-abf6-b027890bcd93@104.26.2.223:8443?security=tls&sni=cf.yicanny.com&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.2.223:8443
+vless://35323594-9ee2-4f06-ae14-3148b6950621@188.114.97.171:80?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.97.171:80
+vless://2ca42987-551b-4494-a854-da2d9178f4cd@172.64.146.80:2087?security=tls&sni=LzPmJySw22.zImBa-zUlA.OrG&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.64.146.80:2087
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@45.59.186.34:34237?security=tls&sni=xin313.ylks.link&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-45.59.186.34:34237
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.140.94:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.140.94:443
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@198.41.221.196:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.221.196:443
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.31.248:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.31.248:443
 vless://d2dce228-e2dc-474f-b189-42daded22ba5@188.114.98.217:443?security=tls&sni=napdg1000072.reneelegitimate.workers.dev&type=ws&host=napdg1000072.reneelegitimate.workers.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.217:443
@@ -78,8 +83,3 @@ vless://7bedf632-b4c2-4e90-9d8b-f42ee7145534@141.193.213.10:443?security=tls&sni
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.2:8443?security=tls&sni=a.ssll.gay&type=ws&path=twitter苏小柠#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.2:8443
 vless://414ec795-648c-4c59-de88-e1dee89a30aa@190.93.247.194:2087?security=tls&sni=wordpress15-admin-panel-thunder.mralpha-vpn.com&type=grpc&serviceName=@thunderv2ray,@thunderv2ray,@thunderv2ray,@thunderv2ray,@thunderv2ray,@thunderv2ray,@thunderv2ray,@thunderv2ray,@thunderv2ray,@thunderv2ray&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-190.93.247.194:2087
 vless://ec601998-9e15-490f-a71f-95a683bf5f5b@85.9.115.164:19100?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-85.9.115.164:19100
-vless://b60314c0-b6a7-478c-8d2b-b00072ff5726@85.9.96.167:4248?security=none&type=tcp&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.9.96.167:4248
-vless://a8f1f548-2d45-4ba2-8ec0-082aefebff9f@95.164.84.87:443?security=none&type=tcp&host=ponisha.ir&headerType=http#🔒 VL-TCP-NONE 🇳🇴 NO-95.164.84.87:443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@43.153.181.217:443?security=tls&sni=jp005.ylks01.eu.org&type=ws&path=/proxyip#🔒 VL-WS-TLS 🇯🇵 JP-43.153.181.217:443
-vless://f69d4594-2d18-4266-abc4-eeb9c5604ca5@172.67.221.245:443?security=tls&sni=www.12reddddddd.bf&type=ws&host=www.12reddddddd.bf&path=%2F975e3406-9ac4-45fc-a12b-30fbe810c75f#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.221.245:443
-vless://02e75d78-58ad-4a73-afca-24b781d8fdf5@45.8.211.142:8443?security=tls&sni=Isa.kasler.sbs&type=grpc&serviceName=%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%40ev2rayy&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇷🇺 RU-45.8.211.142:8443

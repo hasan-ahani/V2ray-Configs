@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://moist@146.56.130.130:14850?sni=trojan.freenods.sbs#🔒 TR-TCP-NA 🇰🇷 KR-146.56.130.130:14850
+trojan://224c91ee-7e18-4f1e-86bb-c1836f218c95@172.207.168.118:443?#🔒 TR-TCP-NA 🇯🇵 JP-172.207.168.118:443
+trojan://123456@104.18.11.39:443?security=tls&sni=trojan-amp-id01.globalssh.xyz&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🏴‍☠️ NA-104.18.11.39:443
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.118:2096?security=tls&sni=tjjd.yzyx1.v6.army&type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.53.118:2096
+trojan://eqUjIxW5S5@188.114.97.6:443?sni=xstj.damane2111.ir&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-188.114.97.6:443
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.22:2096?security=tls&sni=tjjd.yzyx1.v6.army&type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.22:2096
 trojan://2d8dbf40-2378-11ef-a83b-1239d0255272@172.67.204.84:443?sni=fr1.test3.net&type=ws&host=fr1.test3.net&path=%2Fhowdy#🔒 TR-WS-NA 🏴‍☠️ NA-172.67.204.84:443
 trojan://7b06d22a8a7c764f@45.11.104.94:3306?security=tls&sni=n2.gladns.com&type=ws&path=%2Fgateway%2Fconnect#🔒 TR-WS-TLS 🇭🇰 HK-45.11.104.94:3306
@@ -78,8 +83,3 @@ trojan://NISHIKUITAN222@172.67.75.172:443?security=tls&sni=t600.ylks.link&type=w
 trojan://9yu6m5okr@104.21.50.5:443?security=tls&sni=production.tj.ojan.workers.dev&type=ws&host=production.tj.ojan.workers.dev&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.50.5:443
 trojan://GSYYULACz0@104.18.202.232:8080?security=none&type=ws&host=mmd.net.napster6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.fpsvpn.SHOP.&path=%2Fnew_proxy_channel-new_proxy_channel-new_proxy_channel-new_proxy_channel-new_proxy_channel%2Fnew_proxy_channel%3Fed%3D2560#🔒 TR-WS-NONE 🏴‍☠️ NA-104.18.202.232:8080
 trojan://d0a9ccc6-9ecd-40a3-8833-d2509b2759a8@139.162.35.118:443?#🔒 TR-TCP-NA 🇸🇬 SG-139.162.35.118:443
-trojan://telegram-id-privatevpns@13.37.153.61:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-13.37.153.61:22222
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.78:2053?security=tls&sni=tjjd.yzyx1.v6.army&type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.78:2053
-trojan://2cba4104747d49d18319e5ade1b93ab5@198.41.220.18:443?security=tls&sni=avianrecruit.com&type=ws&host=avianrecruit.com&path=6b777a91&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.18:443
-trojan://984e400bf5d541b7b0815913fe0c432a@104.19.171.2:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.171.2:443
-trojan://e5f9c753-d401-487f-a77b-1004b7f0f439@64.110.68.141:20102?security=tls&sni=13-231-155-134.nhost.00cdn.com&type=tcp#🔒 TR-TCP-TLS 🇰🇷 KR-64.110.68.141:20102
