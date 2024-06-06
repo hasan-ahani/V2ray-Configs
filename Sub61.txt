@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://31ee875d-63cf-4d85-839e-2def5ca4f794@104.18.15.242:2053?security=tls&sni=031c08e8175b0def.greenbook.monster&type=ws&host=031c08e8175b0def.greenbook.monster&path=%2F&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.15.242:2053
-vless://6176f2d6-7db3-417b-9017-4904270ffbb4@104.21.91.124:2096?security=tls&sni=xpaceteam-mci.cataba.ir&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.91.124:2096
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.107.62:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-185.148.107.62:443
 vless://2f4d8ee0-496e-4107-9dc6-2c31eaf1a2e6@194.247.187.130:22305?security=none&type=tcp#🔒 VL-TCP-NONE 🇩🇪 DE-194.247.187.130:22305
 vless://25d0ee2d-4190-52be-b892-45811c6ba210@172.67.146.69:2083?security=tls&sni=folani.iiipok.wOrKeRs.DEV&type=ws&host=folani.iiipok.wOrKeRs.DEV&path=%2Fvless-ws%2F%3Fed%3D2048&fp=edge&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.146.69:2083
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.64.97.56:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.97.56:443
@@ -83,3 +80,6 @@ vless://2a56380f-8a51-401d-8664-7d6b78f788a0@104.16.4.103:80?type=ws&host=7fe600
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.158.127:80?type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.158.127:80
 vless://ef6746d5-d4c5-5092-9b7f-fbfd372446b3@104.21.79.184:2053?security=tls&sni=esetsecuritylicense.shsxucu.wOrkErs.DEV&type=ws&host=esetsecuritylicense.shsxucu.wOrkErs.DEV&path=vless-ws%2F%3Fed%3D2048&fp=chrome&alpn=h3,h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.79.184:2053
 vless://6ac90b73-0aa5-4145-b2d7-246c94a8f389@172.67.242.38:8443?security=tls&sni=germanfollower.uspro.ir&type=grpc&serviceName=abc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.242.38:8443
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@129.154.223.89:15800?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇰🇷 KR-129.154.223.89:15800
+vless://ecd404a2-70b2-4e89-8339-89536cdfae52@172.67.170.85:8080?security=none&sni=king1980us.50fo8itj.workers.dev&type=ws&host=king1980us.50fo8itj.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.170.85:8080
+vless://50b7d3e3-0039-49e9-8c62-d172481873a3@86.38.214.8:2087?security=tls&sni=LiV2raya.yoyoyo.ir&type=ws&host=LiV2raya.yoyoyo.ir&path=%2F%40L%49%47HTNING6-TEL--%40L%49%47HTNING6-TEL--%40L%49%47HTNING6-TEL--%40L%49%47HTNING6-JOIN-%40L%49%47HTNING6-TEL--%40L%49%47HTNING6-JOIN-%40L%49%47HTNING6-TEL-%40L%49%47HTNING6-TEL--%40L%49%47HTNING6-JOIN-%40L%49%47HTNING6-TEL--%40L%49%47HTNING6-%40LiV2ray%3Fed%3D1024&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇱🇹 LT-86.38.214.8:2087

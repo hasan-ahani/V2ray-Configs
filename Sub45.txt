@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@77.37.33.31:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=twitterfreecodes#🔒 VL-WS-TLS 🇩🇪 DE-77.37.33.31:8443
-vless://ae53d90e-618d-448a-96c5-66cdb0374077@37.27.26.224:2080?security=none&type=tcp&host=speedtest.net&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇫🇮 FI-37.27.26.224:2080
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.50.158.123:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇸🇪 SE-13.50.158.123:22222
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.36.210:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.36.210:443
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.111.118:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.111.118:80
 vless://2e23f47c-5cf1-4b8b-9992-db41f2265ed9@104.21.52.225:2053?security=tls&sni=dl6.mn-g.ir&type=ws&path=/&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.52.225:2053
@@ -83,3 +80,6 @@ vless://69613ff3-a469-4b75-a56e-da64ee0133ff@199.59.243.225:443?security=tls&sni
 vless://674f6c6c-d461-46c8-9aa0-64278b29732d@185.235.243.212:443?security=none&type=tcp#🔒 VL-TCP-NONE 🇹🇷 TR-185.235.243.212:443
 vless://1f48f432-fff4-474f-c3a6-08cf1db5b709@172.67.129.202:443?security=tls&sni=pay.technator.net&type=ws&host=pay.technator.net&path=%2Fimage%2F20992#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.129.202:443
 vless://f45e6911-24af-4127-bcca-91e1320e4a9f@86.38.214.13:2087?security=tls&sni=LiV2rayd.yoyoyo.ir&type=ws&host=LiV2rayd.yoyoyo.ir.&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇱🇹 LT-86.38.214.13:2087
+vless://2e01ebcf-4bd6-4be4-9365-f5c623510512@172.67.131.24:80?security=none&type=ws&host=workerr.babray.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.131.24:80
+vless://519d3ac5-928a-42d2-9e86-7e44added154@188.114.99.180:443?security=tls&sni=hfeew16002s.7d55ddc09b.workers.dev&type=ws&host=hfeew16002s.7d55ddc09b.workers.dev&path=%2F%3Fed%3D2560&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.99.180:443
+vless://f971c939-32e0-40ca-b4d9-f444fddb45f2@172.66.46.221:443?security=tls&sni=9a6d6fd5.joinmahdiserver-an3.pages.dev&type=ws&host=9a6d6fd5.joinmahdiserver-an3.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.46.221:443

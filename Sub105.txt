@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://01ab9337-f478-4765-9534-88f009f83ddb@8.219.122.55:2053?security=tls&sni=aut226.ylks.link&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇬 SG-8.219.122.55:2053
-vless://46764e4a-65d2-4ea0-ad4e-105b6beaa357@172.67.171.46:443?security=tls&sni=pl2-vless.sshmax.xyz&type=ws&host=pl2-vless.sshmax.xyz&path=%2Fvless#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.171.46:443
-vless://283516af-082c-4f67-b392-ea3add35b9c1@104.21.28.38:443?security=tls&sni=vvv.v2ray96.filegear-sg.me&type=grpc&serviceName=188.114.99.0&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.28.38:443
 vless://7da27146-c7da-4518-89b5-68caf7ba87c0@172.64.38.151:2087?security=tls&sni=vira-v2-3be7883659a1d2ba4c545dfdf85b61eda1.asiatechnicalwest.ir.&type=grpc&serviceName=@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN&fp=firefox#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.64.38.151:2087
 vless://de44b044-8f90-4e18-b742-16591667ff96@199.19.106.244:443?security=tls&sni=edgetunnel-free.pages.dev&type=ws&path=%2F%3Fed&fp=randomized#🔒 VL-WS-TLS 🇺🇸 US-199.19.106.244:443
 vless://d62cfbb9-5431-4b6f-bd1e-d51164dbaebc@172.67.129.146:443?security=tls&sni=kiNgaRIAMehr2.PAGeS.DeV&type=ws&host=kINgarIaMeHR2.pAGes.dEV&path=%2Ftelegram-proxy_mtm%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.129.146:443
@@ -83,3 +80,6 @@ vless://ef6746d5-d4c5-5092-9b7f-fbfd372446b3@172.67.147.10:2087?security=tls&sni
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@162.159.129.108:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.129.108:443
 vless://5fd30283-078d-4ee6-873b-4ecb8fec1958@162.159.133.234:2082?security=none&type=ws&host=none.error_none.error_10101010.iRAN-chEck-hOst-SERVER-sitesssssssssssssssssssssss--sssssssssss.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.133.234:2082
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@47.236.125.62:2087?security=tls&sni=tg.dns68.cloudns.nz&type=ws&host=tg.dns68.cloudns.nz&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇸🇬 SG-47.236.125.62:2087
+vless://57e15194-5fca-43bf-9672-9a51578ece6e@162.159.15.252:2053?security=tls&sni=fix.ahwaz14.ir&type=grpc&serviceName=fix.ahwaz14.ir&fp=firefox&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.15.252:2053
+vless://5521744a-f20b-407b-87b7-3797b30d3f2c@104.17.228.234:2095?security=none&type=ws&host=frtvd.oxnetirz214.workers.dev&path=%2F..............%40Free_V2rng...............%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.228.234:2095
+vless://e2fbd763-57e0-4a42-b083-4ef713bb0300@104.17.249.203:443?security=tls&sni=x3.dalidalton.online&type=grpc&serviceName=Telegram+%3A+%40vpn_xw+Telegram+%3A+%40vpn_xwTelegram+%3A+%40vpn_xwTelegram+%3A+%40vpn_xwTelegram+%3A+%40vpn_xwTelegram+%3A+%40vpn_xwTelegram+%3A+%40vpn_xwTelegram+%3A+%40vpn_xwTelegram+%3A+%40vpn_xwTelegram+%3A+%40vpn_xwTelegram+%3A+%40vpn_xwTelegram+%3A+%40vpn_xw#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.249.203:443
