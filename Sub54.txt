@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://13be7b64-8a46-4724-9cf2-4c7eddd4c56b@162.159.133.148:2096?security=tls&sni=sPeEd.vbox778.info.&type=grpc&fp=firefox&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.133.148:2096
-vless://b0138d55-a493-4dc3-9932-c6f0391707c1@172.67.56.140:443?security=tls&sni=edge.020770.xyz&type=ws&host=edge.020770.xyz&path=%2Fvless%2Fb0138d55-a493-4dc3-9932-c6f0391707c1%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.56.140:443
-vless://8cf41faf-45b9-4955-9f88-713a55ceaad8@49.13.95.126:23637?security=none&type=tcp#🔒 VL-TCP-NONE 🇩🇪 DE-49.13.95.126:23637
 vless://e4e7b149-8bd8-4266-8cbb-0987604dbc87@104.17.158.128:443?security=tls&sni=toujiediansigema.5112233.xyz&type=ws&host=toujiediansigema.5112233.xyz&path=%2FTG@juzibaipiao%E5%81%B7%E8%8A%82%E7%82%B9%E6%AD%BB%E5%90%97&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.158.128:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.236.93.176:2083?security=tls&sni=kk005.ylks.link&type=ws&path=/proxyip#🔒 VL-WS-TLS 🇸🇬 SG-47.236.93.176:2083
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.97:443?security=tls&sni=jp005.ylks01.eu.org&type=ws&path=/blue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.97:443
@@ -83,3 +80,6 @@ vless://a55426e4-4e81-402c-ae52-446d8d87a695@212.80.18.72:27449?security=none&ty
 vless://10716279-b1ee-41d8-b63e-87782088305b@104.21.13.248:443?security=tls&sni=heY.BaChebIapAIn.iR&type=ws&host=HEY.bAchEbiaPaiN.Ir&path=/IsZzMnxfw2SxHIgf?ed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.13.248:443
 vless://f7ef59d8-e848-454d-8613-9e2f45ddd04f@188.114.98.45:80?security=none&type=ws&path=%2F%3Fed#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.98.45:80
 vless://0b085910-2056-4b5f-f0b1-2fe02d596cf5@188.114.96.113:443?security=tls&sni=my1.prapt1.ir&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-188.114.96.113:443
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.18.26.94:2087?security=tls&sni=jp005.ylks01.eu.org&type=ws&path=/blue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.26.94:2087
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.50.101:8443?security=tls&sni=f43-OA8BtD-uD73-DH-sU38-d-2jD9-NxHAy2-i33-dCE33-iBZy26.pAGES.DeV&type=ws&host=f43-oa8btD-uD73-DH-su38-D-2jd9-nXHAY2-I33-DCE33-IBZY26.PaGes.deV&path=%2F----------%40Free_V2rng----------%40Free_V2rng----------%40Free_V2rng----------%40Free_V2rng----------%40Free_V2rng----------%40Free_V2rng----------%40Free_V2rng----------%40Free_V2rng----------%40Free_V2rng----------%40Free_V2rng----------%40Free_V2rng----------%40Free_V2rng----------%3D%3D%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.50.101:8443
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@45.205.0.145:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-45.205.0.145:8443

@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://69e25d5b-309f-429e-ba38-212465c534b0@65.21.2.49:46928?type=tcp#🔒 VL-TCP-NA 🇫🇮 FI-65.21.2.49:46928
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@47.242.155.39:8888?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇭🇰 HK-47.242.155.39:8888
-vless://25d0ee2d-4190-52be-b892-45811c6ba210@104.21.91.52:2087?security=tls&sni=folani.iiipok.WoRkeRs.Dev&type=ws&host=folani.iiipok.WoRkeRs.Dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=safari&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.91.52:2087
 vless://cc63b584-be6e-42a7-a3ad-bce6b285b166@104.18.32.69:80?security=none&type=ws&host=moham.net.93djh3qwtest.comxn--jhdcjhwe2381.jhdjhw3.hjdwhcedcxhws3h.wirenew.fpsvpn.SHOP.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.32.69:80
 vless://376b9861-2fc6-4647-959c-18185cd9c95a@104.31.16.125:443?security=tls&sni=lmn1716703142099.lmn15581.info&type=ws&host=lmn1716703142099.lmn15581.info&path=/srvacc1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.31.16.125:443
 vless://0ff7e8e6-85ee-4039-9a2f-ee78af70ea46@172.67.143.22:2096?security=tls&sni=Mainv2ray.mashti.us.KG.&type=grpc&serviceName=@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray&fp=chrome&alpn=h3,h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.143.22:2096
@@ -83,3 +80,6 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.22.15.132:2087?security=tls&sni
 vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@185.218.7.217:1443?security=tls&sni=2022585a-86a7-4231-b3a0-eeda14f77f4d.8f18237c-8e5f-4ffb-a434-1b2948c87be3.ddnsfree.com&type=ws&path=%2Fpasge.pages.dev%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-185.218.7.217:1443
 vless://d345d11e-c424-4583-b36e-527ab1f0afa4@104.26.5.60:8080?security=none&type=ws&host=v2raynselling.kir-rasol-kir.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.5.60:8080
 vless://d69b66cb-5fe2-40b9-842b-1951982f80ae@104.21.13.159:2086?security=none&type=ws&host=zebelkhan30.quysc64868.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.13.159:2086
+vless://00000000-0000-0000-0000-000000000005@185.143.232.253:443?security=tls&sni=3f40e40b00522eb1eb9bfb420b8bb012.skyroom.online&type=ws&host=flsrv.cdnplus1.ir&path=%2Fdownloadws%3F13011683841757#🔒 VL-WS-TLS 🇮🇷 IR-185.143.232.253:443
+vless://3e07bcfe-c2f2-4058-bc3b-0d064ce0ea31@104.21.46.168:443?security=tls&sni=esetsecuritylicense.lfywmck.workers.dev&type=ws&host=esetsecuritylicense.lfywmck.workers.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.46.168:443
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@47.236.253.41:2053?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F#🔒 VL-WS-TLS 🇸🇬 SG-47.236.253.41:2053
