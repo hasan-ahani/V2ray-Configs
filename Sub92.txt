@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://fb301d2e-4430-4b41-95d6-764460b8ef13@104.17.22.111:2053?security=tls&sni=9b56CFEe5b258C44c45bA18FA122293.mIToweAr.cOm&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.22.111:2053
+vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@172.64.153.235:443?security=tls&sni=Bia-PaiN-BacHe.pages.DeV&type=ws&host=bIa-pAIN-bAcHe.PAGES.deV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.153.235:443
+vless://85ac002e-cda3-42b4-8a6a-3997ff664d76@172.67.221.237:2087?security=tls&sni=dl.parhamtraberthos.ir&type=ws&host=dl.parhamtraberthos.ir&path=%2Fnew_proxy_channel%3Fed%3D2560&fp=random&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.221.237:2087
 vless://10716279-b1ee-41d8-b63e-87782088305b@190.93.244.18:443?security=tls&sni=MamAne-FiLTerCHi.pageS.DEV&type=ws&path=%2Fb6UrlUHh79QzoYvF%3Fed&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.244.18:443
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.75.95:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.75.95:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.163.43:443?security=tls&sni=0ABd6Cc4.IRsnET.pAges.DEV&type=ws&host=0aBD6CC4.iRSneT.PAGes.dEv&path=/RgMImniF1ZIS6pjd?ed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.163.43:443
@@ -80,6 +83,3 @@ vless://c657d012-48da-4ba2-88aa-de8b95bc00cb@185.146.173.84:2052?security=none&t
 vless://473a9c6b-f0f6-428e-9120-e14d52b2d2de@78.46.216.252:50001?type=tcp&host=vkvd127.mycdn.me&headerType=http#🔒 VL-TCP-NA 🇩🇪 DE-78.46.216.252:50001
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.64.134.121:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.134.121:443
 vless://502f1a41-96df-4d6c-8a3b-26781e795893@104.19.244.250:8880?security=none&type=ws&host=sinadfa.dugjup.workers.dev&path=%2FTELEGRAM%40AZARBAYJAB1T%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.244.250:8880
-vless://1235b6fb-7f15-4361-8da3-d1a079bdf484@104.18.34.21:8443?security=tls&sni=who-doesnt-care.BacheBiaPain.IR&type=ws&host=who-doesnt-care.BacheBiaPain.IR&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.34.21:8443
-vless://709b065a-922d-4450-97f0-72c5bc1c1253@185.143.233.120:2052?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-185.143.233.120:2052
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.0.144:80?security=none&type=ws&host=binance.co.kp#🔒 VL-WS-NONE 🇺🇸 US-151.101.0.144:80
