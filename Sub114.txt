@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://tIErrUuX7j@104.21.7.176:2053?security=tls&sni=vr.v2ray962.filegear-sg.me&type=grpc&alpn=h2%2Chttp%2F1.1#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.21.7.176:2053
-trojan://auto@172.66.47.125:443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.47.125:443
-trojan://EgAMtxAquaO78-IvTSWpnQ@104.17.182.232:2096?security=tls&sni=mrz.learnturkishspeech.fun&type=ws&host=mrz.learnturkishspeech.fun&path=/book#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.182.232:2096
 trojan://0cb2cd1f-870b-485c-914a-60aba39eed39@162.210.199.65:443?#🔒 TR-TCP-NA 🇺🇸 US-162.210.199.65:443
 trojan://a9d4426f1c76c6b@172.67.204.84:2053?security=tls&sni=bestfollower.fandlaandpro.ir&type=grpc&serviceName=sourceforge.net#🔒 TR-GRPC-TLS 🏴‍☠️ NA-172.67.204.84:2053
 trojan://telegram-id-privatevpns@16.16.72.6:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-16.16.72.6:22222
@@ -83,3 +80,6 @@ trojan://NISHIKUITAN222@125.139.249.241:17057?security=tls&sni=t331.ylks.link&ty
 trojan://auto@104.20.19.168:2083?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.19.168:2083
 trojan://a2c8194b-fcfd-4c39-a6bd-31ea9f4ea671@176.31.71.16:443?security=tls&sni=upload.soft98.download&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇫🇷 FR-176.31.71.16:443
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.168:2083?security=tls&sni=tjjd.yzyx1.v6.army&type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.53.168:2083
+trojan://NISHIKUITAN222@104.21.76.195:443?security=tls&sni=t226.ylks.link&type=ws&host=t226.ylks.link&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.76.195:443
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.105:2087?security=tls&sni=tjjd.yzyx1.v6.army&type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.53.105:2087
+trojan://e8105dfd24414268b6c7652c63731097@198.41.220.83:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.83:443

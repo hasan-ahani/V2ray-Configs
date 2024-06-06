@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@172.67.30.171:8443?security=tls&sni=kk600.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.30.171:8443
-vless://b9fffe76-52b6-40fb-acd1-de7a577773cb@86.38.214.172:2087?security=tls&sni=LiV2rayd.yoyoyo.ir&type=ws&host=LiV2rayd.yoyoyo.ir.&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇱🇹 LT-86.38.214.172:2087
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.18.118.120:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=/?ed&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.118.120:443
 vless://f6c960f3-dc81-45ca-9891-4138f78d9125@172.67.190.173:443?security=tls&sni=FalcuNaRgO.e9744be7d6.woRKeRs.DEv&type=ws&host=FalCUnaRGO.E9744be7D6.woRKERs.Dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.190.173:443
 vless://7574fa79-8978-4527-bdb0-3e05e904ce43@104.18.107.43:80?security=none&type=ws&host=6.v2ray.yk.nedayevarzesh.ir.newsless.ir.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95%E3%82%89%E3%82%8F.isvphp.IR.&path=%2Fvless#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.107.43:80
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@94.140.0.23:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇦🇪 AE-94.140.0.23:443
@@ -83,3 +80,6 @@ vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.102.179:443?security=tls&sni
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.26.4.57:2053?security=tls&sni=jp600.ylks01.eu.org&type=ws&path=/blue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.4.57:2053
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@147.78.140.81:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🔒 VL-WS-TLS 🇧🇬 BG-147.78.140.81:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@65.75.193.187:34237?security=tls&sni=v022.ylks.link&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-65.75.193.187:34237
+vless://9613ffe2-ebb9-461a-a820-a0c4811044f6@104.24.176.7:2087?security=tls&sni=telgram.1lagvpn13.cfd&type=grpc&serviceName=@L_AGVPN13@L_AGVPN13@L_AGVPN13@L_AGVPN13#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.24.176.7:2087
+vless://ae53d90e-618d-448a-96c5-66cdb0374077@37.27.89.183:2080?security=none&type=tcp&host=speedtest.net&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇫🇮 FI-37.27.89.183:2080
+vless://4671a841-abb2-48e1-aacb-3b5d3cefbc59@188.114.96.2:8880?security=none&type=ws&host=2.V2ray.debian.org.fxp.debian.org.speedtest.net.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95%E3%82%89%E3%82%8F.sony-playstation.fun&path=JoinToChannel__________vistav2ray%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.96.2:8880

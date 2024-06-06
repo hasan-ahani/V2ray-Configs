@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://7d47572a-03cb-40dc-85ac-dd2f5151960c@185.146.173.179:8880?security=none&type=ws&host=xn--v2ray-qhantayawi--b-mwxzc08arba93xpvac79043ht5ia.xn--v2-gn1d638jbjx.xyz.&path=%2F%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-%40LiV2ray#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.179:8880
-vless://15a9bdbc-1af3-4d8f-84c5-486f584a5974@87.248.152.182:2096?security=none&type=tcp&host=zula.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-87.248.152.182:2096
-vless://c92856da-9532-49ec-bb71-d981a623f5c9@104.21.11.28:443?security=tls&sni=freedom6.mamav81785.workers.dev&type=ws&host=freedom6.mamav81785.workers.dev&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.11.28:443
 vless://d3fd9082-6ba0-42ef-9a79-87c7fea7eda9@172.67.137.35:443?security=tls&sni=garnet.torch1.top&type=ws&path=/&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.137.35:443
 vless://fb301d2e-4430-4b41-95d6-764460b8ef13@162.159.136.232:2053?security=tls&sni=9b56CFEe5b258C44c45bA18FA122293.mIToweAr.cOm&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.136.232:2053
 vless://52de3fa6-1673-4918-a90d-21d2b69de98e@172.67.49.115:443?security=tls&sni=eb8c0c64.888766.pages.dev&type=ws&host=eb8c0c64.888766.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.49.115:443
@@ -83,3 +80,6 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.59.218.144:443?security=tls&sni
 vless://43dab336-b5cf-473f-db6e-e54ea23aec5b@172.67.203.233:2096?security=tls&sni=orders-onlinestore-dev01.cyberscaler.com&type=ws&host=prod01-cloud-sea-net01.cyberscaler.com&path=/online-ski-shoes-sales/&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.203.233:2096
 vless://c5180d4d-c6ea-4055-a554-1dac02ff9598@188.114.98.224:2096?security=tls&sni=vaylafoodakor.atkfood.com&type=ws&host=vaylafoodakor.atkfood.com&path=%2FAMVPN+Telegram+Channel#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.224:2096
 vless://9f0d517d-45d5-5596-b235-7dc981821997@172.67.187.38:2087?security=tls&sni=esetsecuritylicense.mrgimsy.WorKeRs.DEv&type=ws&host=esetsecuritylicense.mrgimsy.WorKeRs.DEv&path=vless-ws%2F%3Fed%3D2048&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.187.38:2087
+vless://4045c6b7-1d53-4574-98cd-df21db40b0dc@172.67.131.138:2053?security=tls&sni=itcenteriran.blog&type=ws&host=itcenteriran.blog&path=%2Fp%3D19#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.131.138:2053
+vless://9f38b5db-2f4a-4561-a5d6-c0c1c978a677@188.114.98.224:2095?security=none&type=ws&host=V2ray-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.98.224:2095
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.131.1:80?type=ws&host=binance.co.kp#🔒 VL-WS-NA 🇺🇸 US-151.101.131.1:80

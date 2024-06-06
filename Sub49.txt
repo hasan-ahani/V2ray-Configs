@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://f26bff20-7bcb-4e51-94f4-4b0a8edfb8d5@172.64.146.80:443?security=tls&sni=us2.v2vless.xyz&type=ws&host=us2.v2vless.xyz&path=%2F----------------------------------------------@FreeIranWeb----------------------------------------------@AstroVPN_official----------------------------------------------#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.146.80:443
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@65.75.192.89:34184?security=tls&sni=xin005.ylks.link&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-65.75.192.89:34184
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@45.131.209.60:443?security=tls&sni=xin600.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇳🇱 NL-45.131.209.60:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@130.250.137.147:2052?security=none&type=ws&path=%2Fblue#🔒 VL-WS-NONE 🇺🇸 US-130.250.137.147:2052
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.26.8.156:2096?security=tls&sni=jp600.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.8.156:2096
 vless://c46e9a8a-226e-4cc2-aeff-31c774e1e4f9@172.66.44.74:443?security=tls&sni=pardazeshvpn-tg93.pages.dev&type=ws&host=pardazeshvpn-tg93.pages.dev&path=%2FTelegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.74:443
@@ -83,3 +80,6 @@ vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@60.249.89.74:23555?security=tls&sni
 vless://2ca42987-551b-4494-a854-da2d9178f4cd@172.67.132.209:2087?security=tls&sni=KxQhHtGc22.zImBa-zUlA.OrG&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.132.209:2087
 vless://ba7611bd-90af-4c0f-aad2-190b873b3caf@172.67.188.156:443?security=tls&sni=de1.v2vless.xyz&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.188.156:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.236.254.120:2087?security=tls&sni=zdy222.kpcloud.eu.org&type=ws&path=/blue#🔒 VL-WS-TLS 🇸🇬 SG-47.236.254.120:2087
+vless://51baeda8-1288-458a-b5ae-b8b080b937b6@104.16.60.8:8080?type=ws&host=xn--fjq7ep9nb15b.xn--7or697b.xn--eh1ar1y.xn--7-tq0bns836btt2a.xn--2024-965f794bzbu32k74w57mfzf.site.&path=%2FTelegram%3A%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%3Fed%3D1024#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.60.8:8080
+vless://636b1684-b26c-4a9c-bc6e-8e1197a36d74@104.21.40.164:2086?security=none&type=ws&host=workerr.hashdiler.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.40.164:2086
+vless://4d146643-979e-4656-aa78-9b8e18716f06@172.66.46.233:8443?path=@V2rayi_net#🔒 VL-TCP-NA 🏴‍☠️ NA-172.66.46.233:8443
