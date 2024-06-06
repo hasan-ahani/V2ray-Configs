@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://e16e9768-240f-4ff2-8c29-36d220ed2aa4@45.76.90.170:80?type=ws&host=google.com&path=%2FBLsNlVjvcIibUbDFdhZ#🔒 VL-WS-NA 🇩🇪 DE-45.76.90.170:80
 vless://98765644-5154-4b79-d694-cad5705bc260@103.184.44.21:443?security=tls&sni=nimkAtV2ray.jonedel.com&type=grpc&serviceName=%40%41fV2%72%61y,%40%41fV2%72%61y,%40%41fV2%72%61y,%40%41fV2%72%61y,%40%41fV2%72%61y,%40%41fV2%72%61y,%40%41fV2%72%61y,%40%41fV2%72%61y,%40%41fV2%72%61y,%40%41fV2%72%61y,%40%41fV2%72%61y,%40%41fV2%72%61y&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🇨🇳 CN-103.184.44.21:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.46.251:443?security=tls&sni=bBF9c21A.tECHNeTbpb.paGEs.Dev&type=ws&host=bBF9c21A.tECHNeTbpb.paGEs.Dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.46.251:443
 vless://b37cbd22-7fff-4279-99a4-9d77b9e633b3@185.146.173.32:2052?security=none&type=ws&host=xn--047h.v2raxx6.shop.&path=%40V2RAXX-%40V2RAXX%3Fed%3D2048#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.32:2052
@@ -83,3 +82,4 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.174.113:443?security=tls&sni
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.46:443?security=tls&sni=Fe3324C6.bpb-ev.pAgeS.DeV&type=ws&host=Fe3324C6.bpb-Ev.PagEs.DEV&path=%2FpMhs6vwU8eUtRk2K%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.46:443
 vless://36bfd9a9-b126-45e4-8cb9-864061d5e767@188.114.99.143:443?security=tls&sni=worker-icy-wave-918c.333taim.workers.dev&type=ws&host=worker-icy-wave-918c.333taim.workers.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.99.143:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.24.1.11:443?security=tls&sni=B3543d31.OxNEt-bu711.pAgeS.DEV&type=ws&host=B3543d31.OxNEt-bu711.pAgeS.DEV#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.1.11:443
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.255.197:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.255.197:443

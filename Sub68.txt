@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://10699622-1b25-499c-a424-58f8f4dfb7f7@104.17.248.203:2083?security=tls&sni=id-falcunargo.sociy12386.workers.dev&type=ws&host=id-falcunargo.sociy12386.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.248.203:2083
 vless://a77a8e8f-2f09-428d-9b6a-d7116d98dcc6@185.146.173.112:443?security=tls&sni=zula-mtn.mci-mtn-mymci-zula-shatel.space&type=ws&host=zula-mtn.mci-mtn-mymci-zula-shatel.space&path=%2FNBCServices-Join-Telegram&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.112:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@130.250.137.164:2082?security=none&type=ws&path=%2Fblue#🔒 VL-WS-NONE 🇺🇸 US-130.250.137.164:2082
 vless://a8fa7b1c-a5b0-449b-97f6-e86ae43b95bb@172.64.86.128:8080?security=none&type=ws&host=jogol.amvpn.www.speedtest.net.zula.ir.stopsef.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95%E3%82%89%E3%82%8F.atkfood.com.&path=%2FAmVpn-AmVpn-AmVpn-AmVpn-AmVpnn-AmVpn-AmVpn-AmVpn-AmVpn-AmVpn%3Fed%3D1024#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.86.128:8080
@@ -83,3 +82,4 @@ vless://f628d0a2-3eea-4793-825d-9a7ba8f44311@95.164.114.43:2003?security=tls&sni
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.183.26:443?security=tls&sni=3k.pureboy.eu.org&type=ws&host=3k.pureboy.eu.org&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.183.26:443
 vless://01ab9337-f478-4765-9534-88f009f83ddb@47.236.144.196:2083?security=tls&sni=aut226.ylks.link&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇬 SG-47.236.144.196:2083
 vless://234b7bfa-49d6-436b-fb8b-8805503209a7@188.114.98.224:2053?security=tls&sni=sima.danesh.shop&type=grpc&serviceName=wearestand#🔒 VL-GRPC-TLS 🏴‍☠️ NA-188.114.98.224:2053
+vless://81a6fec4-037f-4a43-87f5-0f130308f456@185.211.58.105:80?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.211.58.105:80
