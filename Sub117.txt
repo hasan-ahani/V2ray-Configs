@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://a36dfa0e-5a34-4e77-8513-87350f38e0a6@104.16.35.148:443?security=tls&sni=lmtsg3.cfyun01.sbs&type=ws&host=lmtsg3.cfyun01.sbs&path=/CFYUN#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.35.148:443
-trojan://tIErrUuX7j@104.21.7.176:2053?security=tls&sni=vr.v2ray962.filegear-sg.me&type=grpc&alpn=h2%2Chttp%2F1.1#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.21.7.176:2053
-trojan://a36dfa0e-5a34-4e77-8513-87350f38e0a6@104.16.35.46:443?security=tls&sni=lmtsg3.cfyun01.sbs&type=ws&host=lmtsg3.cfyun01.sbs&path=/CFYUN#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.35.46:443
-trojan://auto@104.21.35.43:443?security=tls&sni=esetsecuritylicense3.wawafec355.workers.dev&type=ws&host=esetsecuritylicense3.wawafec355.workers.dev&path=%2F%3Fed%3D2560&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.35.43:443
 trojan://0cb2cd1f-870b-485c-914a-60aba39eed39@185.107.56.52:443?#🔒 TR-TCP-NA 🇳🇱 NL-185.107.56.52:443
 trojan://telegram-id-privatevpns@51.20.160.251:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-51.20.160.251:22222
 trojan://84f8a120-1fd0-11ef-add0-1239d0255272@51.210.182.170:443?security=tls&sni=chatbuzzteambhm.chatbuzzt7150.workers.dev&type=tcp#🔒 TR-TCP-TLS 🇫🇷 FR-51.210.182.170:443
@@ -83,3 +79,7 @@ ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@142.202.48.43:8090#🔒 SS-TCP-NA 🇺
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@23.162.200.181:4444#🔒 SS-TCP-NA 🇨🇦 CA-23.162.200.181:4444
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@141.95.126.108:443#🔒 SS-TCP-NA 🇫🇷 FR-141.95.126.108:443
 ss://YWVzLTI1Ni1jZmI6U241QjdqVHFyNzZhQ0pUOA==@103.172.116.79:9097#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.79:9097
+ss://NDgwNGYxNGItYzFmOC00NTJkLWE2ZWMtZWZmMTQ5MGFlYWM5Og==@172.67.81.238:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.81.238:443
+ss://NTMzNWQxNmUtN2U0Mi00YzliLTkzYTMtOWU4M2JmZDMwNzNkOg==@172.67.168.60:80#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.168.60:80
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.120:8009#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.120:8009
+ss://MjMzYTdhNDMtMzM0MC00NGI3LWFiNzktMTRjMjlmYzAyZTQ3Og==@172.67.2.238:8880#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.2.238:8880
