@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://08855417-a94d-5591-9abe-4ed223e8a857@172.67.132.126:443?security=tls&sni=happy.callofip.com&type=ws&host=happy.callofip.com&path=%2Fgrpc&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.132.126:443
-vless://b71b0234-3967-4cfb-bbac-00a9ec8b1637@104.19.251.69:8443?security=tls&sni=melody.howareu.xyz&type=ws&host=melody.howareu.xyz&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.251.69:8443
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@77.37.33.83:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇩🇪 DE-77.37.33.83:8443
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.138.227:80?type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.138.227:80
-vless://88f6b620-f276-48ae-97bb-02cadd65ba5b@172.67.145.92:2053?security=tls&sni=full.metesla.site&type=grpc&serviceName=@global_net_vpn&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.145.92:2053
 vless://16d99f65-b71f-5cdf-8ce6-fc35e171a192@172.67.160.47:443?security=tls&sni=esetsecuritylicense.ikgbvch.wOrKerS.Dev&type=ws&host=esetsecuritylicense.ikgbvch.wOrKerS.Dev&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.160.47:443
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@188.42.88.216:443?security=tls&sni=v300.ylkszy.eu.org&type=ws&path=/?proxyip#🔒 VL-WS-TLS 🇱🇺 LU-188.42.88.216:443
 vless://c23346a5-5068-4afb-ada6-c59420101896@45.94.169.226:2083?security=tls&sni=zayn.nfzaynzeed.shop&type=grpc#🔒 VL-GRPC-TLS 🇺🇦 UA-45.94.169.226:2083
@@ -83,3 +78,8 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.40.169:443?security=tls&sni=
 vless://e28bb3f8-e64a-4419-9496-33c46220354b@104.21.57.240:443?security=tls&sni=sdgf.bdfstt.sbs&type=ws&host=sdgf.bdfstt.sbs&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.57.240:443
 vless://09ceaa87-3cd5-491a-b734-e4ca15e89d35@104.17.156.85:8443?security=tls&sni=v2net-iran-v2ray-nl.morgensport.nl&type=ws&host=v2net-iran-v2ray-nl.morgensport.nl&path=/V2NET-IRAN-V2NET-IRAN-V2NET-IRAN-V2NET-IRAN-V2NET-IRAN-V2NET-IRAN-V2NET-IRAN-V2NET-IRAN-V2NET-IRAN-V2NET-IRAN-V2NET-IRAN-V2NET-IRAN-V2NET-IRAN-V2NET-IRAN&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.156.85:8443
 vless://0eab9ab8-d0f0-4823-8af9-d1f95db842e8@178.239.154.119:3013?security=none&type=tcp&host=subscene.com&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-178.239.154.119:3013
+vless://7df71ea7-ad2f-48d1-ae7c-4429ee780537@104.18.229.191:2096?security=tls&sni=academivpn1.academi-vpn-4f8.workers.dev&type=ws&host=academivpn1.academi-vpn-4f8.workers.dev&path=%2F%3Fed%3D2560+%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.229.191:2096
+vless://919ed879-a2ae-4425-cd17-80ab84cdd7d7@203.32.121.53:2087?security=tls&sni=des.pablovpn.pw&type=grpc#🔒 VL-GRPC-TLS 🇻🇬 VG-203.32.121.53:2087
+vless://85ceb245-40ee-433b-9e51-4c7a3167a70b@188.114.96.233:443?security=tls&sni=fc071d49-af91-42d6-a20e-5a64e24a53bc.71a45835-dd0c-4d51-8bd4-9ccf9f223662.casacam.net&type=ws&path=/c3afc49f.ab841-rcb.pages.dev/proxyip#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.233:443
+vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.64.129.54:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.129.54:443
+vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@185.162.230.119:443?security=tls&sni=v300.ylkszy.eu.org&type=ws&path=/?proxyip#🔒 VL-WS-TLS 🇦🇲 AM-185.162.230.119:443
