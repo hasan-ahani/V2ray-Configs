@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://telegram-id-privatevpns@52.215.130.106:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | IE🇮🇪 | 0️⃣1️⃣
+trojan://telegram-id-privatevpns@99.81.164.232:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | IE🇮🇪 | 0️⃣2️⃣
+trojan://telegram-id-privatevpns@18.168.77.221:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | GB🇬🇧 | 0️⃣3️⃣
+trojan://telegram-id-privatevpns@18.130.102.87:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | GB🇬🇧 | 0️⃣4️⃣
+trojan://telegram-id-privatevpns@52.47.34.81:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | FR🇫🇷 | 0️⃣5️⃣
+trojan://telegram-id-privatevpns@13.38.165.66:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | FR🇫🇷 | 0️⃣6️⃣
 trojan://telegram-id-privatevpns@3.127.204.106:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | DE🇩🇪 | 0️⃣7️⃣
 trojan://telegram-id-directvpn@34.242.41.46:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @DirectVPN | IE🇮🇪 | 0️⃣1️⃣
 trojan://telegram-id-directvpn@13.40.247.32:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @DirectVPN | GB🇬🇧 | 0️⃣2️⃣
@@ -17,13 +23,15 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsV2FHUFZGam1uYWc=@205.134.180.139:443#%D8%B1
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.80:443#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40VmessProtocol+%7C+GB%F0%9F%87%AC%F0%9F%87%A7+%7C+0%EF%B8%8F%E2%83%A32%EF%B8%8F%E2%83%A3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZek15TXpVMg==@95.164.35.90:8388#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40VmessProtocol+%7C+PL%F0%9F%87%B5%F0%9F%87%B1+%7C+0%EF%B8%8F%E2%83%A33%EF%B8%8F%E2%83%A3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40VmessProtocol+%7C+GB%F0%9F%87%AC%F0%9F%87%A7+%7C+0%EF%B8%8F%E2%83%A34%EF%B8%8F%E2%83%A3
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@51.68.206.229:8080#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40OutlineVpnOfficial+%7C+GB%F0%9F%87%AC%F0%9F%87%A7+%7C+0%EF%B8%8F%E2%83%A31%EF%B8%8F%E2%83%A3
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@149.202.82.172:7307#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40OutlineVpnOfficial+%7C+FR%F0%9F%87%AB%F0%9F%87%B7+%7C+0%EF%B8%8F%E2%83%A32%EF%B8%8F%E2%83%A3
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@217.182.198.219:3389#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40OutlineVpnOfficial+%7C+DE%F0%9F%87%A9%F0%9F%87%AA+%7C+0%EF%B8%8F%E2%83%A33%EF%B8%8F%E2%83%A3
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.162.200.215:9090#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40OutlineVpnOfficial+%7C+CA%F0%9F%87%A8%F0%9F%87%A6+%7C+0%EF%B8%8F%E2%83%A34%EF%B8%8F%E2%83%A3
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.110.1.111:8000#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40OutlineVpnOfficial+%7C+US%F0%9F%87%BA%F0%9F%87%B8+%7C+0%EF%B8%8F%E2%83%A35%EF%B8%8F%E2%83%A3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNeUJvejIyUGVQbllnRVdOaWwxaldV@77.91.123.173:18332#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40kingofilter+%7C+NL%F0%9F%87%B3%F0%9F%87%B1+%7C+0%EF%B8%8F%E2%83%A31%EF%B8%8F%E2%83%A3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsM2I3VHJaOE5CbTVFQjRiRm9vMGhh@paris.telegavpn.com:9802#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40kingofilter+%7C+FR%F0%9F%87%AB%F0%9F%87%B7+%7C+0%EF%B8%8F%E2%83%A32%EF%B8%8F%E2%83%A3
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@51.77.53.200:6679#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40OutlineVpnOfficial+%7C+PL%F0%9F%87%B5%F0%9F%87%B1+%7C+0%EF%B8%8F%E2%83%A31%EF%B8%8F%E2%83%A3
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@51.68.206.229:8080#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40OutlineVpnOfficial+%7C+GB%F0%9F%87%AC%F0%9F%87%A7+%7C+0%EF%B8%8F%E2%83%A32%EF%B8%8F%E2%83%A3
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@149.202.82.172:7307#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40OutlineVpnOfficial+%7C+FR%F0%9F%87%AB%F0%9F%87%B7+%7C+0%EF%B8%8F%E2%83%A33%EF%B8%8F%E2%83%A3
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@217.182.198.219:3389#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40OutlineVpnOfficial+%7C+DE%F0%9F%87%A9%F0%9F%87%AA+%7C+0%EF%B8%8F%E2%83%A34%EF%B8%8F%E2%83%A3
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.162.200.215:9090#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40OutlineVpnOfficial+%7C+CA%F0%9F%87%A8%F0%9F%87%A6+%7C+0%EF%B8%8F%E2%83%A35%EF%B8%8F%E2%83%A3
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.110.1.111:8000#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40OutlineVpnOfficial+%7C+US%F0%9F%87%BA%F0%9F%87%B8+%7C+0%EF%B8%8F%E2%83%A36%EF%B8%8F%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYeU01eDZwNENKOGRsYjB5OW1WSEJL@188.94.155.82:35152#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40kingofilter+%7C+KZ%F0%9F%87%B0%F0%9F%87%BF+%7C+0%EF%B8%8F%E2%83%A31%EF%B8%8F%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNeUJvejIyUGVQbllnRVdOaWwxaldV@77.91.123.173:18332#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40kingofilter+%7C+NL%F0%9F%87%B3%F0%9F%87%B1+%7C+0%EF%B8%8F%E2%83%A32%EF%B8%8F%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsM2I3VHJaOE5CbTVFQjRiRm9vMGhh@paris.telegavpn.com:9802#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40kingofilter+%7C+FR%F0%9F%87%AB%F0%9F%87%B7+%7C+0%EF%B8%8F%E2%83%A33%EF%B8%8F%E2%83%A3
 tuic://
 hy2://
 hy2://
@@ -75,11 +83,3 @@ vless://bea9f990-e9fd-4334-83c6-42f533105598@104.168.107.230:2082?encryption=non
 vless://334a6ab3-fba7-43c6-be3f-03a4f155b04f@104.168.107.230:2085?encryption=none&flow=xtls-rprx-vision&security=reality&sni=coinmarketcap.com&fp=chrome&pbk=p3TQTqVMhFle-Xyw5qfcfFz86EsnckBsdxoenomwEFs&sid=9404dc13aba81a54&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-2085 | 21.14ms
 vless://4b139a43-1369-44b6-8305-213b962bdad1@104.168.107.230:2086?encryption=none&flow=xtls-rprx-vision&security=reality&sni=proxmox.com&fp=chrome&pbk=p3TQTqVMhFle-Xyw5qfcfFz86EsnckBsdxoenomwEFs&sid=9404dc13aba81a54&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-2086 | 21.17ms
 vless://a7a49ebb-7dfa-48c4-9773-5a03e242b7c7@104.168.107.230:2087?encryption=none&flow=xtls-rprx-vision&security=reality&sni=flightradar24.com&fp=chrome&pbk=p3TQTqVMhFle-Xyw5qfcfFz86EsnckBsdxoenomwEFs&sid=9404dc13aba81a54&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-2087 | 30.55ms
-vless://5bedd7a0-75b1-4a4f-a8d7-f29faf819d4b@104.168.107.230:2095?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sovrn.com&fp=chrome&pbk=p3TQTqVMhFle-Xyw5qfcfFz86EsnckBsdxoenomwEFs&sid=9404dc13aba81a54&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-2095 | 20.74ms
-vless://0d1ffaf0-8f0a-4ce4-9d7b-28a3f6e246e9@104.168.107.230:2096?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cj.com&fp=chrome&pbk=p3TQTqVMhFle-Xyw5qfcfFz86EsnckBsdxoenomwEFs&sid=9404dc13aba81a54&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-2096 | 21.14ms
-vless://e9f2530d-8e7d-4b38-8187-c51f5e4fa708@104.168.107.230:2983?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradedoubler.com&fp=chrome&pbk=p3TQTqVMhFle-Xyw5qfcfFz86EsnckBsdxoenomwEFs&sid=9404dc13aba81a54&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-2983 | 21.03ms
-vless://9fe6bca4-3c18-4cf5-b354-bdc6e3fa1065@104.168.107.230:3462?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cookiebot.com&fp=chrome&pbk=p3TQTqVMhFle-Xyw5qfcfFz86EsnckBsdxoenomwEFs&sid=9404dc13aba81a54&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-3462 | 23.12ms
-vless://f7ecf7e4-d02f-457f-aa64-f3aa6d9df052@104.168.107.230:3492?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sloanreview.mit.edu&fp=chrome&pbk=p3TQTqVMhFle-Xyw5qfcfFz86EsnckBsdxoenomwEFs&sid=9404dc13aba81a54&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-3492 | 30.52ms
-vless://9c7248ab-c8aa-4153-860e-3b8f2d4868a0@104.168.107.230:4212?encryption=none&flow=xtls-rprx-vision&security=reality&sni=poynter.org&fp=chrome&pbk=p3TQTqVMhFle-Xyw5qfcfFz86EsnckBsdxoenomwEFs&sid=9404dc13aba81a54&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-4212 | 21.01ms
-vless://798c4d2d-a427-45b7-9a1c-b9338bde52b1@104.168.107.230:4342?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.who.int&fp=chrome&pbk=p3TQTqVMhFle-Xyw5qfcfFz86EsnckBsdxoenomwEFs&sid=9404dc13aba81a54&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-4342 | 30.69ms
-vless://5012933b-0ca4-4043-ace8-d9daadb11bd5@104.168.107.230:4607?encryption=none&flow=xtls-rprx-vision&security=reality&sni=magicbus.ca&fp=chrome&pbk=p3TQTqVMhFle-Xyw5qfcfFz86EsnckBsdxoenomwEFs&sid=9404dc13aba81a54&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-4607 | 21.31ms
