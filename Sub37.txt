@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://00da9fad-06bc-5430-bb4c-4ae1df09da66@104.21.73.216:2096?security=tls&sni=esetsecuritylicense.lhyuuluu.workErS.DEV&type=ws&host=esetsecuritylicense.lhyuuluu.workErS.DEV&path=vless-ws%2F%3Fed%3D2048&fp=safari&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.73.216:2096
+vless://cbc5ba53-5904-414a-a690-ec005d9f5470@80.76.43.82:8126?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-80.76.43.82:8126
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.26.6.37:443?security=tls&sni=zdy070.kpcloud.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.6.37:443
 vless://b9fffe76-52b6-40fb-acd1-de7a577773cb@86.38.214.243:2087?security=tls&sni=LiV2rayd.yoyoyo.ir&type=ws&host=LiV2rayd.yoyoyo.ir.&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇱🇹 LT-86.38.214.243:2087
 vless://678ac895-92c2-4f27-a9d4-f1a89c5f5365@91.195.110.131:2083?security=tls&sni=mositr.freenods.sbs&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇨🇴 CO-91.195.110.131:2083
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.139.111:2096?security=tls&sni=baipiao1.curly-train.pages.dev&type=ws&host=baipiao1.curly-train.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.139.111:2096
@@ -80,6 +83,3 @@ vless://a6b37fa3-7fa8-495b-a473-900396bc8e68@185.146.173.25:8080?security=none&t
 vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@172.66.45.32:443?security=tls&sni=t-netplus-4vx.pages.dev&type=ws&host=t-netplus-4vx.pages.dev&path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.45.32:443
 vless://01ab9337-f478-4765-9534-88f009f83ddb@8.222.144.50:2083?security=tls&sni=aut226.ylks.link&type=ws&path=/?ed#🔒 VL-WS-TLS 🇸🇬 SG-8.222.144.50:2083
 vless://77a571fb-4fd2-4b37-8596-1b7d9728bb5c@104.21.95.205:443?security=tls&sni=xw.r4d.workers.dev&type=ws&host=xw.r4d.workers.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.95.205:443
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@94.177.8.26:130?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇦🇹 AT-94.177.8.26:130
-vless://74438c56-1179-4a25-8f58-271c6dafcf14@185.146.173.244:443?security=tls&sni=join-telegraam-channel-disvpn.pages.dev&type=ws&host=join-telegraam-channel-disvpn.pages.dev&path=%2FTelegram+Join%3A+%40DisVpn%2CTelegram+Join%3A+%40DisVpn&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.244:443
-vless://50b7d3e3-0039-49e9-8c62-d172481873a3@86.38.214.9:2087?security=tls&sni=LiV2raye.yoyoyo.ir&type=ws&host=LiV2raye.yoyoyo.ir.&path=/@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-@LiV2ray%3Fed%3D1024&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇱🇹 LT-86.38.214.9:2087
