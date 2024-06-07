@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://d69b66cb-5fe2-40b9-842b-1951982f80ae@104.21.13.159:2086?security=none&type=ws&host=zebelkhan30.quysc64868.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.13.159:2086
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.233:443?security=tls&sni=kk600.ylks.link&type=ws&path=/blue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.233:443
-vless://a04be4ef-1797-4ca9-a549-4385ce42494c@185.146.173.221:443?security=tls&sni=vls4de.nimaxmusic.ir&type=ws&host=vls4de.nimaxmusic.ir&path=/vls4dews&fp=chrome#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.221:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.251.240.229:34237?security=tls&sni=80.qing1.link&type=ws&path=telegram🇨🇳@wangcai_8/?ed#🔒 VL-WS-TLS 🇯🇵 JP-45.251.240.229:34237
 vless://5a045a1e-d392-4c5b-b658-b57e4ea01b4f@172.67.182.88:443?security=tls&sni=virapn-d-3be7883659a1d2ba4c545dfdf85b61eda1.asiatechnicalwest.ir.&type=grpc&serviceName=@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN&fp=firefox&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.182.88:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.81.120:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.81.120:443
@@ -83,3 +80,6 @@ vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.247:443?security=tls&sni=
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@162.159.255.38:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.255.38:443
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.160.67:80?type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.160.67:80
 vless://30e091d9-a870-4c73-ac00-0f3f48fc5f4e@95.38.242.93:2083?security=none&type=tcp&host=ixqkmlbd.speedtest1.shatel.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-95.38.242.93:2083
+vless://7f035a95-4b51-4e0b-8995-59864a9cde22@104.16.181.38:443?security=tls&sni=MSdOnoR.pagEs.dEV&type=ws&host=mSDONOr.Pages.dEv&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.181.38:443
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.18.94:80?type=ws&host=us1.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.18.94:80
+vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@47.243.91.58:8443?security=tls&sni=vless.pagess.filegear-sg.me&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇭🇰 HK-47.243.91.58:8443

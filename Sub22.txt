@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://73ad1661-b2da-4844-8427-890a9a8995b1@104.248.42.77:443?security=reality&flow=xtls-rprx-vision&sni=dash.cloudflare.com&type=tcp&fp=chrome&pbk=WSoK4aff6cLPU2GrkECLOgqX3_XxLGry3aNn7b12MSw&sid=73da32ed#🔒 VL-TCP-RLT 🇩🇪 DE-104.248.42.77:443
-vless://a0562dec-26ac-43d4-ba1d-785c334e644f@65.108.244.106:443?security=reality&sni=greenpepper.ir&type=grpc&serviceName=%40ipV2Ray&fp=firefox&pbk=XuBmd_9lf646T80SEzIXo5DzWFsUfoLY72OXzHLB9mE&sid=fada4f5f#🔒 VL-GRPC-RLT 🇫🇮 FI-65.108.244.106:443
-vless://4c10355d-4269-43c1-96cb-e7a794d102fc@3.76.7.64:443?security=reality&flow=xtls-rprx-vision&sni=www.tgju.org&type=tcp&fp=chrome&pbk=mgL6BgbmKbzsngIMqe_PTsFdFBVuYJVkGoTDgIn3O2M&sid=39a26a2ba3b26562#🔒 VL-TCP-RLT 🇩🇪 DE-3.76.7.64:443
 vless://47192f90-7c2e-406c-9f34-7ae835b1a7cd@172.67.207.235:8443?security=reality&flow=xtls-rprx-vision&sni=discordapp.com&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒 VL-TCP-RLT 🏴‍☠️ NA-172.67.207.235:8443
 vless://61e3f38b-4e28-410e-a909-616ebbd04637@18.175.69.248:443?security=reality&sni=Google.com&type=grpc&serviceName=Hercul&fp=firefox&pbk=sE0JCKskgM_Zc9XarZsYqeNMlrV2siSiObe8gdgDLws&sid=21e70f6c#🔒 VL-GRPC-RLT 🇬🇧 GB-18.175.69.248:443
 vless://a09373e2-e120-457d-9ec9-ea7fe8bedb52@185.125.171.13:443?security=reality&flow=xtls-rprx-vision&sni=partner.g2.com&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒 VL-TCP-RLT 🇳🇴 NO-185.125.171.13:443
@@ -83,3 +80,6 @@ vless://cbbc04dc-ab1a-4410-a30b-5d83982374d5@188.116.21.168:443?security=reality
 vless://b0753dbe-6187-4d7f-8931-4c0d1a975104@[::ffff:5fa4:243b]:8443?security=reality&sni=104.21.70.42&type=tcp&host=at1.x2fast.net&headerType=http&fp=chrome&pbk=Iqqixc1Fcq2knbl1IbuKOHuZn2QDQIgri2J1acmDuTw&sid=bbe1ba3d62f09e09#🔒 VL-TCP-RLT 🇦🇹 AT-[::ffff:5fa4:243b]:8443
 vless://dde728a3-6792-4ed4-8d53-f4bcf685f8ef@104.168.107.230:7970?security=reality&flow=xtls-rprx-vision&sni=tandfonline.com&type=tcp&fp=chrome&pbk=kt-d9jx_cCmvmWiL4CP5IPAKHhjAF-oBmsGhyG1U704&sid=7a06db71e78640de#🔒 VL-TCP-RLT 🇺🇸 US-104.168.107.230:7970
 vless://9ea79dd6-fb8c-4bc2-9581-afdbabee500a@104.168.107.230:6855?security=reality&flow=xtls-rprx-vision&sni=squadhelp.com&type=tcp&fp=chrome&pbk=kt-d9jx_cCmvmWiL4CP5IPAKHhjAF-oBmsGhyG1U704&sid=7a06db71e78640de#🔒 VL-TCP-RLT 🇺🇸 US-104.168.107.230:6855
+vless://1596e7f0-2106-468f-e2b0-93f19e83bd0c@116.203.149.241:443?security=reality&sni=greenpepper.ir&type=grpc&serviceName=@ipV2Ray&fp=chrome&pbk=wxzZx9_9R0QXG4Hjc8e3_ckaUIbn9oKc5yKsBqh8ulc&sid=a18472f7#🔒 VL-GRPC-RLT 🇩🇪 DE-116.203.149.241:443
+vless://1de487ff-84c1-4841-affa-90cdee044046@89.221.224.166:8443?security=reality&sni=104.21.70.42&type=tcp&host=is1.x2fast.net&headerType=http&fp=chrome&pbk=lknJ1qdh1naSh-NJX8O7oOdnFov8vOETpy2A6bVtiUk&sid=8545118da3a60b18#🔒 VL-TCP-RLT 🇮🇸 IS-89.221.224.166:8443
+vless://d44b0cfe-b263-4366-b607-d702f285d275@49.13.239.9:8443?security=reality&sni=cdn.discordapp.com&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒 VL-TCP-RLT 🇩🇪 DE-49.13.239.9:8443
