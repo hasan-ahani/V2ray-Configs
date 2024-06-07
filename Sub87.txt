@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://98d50790-31ec-47d5-b2ed-493fd21accc6@173.245.58.31:2082?security=none&type=ws&host=p1.abrarvan.xyz&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-173.245.58.31:2082
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.200.217:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.200.217:443
 vless://27b62e51-7efb-4a18-ad9c-a4b073149f27@91.194.11.168:443?security=tls&sni=ca-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇨🇦 CA-91.194.11.168:443
 vless://10716279-b1ee-41d8-b63e-87782088305b@104.21.90.210:443?security=tls&sni=Hey.bacHeBiaPaiN.Ir&type=ws&host=hey.BAchebIaPAin.iR&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.90.210:443
@@ -82,4 +83,3 @@ vless://dcdb3552-9550-4278-b0e7-09ce5a73a6b3@185.146.173.88:8880?type=grpc&servi
 vless://3f266d25-21aa-4498-bb1a-ce6d1d327aaf@172.67.199.23:443?security=tls&sni=freedom14.geraxex389.workers.dev&type=ws&host=freedom14.geraxex389.workers.dev&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.199.23:443
 vless://69b6d557-f883-4606-8fd3-a7a678d4c885@193.162.129.235:8071?security=none&type=tcp&serviceName=-Telegram:@UraniumVpn-Telegram:@UraniumVpn-Telegram:@UraniumVpn-Telegram:@UraniumVpn-Telegram:@UraniumVpn-Telegram:@Uranium&host=upload.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-193.162.129.235:8071
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@8.210.65.1:2096?security=tls&sni=tg.dns68.cloudns.nz&type=ws&host=tg.dns68.cloudns.nz&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🇭🇰 HK-8.210.65.1:2096
-vless://afd3e846-f132-4305-82dc-466c96b1108a@188.114.98.102:443?security=tls&sni=esetsecuritylicense1.wsshga.workers.dev&type=ws&host=esetsecuritylicense1.wsshga.workers.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.102:443

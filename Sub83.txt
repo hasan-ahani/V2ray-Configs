@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://c9e7de6a-fde7-4cbe-8adf-081239a0143d@45.33.115.18:2003?security=tls&sni=us2-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇺🇸 US-45.33.115.18:2003
 vless://840ca14a-ea50-465a-b679-69d9f0b7a366@104.17.2.183:2087?security=tls&sni=Helix-2.mahoraga.space&type=grpc&serviceName=Telegram-Channel%3A%40HELIX_Servers-Telegram-Channel%3A%40HELIX_Servers-Telegram-Channel%3A%40HELIX_Servers-Telegram-Channel%3A%40HELIX_Servers-Telegram-Channel%3A%40HELIX_Servers-Telegram-Channel%3A%40HELIX_Servers-Telegram-Channel%3A%40HELIX_Servers-Telegram-Channel%3A%40HELIX_Servers-Telegram-Channel%3A%40HELIX_Servers-Telegram-Channel%3A%40HELIX_Servers&fp=firefox#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.2.183:2087
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.138.140:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=TELEGRAM-MARAMBASHI%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.138.140:443
 vless://d92f2c5c-5fe5-4034-b48a-6e50ff820877@104.17.246.203:8080?security=none&type=ws&host=de7.vlessx.us&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.246.203:8080
@@ -82,4 +83,3 @@ vless://0f0f7cc8-edcd-436d-bf9d-f7bfdb6ed9ca@172.67.201.127:2082?security=none&t
 vless://67f27227-85ab-4fea-f409-48ef93794de2@104.22.33.78:2052?security=none&type=ws&host=Fl.poloo.ir&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.33.78:2052
 vless://661e4131-514a-457e-bbc7-748cbb92253d@172.66.44.238:443?security=tls&sni=pardazesh14.pages.dev&type=ws&host=pardazesh14.pages.dev&path=%40VPNHTTPInjectorfree#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.238:443
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.19.234.59:443?security=tls&sni=biA-Pain-BAcHE.PAgEs.Dev&type=ws&host=bIA-PaIn-bacHe.Pages.deV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.234.59:443
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@27.50.49.232:8443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇸🇬 SG-27.50.49.232:8443

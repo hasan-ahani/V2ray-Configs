@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://f7917f2c-bfb2-4224-bd65-d0db5f48e28a@185.142.157.224:2053?security=none&type=ws&host=anten.ir&path=%5C#🔒 VL-WS-NONE 🇮🇷 IR-185.142.157.224:2053
 vless://cc70446b-3b79-4bc0-89e1-28a4faeae843@190.93.247.155:2095?security=none&type=ws&host=KingSpeedV2rayng.VPNCUSTOMIZE.online#🔒 VL-WS-NONE 🏴‍☠️ NA-190.93.247.155:2095
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@162.159.200.123:443?security=tls&sni=xxx.donated001.workers.dev&type=ws#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.200.123:443
 vless://d096830d-b1b4-4319-8b25-2e3df19e6e3b@172.64.138.166:80?security=none&type=ws&host=dk1.vlessx.xyz&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.138.166:80
@@ -82,4 +83,3 @@ vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@185.165.205.2:443?security=tls&sni=
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.64.110.102:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.110.102:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.22.36.243:8443?security=tls&sni=jp070.ylks01.eu.org&type=ws&path=/blue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.36.243:8443
 vless://0c94ca98-3643-4cb4-de75-6167815af665@172.67.212.223:8443?security=tls&sni=admin.kanal-tel-nufilter.store&type=grpc&serviceName=Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.212.223:8443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@172.67.199.233:2052?type=ws&path=/youtube-由零開始#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.199.233:2052

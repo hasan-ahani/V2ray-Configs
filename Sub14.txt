@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://49b8914b-0683-44b2-90df-8a89cb205d9b@hk-full.privateip.net:443#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20Trojan%20@V2rayStore
 trojan://0d0addf9-8579-445c-b519-00a339a3f0c0@nl-full.privateip.net:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20Trojan%20@V2rayStore
 trojan://f910b595-d86d-42c8-92e1-f72f6b435664@nl2-full.privateip.net:443#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20Trojan%20@V2rayStore
 trojan://99c63d3a-4499-4a5b-aad6-826a6851f304@ca-full.privateip.net:443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20Trojan%20@V2rayStore
@@ -82,4 +83,3 @@ vless://cb7ed2f5-9b01-40a3-b0df-5071bbf1bae6@LIGHTNING6-joinbed.filj.top:8880?pa
 vless://eb0a9882-61ae-40ae-ae5a-b42771fbf65a@188.119.112.242:443?path=%2FVLESS&security=tls&encryption=none&type=ws&sni=nl-full.privateip.net#%F0%9F%86%9933%40oneclickvpnkeys
 vless://f8b9b934-ee7a-4045-a85e-3831b5727de4@185.146.173.9:8080?type=grpc&serviceName=Telegram:@Archive_Android,Telegram:@Archive_Android,Telegram:@Archive_Android,Telegram:@Archive_Android,Telegram:@Archive_Android,Telegram:@Archive_Android,Telegram:@Archive_Android,Telegram:@Archive_Android,Telegram:@Archive_Android,Telegram:@Archive_Android,Telegram:@Archive_Android,Telegram:@Archive_Android&mode=multi&security=tls&encryption=none&path=%2FJ%6fin--%56%50%4e%43UST%4fMI%5aE.V2ray.re%3Fed%3D8080&security=none&encryption=none&host=%56%50%4e%43UST%4fMI%5aE.V2ray.Community.&type=ws#[🇸🇪]t.me/ConfigsHub`
 vless://3bcf6f52-cfa6-48f3-87b9-7e1131e42bcf@79.175.151.46:80?security=none&encryption=none&host=Taleban.koonkash&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub`
-vless://03f95805-645c-4e1c-9f0d-940e60e509bb@104.20.77.252:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=telegram-falcunargo-finlands.falcunar.asso.eu.org&fp=random&type=ws&sni=telegram-falcunargo-finlands.falcunar.asso.eu.org#[🇨🇦]t.me/ConfigsHub`
