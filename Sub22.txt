@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://0e29d0de-fde0-4809-b5bd-f2c83c60c276@70.34.252.235:43549?security=reality&sni=dash.cloudflare.com&type=grpc&serviceName=%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar&fp=chrome&pbk=GXdXIpeDmm3rwUKLXjcW-dxmUffHDBmyEfBpU87iYxI&sid=11c06f#🔒 VL-GRPC-RLT 🇵🇱 PL-70.34.252.235:43549
 vless://80b8a525-c29e-434c-8d6b-e91272645009@104.168.107.230:8667?security=reality&flow=xtls-rprx-vision&sni=taunusgaerten.com&type=tcp&fp=chrome&pbk=5JlDUnqfJV4tNLiIn1ctcPRaGVxGdNrjfF5QMD0lLFM&sid=7a922f4091d33d43#🔒 VL-TCP-RLT 🇺🇸 US-104.168.107.230:8667
 vless://26a1e667-19e3-4817-bec9-80122da80675@5.42.82.167:443?security=reality&sni=www.speedtest.net&type=grpc&fp=random&pbk=JfjZapoZVCvAfLcULqEVuYH57CFQmGOnckAXHlOHcVo&sid=ce30532c#🔒 VL-GRPC-RLT 🇸🇪 SE-5.42.82.167:443
 vless://d44b0cfe-b263-4366-b607-d702f285d275@49.13.239.9:8443?security=reality&sni=cdn.discordapp.com&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒 VL-TCP-RLT 🇩🇪 DE-49.13.239.9:8443
@@ -82,4 +83,3 @@ vless://23002f00-35b4-4080-bea1-31c03920a9bd@104.26.10.182:8443?security=tls&sni
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.26.6.95:443?security=tls&sni=e382C780.NW-6x7Z.Pages.deV&type=ws&host=E382c780.Nw-6X7Z.pagES.DEV&path=%2FTelegram@Free_V2rng%3D%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.6.95:443
 vless://959dc846-1aa3-4aa7-bc58-7eb51114d1ce@172.67.132.41:2082?security=none&type=ws&host=nl36.vlessx.us#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.132.41:2082
 vless://cec5fd94-3ff0-4ad2-ad78-423269ce9717@192.124.189.160:8263?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇨🇿 CZ-192.124.189.160:8263
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@172.67.71.122:8443?security=tls&sni=jp070.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.71.122:8443

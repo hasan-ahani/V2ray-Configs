@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://29f00915-4107-491d-ba71-c9328e845a00@104.18.202.209:80?type=grpc&serviceName=Telegram#🔒 VL-GRPC-NA 🏴‍☠️ NA-104.18.202.209:80
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.24.0.140:8443?security=tls&sni=yre2-JuD7-Nn-72-oUehga6-UEBaFx-23kL.pAGes.DeV&type=ws&host=yRE2-JUD7-Nn-72-OuehgA6-ueBAFX-23kl.pageS.DeV&path=%2Fyyo4lMhFaakU1Qfh%2FdWFlMS5veG5ldHdvcmtzLmxpbms%3D%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.0.140:8443
 vless://38c4ff35-8663-42a1-8488-ef67aa434d5c@162.159.38.95:2052?security=none&type=ws&host=Vsy.samancenter.com.#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.38.95:2052
 vless://784ac000-557e-4b07-ba1b-de1ef3788ec7@194.246.114.54:443?security=tls&sni=hk-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇭🇰 HK-194.246.114.54:443
@@ -82,4 +83,3 @@ vless://c57db8e2-555e-4c48-b262-ec20b4ae6a50@172.67.178.69:443?security=tls&sni=
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.79.188:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.79.188:443
 vless://f54c1c56-d3b2-41b3-9974-78bdd8807939@104.22.51.162:8880?security=none&type=ws&host=liV2raya.善良的闪电.monster&path=/@LIGHTNING6#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.51.162:8880
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@205.233.181.207:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-205.233.181.207:443
-vless://79040696-07a9-4065-96ea-56882112312e@85.9.100.197:2086?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-85.9.100.197:2086
