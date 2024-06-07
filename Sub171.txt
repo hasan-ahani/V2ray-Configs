@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://telegram-id-privatevpns@3.127.204.106:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | DE🇩🇪 | 0️⃣7️⃣
 trojan://telegram-id-directvpn@34.242.41.46:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @DirectVPN | IE🇮🇪 | 0️⃣1️⃣
 trojan://telegram-id-directvpn@13.40.247.32:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @DirectVPN | GB🇬🇧 | 0️⃣2️⃣
 trojan://telegram-id-directvpn@35.178.155.114:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @DirectVPN | GB🇬🇧 | 0️⃣3️⃣
@@ -82,4 +83,3 @@ vless://f7ecf7e4-d02f-457f-aa64-f3aa6d9df052@104.168.107.230:3492?encryption=non
 vless://9c7248ab-c8aa-4153-860e-3b8f2d4868a0@104.168.107.230:4212?encryption=none&flow=xtls-rprx-vision&security=reality&sni=poynter.org&fp=chrome&pbk=p3TQTqVMhFle-Xyw5qfcfFz86EsnckBsdxoenomwEFs&sid=9404dc13aba81a54&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-4212 | 21.01ms
 vless://798c4d2d-a427-45b7-9a1c-b9338bde52b1@104.168.107.230:4342?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.who.int&fp=chrome&pbk=p3TQTqVMhFle-Xyw5qfcfFz86EsnckBsdxoenomwEFs&sid=9404dc13aba81a54&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-4342 | 30.69ms
 vless://5012933b-0ca4-4043-ace8-d9daadb11bd5@104.168.107.230:4607?encryption=none&flow=xtls-rprx-vision&security=reality&sni=magicbus.ca&fp=chrome&pbk=p3TQTqVMhFle-Xyw5qfcfFz86EsnckBsdxoenomwEFs&sid=9404dc13aba81a54&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-4607 | 21.31ms
-vless://a53f97f6-36cc-400d-8b95-b14f71892ffb@104.168.107.230:4876?encryption=none&flow=xtls-rprx-vision&security=reality&sni=10to8.com&fp=chrome&pbk=p3TQTqVMhFle-Xyw5qfcfFz86EsnckBsdxoenomwEFs&sid=9404dc13aba81a54&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-4876 | 21.04ms
