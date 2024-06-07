@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://4e106351-e08b-431d-b052-697952371de0@85.9.111.100:20878?security=none&type=tcp&host=speedtest.net&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.9.111.100:20878
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.3.214:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.3.214:443
 vless://9af28087-87e6-44ae-a6e0-51852ecab457@104.21.44.13:8443?security=tls&sni=store.mtahaa.sbs&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.44.13:8443
 vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@172.67.144.73:443?security=tls&sni=bypass.dd-6b2.workers.dev&type=ws&host=bypass.dd-6b2.workers.dev&path=%2F@bypass_filter%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.144.73:443
@@ -82,4 +83,3 @@ vless://417c54fa-78c7-492f-bbc9-66f61be02ced@162.159.40.113:2083?security=tls&sn
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.43.179.52:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇰🇿 KZ-31.43.179.52:443
 vless://ca1109ad-1841-4f5f-8560-87068615d595@104.21.74.214:8880?security=none&type=ws&host=vip1cloudmaaghzkaadev2ray.v2rayng6.6.6.6.ir.com.vpn.nvp.chOoktaShaKoraBi.COM.&path=%2Ftelegram-%40vipvpn%2Ctelegram-vipvpn%2Ctelegram-Maghzkade%2Ctelegram-vipvpn%2Ctelegram-maghzkadeh%2Ctelegram-vipvpn%2Ctelegram-maghzkadeh%2Ctelegram-v2ray%3Fed%3D2056#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.74.214:8880
 vless://cca9a8e7-b6c6-42da-b230-601879655cea@172.67.143.34:2083?security=tls&sni=selinc-----8------selinc----8---selinc.payfhu.workers.dev&type=ws&host=selinc-----8------selinc----8---selinc.payfhu.workers.dev&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.143.34:2083
-vless://4f95b778-7d4d-44b8-ab5e-1d72be78b7b3@172.66.44.79:443?security=tls&sni=telegram-vpnhttpinjectorfree-001.pages.dev&type=ws&host=telegram-vpnhttpinjectorfree-001.pages.dev&path=%2F%3Fed%3D2048&fp=randomized&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.79:443
