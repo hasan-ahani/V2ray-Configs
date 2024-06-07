@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@216.205.52.180:2053?security=tls&sni=78345.pages.dev&type=ws&path=%2F%3Fed&fp=randomized#🔒 VL-WS-TLS 🇺🇸 US-216.205.52.180:2053
 vless://c32b1429-92aa-4be7-912e-4d63b0a31fc7@172.67.40.183:443?security=tls&sni=can01.nimserver.top&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.40.183:443
 vless://436e7428-381d-404e-ad67-915e98ce357d@172.66.45.6:443?security=tls&sni=43b35ef5.aminitiger.pages.dev&type=ws&host=43b35ef5.aminitiger.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.45.6:443
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.163.230:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.163.230:80
@@ -83,3 +82,4 @@ vless://51baeda8-1288-458a-b5ae-b8b080b937b6@104.24.0.233:8880?security=none&typ
 vless://10716279-b1ee-41d8-b63e-87782088305b@104.21.32.170:443?security=tls&sni=MaMAne-FILterChI.PageS.DEV&type=ws&host=mAMANe-fIltercHI.PAges.DeV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.32.170:443
 vless://10699622-1b25-499c-a424-58f8f4dfb7f7@104.16.126.175:2083?security=tls&sni=id-falcunargo.sociy12386.workers.dev&type=ws&host=id-falcunargo.sociy12386.workers.dev&path=%2F@V2raySeven@V2raySeven@V2raySeven@V2raySeven%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.126.175:2083
 vless://37c1a338-2378-4757-899e-2f89b3892939@172.67.172.16:2083?security=tls&sni=91ca3d82e15c53.mitsonic.com&type=ws#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.172.16:2083
+vless://dfd87a9f-98db-46ff-b483-301897411931@104.19.140.4:2087?security=tls&sni=virapn-t-3be7883659a1d2ba4c545dfdf85b61eda1.asiatechnicalwest.ir.&type=grpc&serviceName=@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN&fp=firefox#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.19.140.4:2087
