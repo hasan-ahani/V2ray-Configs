@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://c085eef1-b5f1-44ed-b7f1-a0b28279af34@104.21.18.64:443?security=tls&sni=de1vless.vpnhack.xyz&type=ws&host=de1-vless.vpnhack.xyz&path=%2Fvless#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.18.64:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.21.88.129:2083?security=tls&sni=jp005.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.88.129:2083
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@47.242.232.14:2083?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=TG%40ZDYZ2&fp=random#🔒 VL-WS-TLS 🇭🇰 HK-47.242.232.14:2083
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@185.109.21.102:443?security=tls&sni=kk226.ylks.link&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇷🇺 RU-185.109.21.102:443
@@ -82,4 +83,3 @@ vless://afbbb4f0-1aec-4b5c-a3af-766018ca3ab4@95.164.10.107:2052?security=none&ty
 vless://c818dadc-8004-48f3-99ab-f0ee492f7b5b@104.18.15.19:8080?security=none&type=ws&host=ch1.dontbow.store.&path=%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.15.19:8080
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@8.217.221.165:80?security=none&type=ws&path=/blue#🔒 VL-WS-NONE 🇭🇰 HK-8.217.221.165:80
 vless://1bab0961-b22c-411f-b955-09c4aed2d2c1@23.227.39.172:443?security=tls&sni=de1.hnkkt.top&type=ws&path=/gsjc/de1#🔒 VL-WS-TLS 🇨🇦 CA-23.227.39.172:443
-vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.64.207.83:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.207.83:443
