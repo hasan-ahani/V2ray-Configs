@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://a5c08f7d-fa54-4622-86ff-db48d5b2d882@23.227.38.181:443?security=tls&sni=us3-us3.aiopen.sbs&type=ws&host=us3-us3.aiopen.sbs&path=%2Fkbjc%2Fus3&fp=chrome#🔒 VL-WS-TLS 🇨🇦 CA-23.227.38.181:443
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.130.115:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.130.115:443
+vless://6a89dc04-7781-46fe-b35c-e14a6b6e60b8@172.67.216.175:443?security=tls&sni=TEST-test-tesT-tesT.pAgES.dev&type=ws&host=Test-TEST-teSt-tEST.PAges.dEv&path=%2FdjPKyRwDQqrrWQB9%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.216.175:443
+vless://696926f0-ffd8-5bc0-bebf-4db4e4260d64@104.21.17.156:8443?security=tls&sni=esetsecuritylicense.ybvmit.wOrKeRs.Dev&type=ws&host=esetsecuritylicense.ybvmit.wOrKeRs.Dev&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.17.156:8443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@63.141.128.164:443?security=tls&sni=jp600.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-63.141.128.164:443
 vless://0895c839-54e8-4522-cfa0-d1a5b1b34827@104.21.90.218:2086?security=none&type=ws&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.90.218:2086
 vless://63c7ebe1-c295-4066-a8a7-fe161e857335@104.22.51.45:80?security=none&type=ws&host=SvnProBotV2rayTkOne6.9.6.9.ir.shop.com.xn--fhqpqv8rrth13sbaaac958pc94anf0d8gmha8i.Com.&path=/SvnProBot-V2ray69Speed.ir.shop.com?ed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.51.45:80
@@ -79,7 +83,3 @@ vless://b9fffe76-52b6-40fb-acd1-de7a577773cb@86.38.214.178:2087?security=tls&sni
 vless://eeb24630-bdf7-4af0-bb9e-e03a979128c4@104.19.87.116:2095?security=none&type=ws&host=2.V2ray.debian.org.fxp.debian.org.speedtest.net.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95%E3%82%89%E3%82%8F.sony-playstation.fun.&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.87.116:2095
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.26.4.57:2096?security=tls&sni=jp070.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.4.57:2096
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.143.139:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.143.139:443
-vless://54ef4ecf-ff37-436a-be13-95c8a8a1114d@188.42.145.159:443?security=tls&sni=VIrgiNiavPn-nL.pagEs.dEv&type=ws&path=%2F#🔒 VL-WS-TLS 🇷🇺 RU-188.42.145.159:443
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.24.1.11:443?security=tls&sni=B3543d31.OxNEt-bu711.pAgeS.DEV&type=ws&host=B3543d31.OxNEt-bu711.pAgeS.DEV#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.1.11:443
-vless://d6f2a18c-c334-4cda-a14a-362390cfde40@172.67.156.241:8443?security=tls&sni=selinc---6---selinc---6---selinc.gxjuztaq.workers.dev&type=ws&host=selinc---6---selinc---6---selinc.gxjuztaq.workers.dev&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.156.241:8443
-vless://e4ceb917-3020-4486-a1ab-36534aed11de@85.9.111.20:5053?security=none&type=ws&host=s16.leader21.top&path=/http#🔒 VL-WS-NONE 🇮🇷 IR-85.9.111.20:5053

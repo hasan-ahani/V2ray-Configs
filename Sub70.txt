@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://e5598560-5b02-4845-bccc-9bef8f4f14e7@104.18.5.174:2087?security=tls&sni=vira-v2-3be7883659a1d2ba4c545dfdf85b61eda1.asiatechnicalwest.ir&type=grpc&serviceName=@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN&fp=firefox&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.5.174:2087
+vless://c626d19a-94b3-40b5-a473-bcd02e503974@104.31.16.14:2053?security=tls&sni=jp10.vlessx.xyz&type=ws&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.31.16.14:2053
+vless://b3d4d792-95f3-4aa9-bf5a-128293453532@104.21.91.147:443?security=tls&sni=c.kanal-tel-nufilter.store&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.91.147:443
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@8.219.117.198:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇸🇬 SG-8.219.117.198:8443
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@77.37.33.107:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇩🇪 DE-77.37.33.107:8443
 vless://c9e7de6a-fde7-4cbe-8adf-081239a0143d@45.33.115.18:2003?security=tls&sni=us2-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇺🇸 US-45.33.115.18:2003
 vless://5874cb3d-dadb-4537-e7bc-d56fcb90d7cb@104.16.61.8:2053?security=tls&sni=pk.tecnophone.sbs&type=ws&host=bg.tecnophone.sbs&path=%2F&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.61.8:2053
@@ -79,7 +83,3 @@ vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.64.110.102:443?security=tls&sni
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@159.112.235.155:443?security=tls&sni=v005.ylkszy.eu.org&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-159.112.235.155:443
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@45.205.0.93:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-45.205.0.93:8443
 vless://f15ec648-5637-494e-a2be-0a2c8d757653@172.66.47.198:443?security=tls&sni=bc788f58.parsa-aryayi.pages.dev&type=ws&host=bc788f58.parsa-aryayi.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.198:443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.236.170.225:2053?security=tls&sni=zdy332.kpcloud.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇸🇬 SG-47.236.170.225:2053
-vless://226dfc94-9413-470b-ad06-89834fd2dc41@104.25.254.35:8443?security=tls&sni=t.mmd111.sbs&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.25.254.35:8443
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.85.220:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.85.220:443
-vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@188.244.122.152:443?security=tls&sni=v005.ylkszy.eu.org&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇩🇪 DE-188.244.122.152:443
