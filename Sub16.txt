@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vmess://eyJhZGQiOiAiamFoZmtqaGEuY2ZkIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogImphaGZramhhLmNmZCIsICJpZCI6ICI5NTBkYjZhYS00OTI2LTQ2MTYtODE2ZS1lYzAzMTJkY2I4N2IiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2xpbmt3cyIsICJwb3J0IjogIjQ0MyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiamFoZmtqaGEuY2ZkIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sIn0=`
-vmess://eyJhZGQiOiAidHcxZy5mb3JsaXZlLmxpdmUiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAidG1zLmRpbmd0YWxrLmNvbSIsICJpZCI6ICJiYjdkMGFlMC04NWJkLTRkOWYtODM5MS1iM2Q5MjdjY2I0OTciLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjgwIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2wifQ==`
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.6:443?path=/Telegram#👉🆔 @v2ray_configs_pool`
 vless://51baeda8-1288-458a-b5ae-b8b080b937b6@104.27.0.241:8880?encryption=none&security=none&type=ws&host=%E6%A8%B1%E6%A1%83.%E6%B5%86%E6%9E%9C.%E8%8D%89%E8%8E%93.%E6%88%91%E4%BB%AC%E7%94%9F%E6%B4%BB%E5%9C%A82024%E5%9C%B0%E7%8B%B1.site.&path=%2FTelegram%3A%2C@sectun%2C@sectun%2C@sectun%2C@sectun%2C@sectun%2C@sectun%2C@sectun%2C@sectun%2C@sectun%2C@sectun%2C@sectun%2C@sectun%2C@sectun%2C@sectun%2C@sectun%2C%3Fed%3D1024#👉🆔 @v2ray_configs_pool`
 vless://cec5fd94-3ff0-4ad2-ad78-423269ce9717@icei.moderplus.com:8263?security=none&type=tcp&headerType=http&path=%2F&host=speedtest.net#👉🆔 @v2ray_configs_pool`
@@ -83,3 +81,5 @@ ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@38.114.114.207:8080#%F0%9F%87%BA%F0%
 trojan://telegram-id-directvpn@18.195.6.49:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20_DE_%E5%BE%B7%E5%9B%BD
 trojan://telegram-id-privatevpns@54.217.105.252:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#%F0%9F%87%AE%F0%9F%87%AA%20_IE_%E7%88%B1%E5%B0%94%E5%85%B0
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.114.114.207:5004#%F0%9F%87%BA%F0%9F%87%B8%20_US_%E7%BE%8E%E5%9B%BD
+trojan://telegram-id-directvpn@18.171.116.181:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#%F0%9F%87%AC%F0%9F%87%A7%20_GB_%E8%8B%B1%E5%9B%BD
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7gg576O5Zu9KOayueeuoTrnoLTop6PotYTmupDlkJsyLjApIiwiYWRkIjoibHUxLmdvZ29nb28uY3lvdSIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiZGI1ZDFhYTMtOTA4Yi00NGQxLWJlMGEtNGU2YThkNGU0Y2RhIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9nbyIsImhvc3QiOiJsdTEuZ29nb2dvby5jeW91IiwidGxzIjoidGxzIn0=
