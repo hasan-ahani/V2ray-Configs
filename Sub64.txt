@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://7e29f2e2-e0ec-47c5-94ec-38ef90f7a106@162.159.136.234:2053?security=tls&sni=guq22.OXnETwoRkS.LInk&type=ws&host=guq22.OXnETwoRkS.LInk&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.136.234:2053
+vless://ae53d90e-618d-448a-96c5-66cdb0374077@95.38.65.200:2080?security=none&type=tcp&host=speedtest.net&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-95.38.65.200:2080
+vless://85e83afb-187f-4015-9e55-2cc4f093ee51@162.159.130.234:2095?security=none&type=ws&host=shhi.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&path=%2FZEDMODEON-ZEDMODEON-ZEDMODEON#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.130.234:2095
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.26.13.140:2083?security=tls&sni=jp800.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.13.140:2083
+vless://2b278414-fad7-51c9-a8df-11848fee1487@104.21.89.155:2096?security=tls&sni=esetsecuritylicense.rihej59344.WOrKERS.dEV&type=ws&host=esetsecuritylicense.rihej59344.WOrKERS.dEV&path=vless-ws%2F%3Fed%3D2048&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.89.155:2096
 vless://5c402efa-95ff-49fd-a55c-fbc7770f9c06@94.182.131.230:58930?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-94.182.131.230:58930
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@164.38.155.67:443?security=tls&sni=xin222.ylks.link&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇬🇧 GB-164.38.155.67:443
 vless://10716279-b1ee-41d8-b63e-87782088305b@104.25.232.249:443?security=tls&sni=MAMANe-FIlTerChI.pAgEs.deV&type=ws&host=maMAne-FiltErCHI.PAgEs.deV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.232.249:443
@@ -78,8 +83,3 @@ vless://9173a8a5-0eec-4fe6-9c71-f1b6fabf01c7@104.21.32.226:2087?security=tls&sni
 vless://2880d739-64ef-4d82-b6fe-a96c3a053bd7@178.79.139.233:2003?security=tls&sni=uk2-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇬🇧 GB-178.79.139.233:2003
 vless://1ea40d23-e223-4be9-a830-036c9740b830@104.21.58.226:443?security=tls&sni=mamadtatardo442.my442vpn442.workers.dev&type=ws&host=mamadtatardo442.my442vpn442.workers.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.58.226:443
 vless://f3c511ab-dc15-4147-ae80-6c892d6f9ad0@146.19.21.118:443?security=tls&sni=j1us1.jsjc.sbs&type=ws&path=/jsjc/us1#🔒 VL-WS-TLS 🇱🇹 LT-146.19.21.118:443
-vless://f38ef965-f6ae-402c-ab2c-1d42ae49bc9b@14.102.228.218:2095?security=none&type=ws&host=woudyoulike_none.error.sss20202020202020.iran-check-host-server-sitesssssssssssssssssssssss--sssssssssss.com&path=/#🔒 VL-WS-NONE 🇺🇸 US-14.102.228.218:2095
-vless://ead6b74b-c156-5b2d-8f9a-9fc1a83a531e@104.21.93.56:8443?security=tls&sni=web.v2ray-ab-841-vpn.wORKeRs.DEv&type=ws&host=web.v2ray-ab-841-vpn.wORKeRs.DEv&path=%2Fvless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.93.56:8443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.26.13.140:2087?security=tls&sni=jp600.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.13.140:2087
-vless://0504ee23-2718-4c28-93c0-040af1c57632@104.21.22.155:2096?security=tls&sni=Kerman.Ptsls.Com.&type=grpc&serviceName=TEL:@Alfred_Config,TEL:@Alfred_Config,TEL:@Alfred_Config,TEL:@Alfred_Config,TEL:@Alfred_Config,TEL:@Alfred_Config&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.22.155:2096
-vless://10716279-b1ee-41d8-b63e-87782088305b@190.93.246.149:443?security=tls&sni=maMAnE-fILtERChi.pages.dEv&type=ws&host=MamAne-FIlTerChi.PAGeS.DEv&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.246.149:443

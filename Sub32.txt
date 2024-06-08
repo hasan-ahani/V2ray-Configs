@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://408e57f2-4cc4-4990-b54b-cdc900a62150@172.67.189.122:443?security=tls&sni=3ubix-turkey.mesooot.com&type=grpc&serviceName=@SobyV2ray&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.189.122:443
+vless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@188.114.97.141:443?security=tls&sni=e10c0e4b.oodaeq2.pages.dev&type=ws&host=e10c0e4b.oodaeq2.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.141:443
+vless://a5c08f7d-fa54-4622-86ff-db48d5b2d882@23.227.38.181:443?security=tls&sni=us3-us3.aiopen.sbs&type=ws&host=us3-us3.aiopen.sbs&path=%2Fkbjc%2Fus3&fp=chrome#🔒 VL-WS-TLS 🇨🇦 CA-23.227.38.181:443
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.136.128:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.136.128:443
+vless://5c6c5660-5ef7-4cbc-93b2-c3cae9b57926@104.17.45.62:443?security=tls&sni=Reza.Punisher-shop-v2.site&type=grpc&serviceName=@puni_shop_v2rayNG،@puni_shop_v2rayNG،@puni_shop_v2rayNG،@puni_shop_v2rayNG&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.45.62:443
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@34.81.35.248:443?security=tls&sni=xin332.ylks.link&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇹🇼 TW-34.81.35.248:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.4.173:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.4.173:443
 vless://21a0376a-22c9-44d0-873f-ecc8e646e692@172.67.171.58:80?security=none&type=ws&host=Fr1-vless.sshmax.xyz.&path=%2Fvless#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.171.58:80
@@ -78,8 +83,3 @@ vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@45.205.0.93:8443?security=tls&sni=j
 vless://72c90a40-be6b-4f5c-a293-63c7d639739c@104.21.81.239:2083?security=tls&sni=dns.seminar-irani.ir.&type=grpc&serviceName=2083vless&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.81.239:2083
 vless://d0ac902d-5c99-4be3-8e7b-8d199e5639d1@104.21.94.85:2096?type=ws#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.94.85:2096
 vless://850034c5-30ee-405c-a92e-cd87a1adb262@37.27.81.139:8880?security=none&type=ws&path=%2Forangesupport#🔒 VL-WS-NONE 🇫🇮 FI-37.27.81.139:8880
-vless://5cd008f7-4702-4f65-8c2d-67e348731fa4@160.79.104.233:443?security=tls&sni=host.gamingshoping.ir&type=grpc&serviceName=IranPing&fp=edge&alpn=h2#🔒 VL-GRPC-TLS 🇺🇸 US-160.79.104.233:443
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@104.16.150.237:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=TG@ZDYZ2&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.150.237:443
-vless://c94b206a-50c4-43d4-ad4c-6681d2ed9192@104.18.90.232:2087?security=tls&sni=gateway.rustbridge.site&type=ws&host=gateway.rustbridge.site#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.90.232:2087
-vless://8369ab2e-997a-47c7-87ca-c364a2e81820@104.31.16.103:2083?security=tls&sni=ousgyyzsjbolbolsweden.stay-out-of-my-territory.shop&type=ws&host=ousgyyzsjbolbolsweden.stay-out-of-my-territory.shop&path=/&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.31.16.103:2083
-vless://05a74544-8bc1-4929-882b-3073a4491560@104.16.147.108:443?security=tls&sni=Rubikagymm.abc---aaaapaa.CoM.&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.147.108:443

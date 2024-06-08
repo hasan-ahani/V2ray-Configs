@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.109.21.19:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=/tg@zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-185.109.21.19:443
+vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@8.222.214.231:2096?security=tls&sni=vless.pagess.filegear-sg.me&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇸🇬 SG-8.222.214.231:2096
+vless://2ca42987-551b-4494-a854-da2d9178f4cd@104.18.212.110:2087?security=tls&sni=KxQhHtGc22.zImBa-zUlA.OrG&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.212.110:2087
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@103.184.44.62:2053?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇨🇳 CN-103.184.44.62:2053
+vless://aece0e9c-fc30-4e53-b09c-29622372c2ed@104.18.13.130:8880?security=none&type=ws&host=iran-hamedan.beheni7009.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.13.130:8880
 vless://1d3ef31d-9cb7-4bb5-b8c6-24666fb99bf1@172.67.161.65:80?security=none&type=ws&host=netflixv#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.161.65:80
 vless://c255f68f-18f7-488a-b7fc-06a5676564f0@172.64.138.167:2052?type=ws#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.138.167:2052
 vless://3b7ac5ec-ff18-487b-938c-09fedbbfc0a3@172.66.47.13:8443?security=tls&sni=pardazeshvpn-tg57.pages.dev&type=ws&host=pardazeshvpn-tg57.pages.dev&path=%2FTelegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.13:8443
@@ -78,8 +83,3 @@ vless://0b750188-a0d7-4a71-9882-fcb42fbf4311@172.65.90.2:80?security=none&type=w
 vless://be0677da-a42b-4f41-a20f-565fe8ac4790@176.119.149.241:3000?security=tls&sni=IRANI.GOLDUKK.EU.ORG&type=ws&host=IRANI.GOLDUKK.EU.ORG&path=%2FMaJiDcT%2FVPNCTVIP%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇯🇵 JP-176.119.149.241:3000
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@66.81.247.244:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-66.81.247.244:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@146.56.171.182:11659?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇰🇷 KR-146.56.171.182:11659
-vless://6d8074a3-1975-4688-8c38-a658b294e30c@66.235.200.123:80?type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co.&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg#🔒 VL-WS-NA 🇺🇸 US-66.235.200.123:80
-vless://f47457da-a24f-4e50-bea5-8b6d2bcefa83@172.67.202.69:2083?security=tls&sni=connect-onlinestore-01.cyberscaler.com&type=ws&host=connect-onlinestore-01.cyberscaler.com&path=%2Fonline-store-shoes%2F&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.202.69:2083
-vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.237.43:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.237.43:443
-vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@185.148.107.83:443?security=tls&sni=v300.ylkszy.eu.org&type=ws&path=/?proxyip#🔒 VL-WS-TLS 🇺🇸 US-185.148.107.83:443
-vless://09ceaa87-3cd5-491a-b734-e4ca15e89d35@104.17.156.85:8443?security=tls&sni=v2net-iran-v2ray-nl.morgensport.nl&type=ws&host=v2net-iran-v2ray-nl.morgensport.nl&path=/V2NET-IRAN-V2NET-IRAN-V2NET-IRAN-V2NET-IRAN-V2NET-IRAN-V2NET-IRAN-V2NET-IRAN-V2NET-IRAN-V2NET-IRAN-V2NET-IRAN-V2NET-IRAN-V2NET-IRAN-V2NET-IRAN-V2NET-IRAN&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.156.85:8443
