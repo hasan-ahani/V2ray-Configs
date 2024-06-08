@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.239:2087?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.239:2087
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.238.228.212:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇪🇸 ES-185.238.228.212:443
 vless://7ae8705b-f1a5-4ad1-abb6-65ae1584085c@104.18.90.232:443?security=tls&sni=gateway.rustbridge.site&type=ws&host=gateway.rustbridge.site#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.90.232:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.18.5.237:443?security=tls&sni=jp800.ylks01.eu.org&type=ws&path=/blue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.5.237:443
 vless://226dfc94-9413-470b-ad06-89834fd2dc41@104.25.254.35:8443?security=tls&sni=t.mmd111.sbs&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.25.254.35:8443
@@ -83,3 +81,5 @@ vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@162.159.138.26:443?security=tls&sni
 vless://d5dd9a8c-dad7-4aeb-8cf7-f2812a0f275a@104.17.147.22:8443?security=tls&sni=all2.savagev2ray.site&type=grpc&serviceName=@Vpnmasi,@Vpnmasi,@Vpnmasi#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.147.22:8443
 vless://b5d39277-a8e0-4120-a4db-705ae339a808@185.146.173.122:8080?security=none&type=ws&host=V2ray-_-_-_-_-MdVpnSec.TelegramChannelJoinBede.com.&path=/#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.122:8080
 vless://74c8f9a7-41ae-4e4b-e14d-0676ef5c081a@172.67.171.12:443?security=tls&sni=mojiam2.azadistadium.com&type=ws&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.171.12:443
+vless://6a89dc04-7781-46fe-b35c-e14a6b6e60b8@104.21.46.150:443?security=tls&sni=test-teSt-tEsT-teSt.pagES.DEv&type=ws&host=TESt-TEsT-TEST-TEsT.pAGes.dEV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.46.150:443
+vless://2b278414-fad7-51c9-a8df-11848fee1487@172.67.189.149:8443?security=tls&sni=esetsecuritylicense.rihej59344.wORKeRs.DEV&type=ws&host=esetsecuritylicense.rihej59344.wORKeRs.DEV&path=vless-ws%2F%3Fed%3D2048&fp=ios&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.189.149:8443

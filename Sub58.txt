@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://ca524609-a1be-41f5-b563-a5f2d43bc805@104.20.66.92:443?security=tls&sni=telegram-falcunargo-em.falcunar.asso.eu.org&type=ws&host=telegram-falcunargo-em.falcunar.asso.eu.org&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.66.92:443
-vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@174.136.206.70:44698?security=tls&sni=vless.pagess.filegear-sg.me&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇺🇸 US-174.136.206.70:44698
 vless://7cfb0575-9759-4953-846e-f55127eea2d8@104.21.89.47:2083?security=tls&sni=marketepicnode3.modernstore1.ir&type=ws&path=%2F&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.89.47:2083
 vless://440a5fc6-4d97-46d5-93f7-adf90996081e@104.17.51.32:80?security=none&type=ws&host=bia-to-channel4.unlimiteddev.shop&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.51.32:80
 vless://01ab9337-f478-4765-9534-88f009f83ddb@129.146.7.98:443?security=tls&sni=aut022.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-129.146.7.98:443
@@ -83,3 +81,5 @@ vless://d9f3966e-0821-407a-9e70-25c37cc3fd7a@172.66.213.5:8443?security=tls&sni=
 vless://5c132f79-9f32-49fd-baa9-e7c997ab1ded@104.18.15.19:2083?security=tls&sni=fijffjdfjdfjdwieiriiririfjfndnmx.goldxray.com&type=grpc&serviceName=Telegram:@Hpv2rayNG-Telegram:@Hpv2rayNG-Telegram:@Hpv2rayNG-Telegram:@Hpv2rayNG-Telegram:@Hpv2rayNG-Telegram:@Hpv2rayNG-Telegram:@Hpv2rayNG-Telegram:@Hpv2rayNGTelegram:@Hpv2rayNGTelegram:@Hpv2rayNG-Telegram:@Hpv2rayNG&fp=chrome&alpn=http/1.1,h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.15.19:2083
 vless://77a571fb-4fd2-4b37-8596-2b7d9728bb5c@172.67.20.220:2096?security=tls&sni=vpnxw.pages.dev&type=ws&host=vpnxw.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.20.220:2096
 vless://d621d083-5ac0-4d26-8872-efe55cf57663@172.67.200.30:2095?security=none&type=ws&host=www.mehran-net.mohammad420.sbs&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.200.30:2095
+vless://c246daba-2caa-4364-8840-70117ee5cd80@104.20.53.184:8080?type=ws&host=join-to.vmessorg.Community.#🔒 VL-WS-NA 🏴‍☠️ NA-104.20.53.184:8080
+vless://0ac87cdb-e122-46c9-f3ce-6a02d5b1678f@85.209.195.42:20569?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-85.209.195.42:20569

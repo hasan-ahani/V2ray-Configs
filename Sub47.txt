@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://2ae1f75e-a4a8-4584-a892-0ac50d7a5a55@104.31.16.14:8880?security=none&sni=nl13.vlessx.us&type=ws#🔒 VL-WS-NONE 🏴‍☠️ NA-104.31.16.14:8880
-vless://88b6885d-e5dd-46f9-b72c-f3b9794c4724@79.143.84.116:8080?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇮🇷 IR-79.143.84.116:8080
 vless://502f1a41-96df-4d6c-8a3b-26781e795893@104.19.244.250:8880?security=none&type=ws&host=sinadfa.dugjup.workers.dev&path=%2FTELEGRAM%40AZARBAYJAB1T%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.244.250:8880
 vless://a6ab340a-02be-4c17-9afb-b6060937482e@185.146.173.122:2053?security=tls&sni=gnp.t-sub.site&type=ws&host=gnp.t-sub.site&path=@KINGOFV2RAY,@KINGOFV2RAY,@KINGOFV2RAY,@KINGOFV2RAY,@KINGOFV2RAY,@KINGOFV2RAY,@KINGOFV2RAY,@KINGOFV2RAY&fp=chrome&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.122:2053
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.123.227:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.123.227:443
@@ -83,3 +81,5 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.16.142.237:2096?security=tls&sn
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.219.0:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-45.159.219.0:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.104.129:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-185.148.104.129:443
 vless://fbdf202a-02b0-486e-a8f7-3fde4398ffec@172.67.190.127:2095?security=none&type=ws&host=spdnet-ok-.1.1.1.1.1.snapp.com.xn--blqw2a5no5ed8cm6xw0gw2i6ooehteuz1wcw61apn4a.com.&path=%2FspdNET-spdNET-spdNET-spdNET-spdNET-spdNET-spdNET-%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.190.127:2095
+vless://d73f7804-d488-4aae-e499-88bece38f73a@172.67.163.103:8443?security=tls&sni=are.kanal-tel-nufilter.site&type=grpc&serviceName=Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.163.103:8443
+vless://0a587c9d-41a6-4384-fdd6-e0482dcddffb@159.69.103.16:443?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-159.69.103.16:443

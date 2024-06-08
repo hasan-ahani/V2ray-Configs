@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://tIErrUuX7j@173.245.58.96:2053?security=tls&sni=vr.v2ray962.filegear-sg.me&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 TR-GRPC-TLS 🏴‍☠️ NA-173.245.58.96:2053
-trojan://rDgoag8etD@185.253.7.201:31673?security=none&type=tcp#🔒 TR-TCP-NONE 🇵🇱 PL-185.253.7.201:31673
 trojan://d8fd35e7-25f7-452d-852a-6ad1cfb3c9b8@104.16.67.38:443?security=tls&sni=ftp.pardazesh.tech&type=ws&host=ftp.pardazesh.tech&path=%2F1C1eEyrBbGr0r2HZ1tSkA&alpn=http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.67.38:443
 trojan://0cb2cd1f-870b-485c-914a-60aba39eed39@82.192.82.226:443?#🔒 TR-TCP-NA 🇳🇱 NL-82.192.82.226:443
 trojan://0b1371aa-649d-41dc-9126-338c87936500@95.164.33.62:443?sni=sourceforge.net&type=ws&host=se1.trojanvpn.de&path=/websocket&allowInsecure=1#🔒 TR-WS-NA 🇸🇪 SE-95.164.33.62:443
@@ -83,3 +81,5 @@ trojan://0cb2cd1f-870b-485c-914a-60aba39eed39@69.162.95.6:443?#🔒 TR-TCP-NA �
 trojan://1ca60c7d-b8cf-4b7f-bb08-f80bcd2e5876@138.124.184.173:443?#🔒 TR-TCP-NA 🇺🇸 US-138.124.184.173:443
 trojan://a8d5df53-7073-406f-8c88-ac993e3fb9a1@162.251.82.187:443?security=tls&sni=AtYrGkMyE51.diamondgalery.ir&type=ws&host=AtYrGkMyE51.diamondgalery.ir&path=%2FU13Hsk6pJ3kV6p1uO5Avv&fp=chrome&alpn=http/1.1#🔒 TR-WS-TLS 🇺🇸 US-162.251.82.187:443
 trojan://compassvpn-794T1C3EDa@104.17.223.175:2083?security=tls&sni=147457129.19kala.co&type=ws&host=147457129.19kala.co&path=/&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.223.175:2083
+trojan://0cb2cd1f-870b-485c-914a-60aba39eed39@162.210.199.65:443?#🔒 TR-TCP-NA 🇺🇸 US-162.210.199.65:443
+trojan://EgAMtxAquaO78-IvTSWpnQ@104.16.65.148:2096?security=tls&sni=mrz.learnturkishspeech.fun&type=ws&host=mrz.learnturkishspeech.fun&path=/book#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.65.148:2096

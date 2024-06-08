@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://30b3ecdf-64da-4b0e-b214-db5139b2ac59@172.67.136.197:2052?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.136.197:2052
-vless://2007d144-b7bd-49b7-afae-892e10c636cf@185.146.173.96:8880?path=/@LIGHTNING6,#🔒 VL-TCP-NA 🇸🇪 SE-185.146.173.96:8880
 vless://e018df1f-76c9-4075-8e19-58795c1c7f99@104.22.75.105:80?type=ws&host=7fe600d3b53c4bb9de9c863cad96d1.nv2ron.ir&path=%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%3Fed%3D2048#🔒 VL-WS-NA 🏴‍☠️ NA-104.22.75.105:80
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.71.108:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.71.108:443
 vless://d74d8e62-90c2-4fee-bcf3-d239956ee51a@190.93.244.0:2096?security=tls&sni=jp.vps.wengmail.link&type=ws&host=jp.vps.wengmail.link#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.244.0:2096
@@ -83,3 +81,5 @@ vless://731bbbeb-62e8-4721-a60d-2c359f0abe02@51.75.77.237:2003?security=tls&sni=
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.19.174.68:8443?security=tls&sni=jp600.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.174.68:8443
 vless://61b8beb5-c2f5-4bae-9046-658bd8cba724@104.16.103.112:2087?security=tls&sni=cloud-lb1.cyberscaler.com&type=ws&host=cloud-lb1.cyberscaler.com&path=%2Fqwertu&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.103.112:2087
 vless://13e31e46-5698-432e-bd0f-a6ce100c1fa2@172.67.151.124:443?security=tls&sni=m.mehpow.ir&type=ws&path=%2F%2574ele%2567ra%256d-%2541rV%2532ra%2579%252C%2574ele%2567ra%256d-%2541rV%2532ra%2579%252C%2574ele%2567ra%256d-%2541rV%2532ra%2579%252C%2574ele%2567ra%256d-%2541rV%2532ra%2579%252C%2574ele%2567ra%256d-%2541rV%2532ra%2579%252C%2574ele%2567ra%256d-%2541rV%2532ra%2579%252C%2574ele%2567ra%256d-%2541rV%2532ra%2579%252C%2574ele%2567ra%256d-%2541rV%2532ra%2579%252C%2574ele%2567ra%256d-%2541rV%2532ra%2579%252C%2574ele%2567ra%256d-%2541rV%2532ra%2579%252C%2574ele%2567ra%256d-%2541rV%2532ra%2579%252C%2574ele%2567ra%256d-%2541rV%2532ra%2579%3Fed%3D2048&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.151.124:443
+vless://f68b1ea9-3c4e-405a-98b1-35ee3db36000@172.67.147.38:80?type=ws&path=/graphql#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.147.38:80
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.107.144:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-185.148.107.144:443

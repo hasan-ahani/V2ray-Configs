@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://c246daba-2caa-4364-8840-70117ee5cd80@104.20.53.184:8080?type=ws&host=join-to.vmessorg.Community.#🔒 VL-WS-NA 🏴‍☠️ NA-104.20.53.184:8080
-vless://0ac87cdb-e122-46c9-f3ce-6a02d5b1678f@85.209.195.42:20569?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-85.209.195.42:20569
 vless://3cdbc462-6272-4c2a-9a2d-1525a81c7dfa@172.67.217.57:80?security=none&type=ws&host=xeeqi.kevani8800.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.217.57:80
 vless://e4e7b149-8bd8-4266-8cbb-0987604dbc87@162.159.24.17:443?security=tls&sni=toujiediansigema.5112233.xyz&type=ws&host=toujiediansigema.5112233.xyz&path=%2FTG@juzibaipiao%E5%81%B7%E8%8A%82%E7%82%B9%E6%AD%BB%E5%90%97&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.24.17:443
 vless://8028c698-7958-4c18-e7e9-869a3926d7ee@172.67.170.52:443?security=tls&sni=ledzeppelin.ripita4433.workers.dev&type=ws&host=ledzeppelin.ripita4433.workers.dev&path=/downloader/46072&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.170.52:443
@@ -83,3 +81,5 @@ vless://61958b98-d52a-420e-bb42-a3fd22985895@104.17.247.203:2096?security=tls&sn
 vless://23002f00-35b4-4080-bea1-31c03920a9bd@104.26.11.182:8443?security=tls&sni=sky4.alldownloads.info&type=ws&host=sky4.alldownloads.info&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.11.182:8443
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@172.67.171.62:443?security=tls&sni=v070.ylkszy.eu.org&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.171.62:443
 vless://186c6afe-7234-4911-839f-77086e9b7278@198.41.198.177:2086?type=ws&host=workerr.d6dkppf4.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NA 🏴‍☠️ NA-198.41.198.177:2086
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.27.207.92:2083?security=tls&sni=jp800.ylks01.eu.org&type=ws&path=/blue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.27.207.92:2083
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@8.218.122.55:80?security=none&type=ws&path=/blue#🔒 VL-WS-NONE 🇭🇰 HK-8.218.122.55:80

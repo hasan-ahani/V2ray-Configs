@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://3cbaf436-93cc-4db1-be69-c5353076be15@172.67.57.252:80?type=ws&path=/graphql#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.57.252:80
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.111.69:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.111.69:443
 vless://2854626e-86e5-4d30-8b00-03cd082aeee0@104.21.12.150:8080?security=none&sni=de1.vlessx.xyz&type=ws&path=CHANNEL-@ARCHIVE_ANDROID-@ARCHIVE_ANDROIDTelegram-@Archive_Android-Telegram-@Archive_Android-Telegram-@Archive_Android-Telegram-@Archive_Android#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.12.150:8080
 vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@8.219.97.50:2096?security=tls&sni=fc071d49-af91-42d6-a20e-5a64e24a53bc.71a45835-dd0c-4d51-8bd4-9ccf9f223662.casacam.net&type=ws&path=%2Fpasge.pages.dev%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇸🇬 SG-8.219.97.50:2096
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@129.154.223.89:15800?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇰🇷 KR-129.154.223.89:15800
@@ -83,3 +81,5 @@ vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@66.235.200.158:2083?security=tls&sn
 vless://dfbbc8de-8a4f-407d-8069-6de38d83c4e1@172.67.81.238:443?security=tls&sni=hdfy4c2.iraniancpi.uk&type=ws&host=hdfy4c2.iraniancpi.uk&path=%2FMr6wzC2rxRWBtLTlTL&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.81.238:443
 vless://9f0d517d-45d5-5596-b235-7dc981821997@104.21.72.173:8443?security=tls&sni=esetsecuritylicense.mrgimsy.wOrKerS.dEV&type=ws&host=esetsecuritylicense.mrgimsy.wOrKerS.dEV&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.72.173:8443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.153.182:443?security=tls&sni=ppaL03.HeZeKyAh-dAnEl.WorkERs.dEV&type=ws&host=ppaL03.hEzekyAh-daNeL.WoRkErs.Dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.153.182:443
+vless://d863d446-d17b-4105-b372-dcc53581fb3f@95.215.173.169:42147?security=none&type=tcp&host=amirzaplus.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-95.215.173.169:42147
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.124:443?security=tls&sni=mahdIsERVER-bB0.PaGES.DeV&type=ws&host=MAhdIsERVEr-Bb0.Pages.Dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.124:443

@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://2bcc97b3-ce59-412f-a09d-7ef8e38688f8@104.18.202.232:2082?security=none&type=ws&host=%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B7.novaball.LINK.&path=%2F%3Fed#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.202.232:2082
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.42.88.26:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇱🇺 LU-188.42.88.26:443
 vless://ed0dc7de-364f-4228-abf6-b027890bcd93@104.26.3.223:8443?security=tls&sni=cf.yicanny.com&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.3.223:8443
 vless://46764e4a-65d2-4ea0-ad4e-105b6beaa357@172.67.171.46:443?security=tls&sni=pl2-vless.sshmax.xyz&type=ws&host=pl2-vless.sshmax.xyz&path=%2Fvless#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.171.46:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.8.211.95:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-45.8.211.95:443
@@ -83,3 +81,5 @@ vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@151.101.2.219:443?security=tls&sni=
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.193.12:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.193.12:443
 vless://0eab9ab8-d0f0-4823-8af9-d1f95db842e8@178.239.154.119:3013?security=none&type=tcp&host=subscene.com&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-178.239.154.119:3013
 vless://ea93598b-a8d8-449a-a925-520c6e1626ee@172.66.47.128:443?security=tls&sni=pardazeshvpn-tg105.pages.dev&type=ws&host=pardazeshvpn-tg105.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.128:443
+vless://fb301d2e-4430-4b41-95d6-764460b8ef13@147.78.140.121:2053?security=tls&sni=9b56CFEe5b258C44c45bA18FA122293.mIToweAr.cOm&type=grpc#🔒 VL-GRPC-TLS 🇧🇬 BG-147.78.140.121:2053
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@199.212.90.25:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇨🇦 CA-199.212.90.25:443
