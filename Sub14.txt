@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://c592fc63-624c-4709-94cf-edd80124d318@ua-full.privateip.net:443#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20Trojan%20@V2rayStore
+trojan://d0a9ccc6-9ecd-40a3-8833-d2509b2759a8@sg-full.privateip.net:443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Trojan%20@V2rayStore
+trojan://b3965d2d-3b82-45cc-927b-1336aca3f3fe@sg3-full.privateip.net:443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Trojan%20@V2rayStore
+trojan://b48b4d1b-9c5a-4c9d-8297-251bae2a23e6@id-full.privateip.net:443#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%20Trojan%20@V2rayStore
 trojan://49b8914b-0683-44b2-90df-8a89cb205d9b@hk-full.privateip.net:443#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20Trojan%20@V2rayStore
 trojan://0d0addf9-8579-445c-b519-00a339a3f0c0@nl-full.privateip.net:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20Trojan%20@V2rayStore
 trojan://f910b595-d86d-42c8-92e1-f72f6b435664@nl2-full.privateip.net:443#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20Trojan%20@V2rayStore
@@ -79,7 +83,3 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@172.67.176.88:8443?security=tls&sni
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@172.67.70.191:2083?security=tls&sni=jp070.ylks01.eu.org&type=ws&path=%2Fblue#@Hope_Net-join-us-on-Telegram`
 vless://152029ab-d31e-4bf2-b4b9-da6398c7008c@join-unlimiteddev-vpn.unlimiteddev.site:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed%3D8080&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#@UnlimitedDev-Link1
 vless://152029ab-d31e-4bf2-b4b9-da6398c7008c@188.114.98.224:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#@UnlimitedDev-Mokhaberat
-vless://cb7ed2f5-9b01-40a3-b0df-5071bbf1bae6@LIGHTNING6-joinbed.filj.top:8880?path=%2F%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-%40LiV2ray&security=none&encryption=none&host=LiV2rayb.lightningz.ir.&type=ws#%40vpnkanfik
-vless://eb0a9882-61ae-40ae-ae5a-b42771fbf65a@188.119.112.242:443?path=%2FVLESS&security=tls&encryption=none&type=ws&sni=nl-full.privateip.net#%F0%9F%86%9933%40oneclickvpnkeys
-vless://f8b9b934-ee7a-4045-a85e-3831b5727de4@185.146.173.9:8080?type=grpc&serviceName=Telegram:@Archive_Android,Telegram:@Archive_Android,Telegram:@Archive_Android,Telegram:@Archive_Android,Telegram:@Archive_Android,Telegram:@Archive_Android,Telegram:@Archive_Android,Telegram:@Archive_Android,Telegram:@Archive_Android,Telegram:@Archive_Android,Telegram:@Archive_Android,Telegram:@Archive_Android&mode=multi&security=tls&encryption=none&path=%2FJ%6fin--%56%50%4e%43UST%4fMI%5aE.V2ray.re%3Fed%3D8080&security=none&encryption=none&host=%56%50%4e%43UST%4fMI%5aE.V2ray.Community.&type=ws#[🇸🇪]t.me/ConfigsHub`
-vless://3bcf6f52-cfa6-48f3-87b9-7e1131e42bcf@79.175.151.46:80?security=none&encryption=none&host=Taleban.koonkash&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub`
