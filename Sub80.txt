@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://c813fb54-0b02-4822-9a3b-de277d532ada@85.9.122.36:37086?security=none&type=tcp&host=Join+our+telegram+channel+%40v2Rez%D9%ABJoin+our+telegram+channel+%40v2Rez%D9%ABJoin+our+telegram+channel+%40v2Rez%D9%ABJoin+our+telegram+channel+%40v2Rez%D9%ABJoin+our+telegram+channel+%40v2Rez%D9%ABJoin+our+telegram+channel+%40v2Rez&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.9.122.36:37086
-vless://f478a594-5882-4713-bfdc-80c3e9345bd1@146.75.124.247:80?security=none&type=ws&host=dailyconfigs.com&path=%2F%40Daily_Configs--%40Daily_Configs--%40Daily_Configs--%40Daily_Configs%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-146.75.124.247:80
 vless://ae53d90e-618d-448a-96c5-66cdb0374077@37.27.47.236:2080?security=none&type=tcp&host=speedtest.net&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇫🇮 FI-37.27.47.236:2080
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.66.182:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.66.182:443
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@77.37.33.107:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇩🇪 DE-77.37.33.107:8443
@@ -83,3 +81,5 @@ vless://815724d3-0d61-4761-be07-471441d42be5@104.22.33.78:80?security=none&type=
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@172.67.199.233:2083?security=tls&sni=kk600.ylks.link&type=ws&path=%2Fyoutube-%E7%94%B1%E9%9B%B6%E9%96%8B%E5%A7%8B#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.199.233:2083
 vless://546cfb84-120f-43db-89db-5cba033bf9dc@162.159.128.233:8880?path=/@ZEDMODEON+TEL#🔒 VL-TCP-NA 🏴‍☠️ NA-162.159.128.233:8880
 vless://e8fefbde-2d52-48f1-8202-720539328853@172.67.138.147:80?security=none&type=ws&host=cconfigv2ray.v2rayngst.shop&path=%2F%40cconfig_v2ray%40cconfig_v2ray%40cconfig_v2ray%40cconfig_v2ray#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.138.147:80
+vless://ba7a006b-02a7-462f-95f6-74a7835150d1@188.166.149.175:443?security=tls&flow=xtls-rprx-vision&sni=uk-freevmess.privateip.net&type=tcp&path=%2f&allowInsecure=1#🔒 VL-TCP-TLS 🇬🇧 GB-188.166.149.175:443
+vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@104.16.60.8:80?type=ws&host=ada3.qowch.com&path=%2Fusers%3Fed%3D2048#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.60.8:80

@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://aba021c2-5c6a-4ee9-a0af-6c3ed86889bd@172.67.173.10:2087?security=tls&sni=f.liopiol.ir&type=ws&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.173.10:2087
-vless://c2028beb-0ead-4315-9374-95effe4c2b6f@185.146.173.206:2087?security=tls&sni=g4.ferdowsi.shop&type=grpc&serviceName=Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA-Telegram:@Cephalon_ALA&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇸🇪 SE-185.146.173.206:2087
 vless://9e248b4e-2ee5-4e68-a164-633c408c118f@104.17.42.10:443?security=tls&sni=mci.eidafemini.monster&type=ws&host=mci.eidafemini.monster&path=/G296AyPNm3AYwsQVGSKX&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.42.10:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.7.161:443?security=tls&sni=yRE2-JUD7-Nn-72-oueHgA6-UEBAfx-23kl.PageS.dev&type=ws&path=%2FfoHXvgOiQE3S1zbF%2FdWFlMS5veG5ldHdvcmtzLmxpbms&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.7.161:443
 vless://9a840161-7464-479d-b793-a6064d5f3300@172.67.207.18:2083?security=tls&sni=berncd.edlaghiye.com&type=grpc&serviceName=xyz&fp=safari&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.207.18:2083
@@ -83,3 +81,5 @@ vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@172.67.161.104:2087?security=tls&sn
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.108.61:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.108.61:443
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.57.159:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.57.159:443
 vless://eeb24630-bdf7-4af0-bb9e-e03a979128c4@108.162.192.255:2095?security=none&type=ws&host=2.V2ray.debian.org.fxp.debian.org.speedtest.net.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95%E3%82%89%E3%82%8F.sony-playstation.fun.&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-108.162.192.255:2095
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@185.176.26.61:2087?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F#🔒 VL-WS-TLS 🇰🇿 KZ-185.176.26.61:2087
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.37.216:443?security=tls&sni=PPAl03.KESHAUn-RoDdeRIcK.workErS.DeV&type=ws&host=PpAL03.kEShauN-roDDEriCk.WORkers.dEv&path=%2Fck8NaoZerm0KDizR%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.37.216:443

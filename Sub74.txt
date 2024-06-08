@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://a0514d9b-d109-47fd-b173-1e7f83268f21@104.21.235.76:80?type=ws&path=/graphql#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.235.76:80
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.7.4:443?security=tls&sni=Ppal03.Kianah-mckYNlEigH.WoRKERS.Dev&type=ws&host=ppAl03.kIAnAh-MCkYNlEIgh.WOrkERs.DEv&path=%2FcY5wYih4Kj8uzWNV%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.7.4:443
 vless://9d77ccf6-6710-4265-d0aa-1e07850e42dc@172.67.73.163:2087?security=tls&sni=prod01-cloud-sea-net01.cyberscaler.com&type=ws&host=prod01-cloud-sea-net01.cyberscaler.com&path=/sports-online/&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.73.163:2087
 vless://2b39449c-1063-44ce-93e4-21a984029ae7@172.67.180.67:8443?security=tls&sni=mehrdad-Spain.Zargarr.com&type=grpc&serviceName=%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.180.67:8443
 vless://52de3fa6-1673-4918-a90d-21d2b69de98e@172.67.49.115:443?security=tls&sni=eb8c0c64.888766.pages.dev&type=ws&host=eb8c0c64.888766.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.49.115:443
@@ -83,3 +81,5 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@185.148.107.214:443?security=tls&sn
 vless://d72a404f-a5da-4130-9cb1-b9d93d12905f@188.114.99.99:2096?security=tls&sni=trasvalet.parhamtraberthos.IR.&type=grpc&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-188.114.99.99:2096
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@193.9.49.233:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-193.9.49.233:443
 vless://95403f7a-0420-4f07-b567-a2565f7c88ed@172.67.131.236:443?security=tls&sni=telegram-vpnhttpinjectorfree-1.metalpink-30.workers.dev&type=ws&host=telegram-vpnhttpinjectorfree-1.metalpink-30.workers.dev&path=%2F%3Fed%3D2048&fp=randomized&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.131.236:443
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.21.76.195:2052?type=ws&path=%2Fyoutube-%E7%94%B1%E9%9B%B6%E9%96%8B%E5%A7%8B#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.76.195:2052
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.75:443?security=tls&sni=jp070.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.75:443

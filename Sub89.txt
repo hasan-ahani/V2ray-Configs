@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://01ab9337-f478-4765-9534-88f009f83ddb@47.236.205.188:2083?security=tls&sni=aut306.ylks.link&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇬 SG-47.236.205.188:2083
-vless://1622d31e-9023-4f1a-b553-9d10d7d2da90@147.78.140.192:443?security=tls&sni=free-sweden-c8f4261f9f46e6465709e17ebea7a92b.mitowear.com&type=ws&host=free-sweden-c8f4261f9f46e6465709e17ebea7a92b.mitowear.com#🔒 VL-WS-TLS 🇧🇬 BG-147.78.140.192:443
 vless://8b06ad3e-bd54-47d8-b32a-ef542079b469@190.93.246.241:443?security=tls&sni=dl1.spikevpn.cfd&type=grpc&serviceName=@spikevpn&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-190.93.246.241:443
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.104.245:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.104.245:443
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@47.236.117.48:2087?security=tls&sni=tg.dns68.cloudns.nz&type=ws&host=tg.dns68.cloudns.nz&fp=chrome#🔒 VL-WS-TLS 🇸🇬 SG-47.236.117.48:2087
@@ -83,3 +81,5 @@ vless://ecad30ae-0a52-4246-b12a-bc507cb455be@104.21.20.148:2095?security=none&ty
 vless://b9fffe76-52b6-40fb-acd1-de7a577773cb@86.38.214.243:2087?security=tls&sni=LiV2rayd.yoyoyo.ir&type=ws&host=LiV2rayd.yoyoyo.ir.&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇱🇹 LT-86.38.214.243:2087
 vless://cacd9434-1408-4f64-8bb0-b4c33d04c42b@104.21.95.147:443?security=tls&sni=sni.funlifea.shop&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.95.147:443
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.149.102:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.149.102:443
+vless://7da27146-c7da-4518-89b5-68caf7ba87c0@172.64.38.151:2087?security=tls&sni=vira-v2-3be7883659a1d2ba4c545dfdf85b61eda1.asiatechnicalwest.ir.&type=grpc&serviceName=@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN&fp=firefox#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.64.38.151:2087
+vless://13be7b64-8a46-4724-9cf2-4c7eddd4c56b@104.17.40.113:2096?security=tls&sni=sPeEd.vbox778.info.&type=grpc&fp=firefox&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.40.113:2096

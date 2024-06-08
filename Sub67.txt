@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://d3fd9082-6ba0-42ef-9a79-87c7fea7eda9@104.21.26.157:443?security=tls&sni=garnet.torch1.top&type=ws&path=/&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.26.157:443
-vless://b7e76b44-c0fc-455f-b315-ee60a718136b@91.107.134.49:18500?security=none&type=tcp&host=telewebion.com&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-91.107.134.49:18500
 vless://b71b0234-3967-4cfb-bbac-00a9ec8b1637@104.20.196.26:8443?security=tls&sni=melody.howareu.xyz&type=ws&host=melody.howareu.xyz&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.196.26:8443
 vless://5874cb3d-dadb-4537-e7bc-d56fcb90d7cb@104.16.61.8:2053?security=tls&sni=pk.tecnophone.sbs&type=ws&host=bg.tecnophone.sbs&path=%2F&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.61.8:2053
 vless://c9e7de6a-fde7-4cbe-8adf-081239a0143d@45.33.115.18:2003?security=tls&sni=us2-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇺🇸 US-45.33.115.18:2003
@@ -83,3 +81,5 @@ vless://5d19853b-93ed-4718-b228-2979cf38cc28@95.164.116.35:2003?security=tls&sni
 vless://99043bd6-a1e6-4d82-948b-4c2a10349c6c@185.109.21.67:2052?security=none&type=ws&host=onepercenter安息吧菲亚的工资.suonycars.buzz.&path=/t.me-DarkVPNpro#🔒 VL-WS-NONE 🇷🇺 RU-185.109.21.67:2052
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.222.207:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.222.207:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.20.6.134:443?security=tls&sni=V2FIveTEL.pAGes.dev&type=ws&host=V2FiVeTeL.pAges.Dev&path=%2FhoIUgKAOdQSTdFVG%2FOC4yMTkuNjAuNTQg%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.6.134:443
+vless://91bf455c-7fac-4db9-8f58-a93778b95ab8@172.64.33.107:443?security=tls&sni=pahlevan2.jajiga.store&type=ws&host=pahlevan2.jajiga.store&path=%2Fwss#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.33.107:443
+vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@69.84.182.159:443?security=tls&sni=v005.ylkszy.eu.org&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.159:443
