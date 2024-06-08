@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@103.169.142.104:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇦🇺 AU-103.169.142.104:443
-vless://961aef03-95d5-441a-b15b-9828840e6d06@185.234.64.35:443?security=tls&flow=xtls-rprx-vision&sni=sourceforge.net&type=tcp&fp=chrome#🔒 VL-TCP-TLS 🇫🇷 FR-185.234.64.35:443
-vless://be8962c2-c299-4b2e-a76d-373ddfd9c886@185.162.231.101:80?security=none&type=ws&host=IRON.man.policeoficer-45.GAMERme.IR#🔒 VL-WS-NONE 🇦🇲 AM-185.162.231.101:80
 vless://951dad6b-9234-4d3d-be5f-5a3da11fbd03@95.38.242.93:35021?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-95.38.242.93:35021
 vless://226461a0-d94f-49c8-bf89-68bac6458ea2@104.18.1.168:443?security=tls&sni=co.doctorjavas.com&type=ws&host=co.doctorjavas.com&path=%2Ffq%3Fed%3D2048&fp=ios&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.1.168:443
 vless://9e67f15c-178f-494c-a843-f371e3b3fa5d@172.67.114.131:8080?security=none&sni=king1980.b91sptsl.workers.dev&type=ws&host=king1980.b91sptsl.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.114.131:8080
@@ -83,3 +80,6 @@ vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@77.37.33.2:8443?security=tls&sni=jd
 vless://e5f38cb2-d25c-464c-9aa6-a8890148bbb9@162.159.135.234:80?type=ws&host=mnvxar.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&path=%2FZEDMODEON-%40ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.135.234:80
 vless://e7da87c9-4677-4e51-a285-e0decec4b385@104.31.16.65:2053?security=tls&sni=Pm.RxV2ray.space&type=ws&host=Pm.RxV2ray.space&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-104.31.16.65:2053
 vless://dd026d35-901f-4816-ace0-5c66e4a86b87@87.107.164.103:2022?security=none&type=tcp&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-87.107.164.103:2022
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.127.116:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.127.116:80
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.176.24.120:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-185.176.24.120:443
+vless://655c5d1c-c1ce-43cc-bcea-1c0f12144b2b@162.159.152.2:80?security=none&type=ws&host=dailyconfigsV2rayGmSix6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.vigilantecollection.com.&path=%2FDaily_Configs-Daily_Configs-Daily-Configs%3Fed%3D1048#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.152.2:80
