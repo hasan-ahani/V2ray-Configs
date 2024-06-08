@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://telegram-id-privatevpns@52.17.230.242:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | IE🇮🇪 | 0️⃣3️⃣
 trojan://telegram-id-privatevpns@13.42.139.251:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | GB🇬🇧 | 0️⃣4️⃣
 trojan://telegram-id-privatevpns@13.43.238.198:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | GB🇬🇧 | 0️⃣5️⃣
 trojan://telegram-id-privatevpns@13.37.176.106:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | FR🇫🇷 | 0️⃣6️⃣
@@ -83,3 +82,4 @@ vless://f25bd0d8-fd89-40b3-959a-d7fe4e32b166@104.168.107.230:4607?encryption=non
 vless://9fa772a7-2538-49a3-ba3b-df74e67ac28e@104.168.107.230:4876?encryption=none&flow=xtls-rprx-vision&security=reality&sni=10to8.com&fp=chrome&pbk=o5EfgcN8py69lS0Mesu8y_AO7a9agnwiGTfq6-nQUzE&sid=c9c2b90f0318d517&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-4876 | 25.84ms
 vless://0056ba09-55ec-463d-8e43-cc70ace1d07e@104.168.107.230:5144?encryption=none&flow=xtls-rprx-vision&security=reality&sni=oxfamintermon.org&fp=chrome&pbk=o5EfgcN8py69lS0Mesu8y_AO7a9agnwiGTfq6-nQUzE&sid=c9c2b90f0318d517&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-5144 | 25.56ms
 vless://1458086f-f068-444a-8eee-6ff02d76b457@104.168.107.230:5474?encryption=none&flow=xtls-rprx-vision&security=reality&sni=support.cloudflare.com&fp=chrome&pbk=o5EfgcN8py69lS0Mesu8y_AO7a9agnwiGTfq6-nQUzE&sid=c9c2b90f0318d517&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-5474 | 35.54ms
+vless://53dc175b-62ce-4a48-b910-46a0b22b43da@104.168.107.230:5676?encryption=none&flow=xtls-rprx-vision&security=reality&sni=arnebrachhold.de&fp=chrome&pbk=o5EfgcN8py69lS0Mesu8y_AO7a9agnwiGTfq6-nQUzE&sid=c9c2b90f0318d517&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-5676 | 25.47ms
