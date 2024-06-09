@@ -3,6 +3,13 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://711454ef-ee37-47ab-db7f-9133610c9e0d@95.217.17.242:22555?security=none&type=tcp#🔒 VL-TCP-NONE 🇫🇮 FI-95.217.17.242:22555
+vless://29300f60-a954-4086-bb7b-9ccd85e05956@151.101.65.57:80?security=none&type=ws&host=pardazesh.tg.ir&path=%2FTelegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.65.57:80
+vless://92c12734-d19e-40a1-f7a2-1735711d039b@172.67.134.112:443?security=tls&sni=slayer.mestavorze.workers.dev&type=ws&host=slayer.mestavorze.workers.dev&path=/downloader/32185&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.134.112:443
+vless://f647faa9-81db-43ed-b438-25fba61e2eda@172.66.47.180:443?security=tls&sni=pardazesh28.pages.dev&type=ws&host=pardazesh28.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.180:443
+vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.64.130.47:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.130.47:443
+vless://1fb465ac-60fb-4b77-b4a6-cc590ee6124e@104.21.24.57:443?security=tls&sni=freedom3.pacica4041.workers.dev&type=ws&host=freedom3.pacica4041.workers.dev&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.24.57:443
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@204.93.210.46:2096?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-204.93.210.46:2096
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.233:443?security=tls&sni=kk600.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.233:443
 vless://d6f79630-aa94-4536-b2ef-899b5acb3b49@104.16.68.38:2095?security=none&type=ws&host=vless-sub.n7p8ri7j.workers.dev&path=/unmanliest.appreviewcenter.com/nimws#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.68.38:2095
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.174.98:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.174.98:80
@@ -76,10 +83,3 @@ vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.3.242:443?security=tls&sni=s
 vless://7d2d2794-ccdd-4333-9e15-8643b93b2a9b@172.104.184.110:2003?security=tls&sni=sg2-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇸🇬 SG-172.104.184.110:2003
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.190.122:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.190.122:443
 vless://08855417-a94d-5591-9abe-4ed223e8a857@104.21.13.41:443?security=tls&sni=happy.callofip.com&type=ws&host=happy.callofip.com&path=%2Fgrpc&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.13.41:443
-vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@185.162.230.119:443?security=tls&sni=v300.ylkszy.eu.org&type=ws&path=/?proxyip#🔒 VL-WS-TLS 🇦🇲 AM-185.162.230.119:443
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.217.107:443?security=tls&sni=EA6530e9.nXZu-61iuaN-xD.PageS.DEV&type=ws&host=EA6530e9.nXzu-61iuAn-XD.PaGEs.dEV&path=%2F..TeleGram..%40Free_V2rng..%3D%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.217.107:443
-vless://2418f2e4-7ec2-466c-a164-d09318b5f2ab@47.245.118.70:2087?security=tls&sni=mys4.mrspeeds.info&type=grpc#🔒 VL-GRPC-TLS 🇸🇬 SG-47.245.118.70:2087
-vless://ba34bf8f-e046-5934-a81e-b1612fb2d9b7@172.66.45.4:2095?security=none&type=ws&host=sugar.sugarbreakervpn.WorKeRs.Dev&path=vless-ws%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.45.4:2095
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.68.246:443?security=tls&sni=3k.pureboy.eu.org&type=ws&host=3k.pureboy.eu.org&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.68.246:443
-vless://c94b206a-50c4-43d4-ad4c-6681d2ed9192@104.18.90.232:2087?security=tls&sni=gateway.rustbridge.site&type=ws&host=gateway.rustbridge.site#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.90.232:2087
-vless://b032cadc-37c7-4c58-8e5e-74e143e46034@104.21.69.44:2082?security=none&type=ws&host=15.v2ray.mihanyas.ir.mbj.farsroid.com.xn--fhq0la447aac5504dea701axr1g.online.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.69.44:2082
