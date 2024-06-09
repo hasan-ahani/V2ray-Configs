@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://nkmnlPd4k2@45.67.32.147:31104?security=reality&sni=discordapp.com&type=grpc&serviceName=DiscordApp&fp=random&pbk=zyH6UtOnpnRnv_DQQE4KVnP2iD6o2R7dx1VPS6BbGV8&sid=109b91b5#🔒 TR-GRPC-REALITY 🇷🇺 RU-45.67.32.147:31104
+trojan://auto@172.67.68.157:443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.68.157:443
+trojan://77fd0e60@3.132.130.250:30171?security=tls&sni=proxy.chydao.org#🔒 TR-TCP-TLS 🇺🇸 US-3.132.130.250:30171
+trojan://auto@104.20.18.168:2083?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.18.168:2083
+trojan://299025b9-6b55-430c-be38-9a18c06873ac@91.199.84.122:12052?sni=china3.one.edu.kg&allowInsecure=1#🔒 TR-TCP-NA 🇭🇰 HK-91.199.84.122:12052
 trojan://kP90Yjp90S@212.183.88.40:8443?security=tls&sni=Tdd5yct6uv-Vhd57fc7yvjFy-Vkdyy7hcUf5rcy.danesh-bonyan.Store&type=ws&host=eiiim.danesh-bonyan.store&path=join.----------------Telegram-EiiiM----------------Telegram-EiiiM---------------.Telegram-EiiiM.#🔒 TR-WS-TLS 🇦🇹 AT-212.183.88.40:8443
 trojan://telegram-id-directvpn@3.97.215.206:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇨🇦 CA-3.97.215.206:22222
 trojan://Ck0nkbbsur@104.26.5.32:2096?security=tls&sni=tls.redbullplus.xyz&type=ws&host=tls.redbullplus.xyz&path=%2Fwsss#🔒 TR-WS-TLS 🏴‍☠️ NA-104.26.5.32:2096
@@ -78,8 +83,3 @@ trojan://tIErrUuX7j@172.66.213.38:2053?security=tls&sni=vr.v2ray962.filegear-sg.
 trojan://eqUjIxW5S5@188.114.97.6:443?sni=xstj.damane2111.ir&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-188.114.97.6:443
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.175:443?security=tls&sni=tjjd.yzyx1.v6.army&type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.175:443
 trojan://auto@104.20.19.168:2083?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.19.168:2083
-trojan://NISHIKUITAN222@8.219.142.191:2083?security=tls&sni=t226.ylks.link&type=ws&host=t226.ylks.link&path=%2F#🔒 TR-WS-TLS 🇸🇬 SG-8.219.142.191:2083
-trojan://baa7fdc5-a9cb-435a-982b-ccd82cb1f8c0@104.16.60.10:443?security=tls&sni=ybv27nj.diamondgalery.ir&type=ws&host=ybv27nj.diamondgalery.ir&path=/U13Hsk6pJ3kV6p1uO5Avv#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.60.10:443
-trojan://IOZyY95xp2aeTxSgBD8pRz7lXgBD8pRz7lXaE4ZCjF3D86SnFelCqCS3uNw3KA6SnFelC@13.125.71.237:443?security=tls&sni=prispy.koreanbbq.link#🔒 TR-TCP-TLS 🇰🇷 KR-13.125.71.237:443
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.67:2096?security=tls&sni=tjjd.yzyx1.v6.army&type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.67:2096
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.157:2087?security=tls&sni=tjjd.yzyx1.v6.army&type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.157:2087

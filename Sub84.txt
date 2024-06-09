@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.42.145.159:8443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-188.42.145.159:8443
+vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@172.96.184.34:443?security=tls&sni=vless.pagess.filegear-sg.me&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇺🇸 US-172.96.184.34:443
+vless://49e9aee4-ba22-40de-a1d5-9eeb935b10e3@104.21.84.42:2087?security=tls&sni=francess.almanalohapro.ir&type=grpc&serviceName=vless&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.84.42:2087
+vless://35ae9f57-0a63-43dc-a391-530f05c96963@104.21.25.39:443?security=tls&sni=be2-vless.sshmax.xyz&type=ws&host=be2-vless.sshmax.xyz&path=%2Fvless#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.25.39:443
+vless://965d0c88-a91d-4bef-950c-a59649bbfa14@104.19.164.130:8080?security=none&type=ws&host=Coc.unique69.com.&path=%2FHosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.164.130:8080
 vless://9e6e7697-9fb8-4136-8f05-bcfd82284020@104.21.27.155:2087?security=tls&sni=nafas.hackers85.sbs&type=ws&host=nafas.hackers85.sbs&path=%2F%40hackers85&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.27.155:2087
 vless://36496095-e07f-4e0a-9697-409f761d1f67@162.159.137.232:2087?security=tls&sni=ShprxyV2ray.digitalciity.Tech&type=ws&host=ShprxyV2ray.digitalciity.Tech&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.137.232:2087
 vless://e59ac276-f787-4c9a-88c8-12737bab1d56@198.41.198.76:443?security=tls&sni=configt-channels.sg-forum.info&type=ws&host=configt-channels.sg-forum.info#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.198.76:443
@@ -78,8 +83,3 @@ vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.18.4.250:443?security=tls&sni=b
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@45.78.31.169:443?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇭🇰 HK-45.78.31.169:443
 vless://86e00829-7b2c-4fac-a594-2dfaa7556d68@104.21.16.10:2053?security=tls&sni=smconfing444.lakav69944.workers.dev&type=ws&host=smconfing444.lakav69944.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=firefox&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.16.10:2053
 vless://9cf47438-4a75-47bf-8f86-102644470797@104.16.218.243:8080?security=none&sni=nl16.vlessx.us&type=ws#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.218.243:8080
-vless://ee1cc081-7cef-4ff3-b952-06539c731157@162.159.248.67:443?security=tls&sni=cardervpn1.pages.dev&type=ws&host=cardervpn1.pages.dev&path=%2F%3Fed&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.248.67:443
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.172.104:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.172.104:80
-vless://25d0ee2d-4190-52be-b892-45811c6ba210@104.18.202.232:2053?security=tls&sni=folani.iiipok.WOrKErS.DEv&type=ws&host=folani.iiipok.WOrKErS.DEv&path=%2Fvless-ws%2F%3Fed%3D2048&fp=random&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.202.232:2053
-vless://a35017af-d228-44bd-885c-e5951ce09df6@172.67.66.177:80?security=none&type=ws&host=dl6.heykakenakhshanemvaberanakhshanemkhadijeomanigakobraoaminfatema.com&path=Mmdv2rayng-V2rayngmmd-telegram-mmd_v2rayng%3Fed%3D80#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.66.177:80
-vless://4d146643-979e-4656-aa78-9b8e18716f06@172.66.46.233:8443?path=@V2rayi_net#🔒 VL-TCP-NA 🏴‍☠️ NA-172.66.46.233:8443

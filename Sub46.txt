@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://826e43d2-dbe9-41a6-bbf8-3aed2f93f5d4@172.66.47.44:443?security=tls&sni=pardazeshvpn-tg20.pages.dev&type=ws&path=/?ed&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.44:443
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@8.219.99.169:80?security=none&type=ws&path=/blue#🔒 VL-WS-NONE 🇸🇬 SG-8.219.99.169:80
+vless://ae53d90e-618d-448a-96c5-66cdb0374077@188.75.79.17:2080?security=none&type=tcp&host=speedtest.net&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-188.75.79.17:2080
+vless://10716279-b1ee-41d8-b63e-87782088305b@23.227.39.107:443?security=tls&sni=mamAne-FiltErcHi.paGES.dEv&type=ws&host=MamaNE-fiLTERCHI.PAgEs.Dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇨🇦 CA-23.227.39.107:443
+vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.86.109:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.86.109:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.233.162:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.233.162:443
 vless://86cb9a9b-dc2e-45d6-b35d-7ce1daa32a15@172.64.229.28:8443?security=tls&sni=dns68.shift.cloudns.org&type=ws&host=dns68.shift.cloudns.org&path=Path%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.229.28:8443
 vless://02e75d78-58ad-4a73-afca-24b781d8fdf5@45.8.211.142:8443?security=tls&sni=Isa.kasler.sbs&type=grpc&serviceName=%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%40ev2rayy&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇷🇺 RU-45.8.211.142:8443
@@ -78,8 +83,3 @@ vless://891d999f-7864-45c5-8db9-3c69f35dcb96@172.67.148.150:443?security=tls&sni
 vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@185.218.7.217:1443?security=tls&sni=2022585a-86a7-4231-b3a0-eeda14f77f4d.8f18237c-8e5f-4ffb-a434-1b2948c87be3.ddnsfree.com&type=ws&path=%2Fpasge.pages.dev%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-185.218.7.217:1443
 vless://010da807-b050-42ce-8fac-4afb2f17a21f@188.114.98.252:443?security=tls&sni=KIng-kiNg-kinG-kiNG.PaGEs.deV&type=ws&host=kING-KIng-kiNg-KInG.pAges.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.252:443
 vless://957e3de7-7f01-49b9-afcc-949930381128@162.251.82.187:2082?security=none&type=ws&host=61.athena.sa.com&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-162.251.82.187:2082
-vless://c320a4fa-f9d7-4d53-a62c-bab6c6a86855@104.21.69.44:8880?security=none&type=ws&host=hpz.daryaserver.XYX&path=/hpz#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.69.44:8880
-vless://d69b66cb-5fe2-40b9-842b-1951982f80ae@172.67.156.192:2083?security=tls&sni=zebelkhan30.quysc64868.workers.dev&type=ws&host=zebelkhan30.quysc64868.workers.dev&path=%2F%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.156.192:2083
-vless://8002cf8d-03cc-4428-bcfa-324463d68e63@173.245.59.139:2053?security=tls&sni=2222222222asas.in-case-jadid-mane-follow-nemikone-vali-fane.site&type=grpc&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-173.245.59.139:2053
-vless://cb74a4c3-f48d-4411-8f4c-2ffee5eab376@104.18.39.123:443?security=tls&sni=ae3b1077e4706405.koalalampour.space&type=ws&host=ead9935ad2d9ffaa.koalalampour.space&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.39.123:443
-vless://9621c7a9-40b3-482a-9a27-fafa58e6c6a0@5.63.23.210:48710?security=none&type=tcp&host=radiojavanhd.com&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.63.23.210:48710
