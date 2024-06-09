@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://f43f5b13-865b-41fd-a9c5-654e98d78a2f@104.22.6.4:2083?security=tls&sni=pasargad.top-speed.pw&type=grpc&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.22.6.4:2083
-vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@172.67.190.58:443?security=tls&sni=bypassfilter.wrevdav.workers.dev&type=ws&host=bypassfilter.wrevdav.workers.dev&path=%2F@bypass_filter%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.190.58:443
-vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.8.215:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.8.215:443
-vless://38535031-ccc3-4a94-bd54-c68806486406@172.67.161.132:443?security=tls&sni=ffvhyfhibfrhhddrhh965ommcdwwr5furina.yaemiko.cloudns.org&type=ws&host=furina.yaemiko.cloudns.org&path=%2Fed%3F%3D2048&fp=random&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.161.132:443
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@154.197.88.97:2053?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇨 SC-154.197.88.97:2053
 vless://6d1628cb-2fa9-4f6f-82f8-d0896b27b165@104.18.29.181:8080?security=none&type=ws&host=shuige1.g-y0fale.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.29.181:8080
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.47.216:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.47.216:443
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@47.236.174.206:2053?security=tls&sni=v222.ylkszy.eu.org&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇸🇬 SG-47.236.174.206:2053
@@ -83,3 +78,8 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@152.70.123.225:8443?security=tls&sn
 vless://5f15d381-a992-45c8-aaac-5bf46f23c4d0@104.26.3.105:80?security=none&type=ws&host=nikmard.speedvadd.fun&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.3.105:80
 vless://9e67f15c-178f-494c-a843-f371e3b3fa5d@172.67.235.131:8080?security=none&sni=king1980.b91sptsl.workers.dev&type=ws&host=king1980.b91sptsl.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.235.131:8080
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@194.152.44.220:443?security=tls&sni=v300.ylkszy.eu.org&type=ws&path=/?proxyip#🔒 VL-WS-TLS 🇳🇱 NL-194.152.44.220:443
+vless://1ece19dd-1cb7-460b-8c40-f4607a5539b5@173.245.58.201:443?security=tls&sni=12.12migmigg54.top&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-173.245.58.201:443
+vless://494f08aa-e007-4336-a989-be6db932dcc5@162.159.129.233:443?security=tls&sni=shops.atmode.sbs&type=grpc&serviceName=cdn.discordapp.com&alpn=h2%2Chttp%2F1.1%2Ch3#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.129.233:443
+vless://1ff59fad-6cc6-4714-82b1-d4af47de08eb@172.67.171.164:80?security=none&type=ws&host=DiReCt49-13-163-2261.CleAnMaRk.IR&path=/DiReCt49-13-163-226-CleAnMaRk-IR#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.171.164:80
+vless://be9eda2d-cb3b-44ec-98a9-23c77b791bb2@103.184.45.251:2053?security=tls&sni=zedmodeon-zedmodeon-zedmodeon.zedmodeon-zedmodeon.shop&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🇨🇳 CN-103.184.45.251:2053
+vless://561bc1e2-32d2-4730-a530-920d0aa1808c@162.159.6.148:2087?security=tls&sni=prod01-cloud-sea-net01.cyberscaler.com&type=ws&host=prod01-cloud-sea-net01.cyberscaler.com&path=/sports-online/&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.6.148:2087
