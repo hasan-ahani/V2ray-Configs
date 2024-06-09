@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://00783c0e-19d1-4fa9-8122-2cebc51894fc@80.79.114.80:443?security=reality&flow=xtls-rprx-vision&sni=vk.com&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒 VL-TCP-RLT 🇪🇪 EE-80.79.114.80:443
 vless://efc181db-a332-4d0d-a6b6-9e28a775ae57@104.168.107.230:9633?security=reality&flow=xtls-rprx-vision&sni=fr.4cdn.de&type=tcp&fp=chrome&pbk=o5EfgcN8py69lS0Mesu8y_AO7a9agnwiGTfq6-nQUzE&sid=c9c2b90f0318d517#🔒 VL-TCP-RLT 🇺🇸 US-104.168.107.230:9633
 vless://fce0f0e4-425a-4cf6-a0ca-e7513517ff38@151.232.67.12:4004?security=reality&flow=xtls-rprx-vision&sni=www.speedtest.net&type=tcp&fp=chrome&pbk=ui0fGumZiFhEhGU13KYIcR3coPPVHuGQMvK-_TThCVc&sid=e3631859#🔒 VL-TCP-RLT 🇮🇷 IR-151.232.67.12:4004
 vless://a0562dec-26ac-43d4-ba1d-785c334e644f@37.27.21.47:443?security=reality&sni=greenpepper.ir&type=grpc&serviceName=@ipV2Ray&fp=chrome&pbk=FVe7_gsA7lnuX9z_V0vZXI9gD5outBiWIWZQsBpIzlI&sid=fada4f5f#🔒 VL-GRPC-RLT 🇫🇮 FI-37.27.21.47:443
@@ -83,3 +82,4 @@ vless://54ce117a-fd26-4b2e-b540-15f95ba3cc63@104.21.39.202:443?security=reality&
 vless://b0753dbe-6187-4d7f-8931-4c0d1a975104@[::ffff:5fa4:243b]:8443?security=reality&sni=104.21.70.42&type=tcp&host=at1.x2fast.net&headerType=http&fp=chrome&pbk=Iqqixc1Fcq2knbl1IbuKOHuZn2QDQIgri2J1acmDuTw&sid=bbe1ba3d62f09e09#🔒 VL-TCP-RLT 🇦🇹 AT-[::ffff:5fa4:243b]:8443
 vless://a0660613-bab4-456f-91b7-b8923788ed3d@128.140.49.220:443?security=reality&flow=xtls-rprx-vision&sni=www.speedtest.net&type=tcp&fp=chrome&pbk=mNXhz9oVUOChfXonV3TJcv_IB1-epvPy0OXR--qY82E&sid=758910ee7eab4a1b#🔒 VL-TCP-RLT 🇩🇪 DE-128.140.49.220:443
 vless://b948668e-ddcf-4b98-bf7c-f4a1c59b7e9b@65.109.193.242:443?security=reality&sni=tuyaus.com&type=tcp&fp=chrome&pbk=Pm1_UsePgo_9LccEkdYOYPEK0UMo4zOp3xlTO1eD20E&sid=6274b424#🔒 VL-TCP-RLT 🇫🇮 FI-65.109.193.242:443
+vless://0aec0e6f-5a12-4405-a742-b8e2f26a381f@164.90.162.16:6969?security=reality&sni=cdn.discordapp.com&type=h2&fp=chrome&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=3a622700e73c6642#🔒 VL-H2-RLT 🇩🇪 DE-164.90.162.16:6969
