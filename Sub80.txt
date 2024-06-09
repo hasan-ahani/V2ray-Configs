@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://42d197f0-99ac-4837-9493-6bc416f951b9@66.235.200.0:2096?security=tls&sni=mah2.hAsmailKorea.storE&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🇺🇸 US-66.235.200.0:2096
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.26.5.60:8443?security=tls&sni=jp600.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.5.60:8443
 vless://39d06891-ee89-4316-ae0e-3fcfb9e9714c@104.20.18.168:2052?security=none&type=ws&host=worker-reza2.wbfoppa.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.18.168:2052
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@172.67.134.122:443?security=tls&sni=worker.iraniancp.click&type=ws&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.134.122:443
@@ -83,3 +82,4 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.16.4.189:443?security=tls&sni=g
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@147.78.140.30:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇧🇬 BG-147.78.140.30:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@193.9.49.232:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-193.9.49.232:443
 vless://073055b5-7c41-432d-bb15-0efe23c212e3@104.17.239.159:8880?security=none&type=ws&host=mikasa.megafair.store&path=/Telegram:@MikasaVPN#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.239.159:8880
+vless://ce12313e-dab2-49ee-8806-399eb91136b2@104.17.246.203:2096?security=tls&sni=api1.htve.ir&type=grpc&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.246.203:2096

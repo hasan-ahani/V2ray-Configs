@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://e3b89bf0-3e33-4722-b2d4-99129445c039@85.9.111.19:5054?security=none&type=ws&host=s15.leader21.top&path=/http#🔒 VL-WS-NONE 🇮🇷 IR-85.9.111.19:5054
 vless://ae53d90e-618d-448a-96c5-66cdb0374077@37.27.92.208:2080?security=none&type=tcp&host=speedtest.net&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇫🇮 FI-37.27.92.208:2080
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.114.72.67:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇪🇸 ES-185.114.72.67:443
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@185.162.229.207:443?security=tls&sni=v005.ylkszy.eu.org&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇦🇲 AM-185.162.229.207:443
@@ -83,3 +82,4 @@ vless://5af10469-3ec3-4353-94d2-297b7215a15b@104.21.31.146:443?security=tls&sni=
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.78.43:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.78.43:443
 vless://13e31e46-5698-432e-bd0f-a6ce100c1fa2@104.21.0.244:443?security=tls&sni=m.mehpow.ir&type=ws&path=%2F%2574ele%2567ra%256d-%2541rV%2532ra%2579%252C%2574ele%2567ra%256d-%2541rV%2532ra%2579%252C%2574ele%2567ra%256d-%2541rV%2532ra%2579%252C%2574ele%2567ra%256d-%2541rV%2532ra%2579%252C%2574ele%2567ra%256d-%2541rV%2532ra%2579%252C%2574ele%2567ra%256d-%2541rV%2532ra%2579%252C%2574ele%2567ra%256d-%2541rV%2532ra%2579%252C%2574ele%2567ra%256d-%2541rV%2532ra%2579%252C%2574ele%2567ra%256d-%2541rV%2532ra%2579%252C%2574ele%2567ra%256d-%2541rV%2532ra%2579%252C%2574ele%2567ra%256d-%2541rV%2532ra%2579%252C%2574ele%2567ra%256d-%2541rV%2532ra%2579%3Fed%3D2048&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.0.244:443
 vless://18a3f404-572c-4f9d-a87f-4329a7c134a1@104.21.78.138:2083?security=tls&sni=selinc----7------selinc-------7------selinc.qnhvrd.workers.dev&type=ws&host=selinc----7------selinc-------7------selinc.qnhvrd.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=ios&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.78.138:2083
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@198.41.220.27:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.220.27:80

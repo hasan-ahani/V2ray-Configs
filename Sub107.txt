@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://988bbd3d-2822-47ab-ad1e-d2b4109fe30a@104.21.94.85:2052?security=none&sni=de3.vlessx.xyz&type=ws#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.94.85:2052
 vless://49c2667e-5fb9-4202-d106-762fbec3442a@104.25.188.126:443?security=tls&sni=*.starv2ray.cfd&type=ws&path=%2F&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.188.126:443
 vless://87f7cb00-a064-4173-9c04-70ab944b2ace@180.149.90.66:443?security=tls&sni=esna.serveirc.com&type=ws&path=%2F%40v2ray_configs_pool#🔒 VL-WS-TLS 🇲🇳 MN-180.149.90.66:443
 vless://2ca42987-551b-4494-a854-da2d9178f4cd@104.26.7.65:2087?security=tls&sni=MpHnPvWn22.zImBa-zUlA.OrG&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.26.7.65:2087
@@ -83,3 +82,4 @@ vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@45.205.0.154:8443?security=tls&sni=
 vless://8d975dee-ef51-43e0-b2b5-51e0b3725d50@172.67.194.59:2096?security=tls&sni=test.moviijmusic.space&type=ws&host=test.moviijmusic.space&path=%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.194.59:2096
 vless://05a74544-8bc1-4929-882b-3073a4491560@104.16.146.108:443?security=tls&sni=Rubikagymm.abc---aaaapaa.CoM.&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.146.108:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.26.6.95:443?security=tls&sni=e382C780.NW-6x7Z.Pages.deV&type=ws&host=E382c780.Nw-6X7Z.pagES.DEV&path=%2FTelegram@Free_V2rng%3D%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.6.95:443
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@8.219.40.37:80?security=none&type=ws&path=/blue#🔒 VL-WS-NONE 🇸🇬 SG-8.219.40.37:80
