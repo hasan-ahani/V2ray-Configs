@@ -3,6 +3,14 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://97a07e4c-14a0-4fb5-ba65-7fd7dbec9d8d@104.18.12.149:443?security=tls&sni=bia-to-selincselincselincselincselinc.icxqmszn.workers.dev&type=ws&host=bia-to-selincselincselincselincselinc.icxqmszn.workers.dev&path=vless-ws%2F%3Fed%3D2048&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.12.149:443
+vless://2dec8a82-2d39-407d-a5bf-98ea8b37a426@185.177.229.58:36439?security=none&type=tcp&host=eset.com&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-185.177.229.58:36439
+vless://44ab0683-1a75-4859-88ce-ef9ffea53c91@104.21.60.92:8880?security=none&type=ws&host=falcunargo-telegram.384f2ed785.workers.Dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.60.92:8880
+vless://b7b52207-3f71-4f97-87c8-7d18810c6ee0@85.9.111.22:5050?security=none&type=ws&host=s14.leaders711.top&path=/https#🔒 VL-WS-NONE 🇮🇷 IR-85.9.111.22:5050
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.64.144:443?security=tls&sni=GOV.UK&type=ws&host=k.kp&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-151.101.64.144:443
+vless://a9c0613e-7b12-4c89-cb8b-6fb83c41ed33@104.21.28.188:8880?security=none&type=ws&host=join.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.a.cloudfront.net.kiava.fun#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.28.188:8880
+vless://aa3f82c5-83d6-4f78-a064-d07a8b0e4985@172.67.192.224:2083?security=tls&sni=god1.bestgameir.ir&type=ws&path=/ws&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.192.224:2083
+vless://d566e589-93f6-4106-8e89-443e9dc748c9@172.67.178.12:443?security=tls&sni=retuned.toptechnonews.com&type=ws&path=/nimws#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.178.12:443
 vless://b8dab58e-15db-4ad7-9ce1-63476bc78259@104.17.148.22:2052?security=none&type=ws&host=1.ftp.debian.org.www.speedtest.net.%E5%85%8D%E8%B4%B9%E4%B8%8A%E7%BD%9167.Site.&path=%2Ftelegram-proxy-mtm-telegram-proxy-mtm-telegram-proxy-mtm%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.148.22:2052
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.218.211:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.218.211:443
 vless://c4d98ed1-69a5-49ad-b785-25fd2e081326@172.67.219.166:2053?security=tls&sni=Poshtiban.ehsa0535.top&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.219.166:2053
@@ -75,11 +83,3 @@ vless://5a4cc95f-8fff-4178-a7f7-3c1d5498154b@104.21.48.47:2087?security=tls&sni=
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@89.116.161.250:8443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🔒 VL-WS-TLS 🇱🇹 LT-89.116.161.250:8443
 vless://dbfe0ae2-7cc4-434f-8ad5-530c9f8b117c@85.9.111.70:443?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.9.111.70:443
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@141.11.202.210:2083?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F#🔒 VL-WS-TLS 🇫🇷 FR-141.11.202.210:2083
-vless://a377b393-dd02-4e6c-8e83-2da3d05e7fba@185.249.135.105:3001?security=none&type=tcp&host=myket.ir&headerType=http#🔒 VL-TCP-NONE 🇦🇪 AE-185.249.135.105:3001
-vless://2ee65c16-df9f-4176-a50f-58edbf29a67f@104.21.44.224:80?type=ws&path=/@A_Vpn_Ch#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.44.224:80
-vless://ce12313e-dab2-49ee-8806-399eb91136b2@104.21.6.185:2096?security=tls&sni=api1.htve.ir&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.6.185:2096
-vless://bc2a87ed-6753-47cd-9938-6a844ffe1a71@190.93.244.120:80?security=none&type=ws&host=a.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&path=%2FZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#🔒 VL-WS-NONE 🏴‍☠️ NA-190.93.244.120:80
-vless://af309ad2-c943-48ea-b570-2e51a2f079d9@104.21.54.69:80?security=none&type=ws&path=%2FDSDaswd22%2111*fdfm55247.COM.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.54.69:80
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@198.41.212.31:80?security=none&type=ws&host=us1.rtacg.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.212.31:80
-vless://43e00e4c-2316-4dc9-8262-cef31886dc56@104.16.68.38:2083?security=tls&sni=vless-sub.n7p8ri7j.workers.dev&type=ws&host=vless-sub.n7p8ri7j.workers.dev&path=%2Fmarly.toptechnonews.com%2Fnimws#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.68.38:2083
-vless://fafc4873-2228-4cef-bd3f-dd2886192459@185.237.13.191:8880?security=none&type=tcp#🔒 VL-TCP-NONE 🇬🇧 GB-185.237.13.191:8880
