@@ -3,6 +3,17 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://d0a9ccc6-9ecd-40a3-8833-d2509b2759a8@sg-full.privateip.net:443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Trojan%20@V2rayStore
+trojan://0131887e-b136-4334-8716-98f9c450a4af@sg2-full.privateip.net:443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Trojan%20@V2rayStore
+trojan://b3965d2d-3b82-45cc-927b-1336aca3f3fe@sg3-full.privateip.net:443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Trojan%20@V2rayStore
+trojan://b48b4d1b-9c5a-4c9d-8297-251bae2a23e6@id-full.privateip.net:443#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%20Trojan%20@V2rayStore
+trojan://49b8914b-0683-44b2-90df-8a89cb205d9b@hk-full.privateip.net:443#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20Trojan%20@V2rayStore
+trojan://0d0addf9-8579-445c-b519-00a339a3f0c0@nl-full.privateip.net:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20Trojan%20@V2rayStore
+trojan://f910b595-d86d-42c8-92e1-f72f6b435664@nl2-full.privateip.net:443#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20Trojan%20@V2rayStore
+trojan://99c63d3a-4499-4a5b-aad6-826a6851f304@ca-full.privateip.net:443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20Trojan%20@V2rayStore
+trojan://47824654-0a19-45ae-9f13-0c2b42ce911f@in-full.privateip.net:443#%F0%9F%87%AE%F0%9F%87%B3%20India%20Trojan%20@V2rayStore
+trojan://52fa6c8f-f9bc-4c08-8c21-3c231b9f1ce6@jp-full.privateip.net:443#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20Trojan%20@V2rayStore
+trojan://dbddd09b-7b03-4f7b-927c-8d4c0ad3f4f1@fr-full.privateip.net:443#%F0%9F%87%AB%F0%9F%87%B7%20France%20Trojan%20@V2rayStore
 trojan://7d515842-10b3-4c70-994e-89168f5d0a9b@fr2-full.privateip.net:443#%F0%9F%87%AB%F0%9F%87%B7%20France%20Trojan%20@V2rayStore
 trojan://fc1e07b5-840b-4446-8232-94b0606f2e0d@fr3-full.privateip.net:443#%F0%9F%87%AB%F0%9F%87%B7%20France%20Trojan%20@V2rayStore
 vless://203b1231-e0e2-45a3-9909-d77a5b18ac4a@us-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Vless%20WS%20@V2rayStore
@@ -72,14 +83,3 @@ vless://1a924bec-815a-42f4-92eb-13ecae33d634@185.146.173.18:2095?path=%2Ftelegra
 vless://1f82fe0d-f257-4d22-971a-1ba53ab97801@185.253.7.201:14633?security=none&encryption=none&host=fast.com%2C+speedtest.net%2C+cloudfalre.com&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool`
 vless://c6d28eba-b903-427c-be47-e226750ba985@zula.ir.:8080?path=%2Fwss%3Fed%3D8080&security=none&encryption=none&host=4.zula.ir----s.soft98.ir.www.farsroid.com--deb.debian.org.%E5%88%9B%E4%BC%98%E8%88%8D%E5%88%9B%E4%BC%98%E8%88%8Dvl.photocamso.PICS.&type=ws#👉🆔 @v2ray_configs_pool`
 vless://b9180a81-6b63-4ec4-b240-2ce16c97ba53@185.146.173.94:2095?path=%2F&security=none&encryption=none&host=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&type=ws#👉🆔 @v2ray_configs_pool`
-vless://0cca82c3-c699-4744-a108-bf2743e4715d@www.speedtest.net:80?path=%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray&security=none&encryption=none&host=ch1.dontbow.store.&type=ws#👉🆔 @v2ray_configs_pool`
-vless://d4b9856c-f57b-48aa-8b78-8ddbd76ae030@185.146.173.58:80?path=%2F%40ELiV2RAY-%40ELiV2RAY-%40ELiV2RAY%2CV2ray.motorcycles.Elmahstyle.ir%3Fed&security=none&encryption=none&host=V2ray.motorcycles.Elmahstyle.ir&type=ws#👉🆔 @v2ray_configs_pool`
-vless://a168d3e6-8ccd-48e1-a053-e14bba0b4fd1@s4.specialviip.shop:2050?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=2096vless#👉🆔 @v2ray_configs_pool`
-vmess://eyJhZGQiOiAiMTg1LjE0Ni4xNzMuOTIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiTmwyLnZtZXNzLnNpdGUuIiwgImlkIjogIjNhNzFiNDJjLTY2ZDItNDRhZC04YTgwLTY2OGQ0ZjQzMzllYSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdm1lc3MjRE9OVC1GT1JHRVQtVE8tU1VQUE9SVC1TU0hNQVguTkVULVRPLUtFRVAtVEhJUy1TRVJWRVItQUxJVkUiLCAicG9ydCI6ICI4MCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sIn0=`
-vless://d4b9856c-f57b-48aa-8b78-8ddbd76ae030@join.eliv2ray.io.:80?path=%2F%40ELiV2RAY-%40ELiV2RAY-%40ELiV2RAY%2CV2ray.motorcycles.Elmahstyle.ir%3Fed&security=none&encryption=none&host=V2ray.motorcycles.Elmahstyle.ir&type=ws#👉🆔 @v2ray_configs_pool`
-vless://5af10469-3ec3-4353-94d2-297b7215a15b@172.67.177.201:443?path=%2Fws&security=tls&encryption=none&host=continuity.sasuke.ir&type=ws&sni=continuity.sasuke.ir#👉🆔 @v2ray_configs_pool`
-vmess://eyJhZGQiOiAiMTg4LjExNC45Ny4zIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogImFmcmhtczE2di5iZXN0eHJheS5idXp6IiwgImlkIjogImY1ODRkZTE1LTIwMzQtNDE3MC1hNzIzLWY0OGMyYmFlNWUwZiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlua3dzIiwgInBvcnQiOiAiNDQzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJhZnJobXMxNnYuYmVzdHhyYXkuYnV6eiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbCJ9`
-vmess://eyJhZGQiOiAiMTg4LjExNC45Ny4zIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIlYycmF5LVZpcC1SaXRsLnhuLS04NS1wdjJjbDJrNXgzZmlwci5vcmcuQ2QzLmJvdXRpcXVlbWFkLmlyLiIsICJpZCI6ICJkMmM3YjMyMS01ZTQ4LTRkMjgtODBlMi1mNjRjNmRkZmFkOTYiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2Rhc2hib2FyZD9lZD0yMDQ4IiwgInBvcnQiOiAiMjA4MiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sIn0=`
-vless://cec5fd94-3ff0-4ad2-ad78-423269ce9717@172.67.203.133:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=xyz&sni=ice.moderplus.com#👉🆔 @v2ray_configs_pool`
-vless://9af577f2-0a7a-4448-ae0b-6985c53ea634@172.67.196.100:2083?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=t-netplus1.pages.dev&fp=randomized&type=ws&sni=t-netplus1.pages.dev#👉🆔 @v2ray_configs_pool`
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=%2Fhttp&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool`
