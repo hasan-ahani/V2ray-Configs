@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://d342d11e-d424-4583-b36e-524ab1f0afa7@172.66.44.168:8443?security=tls&sni=ed9485634jkfhggh.pages.dev&type=ws&host=ed9485634jkfhggh.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.168:8443
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.2.133:443?security=tls&sni=www.arizona.edu&type=ws&host=ton.apple&path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇺🇸 US-151.101.2.133:443
-vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@155.46.213.52:443?security=tls&sni=v300.ylkszy.eu.org&type=ws&path=/?proxyip#🔒 VL-WS-TLS 🇺🇸 US-155.46.213.52:443
 vless://03a9c9ee-1e6e-4779-8171-b2aac2357d0c@104.17.175.151:8443?security=tls&sni=Tigoo.dignity-19.com&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.175.151:8443
 vless://593fa383-f4c3-47ec-88bd-33b65316f0cf@104.254.140.153:443?security=tls&sni=2222222222asas.in-case-jadid-mane-follow-nemikone-vali-fane.site&type=grpc&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🇺🇸 US-104.254.140.153:443
 vless://a6fa9485-41e7-4bfb-9c6d-8336b5a66f47@104.20.19.78:2087?security=tls&sni=dl.parhamtraberthos.ir&type=ws&host=dl.parhamtraberthos.ir&path=%2Fnew_proxy_channel%3Fed%3D2560&fp=random&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.19.78:2087
@@ -83,3 +80,6 @@ vless://01ab9337-f478-4765-9534-88f009f83ddb@8.219.191.40:2083?security=tls&sni=
 vless://1ff59fad-6cc6-4714-82b1-d4af47de08eb@188.42.88.22:80?security=none&type=ws&host=DiReCt49-13-163-226.CleAnMaRk.IR&path=/DiReCt49-13-163-226-CleAnMaRk-IR#🔒 VL-WS-NONE 🇱🇺 LU-188.42.88.22:80
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.107.213:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-185.148.107.213:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.7.4:443?security=tls&sni=Ppal03.Kianah-mckYNlEigH.WoRKERS.Dev&type=ws&host=ppAl03.kIAnAh-MCkYNlEIgh.WOrkERs.DEv&path=%2FcY5wYih4Kj8uzWNV%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.7.4:443
+vless://5a5d9654-2f1e-4537-b3ca-e76168b2e03f@104.21.76.15:443?security=tls&sni=wlma.jeremaih-talik.workers.dev&type=ws&host=wlma.jeremaih-talik.workers.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.76.15:443
+vless://21c67716-e8cb-452d-a36c-a6ca41e17d1a@104.21.79.143:2087?security=tls&sni=re3.v2logy.xyz&type=grpc&fp=safari&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.79.143:2087
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@192.65.217.41:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇦🇺 AU-192.65.217.41:443

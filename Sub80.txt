@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.196.148:443?security=tls&sni=mmdv2.pages.dev&type=ws&path=%2F%3Fed&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.196.148:443
-vless://ddb00f36-d544-4e35-afbf-64297aa68d03@172.67.165.200:2096?security=tls&sni=sisana.muzres.wOrKerS.DEV&type=ws&host=sisana.muzres.wOrKerS.DEV&path=vless-ws%2F%3Fed%3D2048&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.165.200:2096
-vless://c69ab9d1-756e-4a12-8bf1-20f3cffe8268@172.67.73.163:2083?security=tls&sni=ErFaN2.aSdBeWg.SbS.&type=ws&host=ErFaN2.aSdBeWg.SbS.&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.73.163:2083
 vless://734072e0-82af-4ca9-979e-3f84c6b66b97@104.16.2.189:80?security=none&type=ws&host=%E4%B8%8D%E8%A6%81%E5%AF%B9%E4%B8%96newlife.%E7%AB%99%E9%95%BFbadho.silence2.%E5%A4%9C%E7%8C%AB%E5%AD%90%E9%85%92%E5%90%A7%E6%9E%AA%E6%88%98.suonycars.buzz.&path=%2Ft.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.2.189:80
 vless://ef6746d5-d4c5-5092-9b7f-fbfd372446b3@172.67.147.10:8443?security=tls&sni=esetsecuritylicense.shsxucu.wOrkERS.DEV&type=ws&host=esetsecuritylicense.shsxucu.wOrkERS.DEV&path=vless-ws%2F%3Fed%3D2048&fp=edge&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.147.10:8443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.105.175:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-185.148.105.175:443
@@ -83,3 +80,6 @@ vless://a04be4ef-1797-4ca9-a549-4385ce42494c@185.146.173.252:443?security=tls&sn
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@34.150.133.11:443?security=tls&sni=xin222.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-34.150.133.11:443
 vless://0348038c-de3b-5790-8756-402479efb5c7@104.21.31.170:2053?security=tls&sni=vpray3.fikelep179.wOrKeRS.deV&type=ws&host=vpray3.fikelep179.wOrKeRS.deV&path=vless-ws%2F%3Fed%3D2048&fp=firefox&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.31.170:2053
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@129.154.206.254:59158?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇰🇷 KR-129.154.206.254:59158
+vless://8e62ae0c-efee-4a80-905c-fc06c768ff2a@188.114.97.167:8880?security=none&path=/vless#🔒 VL-TCP-NONE 🏴‍☠️ NA-188.114.97.167:8880
+vless://e1ad1088-c7ab-4c06-83b1-27c8188e631b@104.18.14.229:443?security=tls&sni=cpanel.pharmaweb.info&type=ws&host=cpanel.pharmaweb.info&path=%2Fwws&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.14.229:443
+vless://696a3c1e-70af-4f17-9581-0e49c9924001@190.93.244.113:2087?security=tls&sni=furi-guri-allnet.poshakbany.ir&type=grpc&serviceName=@Lax_vpn/@Lax_vpn/@Lax_vpn/@Lax_vpn/@Lax_vpn/@Lax_vpn/@Lax_vpn/@Lax_vpn/@Lax_vpn/@Lax_vpn/@Lax_vpn/@Lax_vpn/@Lax_vpn/@Lax_vpn/@Lax_vpn/@Lax_vpn/@Lax_vpn/@Lax_vpn/@Lax_vpn/@Lax_vpn/@Lax_vpn&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-190.93.244.113:2087
