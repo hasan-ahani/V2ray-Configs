@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.27.206.92:8443?security=tls&sni=jp111.ylks01.eu.org&type=ws&path=/blue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.27.206.92:8443
-vless://10716279-b1ee-41d8-b63e-87782088305b@104.25.93.21:443?security=tls&sni=maMANe-filterchi.paGES.DeV&type=ws&host=MAMAnE-FiltERCHi.pages.dEV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.93.21:443
-vless://fc1191c8-e724-482f-a492-90d3d386719c@172.67.182.207:2087?security=tls&sni=sisand.waztow.WoRkeRs.DEv&type=ws&host=sisand.waztow.WoRkeRs.DEv&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.182.207:2087
-vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@188.114.97.7:443?security=tls&sni=current.iraniancp.fun&type=ws&host=current.iraniancp.fun&path=%2F%3Fed%3D2048&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.7:443
-vless://aa2dc840-be38-4b4d-a002-ba234999fd55@198.41.223.245:8080?security=none&type=ws&host=cdn-allxn--b6gaceuorg.l4o117en.workers.dev&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.223.245:8080
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@47.236.180.51:2087?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F#🔒 VL-WS-TLS 🇸🇬 SG-47.236.180.51:2087
 vless://01ab9337-f478-4765-9534-88f009f83ddb@47.236.237.90:2053?security=tls&sni=aut300.ylks.link&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇬 SG-47.236.237.90:2053
 vless://85bc3be1-f8d3-4f8c-806c-65375fd364df@185.16.110.61:8880?security=none&type=ws&host=2.V2ray.debian.org.fxp.debian.org.speedtest.net.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95%E3%82%89%E3%82%8F.mralpha-vpn.COM.&path=%2FTelegram-mainv2ray%2CTelegram-mainv2ray%2CTelegram-mainv2ray%2CTelegram-mainv2ray%2CTelegram-mainv2ray%2CTelegram-mainv2ray%2CTelegram-mainv2ray%2CTelegram-mainv2ray%2CTelegram-mainv2ray%2CTelegram-mainv2ray%2CTelegram-mainv2ray%3Fed%3D2048#🔒 VL-WS-NONE 🇫🇷 FR-185.16.110.61:8880
@@ -83,3 +78,8 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@168.100.6.40:443?security=tls&sni=c
 vless://e0de7b12-20dd-4d6b-bfaa-307fed5a1d2b@172.64.148.140:2087?security=tls&sni=Cloud.zed-zoon.tech&type=grpc&serviceName=Channel---Telegram---ZED_VPN---ZED_VPN---Telegram---ZED_VPN---ZED_VPN---Telegram---ZED_VPN---ZED_VPN&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.64.148.140:2087
 vless://01ab9337-f478-4765-9534-88f009f83ddb@47.237.95.156:2053?security=tls&sni=aut306.ylks.link&type=ws&path=/?ed#🔒 VL-WS-TLS 🇸🇬 SG-47.237.95.156:2053
 vless://b0138d55-a493-4dc3-9932-c6f0391707c1@188.114.96.5:2082?security=none&type=ws&host=malaysiadj.card-937.workers.dev&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.96.5:2082
+vless://3ebb18cd-0a44-441a-ab7c-bed685abc1c1@141.193.213.20:443?security=tls&sni=443.gooshttest.online&type=grpc&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🇺🇸 US-141.193.213.20:443
+vless://ae53d90e-618d-448a-96c5-66cdb0374077@37.27.92.208:2080?security=none&type=tcp&host=speedtest.net&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇫🇮 FI-37.27.92.208:2080
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.26.12.140:2083?security=tls&sni=jp111.ylks01.eu.org&type=ws&path=/blue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.12.140:2083
+vless://02610d91-def0-40cf-9f55-bf5620788a7a@172.64.146.80:80?security=none&type=ws&host=xxwhy.xyzggdb.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.146.80:80
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@75.2.32.4:443?security=tls&sni=kk070.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-75.2.32.4:443
