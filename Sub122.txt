@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://ypDt8RkT7J@121.127.46.131:43118?security=tls&sni=tpmrt.phooeyunfold.com&type=tcp&fp=chrome&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-121.127.46.131:43118
+trojan://NISHIKUITAN222@8.222.183.242:8443?security=tls&sni=t111.ylks.link&type=ws&host=t111.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.222.183.242:8443
+trojan://c7f9b8f0-bfdb-11ee-a15c-1239d0255272@104.21.41.21:443?security=tls&sni=de1.test3.net&type=ws&host=de1.test3.net&path=/howdy#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.41.21:443
+trojan://1ZTbMoSRnm@172.67.10.53:2083?security=tls&sni=mikasa.megafair.store&type=ws&host=mikasa.megafair.store&fp=chrome&alpn=h3,h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.10.53:2083
+trojan://c7f9b8f0-bfdb-11ee-a15c-1239d0255272@172.67.159.13:443?security=tls&sni=de1.test3.net&type=ws&host=de1.test3.net&path=/howdy#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.159.13:443
+trojan://cb1f26aa437d4bfa9b841d28503ce8cc@104.19.171.5:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.171.5:443
 trojan://ypDt8RkT7J@213.186.36.123:43118?security=tls&sni=wylbe.phooeyunfold.com&type=tcp&fp=random&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇫🇷 FR-213.186.36.123:43118
 trojan://2f211aae-3678-47a6-b231-46304443772f@188.114.97.82:443?security=tls&sni=cdir-0203.wlfvip.com&type=ws&host=cdir-0203.wlfvip.com&path=%2Ftrojanws%3Fed%3D2048&alpn=http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-188.114.97.82:443
 trojan://NISHIKUITAN222@8.219.177.205:8443?security=tls&sni=t111.ylks.link&type=ws&host=t111.ylks.link&path=%2F#🔒 TR-WS-TLS 🇸🇬 SG-8.219.177.205:8443
@@ -77,9 +83,3 @@ trojan://47824654-0a19-45ae-9f13-0c2b42ce911f@172.105.252.35:443?security=tls&sn
 trojan://dbddd09b-7b03-4f7b-927c-8d4c0ad3f4f1@141.94.115.231:443?security=tls&sni=fr-full.privateip.net#🔒 TR-TCP-TLS 🇫🇷 FR-141.94.115.231:443
 trojan://qj1Dz1CJmFQRhWr1SP80aA@104.16.1.10:443?sni=cdn-21.gsmxreality.com&type=grpc&serviceName=443trojan&allowInsecure=1#🔒 TR-GRPC-NA 🏴‍☠️ NA-104.16.1.10:443
 trojan://656bcdfe-ae09-4170-a36e-1685ee10b26f@162.159.137.232:2083?security=tls&sni=missyousir.segaro.tech&type=ws&host=missyousir.segaro.tech&path=/OVmkPBATL0FijQ3AWVBo&fp=chrome&alpn=http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.137.232:2083
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.185:8443?security=tls&sni=tjjd.yzyx1.v6.army&type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.185:8443
-trojan://NISHIKUITAN222@8.219.6.150:8443?security=tls&sni=t111.ylks.link&type=ws&host=t111.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.6.150:8443
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.11:2087?security=tls&sni=tjjd.yzyx1.v6.army&type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.11:2087
-trojan://951bbbc9-c5fd-441e-ac3d-c7fcfbf4a751@173.245.59.100:443?security=tls&sni=se1.trojanvpn.de&type=ws&host=se1.trojanvpn.de&path=%2Fwebsocket#🔒 TR-WS-TLS 🏴‍☠️ NA-173.245.59.100:443
-trojan://auto@104.20.6.134:443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.6.134:443
-trojan://NISHIKUITAN222@47.236.253.41:8443?security=tls&sni=t111.ylks.link&type=ws&host=t111.ylks.link&path=%2F#🔒 TR-WS-TLS 🇸🇬 SG-47.236.253.41:8443
