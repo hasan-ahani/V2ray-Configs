@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://81a27cdf-06fe-49d2-a4c3-14d292fa0ac9@172.67.213.252:2052?security=none&type=ws&path=%2F%40EsiVP%20%40EsiVP%40EsiVP%40EsiVP%40EsiVP%40EsiVP%40EsiVP%40EsiVP%40EsiVP%40EsiVP%40EsiVP%40EsiVP%40EsiVP%40EsiVP%40EsiVP%40EsiVP%40EsiVP%40EsiVP#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.213.252:2052
+vless://a2e34cb0-39a0-4db0-99a4-c56e84757461@104.21.69.44:8080?security=none&sni=ch2.dontbow.store.&type=ws&path=/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.69.44:8080
+vless://44ad3873-4587-4d94-b6a6-d2b14e6310cc@172.67.158.16:2087?security=tls&sni=khalaa-tm1.lmxtinl.com&type=grpc&fp=chrome&alpn=http%2F1.1%2Ch2&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.158.16:2087
+vless://f7fe4c50-8f84-425a-8b60-6fbea946df9e@162.159.136.232:443?security=tls&sni=we.wordpass.workers.dev&type=ws&host=we.wordpass.workers.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.136.232:443
+vless://f7fe4c50-8f84-425a-8b60-6fbea946df9e@162.159.138.232:80?sni=hello-world-wandering-river-d8eb.wordpass.workers.dev&type=ws&host=we.wordpass.workers.dev&fp=chrome#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.138.232:80
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.153.182:443?security=tls&sni=ppaL03.HeZeKyAh-dAnEl.WorkERs.dEV&type=ws&host=ppaL03.hEzekyAh-daNeL.WoRkErs.Dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.153.182:443
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.21.211.74:443?security=tls&sni=current.iraniancp.click&type=ws#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.211.74:443
 vless://af309ad2-c943-48ea-b570-2e51a2f079d9@104.21.54.211:80?security=none&type=ws&path=%2FDSDaswd22%2111*fdfm55247.COM.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.54.211:80
@@ -78,8 +83,3 @@ vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.25.14:443?security=tls&sni=s
 vless://b8bc34b3-cfd4-4a68-954d-67a8e38b6d49@104.20.104.209:8880?security=none&type=ws&host=UnlimitedDev.xn--oor01rm8hfr4c.site&path=%2FTelegram%3A%40UnlimitedDev#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.104.209:8880
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.26.4.57:2083?security=tls&sni=jp009.ylks01.eu.org&type=ws&path=/blue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.4.57:2083
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.19.105.172:443?security=tls&sni=bIa-PaIn-BaCHe.pageS.deV&type=ws&host=bia-paIn-bAcHE.PAgES.dEv&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.105.172:443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@63.141.128.127:443?security=tls&sni=zdy005.kpcloud.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-63.141.128.127:443
-vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.71.80:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.71.80:443
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@[::ffff:6812:ba53]:443?security=tls&sni=xxx.donated001.workers.dev&type=ws&host=xxx.donated001.workers.dev&path=%2F@V2VIPCHANNEL%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-[::ffff:6812:ba53]:443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@172.67.70.191:2087?security=tls&sni=jp005.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.70.191:2087
-vless://050450d4-7c7d-435f-b812-155e30fd8c7c@172.67.187.245:443?security=tls&sni=freedom1.boficax311.workers.dev&type=ws&host=freedom1.boficax311.workers.dev&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.187.245:443

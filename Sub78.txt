@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://2bc24f26-a635-4842-a2ac-e25d92f57616@95.38.132.111:443?security=none&type=tcp&host=www.pcmag.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-95.38.132.111:443
+vless://4b2f62e8-82cf-4492-be0b-54bf4f661c83@172.67.132.41:80?security=none&type=ws&host=gb1.vlessx.xyz#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.132.41:80
+vless://db1eeace-797f-4d75-ac27-9a97acda853d@104.21.27.231:443?security=tls&sni=folani.iiipok.WORKers.Dev&type=ws&host=folani.iiipok.WORKers.Dev&path=/pikk.minusober.com:443/pikk&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.27.231:443
+vless://af309ad2-c943-48ea-b570-2e51a2f079d9@172.67.163.209:80?security=none&type=ws&path=/DSDaswd22!11*fdfm55247.COM.#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.163.209:80
+vless://45f03420-04b6-4911-a657-abda6cbaf8ac@95.164.36.59:443?security=tls&sni=sourceforge.net&type=grpc&serviceName=grpc&fp=chrome#🔒 VL-GRPC-TLS 🇦🇹 AT-95.164.36.59:443
 vless://c32b1429-92aa-4be7-912e-4d63b0a31fc7@172.67.199.241:443?security=tls&sni=can01.nimserver.top&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.199.241:443
 vless://770e8a1b-980e-474d-b583-2e4e98acb854@8.210.55.134:2087?security=tls&sni=notls.11111111.eu.org&type=ws&path=/?ed#🔒 VL-WS-TLS 🇭🇰 HK-8.210.55.134:2087
 vless://3addcd55-5709-4b47-889a-c2e11a85bf8e@162.159.133.61:80?type=ws&host=server.eazyvpn.tech&path=/vless-ntls#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.133.61:80
@@ -78,8 +83,3 @@ vless://af6c7d65-7180-4715-b776-f92c919030d0@185.16.110.174:2096?security=tls&sn
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@104.21.46.106:80?security=none&type=ws&host=mahi.kosnanatfilterchi.eu.org&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.46.106:80
 vless://84e59ad7-ca22-4093-98b3-8b59617a3129@[::ffff:6815:4f8f]:443?security=tls&sni=at2.v2vless.xyz&type=ws&host=at2.v2vless.xyz&path=%2Fvless%3Fed%3D%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi&fp=safari#🔒 VL-WS-TLS 🏴‍☠️ NA-[::ffff:6815:4f8f]:443
 vless://7d2d2794-ccdd-4333-9e15-8643b93b2a9b@172.104.184.110:443?security=tls&sni=sg2-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇸🇬 SG-172.104.184.110:443
-vless://8694cd29-86ac-4952-b6ca-b3a1b78303ad@185.146.173.112:8880?security=none&type=ws&path=%2FTelegram-thunderv2ray%2CTelegram-thunderv2ray%2CTelegram-thunderv2ray%2CTelegram-thunderv2ray%2CTelegram-thunderv2ray%2CTelegram-thunderv2ray%2CTelegram-thunderv2ray%3Fed#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.112:8880
-vless://f9b7f579-bb8a-48bf-bfc1-c470041eb9ca@104.20.100.62:2095?security=none&type=ws&host=mahdi.net.346ewfsgv2ray.comxn--adge2535.g1ewkjd.kajdwoek2qop.lavazem456di.lavazemjanebicoffee.IR.&path=%2Fi3V2ray-i3V2ray-i3V2ray-i3V2ray-i3V2ray%2Fi3V2rayi3V2rayi3V2ray%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.100.62:2095
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.8.128:443?security=tls&sni=pPal03.mrs-EDWINa-rOWE.WOrKeRs.DEv&type=ws&host=PpaL03.MRs-eDwiNa-rOwe.wORkerS.Dev&path=%2FaanAX6TCy5nQn3ct%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.8.128:443
-vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@104.24.185.137:2087?security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&type=ws#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.185.137:2087
-vless://aa2dc840-be38-4b4d-a002-ba234999fd55@172.67.69.149:8080?security=none&type=ws&host=cdn-allxn--b6gaceuorg.l4o117en.workers.dev&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.69.149:8080

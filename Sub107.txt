@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://3addcd55-5709-4b47-889a-c2e11a85bf8e@151.101.130.219:443?security=tls&sni=cloud.eazyvpn.tech&type=ws&host=cloud.eazyvpn.tech&path=/vless-tls#🔒 VL-WS-TLS 🇺🇸 US-151.101.130.219:443
+vless://f9e0b36b-f1d5-4f3f-87dd-1e14919915b9@192.133.11.1:443?security=tls&sni=c.cm8.rr.nu&type=ws&path=twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-192.133.11.1:443
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.21.77:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.21.77:80
+vless://2997aacd-4f1b-42fb-b225-c1596f9ca5c1@173.245.49.12:443?security=tls&sni=L9bRNgeAWfRXbrO.diamondgalery.ir&type=grpc&serviceName=JfDhd3XzSE4vrlte50vDf&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-173.245.49.12:443
+vless://61d93b9b-00d0-4df1-8027-6e036f4c1f11@172.67.168.58:443?security=tls&sni=freedom13.bypasojd.workers.dev&type=ws&host=freedom13.bypasojd.workers.dev&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.168.58:443
 vless://661e4131-514a-457e-bbc7-748cbb92253d@172.66.44.238:443?security=tls&sni=pardazesh14.pages.dev&type=ws&host=pardazesh14.pages.dev&path=%40VPNHTTPInjectorfree#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.238:443
 vless://94de0d76-92ea-491e-ada3-d834cfa5f668@104.21.70.222:2087?security=tls&sni=net3.irnicho.monster&type=grpc&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.70.222:2087
 vless://3e482ea1-3610-4281-b7f0-6020e57806de@172.67.81.238:2096?security=tls&sni=wwwwancloudfawanvfrtg-tyuioty-turkiop.ecloudfa.ir&type=ws&host=wancloud-turkiop.ecloudfa.ir&path=%2Fudf58745&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.81.238:2096
@@ -78,8 +83,3 @@ vless://9937de02-e13a-4c7d-8ace-708104e01db0@185.16.110.146:2052?security=none&t
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@204.93.210.231:8443?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-204.93.210.231:8443
 vless://581bba15-c9e9-43b3-9d63-d6b2614e959c@95.164.116.35:443?security=tls&sni=tr-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇹🇷 TR-95.164.116.35:443
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.64.132.207:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.132.207:443
-vless://321264ab-44ce-4599-a303-7d9a56e67018@185.146.173.100:2082?security=none&host=xn-_-_-_-_-_-_-_-_-_sms&path=/FreeV2RAYTEL@Alfred_ConfigTEL@Alfred_ConfigTEL@Alfred_ConfigTEL@Alfred_ConfigTEL@Alfred_Config#🔒 VL-TCP-NONE 🇸🇪 SE-185.146.173.100:2082
-vless://c255f68f-18f7-488a-b7fc-06a5676564f0@104.21.4.8:2052?type=ws#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.4.8:2052
-vless://5c6c5660-5ef7-4cbc-93b2-c3cae9b57926@104.17.45.62:443?security=tls&sni=Reza.Punisher-shop-v2.site&type=grpc&serviceName=@puni_shop_v2rayNG،@puni_shop_v2rayNG،@puni_shop_v2rayNG،@puni_shop_v2rayNG&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.45.62:443
-vless://e5c62241-69be-4d74-b4f8-b458425403e1@46.245.64.105:49901?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-46.245.64.105:49901
-vless://dc9f9344-d123-46e2-8c6d-db02ba121e37@190.93.245.138:8080?security=none&type=ws&host=VPNCUSTOMIZE-V2ray.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B778.tech&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-190.93.245.138:8080
