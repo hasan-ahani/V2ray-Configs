@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://44ab0683-1a75-4859-88ce-ef9ffea53c91@172.67.195.126:8880?security=none&type=ws&host=falcunargo-telegram.384f2ed785.workers.Dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.195.126:8880
+vless://6f714a12-953b-40df-ba37-129e28abd39e@188.114.97.141:8080?security=none&type=ws&host=redc.servernet.fun.&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.97.141:8080
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.222.213:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.222.213:80
+vless://c0ac9d51-2540-487f-a4a6-26737c979558@162.159.138.232:2052?security=none&type=httpupgrade&host=jD.neT.v2rayng6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.SaMaN.Monster.#🔒 VL-HTTPUPGRADE-NONE 🏴‍☠️ NA-162.159.138.232:2052
 vless://9ffbbd8c-83a8-49b3-80ae-6b8c906ad47e@185.146.173.122:2087?security=tls&sni=FreeV2rayng.SHHPROXY.monster&type=ws&host=FreeV2rayng.SHHPROXY.monster&path=/&fp=chrome#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.122:2087
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.128.55:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.128.55:443
 vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@47.243.91.58:8443?security=tls&sni=vless.pagess.filegear-sg.me&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇭🇰 HK-47.243.91.58:8443
@@ -79,7 +83,3 @@ vless://ab4ab2e9-f385-4a5e-9a37-517ca0ccf434@172.64.175.75:80?security=none&type
 vless://25d0ee2d-4190-52be-b892-45811c6ba210@172.67.197.64:8443?security=tls&sni=folani.iiipok.WoRKERS.deV&type=ws&host=folani.iiipok.WoRKERS.deV&path=%2Fvless-ws%2F%3Fed%3D2048&fp=edge&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.197.64:8443
 vless://3d7b9f37-1260-4ebd-9063-b5504c5fdc30@162.159.128.233:8080?security=none&type=ws&host=de2.%E8%BF%87%E6%BB%A4%E5%99%A8.store.&path=/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.128.233:8080
 vless://9b97bb00-48b8-46dd-a9f2-ecd2e16fc41c@104.16.114.74:2095?security=none&type=ws&host=it1.vlessx.xyz#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.114.74:2095
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.204.183:443?security=tls&sni=936a99B4.Vde5-MlX81LANeo.pAgES.dEv&type=ws&host=936a99B4.vDE5-MLx81LANeO.pAgeS.DEV&path=%2FKkhHL0gsSoZ7M6id%2FZGU1Lm1lcmxpbm56Lmxpbms%3D%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.204.183:443
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.21.234.57:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.234.57:443
-vless://5ba34c00-22be-4362-844c-389d608c2fc8@85.9.100.188:33375?security=none&type=tcp&host=telewebion.com&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.9.100.188:33375
-vless://1d86846c-5a27-43c8-8981-57bb75c82195@172.67.130.66:443?security=tls&sni=hope.ttsorri.info&type=ws&host=hope.ttsorri.info&path=%2Fparadise#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.130.66:443
