@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://411e6b72-30df-4397-aa04-2a8aca27dbdf@nl-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20Vless%20TCP%20@V2rayStore
 vless://ee09cca8-c4b6-424f-abff-013076356c5c@nl2-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20Vless%20TCP%20@V2rayStore
 vless://211e6a9d-60d8-45ee-b2d1-e9a793c0b08a@ca-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20Vless%20TCP%20@V2rayStore
 vless://a12ffb13-19ab-4388-81d0-a7758c291596@in-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%AE%F0%9F%87%B3%20India%20Vless%20TCP%20@V2rayStore
@@ -82,4 +83,3 @@ vless://0bac1c07-cf4c-4f35-a8d1-1e9b60a68a9e@id-full.privateip.net:443?type=ws&e
 vless://08ae7b7c-0527-4dca-b332-9dbff3db1f63@hk-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20Vless%20WS%20@V2rayStore
 vless://eb0a9882-61ae-40ae-ae5a-b42771fbf65a@nl-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20Vless%20WS%20@V2rayStore
 vless://946c0c30-1d27-4fbe-ad52-027921a8c2bc@nl2-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20Vless%20WS%20@V2rayStore
-vless://314c294f-31b0-4714-a58b-eb613ed49542@ca-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20Vless%20WS%20@V2rayStore
