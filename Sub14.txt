@@ -3,6 +3,13 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://0131887e-b136-4334-8716-98f9c450a4af@sg2-full.privateip.net:443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Trojan%20@V2rayStore
+trojan://b3965d2d-3b82-45cc-927b-1336aca3f3fe@sg3-full.privateip.net:443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Trojan%20@V2rayStore
+trojan://b48b4d1b-9c5a-4c9d-8297-251bae2a23e6@id-full.privateip.net:443#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%20Trojan%20@V2rayStore
+trojan://49b8914b-0683-44b2-90df-8a89cb205d9b@hk-full.privateip.net:443#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20Trojan%20@V2rayStore
+trojan://0d0addf9-8579-445c-b519-00a339a3f0c0@nl-full.privateip.net:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20Trojan%20@V2rayStore
+trojan://f910b595-d86d-42c8-92e1-f72f6b435664@nl2-full.privateip.net:443#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20Trojan%20@V2rayStore
+trojan://99c63d3a-4499-4a5b-aad6-826a6851f304@ca-full.privateip.net:443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20Trojan%20@V2rayStore
 trojan://47824654-0a19-45ae-9f13-0c2b42ce911f@in-full.privateip.net:443#%F0%9F%87%AE%F0%9F%87%B3%20India%20Trojan%20@V2rayStore
 trojan://52fa6c8f-f9bc-4c08-8c21-3c231b9f1ce6@jp-full.privateip.net:443#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20Trojan%20@V2rayStore
 trojan://dbddd09b-7b03-4f7b-927c-8d4c0ad3f4f1@fr-full.privateip.net:443#%F0%9F%87%AB%F0%9F%87%B7%20France%20Trojan%20@V2rayStore
@@ -76,10 +83,3 @@ vless://ce12313e-dab2-49ee-8806-399eb91136b2@104.17.248.203:2096?mode=gun&securi
 vless://a47b844a-4b11-4d50-bb09-944e8d4d3441@188.114.98.224:8080?path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#👉🆔 @v2ray_configs_pool`
 vless://2b6c8339-9893-48da-a80b-22fae49f7736@185.146.173.9:2095?path=%2F&security=none&encryption=none&host=V2ray-_-_-_-_-_ShhProxy.TelegramChannelJoinBede.com.&type=ws#👉🆔 @v2ray_configs_pool`
 vless://11307c6e-c831-439a-8dde-7eed95352462@185.146.173.94:2095?path=%2F&security=none&encryption=none&host=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&type=ws#👉🆔 @v2ray_configs_pool`
-vless://f4f3cb87-a704-47d2-9a74-b96ba2b818dd@85.133.201.128:2082?security=none&encryption=none&host=fararu.com&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool`
-vless://b8d718c6-7516-4259-b4e6-253e280bc6b6@zula.ir:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=channel-ma-vip-programs.hsjsak.ir&fp=random&type=ws&sni=channel-ma-vip-programs.hsjsak.ir#👉🆔 @v2ray_configs_pool`vless://SVNTEAM@104.19.255.51:80?type=ws&host=HG2.xn--kkraaaaaaaaaaa.CoM.&path=/SVNTEAM,@SVNTEAM,@SVNTEAM,@SVNTEAM,@SVNTEAM,@SVNTEAM?ed%3D2048&security=none#👉🆔 @v2ray_configs_pool`
-vless://70a262f2-0e9a-4f26-b33b-46d9341e4bc8@104.18.228.32:8080?security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D8080&host=join-to.vmessorg.Community.&encryption=none#👉🆔 @v2ray_configs_pool`
-vless://70a262f2-0e9a-4f26-b33b-46d9341e4bc8@104.18.195.68:8080?security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D8080&host=join-to.vmessorg.Community.&encryption=none#👉🆔 @v2ray_configs_pool`
-vless://70a262f2-0e9a-4f26-b33b-46d9341e4bc8@104.27.10.144:8080?security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D8080&host=join-to.vmessorg.Community.&encryption=none#👉🆔 @v2ray_configs_pool`
-vless://dab0e8f8-e0f2-4bab-a892-b57d79157084@185.146.173.94:2095?path=%2F&security=none&encryption=none&host=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&type=ws#👉🆔 @v2ray_configs_pool`
-vless://26ed3972-e04a-4ae9-889d-6f58d6082160@185.146.173.58:80?path=%2Fss%3Fed%3D2048&security=none&encryption=none&host=join20.servernet.fun.&type=ws#👉🆔 @v2ray_configs_pool`
