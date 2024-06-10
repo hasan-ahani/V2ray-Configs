@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://f3c511ab-dc15-4147-ae80-6c892d6f9ad0@185.162.228.36:443?security=tls&sni=j1us3.jsjc.sbs&type=ws&path=/jsjc/us3#🔒 VL-WS-TLS 🇦🇲 AM-185.162.228.36:443
-vless://c4516bc5-9e46-4205-983e-2b8646e498dd@172.67.157.203:2083?security=tls&sni=cf.mitowear.com&type=ws#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.157.203:2083
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.18.4.250:443?security=tls&sni=biA-pAiN-BachE.PagEs.DEv&type=ws&host=bIA-paIn-baChe.pagES.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.4.250:443
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@188.42.88.53:443?security=tls&sni=xin002.ylks.link&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇱🇺 LU-188.42.88.53:443
 vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@209.209.59.112:14050?security=tls&sni=vless.pagess.filegear-sg.me&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇺🇸 US-209.209.59.112:14050
@@ -83,3 +81,5 @@ vless://f7efdb84-9500-4559-86cb-6d33bffb8655@104.21.69.44:443?security=tls&sni=J
 vless://9c217da9-c3f8-49e2-b654-15ba92d45de1@162.159.195.202:443?security=tls&sni=esetsecuritylicense.akacoj.workers.dev&type=ws&host=esetsecuritylicense.akacoj.workers.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.195.202:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.70.202:2096?security=tls&sni=yRe2-jUd7-nN-72-OuEhgA6-UebaFx-23kl.paGEs.dEV&type=ws&path=%2FyoKAXAhz5JeXP6PO%2FdWFlMS5veG5ldHdvcmtzLmxpbms&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.70.202:2096
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@173.245.59.153:443?security=tls&sni=current.ircp.online&type=ws&host=current.ircp.online&path=%2F%3Fed%3D2048&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-173.245.59.153:443
+vless://e8233356-70b8-406d-ab0d-36fc5e334ba7@172.67.203.100:2083?security=tls&sni=damavandd.top-speed.pw&type=grpc&serviceName=damavandd.top-speed.pw#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.203.100:2083
+vless://7ef8abc6-19f1-4e32-a8f2-2d77497e1808@104.20.11.224:80?security=none&type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.11.224:80

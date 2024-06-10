@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://7379eb18-959d-4b33-ddf7-e9369a0e1769@170.114.46.173:443?security=tls&sni=ger.vwfghin.info&type=grpc#🔒 VL-GRPC-TLS 🇺🇸 US-170.114.46.173:443
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@94.247.142.245:2096?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇬🇧 GB-94.247.142.245:2096
 vless://eb44e1c7-e5ba-4446-807c-a0768a8f4589@104.16.120.12:2083?security=tls&sni=amovpn6.fqservers.com&type=ws&host=amovpn6.fqservers.com&path=%2Fchannel%3A%40VPNAMOHELP_%40VPNAMOHELP_%40VPNAMOHELP_%40VPNAMOHELP_%40VPNAMOHELP_%40VPNAMOHELP&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.120.12:2083
 vless://5c402efa-95ff-49fd-a55c-fbc7770f9c06@94.182.131.230:58930?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-94.182.131.230:58930
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@43.153.103.203:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-43.153.103.203:443
@@ -83,3 +81,5 @@ vless://d8062a4c-4fe9-49cf-b273-dfcdd78bca0a@141.94.115.231:2003?security=tls&sn
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.180.239:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.180.239:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.161:443?security=tls&sni=B458Ab02.CAA-CHANeL-Worker-pAGE-freE-jHUIHnujhPhJKl-nihGkjN.pagES.dev&type=ws&host=B458ab02.caa-chaNel-woRKeR-pAge-fREe-jhuiHnujhphJkl-nIhgkJn.PageS.DEv&path=%2FTelegram-proxy_mtm%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.161:443
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@188.42.88.255:443?security=tls&sni=v300.ylkszy.eu.org&type=ws&path=/?proxyip#🔒 VL-WS-TLS 🇱🇺 LU-188.42.88.255:443
+vless://3cdbc462-6272-4c2a-9a2d-1525a81c7dfa@104.16.54.14:443?security=tls&sni=xeeqi.kevani8800.workers.dev&type=ws&host=xeeqi.kevani8800.workers.dev&path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.54.14:443
+vless://4c03d139-631b-41dd-be68-933c3df0d7c2@108.162.192.100:443?security=tls&sni=qifei2024.dns.army&type=ws&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.192.100:443

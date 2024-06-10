@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://4f95b778-7d4d-44b8-ab5e-1d72be78b7b3@172.66.47.177:443?security=tls&sni=telegram-vpnhttpinjectorfree-001.pages.dev&type=ws&host=telegram-vpnhttpinjectorfree-001.pages.dev&path=%2F%3Fed%3D2048&fp=randomized&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.177:443
-vless://ecd404a2-70b2-4e89-8339-89536cdfae52@172.67.118.180:8080?security=none&sni=king1980us.50fo8itj.workers.dev&type=ws&host=king1980us.50fo8itj.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.118.180:8080
 vless://23a1d836-33a8-48f2-aa00-f0a08b412923@79.133.57.57:20256?type=tcp&host=zula.ir&headerType=http#🔒 VL-TCP-NA 🇩🇪 DE-79.133.57.57:20256
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.105.98:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-185.148.105.98:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@188.42.145.142:443?security=tls&sni=kk070.ylks.link&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇷🇺 RU-188.42.145.142:443
@@ -83,3 +81,5 @@ vless://0ec01c07-1007-4a97-b238-c9d8fdb1f831@185.146.173.32:8080?security=none&t
 vless://25b45954-6209-48c2-a412-c568c8154cf0@104.21.67.95:2083?security=tls&sni=hi.mobileiraniani.com&type=ws&path=%2F%3Fed%3D2048&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.67.95:2083
 vless://bb3bb4d7-be67-42c0-fbe3-4895387e4f74@104.16.61.8:2083?security=tls&sni=mhsngrty1.iraniancpi.uk&type=ws&host=mhsngrty1.iraniancpi.uk&path=%2Fws&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.61.8:2083
 vless://16d99f65-b71f-5cdf-8ce6-fc35e171a192@104.21.9.147:443?security=tls&sni=esetsecuritylicense.ikgbvch.wOrKerS.Dev&type=ws&host=esetsecuritylicense.ikgbvch.wOrKerS.Dev&path=vless-ws%2F%3Fed%3D2048&fp=ios&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.9.147:443
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@43.129.171.137:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇭🇰 HK-43.129.171.137:443
+vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@47.242.174.27:8443?security=tls&sni=30388d70-6f5c-4d7c-8daa-9d3df7c5c526.9150e878-8296-4798-a172-c3fe66b8dee5.ddnsgeek.com&type=ws&path=%2Fpasge.pages.dev%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇭🇰 HK-47.242.174.27:8443
