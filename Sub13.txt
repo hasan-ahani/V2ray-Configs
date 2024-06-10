@@ -3,6 +3,16 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+ss://aes-256-gcm:9c7826fc-ff91-4255-a9e8-f57d8e99a8f0@sg2-full.privateip.net:8443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Shadowsocks%20@V2rayStore
+ss://aes-256-gcm:e84a9f99-eaec-4cdd-94c9-65611015be3e@id-full.privateip.net:8443#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%20Shadowsocks%20@V2rayStore
+ss://aes-256-gcm:5f264bb5-7693-42c5-aee7-459a6f379dd0@hk-full.privateip.net:8443#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20Shadowsocks%20@V2rayStore
+ss://aes-256-gcm:bcf83986-6e84-4d96-a6f1-17a388573c70@nl-full.privateip.net:8443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20Shadowsocks%20@V2rayStore
+ss://aes-256-gcm:c0af4960-3a44-4160-bbe9-195aacf74c75@nl2-full.privateip.net:8843#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20Shadowsocks%20@V2rayStore
+ss://aes-256-gcm:57b9499f-d311-4ed6-9e5c-8ab71c3dc8bb@ca-full.privateip.net:8443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20Shadowsocks%20@V2rayStore
+ss://aes-256-gcm:045e3f2f-82fc-499e-9a24-e43c8ab12add@in-full.privateip.net:8443#%F0%9F%87%AE%F0%9F%87%B3%20India%20Shadowsocks%20@V2rayStore
+ss://aes-256-gcm:ce1dc98a-b28d-4cd1-8a23-b3b608c17d9f@jp-full.privateip.net:8443#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20Shadowsocks%20@V2rayStore
+ss://aes-256-gcm:24ce1598-bdab-4357-b8fc-be681a6d2f62@fr-full.privateip.net:8443#%F0%9F%87%AB%F0%9F%87%B7%20France%20Shadowsocks%20@V2rayStore
+ss://aes-256-gcm:31d1af85-1419-4ff6-8b18-c26d5a316ce4@fr2-full.privateip.net:8443#%F0%9F%87%AB%F0%9F%87%B7%20France%20Shadowsocks%20@V2rayStore
 vless://35898db4-3f4f-426e-a086-3358d8d1a652@us-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Vless%20TCP%20@V2rayStore
 vless://4e2b1a01-d4b8-478f-9367-e402f66e7895@us2-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Vless%20TCP%20@V2rayStore
 vless://7b8f29a7-5a28-47ac-8cca-27234f048e61@tr-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20Vless%20TCP%20@V2rayStore
@@ -73,13 +83,3 @@ trojan://0131887e-b136-4334-8716-98f9c450a4af@sg2-full.privateip.net:443#%F0%9F%
 trojan://b3965d2d-3b82-45cc-927b-1336aca3f3fe@sg3-full.privateip.net:443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Trojan%20@V2rayStore
 trojan://b48b4d1b-9c5a-4c9d-8297-251bae2a23e6@id-full.privateip.net:443#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%20Trojan%20@V2rayStore
 trojan://49b8914b-0683-44b2-90df-8a89cb205d9b@hk-full.privateip.net:443#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20Trojan%20@V2rayStore
-trojan://0d0addf9-8579-445c-b519-00a339a3f0c0@nl-full.privateip.net:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20Trojan%20@V2rayStore
-trojan://f910b595-d86d-42c8-92e1-f72f6b435664@nl2-full.privateip.net:443#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20Trojan%20@V2rayStore
-trojan://99c63d3a-4499-4a5b-aad6-826a6851f304@ca-full.privateip.net:443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20Trojan%20@V2rayStore
-trojan://47824654-0a19-45ae-9f13-0c2b42ce911f@in-full.privateip.net:443#%F0%9F%87%AE%F0%9F%87%B3%20India%20Trojan%20@V2rayStore
-trojan://52fa6c8f-f9bc-4c08-8c21-3c231b9f1ce6@jp-full.privateip.net:443#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20Trojan%20@V2rayStore
-trojan://dbddd09b-7b03-4f7b-927c-8d4c0ad3f4f1@fr-full.privateip.net:443#%F0%9F%87%AB%F0%9F%87%B7%20France%20Trojan%20@V2rayStore
-trojan://7d515842-10b3-4c70-994e-89168f5d0a9b@fr2-full.privateip.net:443#%F0%9F%87%AB%F0%9F%87%B7%20France%20Trojan%20@V2rayStore
-trojan://fc1e07b5-840b-4446-8232-94b0606f2e0d@fr3-full.privateip.net:443#%F0%9F%87%AB%F0%9F%87%B7%20France%20Trojan%20@V2rayStore
-vless://203b1231-e0e2-45a3-9909-d77a5b18ac4a@us-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Vless%20WS%20@V2rayStore
-vless://c9e7de6a-fde7-4cbe-8adf-081239a0143d@us2-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Vless%20WS%20@V2rayStore
