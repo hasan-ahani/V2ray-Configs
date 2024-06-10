@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@170.114.45.7:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-170.114.45.7:443
 vless://cdf8fb09-d1ed-47a5-b41b-9be2a9bb40e2@85.198.14.57:12358?security=none&type=tcp&host=telewebion.com&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.198.14.57:12358
 vless://4028f169-ae1d-4492-b264-95f16e436534@185.162.228.118:2087?security=tls&sni=uciranir-arvanclud.detixi1932.workers.dev&type=ws#🔒 VL-WS-TLS 🇦🇲 AM-185.162.228.118:2087
 vless://5ff336d5-9bea-41e9-a863-76722984da87@31.216.62.133:8080?security=tls&sni=rxopu1289.q.rxteam.ir&type=tcp&allowInsecure=1#🔒 VL-TCP-TLS 🇮🇷 IR-31.216.62.133:8080
@@ -82,4 +83,3 @@ vless://7d96f544-c496-41cf-dd61-337f0aff062a@162.159.152.186:80?type=ws&host=kr1
 vless://c4516bc5-9e46-4205-983e-2b8646e498dd@104.21.8.177:2083?security=tls&sni=cf.mitowear.com&type=ws#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.8.177:2083
 vless://5bad0d35-6fab-4044-d161-6d7633d639ae@18.238.192.3:443?security=tls&sni=app3-noizji4r.b4a.run&type=ws&path=/vless1#🔒 VL-WS-TLS 🇺🇸 US-18.238.192.3:443
 vless://10699622-1b25-499c-a424-58f8f4dfb7f7@45.12.31.163:2083?security=tls&sni=id-falcunargo.sociy12386.workers.dev&type=ws&host=id-falcunargo.sociy12386.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇷🇴 RO-45.12.31.163:2083
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@167.68.11.46:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-167.68.11.46:443

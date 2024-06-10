@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://21c67716-e8cb-452d-a36c-a6ca41e17d1a@104.21.79.143:2096?security=tls&sni=re4.v2logy.xyz&type=grpc&fp=safari&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.79.143:2096
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.143.172:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.143.172:443
 vless://e8f81cca-09ce-4358-814b-c19b50c5be8e@190.93.247.155:80?security=none&type=ws&host=Pl1.vless.site.&path=%2Fvless#🔒 VL-WS-NONE 🏴‍☠️ NA-190.93.247.155:80
 vless://050450d4-7c7d-435f-b812-155e30fd8c7c@104.21.7.175:443?security=tls&sni=freedom1.boficax311.workers.dev&type=ws&host=freedom1.boficax311.workers.dev&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.7.175:443
@@ -82,4 +83,3 @@ vless://ae312a2c-ab92-4c55-9cc3-66f15d409139@185.146.173.27:80?security=none&typ
 vless://329a4735-9d14-4fba-b8bc-5ccf8bc488cc@86.38.214.69:2087?security=tls&sni=LiV2raya.yoyoyo.ir&type=ws&host=LiV2raya.yoyoyo.ir&path=%2F%40L%49%47HTNING6-TEL--%40L%49%47HTNING6-TEL--%40L%49%47HTNING6-TEL--%40L%49%47HTNING6-JOIN-%40L%49%47HTNING6-TEL--%40L%49%47HTNING6-JOIN-%40L%49%47HTNING6-TEL-%40L%49%47HTNING6-TEL--%40L%49%47HTNING6-JOIN-%40L%49%47HTNING6-TEL--%40L%49%47HTNING6-%40LiV2ray%3Fed%3D1024&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇱🇹 LT-86.38.214.69:2087
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.254.140.155:443?security=tls&sni=hk800.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-104.254.140.155:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.76.37.57:80?security=none&type=ws&path=%2Fblue#🔒 VL-WS-NONE 🇭🇰 HK-47.76.37.57:80
-vless://d9f86526-6899-4b7b-a561-b774cd97e1b2@104.26.3.0:2083?security=tls&sni=varda2.manwe.ir&type=ws&host=varda2.manwe.ir&path=/&fp=chrome&alpn=http/1.1,h2,h3#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.3.0:2083

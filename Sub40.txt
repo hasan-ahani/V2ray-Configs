@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://e1ad1088-c7ab-4c06-83b1-27c8188e631b@104.18.15.229:443?security=tls&sni=cpanel.pharmaweb.info&type=ws&host=cpanel.pharmaweb.info&path=/wws&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.15.229:443
 vless://314c294f-31b0-4714-a58b-eb613ed49542@91.194.11.168:443?security=tls&sni=ca-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇨🇦 CA-91.194.11.168:443
 vless://e3d69884-eec1-4618-9712-c29bc4e6ac70@2.189.130.73:11001?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇮🇷 IR-2.189.130.73:11001
 vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@5.161.244.43:443?security=tls&sni=mt1.nabsk.com&type=ws&alpn=http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🇺🇸 US-5.161.244.43:443
@@ -82,4 +83,3 @@ vless://f99961e6-8fd2-4f6c-8d79-41781b9ae9e0@[::ffff:b992:ad3b]:2086?security=no
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.172.104:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.172.104:80
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.73.91:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.73.91:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@188.42.88.130:443?security=tls&sni=kk070.ylks.link&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇱🇺 LU-188.42.88.130:443
-vless://4c03d139-631b-41dd-be68-933c3df0d7c2@162.159.2.9:443?security=tls&sni=qifei2024.dns.army&type=ws&host=qifei2024.dns.army&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.2.9:443

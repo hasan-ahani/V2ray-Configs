@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@185.176.24.69:443?security=tls&sni=jp070.ylks01.eu.org&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇷🇺 RU-185.176.24.69:443
 vless://de70c2ab-3b16-44c2-8579-9b05fedc3b36@172.66.44.139:443?security=tls&sni=pardazeshvpn-tg3.pages.dev&type=ws&host=pardazeshvpn-tg3.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.139:443
 vless://fd667cc8-7f4e-4ec4-ba4e-46d6209c128c@162.159.240.154:2096?security=tls&sni=re6.v2logy.xyz&type=grpc&fp=chrome&alpn=http%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.240.154:2096
 vless://850034c5-30ee-405c-a92e-cd87a1adb262@37.27.81.139:8880?security=none&type=ws&path=%2Forangesupport#🔒 VL-WS-NONE 🇫🇮 FI-37.27.81.139:8880
@@ -82,4 +83,3 @@ vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@8.222.179.231:2096?security=tls&sni
 vless://d480372f-6596-4177-ae85-28af07adf1cb@104.21.37.97:2083?security=tls&sni=selinc--5--selinc--5--selinc.muosqv.workers.dev&type=ws&host=selinc--5--selinc--5--selinc.muosqv.workers.dev&path=vless-ws%2F%3Fed%3D2048&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.37.97:2083
 vless://87907836-3674-4405-ac10-fc85d15dbff9@188.114.96.2:2095?security=none&type=ws&host=2.V2ray.debian.org.fxp.debian.org.speedtest.net.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95%E3%82%89%E3%82%8F.sony-playstation.fun.&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.96.2:2095
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.18.26.94:2087?security=tls&sni=jp009.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.26.94:2087
-vless://1d86846c-5a27-43c8-8981-57bb75c82195@188.114.97.11:443?security=tls&sni=drug195.nimserver.top&type=ws&host=drug195.nimserver.top&path=%2Fparadise&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.11:443

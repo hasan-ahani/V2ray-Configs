@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://f98e105d-436f-4cb1-80d8-2bb8920a2812@192.46.230.157:443?security=tls&sni=aka.ms&type=ws&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔒 VL-WS-TLS 🇸🇬 SG-192.46.230.157:443
 vless://8721355e-96d5-4bb9-a99b-b6119d6b1cd4@104.21.69.44:2083?security=tls&sni=s3lbnf04KTpLTiC8c1EFLqq73qTMKZ7zLyH9QrC0U6GM8X174E8W8DSLak.pageS.dEv&type=ws&host=s3lbnf04KTpLTiC8c1EFLqq73qTMKZ7zLyH9QrC0U6GM8X174E8W8DSLak.pageS.dEv#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.69.44:2083
 vless://c82800a5-30ba-4e88-ace4-b95a2302632a@94.242.228.130:443?security=tls&sni=xn---qhanatygawi--d-zzm932dxga2dzzya7b26444euxha.zedmodeon.xyz&type=grpc&serviceName=ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON&fp=chrome&alpn=@bored_vpn,@bored_vpn,@bored_vpn,@bored_vpn,@bored_vpn,@bored_vpn,@bored_vpn,@bored_vpn#🔒 VL-GRPC-TLS 🇱🇺 LU-94.242.228.130:443
 vless://13de88b2-e833-4157-b39e-c64edbb8967d@104.27.1.133:2087?security=tls&sni=germany.turkwallet.ir.&type=ws&host=germany.turkwallet.ir.#🔒 VL-WS-TLS 🏴‍☠️ NA-104.27.1.133:2087
@@ -82,4 +83,3 @@ vless://b22192ac-0f3a-5108-b0de-7b4e78766f3c@104.21.72.234:2083?security=tls&sni
 vless://b9fffe76-52b6-40fb-acd1-de7a577773cb@86.38.214.186:2087?security=tls&sni=LiV2rayd.yoyoyo.ir&type=ws&host=LiV2rayd.yoyoyo.ir.&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇱🇹 LT-86.38.214.186:2087
 vless://ed55a560-b290-47b6-834a-1713e3a8d9f8@172.67.173.10:2087?security=tls&sni=f.liopiol.ir&type=ws&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.173.10:2087
 vless://0ff7e8e6-85ee-4039-9a2f-ee78af70ea46@104.21.71.40:2096?security=tls&sni=Mainv2ray.mashti.us.KG.&type=grpc&serviceName=@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray&fp=chrome&alpn=h3,h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.71.40:2096
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.222.151:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.222.151:80

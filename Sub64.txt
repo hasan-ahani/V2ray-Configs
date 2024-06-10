@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://c41673f6-b686-4d7b-8911-a35f2b4104f4@104.17.176.171:443?security=tls&sni=dl3.exoshop.ir&type=grpc&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.176.171:443
 vless://376b9861-2fc6-4647-959c-18185cd9c95a@104.31.16.36:443?security=tls&sni=lmn39.sbs&type=ws&host=lmn39.sbs&path=%2Ffflsws#🔒 VL-WS-TLS 🏴‍☠️ NA-104.31.16.36:443
 vless://77a571fb-4fd2-4b37-8596-1b7d9728bb5c@104.21.95.205:443?security=tls&sni=xw.r4d.workers.dev&type=ws&host=xw.r4d.workers.dev&path=Telegram-V2ray_Alpha%2F%3Fed%3D2048&fp=firefox&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.95.205:443
 vless://9f98310e-25c2-4016-9d3c-8adaa8b160dc@104.16.51.20:2087?security=tls&sni=agtw4gmgtuulnbadgfxbsyjtdhsryw4nd.fqservers.com&type=ws&host=agtw4gmgtuulnbadgfxbsyjtdhsryw4nd.fqservers.com&fp=chrome&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.51.20:2087
@@ -82,4 +83,3 @@ vless://7d96f544-c496-41cf-dd61-337f0aff062a@162.159.137.45:80?type=ws&host=kr1.
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.12.75.79:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-31.12.75.79:443
 vless://dba8f4ae-3b89-457b-b7e8-3361811efca4@94.176.183.6:443?security=tls&sni=vipclassc2.serveminecraft.net&type=ws&host=vipclassc2.serveminecraft.net&path=%2FVIPCLASSC&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇫🇷 FR-94.176.183.6:443
 vless://6b6fb221-feb6-4bd2-b711-f13a9775b877@172.67.147.79:443?security=tls&sni=SH2.sKyCLuB.cOm.Tr&type=ws&host=SH.sKyCLuB.cOm.Tr&path=%2FRainBow-Six-Siege-Super-Trash-Game%3Fed%3D2048&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.147.79:443
-vless://13be7b64-8a46-4724-9cf2-4c7eddd4c56b@104.17.69.10:2096?security=tls&sni=sPeEd.vbox778.info.&type=grpc&fp=firefox&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.69.10:2096
