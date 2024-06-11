@@ -3,15 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@216.205.52.180:2053?security=tls&sni=78345.pages.dev&type=ws&path=%2F%3Fed&fp=randomized#🔒 VL-WS-TLS 🇺🇸 US-216.205.52.180:2053
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.99.100:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.99.100:80
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.75.24:80?security=none&type=ws&host=us1.rtacg.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.75.24:80
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.221.160:443?security=tls&sni=jd.wxgqlfx.top&type=ws&host=jd.wxgqlfx.top&path=%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.221.160:443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.19.174.68:2096?security=tls&sni=jp010.ylks01.eu.org&type=ws&path=/blue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.174.68:2096
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.27.206.92:443?security=tls&sni=jp010.ylks01.eu.org&type=ws&path=/blue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.27.206.92:443
-vless://ad85f1b3-8f07-4ffe-9606-55d0aece1272@104.19.255.51:80?security=none&type=ws&host=v2kingfree.1.1.2.2.8.ir.shop.com.xn--fhqpqv8rrth13sbaaac958pc94anf0d8gmha8i.shop.&path=/---@v2kingfree---#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.255.51:80
-vless://ffc9733d-8908-4bdb-b904-21fadc2511e7@104.17.180.185:2095?security=none&type=ws&host=Coc.unique69.com.&path=%2FHosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.180.185:2095
-vless://7e39754c-9924-498c-a4cf-5f13badf16a7@23.227.60.130:2087?security=tls&sni=lan.moienmusic.space&type=grpc&serviceName=Telegram:@POLPROXY-Telegram:@POLPROXY-Telegram:@POLPROXY-Telegram:@POLPROXY-Telegram:@POLPROXY-Telegram:@POLPROXY-Telegram:@POLPROXY-Telegram:@POLPROXY&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇨🇦 CA-23.227.60.130:2087
 vless://adbb17ae-b8cb-4aee-a890-6329965abcac@172.67.175.132:2053?security=tls&sni=newworkfaridshahrivardo.abza.workers.dev&type=ws&host=newworkfaridshahrivardo.abza.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.175.132:2053
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@192.210.202.200:34237?security=tls&sni=hk222.ylks.link&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-192.210.202.200:34237
 vless://9f0d517d-45d5-5596-b235-7dc981821997@104.21.72.173:2083?security=tls&sni=esetsecuritylicense.mrgimsy.WORKErs.dEV&type=ws&host=esetsecuritylicense.mrgimsy.WORKErs.dEV&fp=chrome&alpn=h3,h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.72.173:2083
@@ -83,3 +74,12 @@ vless://dfd87a9f-98db-46ff-b483-301897411931@104.18.158.102:2087?security=tls&sn
 vless://366236b3-b3cb-4097-9900-b46098a244b7@104.21.74.214:2086?security=none&type=ws&host=ip499.列列男事的事列上赛男78.com.&path=/Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.74.214:2086
 vless://5efa3b6e-cd95-4dd7-a33f-bdbe07eb5eaa@172.66.213.38:80?security=none&type=ws&host=Eliv2rayEliv2rayEliv2rayEliv2ray.ELeNa.expert.#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.213.38:80
 vless://e31bb16e-91f9-47e7-9947-e2a19f294fd4@78.39.57.29:8888?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-78.39.57.29:8888
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.28.25:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.28.25:80
+vless://87f7cb00-a064-4173-9c04-70ab944b2ace@180.149.90.66:443?security=tls&sni=esna.serveirc.com&type=ws&path=%2F%40v2ray_configs_pool#🔒 VL-WS-TLS 🇲🇳 MN-180.149.90.66:443
+vless://f7fe4c50-8f84-425a-8b60-6fbea946df9e@162.159.138.232:80?sni=hello-world-wandering-river-d8eb.wordpass.workers.dev&type=ws&host=we.wordpass.workers.dev&fp=chrome#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.138.232:80
+vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.64.135.209:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.135.209:443
+vless://e6aedcd2-24ad-4bdd-82c5-006d84179197@104.18.202.232:443?security=tls&sni=4d3d6f00.garywelch.pages.dev&type=ws&host=4d3d6f00.garywelch.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.202.232:443
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.21.80.85:2053?security=tls&sni=jp010.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.80.85:2053
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.99.245:80?security=none&type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.99.245:80
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.161:443?security=tls&sni=B458Ab02.CAA-CHANeL-Worker-pAGE-freE-jHUIHnujhPhJKl-nihGkjN.pagES.dev&type=ws&host=B458ab02.caa-chaNel-woRKeR-pAge-fREe-jhuiHnujhphJkl-nIhgkJn.PageS.DEv&path=%2FBia-Kanal-@Free_V2rng%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.161:443
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.155.118:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.155.118:80
