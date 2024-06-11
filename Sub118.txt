@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://ddb00f36-d544-4e35-afbf-64297aa68d03@188.114.96.1:2096?security=tls&sni=sisana.muzres.wOrKerS.DEV&type=ws&host=sisana.muzres.wOrKerS.DEV&path=%2Fvless-ws%2F%3Fed%3D2048&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.1:2096
+vless://aa2dc840-be38-4b4d-a002-ba234999fd55@172.67.69.34:8080?security=none&type=ws&host=cdn-allxn--b6gaceuorg.l4o117en.workers.dev&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.69.34:8080
+vless://a6fa9485-41e7-4bfb-9c6d-8336b5a66f47@104.20.19.78:2087?security=tls&sni=dl.parhamtraberthos.ir&type=ws&host=dl.parhamtraberthos.ir&path=%2Fnew_proxy_channel%3Fed%3D2560&fp=random&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.19.78:2087
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@159.112.235.90:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-159.112.235.90:443
+vless://609435cb-3fab-420c-8aa6-27712246be02@172.66.47.156:443?security=tls&sni=pardazeshvpn-tg15.pages.dev&type=ws&host=pardazeshvpn-tg15.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.156:443
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.21.1:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.21.1:443
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.171.70:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.171.70:80
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@47.237.0.31:2096?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇸🇬 SG-47.237.0.31:2096
@@ -78,8 +83,3 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@8.222.193.65:80?security=none&type=
 vless://1d1a7193-61a9-4fc1-9778-dd517cf9f919@172.67.136.208:443?security=tls&sni=workerr.mcgrooge12.workers.dev&type=ws&host=workerr.mcgrooge12.workers.dev&path=%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.136.208:443
 vless://7e29f2e2-e0ec-47c5-94ec-38ef90f7a106@104.18.206.206:2083?security=tls&sni=qopyz.oxnetirz11.onflASHDRiVe.APP&type=ws&host=qopyz.oxnetirz11.onflASHDRiVe.APP&path=vless-ws%2F%3Fed%3D2048&fp=ios&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.206.206:2083
 vless://7e4ce154-0039-4475-b098-7eb4ee073152@188.114.98.224:80?security=none&type=ws&host=1.ftp.debian.org.www.speedtest.net.%E5%85%8D%E8%B4%B9%E4%B8%8A%E7%BD%9167.Site.&path=%2FTELEGRAM-PROXY_MTM%2CTELEGRAM-PROXY_MTM%2CTELEGRAM-PROXY_MTM%2CTELEGRAM-PROXY_MTM%2CTELEGRAM-PROXY_MTM%2CTELEGRAM-PROXY_MTM%2CTELEGRAM-PROXY_MTM%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.98.224:80
-vless://9cd6e660-fa72-415d-a60d-64aa16574ab0@104.18.71.193:8080?security=none&type=ws&host=EnRheo.BALe.Bio&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.71.193:8080
-vless://62f6b891-7988-4392-88c7-14134bb3ffa9@104.21.94.28:2083?security=tls&sni=yasin-godrat13.yasinsamieiuu.workers.dev&type=ws&host=yasin-godrat13.yasinsamieiuu.workers.dev&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.94.28:2083
-vless://b3a1da8a-6ba9-45cc-9526-cf9cac13fa30@94.182.137.187:80?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇮🇷 IR-94.182.137.187:80
-vless://a6486f98-817a-4b46-8add-ca60a0f39367@85.9.115.140:20053?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇮🇷 IR-85.9.115.140:20053
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@162.159.141.93:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.141.93:80

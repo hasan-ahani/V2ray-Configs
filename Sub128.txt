@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://2dbd2a10-9512-4b60-84e6-5d9926a9fe5b@104.18.202.232:2083?security=tls&sni=laenatbar.seyedalikhameneibinamous.site&type=grpc&serviceName=OVmkPBATL0FOwZU9iYzyeZwbq&fp=chrome&alpn=h2#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.18.202.232:2083
+trojan://0fd9b883-0551-4ed1-b978-528183b459a2@8.217.154.218:2083?security=tls&sni=mfjd.591haoka.com&type=ws&host=mfjd.591haoka.com#🔒 TR-WS-TLS 🇭🇰 HK-8.217.154.218:2083
+trojan://4732adfa16c6450bbef87264e41332db@104.17.147.4:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.4:443
+trojan://telegram-id-directvpn@51.44.51.17:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-51.44.51.17:22222
+trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#🔒 TR-TCP-NA 🇳🇱 NL-185.236.233.111:2053
 trojan://4ea1d07c-41c2-42b5-954d-414fee051856@43.248.119.220:46002?type=tcp&allowInsecure=1#🔒 TR-TCP-NA 🇨🇳 CN-43.248.119.220:46002
 trojan://JaRV8fhwXR@47.129.39.18:22281?security=none&type=ws&host=m.youtube.com&path=/#🔒 TR-WS-NONE 🇸🇬 SG-47.129.39.18:22281
 trojan://66101086-51c5-4437-9ff4-a00096cefc78@104.21.82.13:2053?security=tls&sni=promoapi.sensorpage.com&type=ws&host=promoapi.sensorpage.com&path=/yaNf9QdW9c8AvuTzAlEAJseJ96b&fp=firefox&alpn=http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.82.13:2053
@@ -78,8 +83,3 @@ trojan://bccaaab-aacb-aabc-cadb-bacbccababac@127.0.0.1:8080?security=tls&type=tc
 ss://bm9uZTpiYWFjYWNiLWNhYWItYWFiYy1kYWNiLWJhYmFiYWNjYmNhYw==@127.0.0.1:1080#🔄 LATEST-UPDATE 📅 TUE-22-KHORDAD-1403 🕑 06:00
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.87:8881#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.87:8881
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@38.111.114.133:5499#🔒 SS-TCP-NA 🇨🇦 CA-38.111.114.133:5499
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.121.43.71:9102#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.71:9102
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NTNhNGQ0Yy0xNTNmLTQ4OTctOWE5Yi04NTI4YjJiZmFmYjI=@54.179.4.150:40007#🔒 SS-TCP-NA 🇸🇬 SG-54.179.4.150:40007
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@41.203.4.34:989#🔒 SS-TCP-NA 🇿🇦 ZA-41.203.4.34:989
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBSHlEeVI=@38.150.12.187:56032#🔒 SS-TCP-NA 🇭🇰 HK-38.150.12.187:56032
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZzBLa01qYkdkSkVo@212.192.9.220:998#🔒 SS-TCP-NA 🇳🇱 NL-212.192.9.220:998

@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://6d8074a3-1975-4688-8c38-a658b294e30c@66.235.200.123:80?type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co.&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg#🔒 VL-WS-NA 🇺🇸 US-66.235.200.123:80
+vless://b7b52207-3f71-4f97-87c8-7d18810c6ee0@85.9.111.22:5050?security=none&type=ws&host=s14.leaders711.top&path=/https#🔒 VL-WS-NONE 🇮🇷 IR-85.9.111.22:5050
+vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@45.78.31.169:443?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇭🇰 HK-45.78.31.169:443
+vless://ee2960f8-2e78-4832-9c1f-3be20897cd30@31.43.179.183:80?security=none&type=ws&host=rayanconf.irayanconfig.ir#🔒 VL-WS-NONE 🇰🇿 KZ-31.43.179.183:80
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@45.159.216.147:443?security=tls&sni=xin070.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-45.159.216.147:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.26.4.60:8443?security=tls&sni=jp800.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.4.60:8443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.18.165.232:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.165.232:443
 vless://3d84e2d2-5569-4d20-91a6-f1bf88b7eaad@188.114.98.4:8880?security=none&type=ws&host=%D0%BE%D1%8F-nayawi-%D9%88%D8%AF%D8%A2%D9%86-%E9%96%83%E9%9B%BBd.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&path=%2F%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+JOIN+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+JOIN+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+JOIN+%40ZEDMODEON+TEL%C2%A0+%40ZEDMODEON+%40ZeV2ray#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.98.4:8880
@@ -78,8 +83,3 @@ vless://4e8aa209-4ee3-4774-8bfc-97f8d8dd8310@89.116.46.21:8080?security=none&typ
 vless://4a6a6cf5-9cb4-4eee-a706-97b07cc8d735@104.21.22.221:443?security=tls&sni=telegram-vpnhttpinjectorfree-3.giana5.workers.dev&type=ws&host=telegram-vpnhttpinjectorfree-3.giana5.workers.dev&path=%2F%3Fed%3D2048&fp=randomized&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.22.221:443
 vless://10716279-b1ee-41d8-b63e-87782088305b@104.17.111.38:443?security=tls&sni=mAMaNe-FilTERCHi.PaGES.dEv&type=ws&host=MaMANE-FilTErChi.paGes.dEV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.111.38:443
 vless://29f00915-4107-491d-ba71-c9328e845a00@104.18.202.209:80?type=grpc&serviceName=Telegram#🔒 VL-GRPC-NA 🏴‍☠️ NA-104.18.202.209:80
-vless://075a365b-b0c7-4ba3-b5a6-597850c223f9@104.16.24.34:8880?security=none&type=ws&host=sinaazizpor.wapgiz.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.24.34:8880
-vless://d74d8e62-90c2-4fee-bcf3-d239956ee51a@104.21.40.164:2096?security=tls&sni=jp.vps.wengmail.link&type=ws&host=jp.vps.wengmail.link#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.40.164:2096
-vless://152029ab-d31e-4bf2-b4b9-da6398c7008c@103.184.44.104:8080?security=none&type=ws&host=unlimiteddev-vpn.unlimiteddev.Community.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D8080#🔒 VL-WS-NONE 🇨🇳 CN-103.184.44.104:8080
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@216.205.52.109:2083?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-216.205.52.109:2083
-vless://63dd3174-ca18-4dc5-95ff-b017e05639f0@162.159.133.234:2096?security=tls&sni=de-cdn.NetGurdians.tech&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.133.234:2096

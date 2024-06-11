@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.107.81:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-185.148.107.81:443
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.218.181:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-45.159.218.181:443
+vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.24.16.184:443?security=tls&sni=Bia-PAIn-baCHe.PagEs.DEv&type=ws&host=Bia-PAIn-BAchE.PAGes.DeV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.16.184:443
+vless://79978027-ef16-4137-b18e-905f8c18f845@162.159.252.234:8080?security=none&type=ws&host=cdnanycasteuorg.fjacz6xe.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.252.234:8080
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.236.158.158:2083?security=tls&sni=zdy331.kpcloud.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇸🇬 SG-47.236.158.158:2083
 vless://8ae7ba42-91ba-4831-8f8e-c26a5867778b@185.146.173.185:8443?security=tls&sni=im.jomong.space&type=grpc&serviceName=Tel%3A+%40NT_Safe&fp=chrome#🔒 VL-GRPC-TLS 🇸🇪 SE-185.146.173.185:8443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@63.141.128.179:443?security=tls&sni=jp800.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-63.141.128.179:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.28.77:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.28.77:80
@@ -78,8 +83,3 @@ vless://10699622-1b25-499c-a424-58f8f4dfb7f7@104.16.125.175:2083?security=tls&sn
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.201.109:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.201.109:443
 vless://531a0a29-8221-414f-8861-9b336ec9481e@104.21.90.210:80?security=none&type=ws&host=cdn-hk.bestup.eu.org&path=%2FTel%3A%40VPN_VIP_NOR%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.90.210:80
 vless://a9c0613e-7b12-4c89-cb8b-6fb83c41ed33@172.67.147.79:8880?security=none&type=ws&host=join.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.r.cloudfront.net.kiava.fun#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.147.79:8880
-vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@162.159.134.121:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.134.121:443
-vless://1622d31e-9023-4f1a-b553-9d10d7d2da90@104.18.30.78:443?security=tls&sni=free-sweden-c8f4261f9f46e6465709e17ebea7a92b.mitowear.com&type=ws&host=free-sweden-c8f4261f9f46e6465709e17ebea7a92b.mitowear.com#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.30.78:443
-vless://57e15194-5fca-43bf-9672-9a51578ece6e@162.159.15.252:2053?security=tls&sni=fix.ahwaz14.ir&type=grpc&serviceName=fix.ahwaz14.ir&fp=firefox&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.15.252:2053
-vless://ecd404a2-70b2-4e89-8339-89536cdfae52@198.41.223.86:8080?security=none&type=ws&path=/?ed#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.223.86:8080
-vless://d3bc08df-bc6e-4f0c-b82d-b3d2187f58a4@172.67.207.129:443?security=tls&sni=ww.zalochekerlo.com.&type=grpc&serviceName=%40v2rayN_OPENAVPN%2C%40v2rayN_OPENAVPN%2C%40v2rayN_OPENAVPN%2C%40v2rayN_OPENAVPN%40v2rayN_OPENAVPN%40v2rayN_OPENAVPN%2C%40v2rayN_OPENAVPN&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.207.129:443
