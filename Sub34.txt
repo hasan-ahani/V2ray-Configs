@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@147.185.161.35:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-147.185.161.35:443
-vless://a6486f98-817a-4b46-8add-ca60a0f39367@85.9.115.138:20053?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇮🇷 IR-85.9.115.138:20053
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.21.76.195:2083?security=tls&sni=kk009.ylks.link&type=ws&path=/youtube-由零開始#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.76.195:2083
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.140.172:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.140.172:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.18.4.237:2083?security=tls&sni=jp111.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.4.237:2083
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.26.13.140:2083?security=tls&sni=jp010.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.13.140:2083
 vless://aedc2f43-c824-49ed-aae7-b7e836d54a65@162.251.82.187:80?type=ws&host=7fe600d3b53c4bb9de9c863cad96d1.nv2ron.ir&path=%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%3Fed%3D2048#🔒 VL-WS-NA 🇺🇸 US-162.251.82.187:80
@@ -83,3 +79,7 @@ vless://68c421f0-278b-4fa4-9115-d86ee41d8798@5.57.37.225:80?security=none&type=w
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@193.123.239.18:49248?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇰🇷 KR-193.123.239.18:49248
 vless://d9c2a43c-8f02-4d79-a006-161ce108ace0@104.21.76.182:443?security=tls&sni=Digi.radiotehran.org&type=grpc&serviceName=@DigiV2ray,@DigiV2ray,@DigiV2ray,@DigiV2ray,@DigiV2ray,@DigiV2ray,@DigiV2ray,@DigiV2ray,@DigiV2ray,@DigiV2ray,@DigiV2ray,@DigiV2ray,@DigiV2ray,@DigiV2ray,@DigiV2ray,@DigiV2ray,@DigiV2ray,@DigiV2ray,@DigiV2ray&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.76.182:443
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.183.26:443?security=tls&sni=3k.pureboy.eu.org&type=ws&host=3k.pureboy.eu.org#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.183.26:443
+vless://ae53d90e-618d-448a-96c5-66cdb0374077@37.27.95.39:2080?security=none&type=tcp&host=speedtest.net&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇫🇮 FI-37.27.95.39:2080
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.150.143:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.150.143:80
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.26.5.60:2096?security=tls&sni=jp005.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.5.60:2096
+vless://ce12313e-dab2-49ee-8806-399eb91136b2@172.67.187.125:2096?security=tls&sni=api1.htve.ir&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.187.125:2096
