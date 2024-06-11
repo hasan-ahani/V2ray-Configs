@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://4a55d554-c65b-408d-a896-d258b6abb735@172.67.156.210:2096?security=tls&sni=es1.vless.site&type=ws&host=es1.vless.site&path=%2Fvless%3Fed%3D%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%3Fed&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.156.210:2096
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@154.197.121.253:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇸🇨 SC-154.197.121.253:443
+vless://16e3cc71-c99f-4ab5-bff3-6247ca6cbd80@104.25.254.188:2096?security=tls&sni=forward333.maryam1500.top&type=grpc&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.25.254.188:2096
 vless://91484c71-0762-47b8-82ad-8eae6f240278@162.159.135.232:2096?security=tls&sni=join-zedmodeon.zedmodeon-zedmodeon-zedmodeon.shop&type=grpc&serviceName=%40ZEDMODEON+%40ZEDMODEON+%40ZEDMODEON&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.135.232:2096
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@162.159.128.30:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.128.30:443
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@45.205.0.173:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-45.205.0.173:8443
@@ -80,6 +83,3 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@103.169.142.221:443?security=tls&sn
 vless://0ef3162b-cbec-49c7-fec4-5983ffee8b92@178.239.145.4:56025?security=none&type=tcp&host=webmail.yjc.ir&path=/ViraV2ray/ViraV2ray/ViraV2ray/ViraV2ray/ViraV2ray/ViraV2ray/ViraV2ray/ViraV2ray/ViraV2ray/ViraV2ray/ViraV2ray/ViraV2ray/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-178.239.145.4:56025
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.65.196:80?security=none&type=ws&host=us1.rtacg.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.65.196:80
 vless://75b11d9a-0073-4f95-9f56-94882bfa2a4f@104.21.32.195:443?security=tls&sni=FAlcuNarGoo.16C6D5A124.woRKerS.DEV&type=ws&host=fALCUnARGoO.16c6D5A124.WoRkERS.Dev&path=%2FkQmBXVgVS6wPRtQg%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.32.195:443
-vless://ed0dc7de-364f-4228-abf6-b027890bcd93@162.159.152.2:2053?security=tls&sni=cf.yicanny.com&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.2:2053
-vless://2e01ebcf-4bd6-4be4-9365-f5c623510512@162.159.252.60:80?security=none&type=ws&host=workerr.babray.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.252.60:80
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@162.159.140.184:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.140.184:80
