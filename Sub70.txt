@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.27.65:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.27.65:443
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@172.67.134.122:443?security=tls&sni=worker.iraniancp.click&type=ws&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.134.122:443
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.91.30:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.91.30:443
 vless://0e69df0d-4cf8-4e7e-ad4c-865ba89a5898@185.146.173.20:443?security=tls&sni=xn--3-943c.xn--kcr399f23u6ki.com&type=ws&host=xn--3-943c.xn--kcr399f23u6ki.com&path=/&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.20:443
@@ -83,3 +82,4 @@ vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.101.128:443?security=tls&sni
 vless://8c0c5db9-6383-4882-8c2e-6562796fe5ed@172.64.86.128:443?security=tls&sni=BEOzJANalZHvSH.XuiI.SBS&type=ws&host=beozjanalzhvsh.xuii.sbs&path=%2FAOagIIfbJJ0hbXIwCE6mq&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.86.128:443
 vless://1cfd44d2-61fe-4feb-92ad-26aa7023963f@104.21.66.26:443?security=tls&sni=technoi.o3co.ir&type=grpc&serviceName=technoi&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.66.26:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@172.67.70.92:2087?security=tls&sni=jp800.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.70.92:2087
+vless://ea040230-e7f4-4a54-8eed-7b02956b66b9@104.18.203.232:2053?security=tls&sni=irn-vpn-irn-vpn.veboril990.workers.Dev&type=ws&host=irn-vpn-irn-vpn.veboril990.workers.Dev&path=/@IRN_VPN&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.203.232:2053
