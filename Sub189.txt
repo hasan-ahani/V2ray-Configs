@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://telegram-id-privatevpns@3.78.81.59:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | DE🇩🇪 | 0️⃣1️⃣
+trojan://telegram-id-privatevpns@3.77.179.131:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | DE🇩🇪 | 0️⃣2️⃣
 trojan://telegram-id-privatevpns@51.20.48.148:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | SE🇸🇪 | 0️⃣3️⃣
 trojan://telegram-id-privatevpns@16.171.130.180:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | SE🇸🇪 | 0️⃣4️⃣
 trojan://telegram-id-privatevpns@54.217.7.12:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | IE🇮🇪 | 0️⃣5️⃣
@@ -81,5 +83,3 @@ vless://ce369bb6-88b8-4967-b944-9698a0527be4@104.168.107.230:4212?encryption=non
 vless://4b2c1d95-fa7a-49d3-bdeb-e2b57eecb7cb@104.168.107.230:4342?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.who.int&fp=chrome&pbk=_K3DCNLAZZ6vOCUT74Ulc2HERm0IPvPcU7OzN6ysFgY&sid=77c652fff2aca356&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-4342 | 112.84ms
 vless://0f2dc2ab-00d3-402b-a86c-68c2f74b67c0@104.168.107.230:4607?encryption=none&flow=xtls-rprx-vision&security=reality&sni=magicbus.ca&fp=chrome&pbk=_K3DCNLAZZ6vOCUT74Ulc2HERm0IPvPcU7OzN6ysFgY&sid=77c652fff2aca356&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-4607 | 83ms
 vless://1347f212-5f3e-4317-9d0b-b82ef1caf922@104.168.107.230:4876?encryption=none&flow=xtls-rprx-vision&security=reality&sni=10to8.com&fp=chrome&pbk=_K3DCNLAZZ6vOCUT74Ulc2HERm0IPvPcU7OzN6ysFgY&sid=77c652fff2aca356&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-4876 | 72.93ms
-vless://475fbd1f-8902-4808-8f26-da8ac53ef305@104.168.107.230:5144?encryption=none&flow=xtls-rprx-vision&security=reality&sni=oxfamintermon.org&fp=chrome&pbk=_K3DCNLAZZ6vOCUT74Ulc2HERm0IPvPcU7OzN6ysFgY&sid=77c652fff2aca356&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-5144 | 83.46ms
-vless://f33aadcb-17a4-4cbe-874d-5002280dbf9b@104.168.107.230:5474?encryption=none&flow=xtls-rprx-vision&security=reality&sni=support.cloudflare.com&fp=chrome&pbk=_K3DCNLAZZ6vOCUT74Ulc2HERm0IPvPcU7OzN6ysFgY&sid=77c652fff2aca356&type=tcp&headerType=none#REALITY|US🇺🇸 | 104.168.107.230-5474 | 83.29ms
