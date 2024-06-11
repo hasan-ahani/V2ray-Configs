@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://01ab9337-f478-4765-9534-88f009f83ddb@47.237.86.185:2083?security=tls&sni=aut306.ylks.link&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇬 SG-47.237.86.185:2083
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.126:443?security=tls&sni=73FF2B24.bpb-PaNEl-B1Q.PaGes.dEv&type=ws&host=73fF2B24.bPB-PAnEl-B1Q.paGEs.dEv&path=%2FiXyGTa2hkso0v8lU%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.126:443
-vless://6f995056-7802-4a1d-bff7-61678e626c3f@40.74.100.138:443?security=tls&sni=jpp1.azurewebsites.net&type=ws&path=/#🔒 VL-WS-TLS 🇯🇵 JP-40.74.100.138:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.174.138.187:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-185.174.138.187:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.2.142:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.2.142:443
 vless://55505e82-0909-44fd-91f7-77f928075d57@104.21.51.16:443?security=tls&sni=v2rayfast7.v2rayfast7join.workers.dev&type=ws&host=v2rayfast7.v2rayfast7join.workers.dev&path=%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.51.16:443
@@ -83,3 +80,6 @@ vless://c018e3b0-1443-4a85-8f79-6cf97dd72964@172.67.204.84:2087?security=tls&sni
 vless://ecd404a2-70b2-4e89-8339-89536cdfae52@172.67.176.105:8080?security=none&sni=king1980us.50fo8itj.workers.dev&type=ws&host=king1980us.50fo8itj.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.176.105:8080
 vless://6eb07174-1887-4d62-9909-011d928a0a0a@172.67.172.15:2087?security=tls&sni=selinc------9-------selinc-------9------selinc.mjopnpex.workers.dev&type=ws&host=selinc------9-------selinc-------9------selinc.mjopnpex.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=safari&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.172.15:2087
 vless://01a844d9-975b-400d-abea-b0a4748cfd98@172.67.171.242:80?security=none&type=ws&path=%2Fall.V2ray.motorcycles%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.171.242:80
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.18.95.207:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.95.207:80
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@112.153.118.61:11777?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇰🇷 KR-112.153.118.61:11777
+vless://c43cf30c-18f1-4e20-bd88-73b1288c5202@172.67.216.94:443?security=tls&sni=worker-dry-breeze-60a0.chngyznwy.workers.dev&type=ws&host=worker-dry-breeze-60a0.chngyznwy.workers.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.216.94:443

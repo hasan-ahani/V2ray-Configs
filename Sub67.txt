@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://9d1c74fe-6495-43c0-8c72-20a0b9a0c639@188.114.99.134:443?security=tls&sni=4ef0b961.aru0006.pages.dev&type=ws&host=4ef0b961.aru0006.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.99.134:443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@172.67.71.122:2096?security=tls&sni=jp010.ylks01.eu.org&type=ws&path=/blue#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.71.122:2096
-vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@158.178.240.232:23559?security=tls&sni=v300.ylkszy.eu.org&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇸🇬 SG-158.178.240.232:23559
 vless://c54dd620-fa5f-46de-82c2-9d1492ee74e4@103.98.215.248:443?security=tls&flow=xtls-rprx-vision&sni=tor2.jarviskit.com&type=tcp&fp=chrome#🔒 VL-TCP-TLS 🇨🇦 CA-103.98.215.248:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@94.140.0.91:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇦🇪 AE-94.140.0.91:443
 vless://ba34bf8f-e046-5934-a81e-b1612fb2d9b7@172.66.46.252:2095?security=none&type=ws&host=sugar.sugarbreakervpn.WorKeRs.Dev#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.46.252:2095
@@ -83,3 +80,6 @@ vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.21.18:80?type=ws&host=kr1.17
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.21.221:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.21.221:80
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.218.111:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-45.159.218.111:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.147.161:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.147.161:80
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.10.99:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.10.99:80
+vless://10716279-b1ee-41d8-b63e-87782088305b@198.41.223.7:443?security=tls&sni=HeY.BaChebiapAin.IR&type=ws&host=hEy.bAchEBIaPaIn.ir&path=/oo1JH8WEExYQtaSb?ed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.223.7:443
+vless://fdcfae43-3eed-4177-b06d-88a1a2169b30@104.31.16.185:2083?security=tls&sni=ousgyyzsjbolbolsweden.stay-out-of-my-territory.shop&type=ws&host=ousgyyzsjbolbolsweden.stay-out-of-my-territory.shop&path=%2F&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.31.16.185:2083

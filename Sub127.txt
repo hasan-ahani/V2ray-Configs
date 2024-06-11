@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.138:2096?security=tls&sni=tjjd.yzyx1.v6.army&type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.53.138:2096
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.19:2087?security=tls&sni=tjjd.yzyx1.v6.army&type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.19:2087
-trojan://ypDt8RkT7J@121.127.46.131:43118?security=tls&sni=tpmrt.phooeyunfold.com&type=tcp&fp=random&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇸🇪 SE-121.127.46.131:43118
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.2:443?sni=tjjd.yzyx1.v6.army&allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-104.19.52.2:443
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.39:443?sni=tjjd.yzyx1.v6.army&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-104.19.53.39:443
 trojan://telegram-id-privatevpns@18.135.142.202:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-18.135.142.202:22222
@@ -83,3 +80,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5SmU0cmpaRTRnaEZIRFdFN2xHV3pL@46.226.162.47:
 ss://NzM5YWVmMjctN2NmNC00NDU3LTgzOWMtNDQ5ZTcwN2Q2NGVhOg==@104.31.16.121:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.31.16.121:443
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@54.36.174.181:9101#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:9101
 ss://NzU5OTI0NWUtMDYwNS00MzY1LWFlMjktNjAyN2U1MzEyYjc2Og==@188.114.97.1:443#🔒 SS-TCP-NA 🏴‍☠️ NA-188.114.97.1:443
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.68.134.9:2375#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.9:2375
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@103.163.218.2:989#🔒 SS-TCP-NA 🇻🇳 VN-103.163.218.2:989
+ss://YWEyZGM4NDAtYmUzOC00YjRkLWEwMDItYmEyMzQ5OTlmZDU1Og==@198.41.223.29:8080#🔒 SS-TCP-NA 🏴‍☠️ NA-198.41.223.29:8080
