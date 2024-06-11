@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.16.192.1:443?security=tls&sni=sherasheba.com&type=ws&host=sherasheba.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.192.1:443
+trojan://compassvpn-794T1C3EDa@104.17.176.171:2083?security=tls&sni=147457129.19kala.co&type=ws&host=147457129.19kala.co&path=/&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.176.171:2083
+trojan://UtO9m5wsDz@47.129.39.18:49465?security=none&type=ws&host=m.instagram.com&path=/#🔒 TR-WS-NONE 🇸🇬 SG-47.129.39.18:49465
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.219:443?security=tls&sni=tjjd.yzyx1.v6.army&type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.53.219:443
+trojan://52701795-3c3b-46b4-b7cf-c5978b3a4cf2@104.21.47.176:443?security=tls&sni=hdfyc1.achaemenidempireofpersia.uk&type=grpc&serviceName=xw7uebRG4KlUXGGYTVEagC5V7fI&fp=chrome&alpn=http%2F1.1#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.21.47.176:443
+trojan://0fd9b883-0551-4ed1-b978-528183b459a2@47.243.243.14:2083?sni=mfjd.591haoka.com&allowInsecure=0#🔒 TR-TCP-NA 🇭🇰 HK-47.243.243.14:2083
 trojan://NISHIKUITAN222@8.219.113.232:8443?security=tls&sni=t009.ylks.link&type=ws&host=t009.ylks.link&path=%2F#🔒 TR-WS-TLS 🇸🇬 SG-8.219.113.232:8443
 trojan://3c91d857-2d40-39b9-81c0-f6adde8037ff@141.11.108.8:4583?sni=cuvip.doubledou.win#🔒 TR-TCP-NA 🇫🇷 FR-141.11.108.8:4583
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.67:2083?security=tls&sni=tjjd.yzyx1.v6.army&type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.67:2083
@@ -77,9 +83,3 @@ trojan://acabcab-caba-bcaa-bcda-caacbbacbacb@127.0.0.1:8080?security=tls&type=tc
 ss://bm9uZTphYWNjYmJhLWFhY2ItYWFjYi1jYWJkLWJjY2FiY2FhYmJhYw==@127.0.0.1:1080#🔄 LATEST-UPDATE 📅 TUE-22-KHORDAD-1403 🕑 21:05
 ss://OTYyYTczM2QtMjYxNC0wYjliLTdmZmUtOWFjOTJmZmVhOGViOg==@104.21.36.71:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.36.71:443
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.154.136.137:5498#🔒 SS-TCP-NA 🇺🇸 US-23.154.136.137:5498
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.198:443#🔒 SS-TCP-NA 🇬🇧 GB-212.102.53.198:443
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@167.88.61.235:8882#🔒 SS-TCP-NA 🇺🇸 US-167.88.61.235:8882
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NTNhNGQ0Yy0xNTNmLTQ4OTctOWE5Yi04NTI4YjJiZmFmYjI=@54.179.4.150:30010#🔒 SS-TCP-NA 🇸🇬 SG-54.179.4.150:30010
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTVXJENEZ6bER5ejBEUHV0VzIyTFBW@92.243.27.51:9802#🔒 SS-TCP-NA 🇫🇷 FR-92.243.27.51:9802
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NTNhNGQ0Yy0xNTNmLTQ4OTctOWE5Yi04NTI4YjJiZmFmYjI=@46.232.123.37:10014#🔒 SS-TCP-NA 🇭🇰 HK-46.232.123.37:10014
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.83:8888#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.83:8888
