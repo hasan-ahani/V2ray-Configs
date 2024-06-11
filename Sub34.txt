@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://146d4de0-ae98-411b-940c-03937947e1ef@172.66.47.190:443?security=tls&sni=v2ray1ng.pages.dev&type=ws&path=%2FVIP&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.190:443
 vless://c3114b07-95a6-4cb0-8bbd-b3f0931233b2@172.67.133.239:443?security=tls&sni=ir2.v-mizban.info&type=ws&path=/vqkubV5xX0Tulg7tx5HRa&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.133.239:443
 vless://b897434d-892e-46a6-a760-361a92e0b911@104.21.40.128:2053?security=tls&sni=rpn1.kucss.com&type=ws&host=rpn1.kucss.com&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.40.128:2053
 vless://0c14db88-0343-4049-9779-9c2d9287f9e0@185.146.173.29:8880?security=none&type=ws&host=xn---qhantayawi--a-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.lightning6.xyz.&path=%2F%40LIGHTNING6%2C+%40LIGHTNING6#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.29:8880
@@ -83,3 +82,4 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@43.154.34.74:1935?security=tls&sni=
 vless://5f3db645-ae0b-4cf6-aee1-838a92b6ea68@104.21.58.76:443?security=tls&sni=javad.rbj5847.workers.dev&type=ws&host=javad.rbj5847.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.58.76:443
 vless://242b7fb0-d590-57bd-9924-38092b4a8f21@104.21.45.92:2053?security=tls&sni=esetsecuritylicense.ujlqwtae.WorkErS.DEV&type=ws&host=esetsecuritylicense.ujlqwtae.WorkErS.DEV&path=vless-ws%2F%3Fed%3D2048&fp=safari&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.45.92:2053
 vless://ff8fb4f7-cac5-4ff4-b954-394dfddb02cb@185.146.173.106:8080?security=none&type=ws&host=42.zula.ir---s.gsmarena.com.www.zula.ir--sq-.seqain.org%E5%88%9B%E4%BC%98%E8%88%8D%E5%88%9B%E4%BC%98%E8%88%8Dpr.napovafoodka.COM.&path=AmVpn-AmVpn-AmVpn-AmVpn-AmVpnn-AmVpn-AmVpn-AmVpn-AmVpn-AmVpn-AmVpn-AmVpn-AmVpn-AmVpn-AmVpn-AmVpn-AmVpn-AmVpn-AmVpn-AmVpn-AmVpn-AmVpn-AmVpn-AmVpn-AmVpn-AmVpn%3Fed%3D8080#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.106:8080
+vless://0a869459-f7a2-4f93-9412-066554c869c4@104.16.120.85:2096?security=tls&sni=sd2.dwv2ray.site&type=grpc&serviceName=@Dataworld_ir&alpn=http/1.1,h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.120.85:2096

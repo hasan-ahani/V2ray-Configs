@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://9d568a07-a12e-4ac1-a554-f7cddfce2db1@104.18.37.228:8080?security=none&type=ws&host=de.%E8%BF%87%E6%BB%A4%E5%99%A8.store.&path=%2Fmelov2ray#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.37.228:8080
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.21.80.85:2053?security=tls&sni=jp010.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.80.85:2053
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.243.206.150:80?security=none&type=ws&path=/blue#🔒 VL-WS-NONE 🇭🇰 HK-47.243.206.150:80
 vless://f62a27ff-c016-4dbc-aaee-d558021f8da8@162.159.135.232:443?security=tls&sni=dashcloudflare.bluev2rayng.cfd&type=ws&host=dashcloudflare.bluev2rayng.cfd&path=%2Fgra#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.135.232:443
@@ -83,3 +82,4 @@ vless://e5f38cb2-d25c-464c-9aa6-a8890148bbb9@162.159.133.234:80?type=ws&host=mnv
 vless://f6f45d58-fa33-473b-a3c6-7eb5c81046e5@172.67.204.84:2095?security=none&type=ws&host=V2ray-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.204.84:2095
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.18.87.125:443?security=tls&sni=bIa-pAIn-baChE.pAgES.dev&type=ws&host=bia-pain-baCHE.PAGEs.DEv&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.87.125:443
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@8.222.208.38:443?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇸🇬 SG-8.222.208.38:443
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@162.159.137.41:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.137.41:80

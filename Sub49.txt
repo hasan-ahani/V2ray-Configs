@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://186c6afe-7234-4911-839f-77086e9b7278@172.67.216.166:2082?security=none&type=ws&host=workerr.d6dkppf4.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.216.166:2082
 vless://226461a0-d94f-49c8-bf89-68bac6458ea2@104.18.1.168:443?security=tls&sni=co.doctorjavas.com&type=ws&host=co.doctorjavas.com&path=%2Ffq%3Fed%3D2048&fp=ios&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.1.168:443
 vless://ecd404a2-70b2-4e89-8339-89536cdfae52@198.41.220.156:8080?security=none&type=ws&path=%2F%3Fed#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.220.156:8080
 vless://75a6d62e-a371-41c8-ab53-8c6e6e8201fb@104.18.202.232:2053?security=tls&sni=6d1.narnino.org&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.202.232:2053
@@ -83,3 +82,4 @@ vless://988c4727-8d73-4df0-bc8e-fe06c986ef33@104.18.190.195:443?security=tls&sni
 vless://44ad3873-4587-4d94-b6a6-d2b14e6310cc@104.21.33.26:2087?security=tls&sni=khalaa-tm1.lmxtinl.com&type=grpc&fp=chrome&alpn=http%2F1.1%2Ch2&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.33.26:2087
 vless://5a045a1e-d392-4c5b-b658-b57e4ea01b4f@104.21.18.147:443?security=tls&sni=virapn-d-3be7883659a1d2ba4c545dfdf85b61eda1.asiatechnicalwest.ir.&type=grpc&serviceName=@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.18.147:443
 vless://9e67f15c-178f-494c-a843-f371e3b3fa5d@172.67.101.176:8080?type=ws&host=king1980.b91sptsl.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.101.176:8080
+vless://2f8c5e4a-ccb2-4da8-bbfc-ab5d1e31f2df@172.67.191.234:443?security=tls&sni=fR1-vlESs.SSHmax.XYz&type=ws&host=fR1-vlESs.SSHmax.XYz&path=%2Fvless&fp=random&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.191.234:443
