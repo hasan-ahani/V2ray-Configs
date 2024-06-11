@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://9025aac9-703f-4ba8-9d0e-33986fc375fd@104.16.123.175:8880?security=none&type=ws&host=falcunargo.1035ed931e.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.123.175:8880
 vless://c32b1429-92aa-4be7-912e-4d63b0a31fc7@162.159.130.130:443?security=tls&sni=can01.nimserver.top&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.130.130:443
 vless://1b8a2b1e-14b0-4373-d45f-f46d33c7bfca@151.101.130.168:80?security=none&type=ws&host=aklisvpn.com&path=/@aklisvpn@aklisvpn-@aklisvpn@aklisvpn-@aklisvpn@aklisvpn-@aklisvpn@aklisvpn-@aklisvpn@aklisvpn-@aklisvpn@aklisvpn-@aklisvpn@aklisvpn-@aklisvpn@aklisvpn-#🔒 VL-WS-NONE 🇺🇸 US-151.101.130.168:80
 vless://d5696bc1-c9c6-43d8-959e-7378423a1b13@172.67.195.41:443?security=tls&sni=pq-gr-1.doctornim.ir&type=grpc&serviceName=tg3Vu3EboaFgTRqgBlzUTAbQ1730P&alpn=http%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.195.41:443
@@ -83,3 +82,4 @@ vless://1702734a-fe43-4b45-8a03-1ef12c5709e5@172.67.143.102:80?security=none&typ
 vless://211267ce-6387-413e-b221-30c6283ab397@172.67.188.149:2087?security=tls&sni=eu.bookmarkingonline.info&type=grpc&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.188.149:2087
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.149.102:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.149.102:443
 vless://9f3d6a0a-492c-47dc-b2c5-6889eabeb940@104.21.44.86:443?security=tls&sni=vip.alonext.com&type=grpc&serviceName=@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2&fp=chrome&alpn=h2,http/1.1,h3#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.44.86:443
+vless://186c6afe-7234-4911-839f-77086e9b7278@141.101.120.237:2086?security=none&type=ws&host=workerr.d6dkppf4.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-141.101.120.237:2086

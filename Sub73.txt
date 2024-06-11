@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://c32b1429-92aa-4be7-912e-4d63b0a31fc7@172.67.199.241:443?security=tls&sni=can01.nimserver.top&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.199.241:443
 vless://9eed4ef6-fd5e-40d5-8f2c-4e90c92011ca@172.67.156.210:8443?security=tls&sni=re1.v2logy.xyz&type=grpc&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.156.210:8443
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.229.249:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.229.249:443
 vless://0348038c-de3b-5790-8756-402479efb5c7@104.21.31.170:2053?security=tls&sni=vpray3.fikelep179.wOrKeRS.deV&type=ws&host=vpray3.fikelep179.wOrKeRS.deV&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.31.170:2053
@@ -83,3 +82,4 @@ vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.243.111:443?security=tls&sni
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.21.230.127:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.230.127:443
 vless://fb301d2e-4430-4b41-95d6-764460b8ef13@104.18.30.78:2053?security=tls&sni=9b56CFEe5b258C44c45bA18FA122293.mIToweAr.cOm&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.30.78:2053
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.18.91.186:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.91.186:80
+vless://9c620d16-004c-423f-a853-e2d97488c326@104.21.58.10:443?security=tls&sni=V.telegramchanneljoinbede.com.&type=grpc&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.58.10:443

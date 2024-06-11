@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://0fd9b883-0551-4ed1-b978-528183b459a2@47.243.243.14:2083?sni=mfjd.591haoka.com&allowInsecure=0#🔒 TR-TCP-NA 🇭🇰 HK-47.243.243.14:2083
 trojan://NISHIKUITAN222@8.222.165.117:8443?security=tls&sni=t010.ylks.link&type=ws&host=t010.ylks.link&path=%2F#🔒 TR-WS-TLS 🇸🇬 SG-8.222.165.117:8443
 trojan://NISHIKUITAN222@8.219.142.191:2083?security=tls&sni=t226.ylks.link&type=ws&host=t226.ylks.link&path=%2F#🔒 TR-WS-TLS 🇸🇬 SG-8.219.142.191:2083
 trojan://NISHIKUITAN222@8.222.183.242:8443?security=tls&sni=t010.ylks.link&type=ws&host=t010.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.222.183.242:8443
@@ -83,3 +82,4 @@ trojan://f0eb8c92ce8946aaba856569cff1a16b@104.16.192.6:443?security=tls&sni=jobs
 trojan://NISHIKUITAN222@8.219.42.72:8443?security=tls&sni=t111.ylks.link&type=ws&host=t111.ylks.link&path=%2F#🔒 TR-WS-TLS 🇸🇬 SG-8.219.42.72:8443
 trojan://DyF9KXR8gx5EclDF6pT2lS3BejSRDazY7C0aYwaOApn33ZquZyIOex4CS83NAC@154.31.114.174:28333?security=tls&sni=nagoya.meijireform.com&type=tcp#🔒 TR-TCP-TLS 🇯🇵 JP-154.31.114.174:28333
 trojan://1ZTbMoSRnm@185.146.173.59:2083?security=tls&sni=mIkAsa.mEgAfAiR.sToRe&type=grpc&serviceName=/Telegram:@MikasaVPN&fp=chrome&alpn=h3,h2,http/1.1#🔒 TR-GRPC-TLS 🇸🇪 SE-185.146.173.59:2083
+trojan://b17fa17d-13a0-4e8a-a398-8e549ea8b208@23.227.38.11:443?sni=syndication-statutes-wanted-logo.trycloudflare.com&type=ws&path=/argox-tr&allowInsecure=1#🔒 TR-WS-NA 🇨🇦 CA-23.227.38.11:443
