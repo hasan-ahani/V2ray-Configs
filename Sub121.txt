@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://ypDt8RkT7J@212.102.54.11:43118?security=tls&sni=tpmrq.phooeyunfold.com&type=tcp&fp=random&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇮🇹 IT-212.102.54.11:43118
+trojan://f910b595-d86d-42c8-92e1-f72f6b435664@176.126.113.161:443?#🔒 TR-TCP-NA 🇳🇱 NL-176.126.113.161:443
+trojan://f85e2ad7-3e26-4589-b478-b0b15b9b5907@104.21.20.148:2087?security=tls&sni=us1.trojanvpn.de&type=grpc&serviceName=grpc#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.21.20.148:2087
+trojan://NISHIKUITAN222@47.236.167.231:8443?security=tls&sni=t111.ylks.link&type=ws&host=t111.ylks.link&path=%2F#🔒 TR-WS-TLS 🇸🇬 SG-47.236.167.231:8443
+trojan://2cba4104747d49d18319e5ade1b93ab5@104.17.215.8:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.215.8:443
 trojan://XSVPNCH@170.64.236.70:80?security=tls&sni=xn--zcaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.khorma2210.ir&type=tcp&host=xn--zcaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.khorma2210.ir&path=%2Fadmin%2Fproduct%2F1&headerType=http&fp=safari&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔒 TR-TCP-TLS 🇦🇺 AU-170.64.236.70:80
 trojan://telegram-id-directvpn@18.220.0.96:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇺🇸 US-18.220.0.96:22222
 trojan://ca6fc79c-1274-4db0-9f57-a68962902f4b@51.75.77.237:443?#🔒 TR-TCP-NA 🇩🇪 DE-51.75.77.237:443
@@ -78,8 +83,3 @@ trojan://baa7fdc5-a9cb-435a-982b-ccd82cb1f8c0@104.16.60.8:443?security=tls&sni=y
 trojan://ypDt8RkT7J@51.158.217.60:43118?security=tls&sni=ewxig.phooeyunfold.com&type=tcp&fp=random&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇫🇷 FR-51.158.217.60:43118
 trojan://ypDt8RkT7J@51.158.217.57:43118?security=tls&sni=tojzy.phooeyunfold.com&type=tcp&fp=random&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇫🇷 FR-51.158.217.57:43118
 trojan://telegram-id-privatevpns@13.36.140.4:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-13.36.140.4:22222
-trojan://09afab13-a23c-4264-9da4-985e3b62b789@104.24.173.19:443?security=tls&sni=p.mrproxy.shop&type=ws&host=h.mrproxy.shop&path=/tomfCNawNqSxpHShBC1yO&fp=chrome&alpn=h2#🔒 TR-WS-TLS 🏴‍☠️ NA-104.24.173.19:443
-trojan://telegram-VPNHTTPIinjectorfree@104.18.4.250:443?security=tls&sni=telegram-vpnhttpinjectorfree-016.judeen650.workers.dev&type=ws&host=telegram-vpnhttpinjectorfree-016.judeen650.workers.dev&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.4.250:443
-trojan://ExPreSEToo582b993d16e522@172.67.197.65:8443?security=tls&sni=random.expreset479927393.workers.dev&type=ws&host=random.expreset479927393.workers.dev&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.197.65:8443
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.241:8443?sni=tjjd.yzyx1.v6.army&allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-104.19.53.241:8443
-trojan://656bcdfe-ae09-4170-a36e-1685ee10b26f@162.159.135.232:2083?security=tls&sni=missyousir.segaro.tech&type=ws&host=missyousir.segaro.tech&path=/OVmkPBATL0FijQ3AWVBo#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.135.232:2083

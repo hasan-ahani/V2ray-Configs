@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://a249a3ea-cc40-46ce-8192-b4bc1a65b96c@104.16.96.58:8080?security=none&type=ws&host=worker-wild-bread-baa9.test37.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.96.58:8080
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.195.62.180:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇫🇮 FI-45.195.62.180:443
+vless://aabc3ef9-6968-4311-81b8-8cd0414c1904@104.24.177.7:80?security=none&type=ws&host=luact.zahedan.eu.org#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.177.7:80
+vless://5aeb418b-37d4-4412-b6d0-a077b34fe347@104.21.88.53:443?security=tls&sni=fi3.vless.site&type=ws&host=fi3.vless.site&path=%2FTELEGRAM-%40vlees_v2rayng%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.88.53:443
+vless://f6df22c8-4221-4d4b-8076-a1bf695aea24@162.159.136.234:80?security=none&type=ws&host=ShhProxyFreViP.免费上网85.org.&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.136.234:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.92.67:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.92.67:443
 vless://b7e13552-a221-43ad-86e7-ee047ae9ac00@104.21.23.243:443?security=tls&sni=ch.bo3kot.com&type=grpc&serviceName=%40MxV2ray%2C%40MxV2ray%2C%40MxV2ray%2C%40MxV2ray&fp=safari&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.23.243:443
 vless://80ed960f-1256-42c5-b85a-f2e9f84e735c@199.59.242.150:443?security=tls&sni=FreeV2rayng.VPNCUSTOMIZE.tech&type=grpc&serviceName=‌@VPNCUSTOMIZE‌&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🇺🇸 US-199.59.242.150:443
@@ -78,8 +83,3 @@ vless://eb44e1c7-e5ba-4446-807c-a0768a8f4589@104.16.120.158:2083?security=tls&sn
 vless://f60553d6-6075-4051-89cd-0a8ab1c46f9a@104.31.16.95:80?security=none&type=ws&host=fanlandv2raygmsix6.6.6.6.ir.com.site.列列男事的事列上赛男.科斯涅過濾器斯.retete.fun.&path=/fanlandV2rayGmSix6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g#🔒 VL-WS-NONE 🏴‍☠️ NA-104.31.16.95:80
 vless://2cb02f6c-b29d-4f57-b347-f81a681d77bc@140.99.233.58:2053?security=tls&sni=v2rayfree1.iraninjas.site&type=grpc&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🇩🇪 DE-140.99.233.58:2053
 vless://99866d92-d746-423f-af86-51679d90f1e4@62.60.141.7:5016?security=none&type=tcp&host=xbox.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-62.60.141.7:5016
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.105.175:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-185.148.105.175:443
-vless://338469e5-b7d6-43f2-ab41-837b9fbea6a4@172.67.192.245:443?security=tls&sni=armanibash.hub.iranserver.askdhbasikjbas.shop&type=ws&host=armanibash.hub.iranserver.askdhbasikjbas.shop&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.192.245:443
-vless://f10a3902-438e-4d60-8978-68d21c5844a6@162.159.135.232:8443?security=tls&sni=real-state1.zargarr.com&type=grpc&serviceName=%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.135.232:8443
-vless://0859b63e-cb81-4c01-bf5a-739f90e72f92@172.67.140.33:2095?security=none&type=ws&host=v2ray-_-_-_-_-_-vpn.frev2ray.kellekcollection.myname.houselife.IR.&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.140.33:2095
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.187.211:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.187.211:80
