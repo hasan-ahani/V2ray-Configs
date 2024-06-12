@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://ddfaf7cb-ed2f-4ab8-8a76-32f7ad15eb02@de-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Vless%20WS%20@V2rayStore
-vless://d75f3154-6d3f-4cb1-a348-9a1001f38268@de2-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Vless%20WS%20@V2rayStore
 vless://e3df3d48-b758-4f21-88c5-6790c3892f3c@au-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20Vless%20WS%20@V2rayStore
 vless://d6a9427d-7274-4346-9d19-6c5713398305@it-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20Vless%20WS%20@V2rayStore
 vless://1af90ee3-fa63-4bc8-aefc-ae7a3d2331fc@ua-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20Vless%20WS%20@V2rayStore
@@ -83,3 +81,5 @@ vmess://eyJ2IjogIjIiLCAiYWRkIjogInYzLnNzcnN1Yi5jb20iLCAicG9ydCI6ICIxODQ0MyIsICJ0
 vmess://eyJ2IjogIjIiLCAiYWRkIjogInZqcDMuMGJhZC5jb20iLCAicG9ydCI6ICI0NDMiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjkyNzA5NGQzLWQ2NzgtNDc2My04NTkxLWUyNDBkMGJjYWU4NyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvY2hhdCIsICJob3N0IjogInZqcDMuMGJhZC5jb20iLCAidGxzIjogInRscyIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbCJ9`
 vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogImNuLnp6djA3LmluZm9ub2RlLnh5eiIsICJwb3J0IjogIjE3MDEzIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICJlZGFjMTE1My1lZmY0LTM3MTktOTJhMy1jNzYyMGVhMDBiZDciLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3YycmF5IiwgImhvc3QiOiAiY24uenp2MDcuaW5mb25vZGUueHl6IiwgInRscyI6ICIifQ==
 vless://887ab474-b0d6-4628-a2a2-9d3095059881@104.20.66.92:80?path=%2FSpdnet-V2ray69Speed.ir.shop.com%3Fed%3D2048&security=none&encryption=none&host=servicevip.manclothingvip.com.&type=ws#👉🆔 @v2ray_configs_pool`
+vless://49e06b95-f627-4b1b-9cfa-e1bd54e3c12f@zula.ir:443?path=%2Fir%3Fed%3D1024&security=tls&encryption=none&alpn=h2,http/1.1&host=cpanel.manclothingvip.com.&fp=firefox&type=ws&sni=cpanel.manclothingvip.com.#👉🆔 @v2ray_configs_pool`
+vless://5145c0cb-61ec-44a5-8316-535ff61605e9@92.223.124.22:443?path=%2FSPEEDD%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=arvanclod.ir&fp=chrome&type=ws&sni=gcore.com.#👉🆔 @v2ray_configs_pool`

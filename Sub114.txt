@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://c626d19a-94b3-40b5-a473-bcd02e503974@104.31.16.14:2053?security=tls&sni=jp10.vlessx.xyz&type=ws&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.31.16.14:2053
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@138.2.18.184:80?security=none&type=ws&path=%2Fblue#🔒 VL-WS-NONE 🇯🇵 JP-138.2.18.184:80
 vless://408e57f2-4cc4-4990-b54b-cdc900a62150@104.21.41.62:443?security=tls&sni=3ubix-turkey.mesooot.com&type=grpc&serviceName=@SobyV2ray&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.41.62:443
 vless://947391e1-408e-4ba2-8a56-05cd972082e5@104.24.176.248:8443?security=tls&sni=ri.aminivip2023.site&type=ws&host=ri.aminivip2023.site&path=/V2zed&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.176.248:8443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.160:443?security=tls&sni=hk800.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.160:443
@@ -83,3 +81,5 @@ vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.235.51:443?security=tls&sni=
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@77.37.33.30:2083?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F#🔒 VL-WS-TLS 🇩🇪 DE-77.37.33.30:2083
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.219.239:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.219.239:80
 vless://775213ac-3976-439a-8977-3277c0e4735d@62.72.166.67:2096?security=tls&sni=fq521.6789.cloudns.be&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇯🇴 JO-62.72.166.67:2096
+vless://e03be1d4-bd9a-45dd-a6cd-4ada8e9be94a@172.66.47.98:2053?security=tls&sni=defcjkodfvgerjifkvsdfcedfcdv78d5f4jijijjh785696.bale.bio&type=ws&host=defcjkodfvgerjifkvsdfcedfcdv78d5f4jijijjh785696.bale.bio&path=/backup&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.98:2053
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.158.127:80?type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.158.127:80

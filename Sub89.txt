@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://c0cb3c77-0674-4705-b8af-eba5c2b4ddd2@198.244.190.189:2003?security=tls&sni=uk-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇬🇧 GB-198.244.190.189:2003
-vless://e27d074b-c210-4ab3-9c26-29f8fbb84bfd@141.193.213.31:2087?security=tls&sni=xnxv2ray.mioRay.cfd&type=grpc&serviceName=Telegram:@XNXV2RAY,Telegram:@XNXV2RAY,Telegram:@XNXV2RAY,Telegram:@XNXV2RAY,Telegram:@XNXV2RAY,Telegram:@XNXV2RAY,Telegram:@XNXV2RAY&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇺🇸 US-141.193.213.31:2087
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@188.42.145.90:8443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇷🇺 RU-188.42.145.90:8443
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@162.159.252.255:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.252.255:443
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.46.58:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.46.58:443
@@ -83,3 +81,5 @@ vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@104.166.125.210:443?security=tls&sn
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.24.0.5:443?security=tls&sni=D6F1d970.oxnEt-iR-xZu871.pAgeS.Dev&type=ws&host=D6F1d970.oXNet-iR-xZu871.PAGES.dEv&path=%2FyT9XekbLn2VyH8p3%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.0.5:443
 vless://278e6bb1-6fa6-4173-8722-cda26ec6f789@172.67.134.153:443?security=tls&sni=solve.butterfly-galaxy.com&type=ws&path=%2Fsolve&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.134.153:443
 vless://01ab9337-f478-4765-9534-88f009f83ddb@130.61.23.77:443?security=tls&sni=aut022.ylks.link&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇩🇪 DE-130.61.23.77:443
+vless://bec166db-9d36-40b9-8d32-77f04ddb601c@172.67.191.228:8443?security=tls&sni=chanal-selinc-selinc-selinc-selinc.kttkuhoj.workers.dev&type=ws&host=chanal-selinc-selinc-selinc-selinc.kttkuhoj.workers.dev&path=vless-ws%2F%3Fed%3D2048&fp=edge&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.191.228:8443
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.21.46.106:443?security=tls&sni=3k.pureboy.eu.org&type=ws&host=3k.pureboy.eu.org&path=%2F%3Fed%3D2048&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.46.106:443

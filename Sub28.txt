@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://713e999f-9590-4419-e49c-5a682ec5d4f7@104.24.196.20:2083?security=tls&sni=ch.RxV2ray.space&type=grpc&serviceName=@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.24.196.20:2083
-vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.222.78:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.222.78:443
 vless://9e6e7697-9fb8-4136-8f05-bcfd82284020@172.67.142.248:2087?security=tls&sni=nafas.hackers85.sbs&type=ws&host=nafas.hackers85.sbs&path=%2F%40hackers85&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.142.248:2087
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.18.14.166:80?security=none&type=ws&path=/blue#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.14.166:80
 vless://c32b1429-92aa-4be7-912e-4d63b0a31fc7@172.64.198.219:443?security=tls&sni=can01.nimserver.top&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.64.198.219:443
@@ -83,3 +81,5 @@ vless://b37cbd22-7fff-4279-99a4-9d77b9e633b3@185.146.173.32:2052?security=none&t
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.22.14.132:2096?security=tls&sni=jp010.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.14.132:2096
 vless://1bb051c0-54f5-46c9-b26d-0b7c01abfa22@172.67.180.39:80?security=none&type=ws&host=product.diitreal.shop&path=/@Speedent_Net,@Speedent_Net,@Speedent_Net,@Speedent_Net#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.180.39:80
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.130.234:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.130.234:443
+vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@45.66.129.123:32680?security=tls&sni=159d770e-fd74-4069-a73b-fe6ececa7951.f82aee4c-752c-4b0c-9793-380d4d76435c.ddnsgeek.com&type=ws&path=%2Fpasge.pages.dev%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇯🇵 JP-45.66.129.123:32680
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.26.13.140:2087?security=tls&sni=jp010.ylks01.eu.org&type=ws&path=/blue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.13.140:2087
