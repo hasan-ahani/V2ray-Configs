@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@185.148.106.92:443?security=tls&sni=bIA-PaiN-BacHE.PAGeS.dev&type=ws&host=bia-Pain-BAcHE.PAgEs.DeV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-185.148.106.92:443
+vless://538cc8f2-55ef-422b-ba47-f3c2433f5a7c@188.75.79.5:2025?security=none&type=tcp&host=playstation.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-188.75.79.5:2025
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@108.165.216.244:443?security=tls&sni=jp306.ylks01.eu.org&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-108.165.216.244:443
 vless://48864f63-00ea-4d57-89a0-60a3e67349e8@162.159.192.147:443?security=tls&sni=4DD8153F.TabAN-PANEl.pAgES.deV&type=ws&host=4dd8153f.taBaN-PAnel.PaGEs.DeV&path=%2FcteToIXfYbLPZBOv%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.192.147:443
 vless://8d06ea66-2372-48cd-848f-c48af4814690@104.18.61.189:2052?security=none&type=ws&host=穆罕默德侯赛因freeforiran.net.v2rayng.8.8.8.8.free.skullbasher.wex.wex.wex.wex.mf.ssd.youcantplayinvoker.tech.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.61.189:2052
@@ -81,5 +83,3 @@ vless://48198295-b7ba-4b5c-8d85-085d55a6c869@104.16.143.237:8443?security=tls&sn
 vless://c838f915-90f6-4b3b-9b89-e8cce84d4f26@104.21.52.182:80?security=none&type=ws&host=6.v2ray.bm.nedayevarzesh.ir.newsless.ir.xn--48jyb6ec1ad.tech.irapulsplus.sbs&path=%2Ftelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.52.182:80
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.10.99:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.10.99:80
 vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@184.169.181.217:443?security=tls&sni=5ae52850-e7f0-481c-8cff-6c1ed17fd9f1.91f1a2e9-9f15-4330-996f-0b6bc7c8fa5b.theworkpc.com&type=ws&path=%2Fpasge.pages.dev%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇺🇸 US-184.169.181.217:443
-vless://a80d0548-04ca-49e8-b218-9acb51d99e3a@104.21.23.243:2087?security=tls&sni=le.bo3kot.com&type=grpc&serviceName=@V2rayNgMat,@V2rayNgMat,@V2rayNgMat,@V2rayNgMat,@V2rayNgMat&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.23.243:2087
-vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@31.43.179.178:443?security=tls&sni=v300.ylkszy.eu.org&type=ws&path=/?proxyip#🔒 VL-WS-TLS 🇰🇿 KZ-31.43.179.178:443

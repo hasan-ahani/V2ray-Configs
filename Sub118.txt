@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://ed0dc7de-364f-4228-abf6-b027890bcd93@162.159.153.2:2053?security=tls&sni=cf.yicanny.com&type=ws&path=/?ed#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.2:2053
+vless://5a2f17fc-5b8e-4091-8754-6e5783f335c9@104.21.220.87:80?security=none&type=ws&host=bia-to-channel4.unlimiteddev.shop&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.220.87:80
 vless://1d1a7193-61a9-4fc1-9778-dd517cf9f919@172.67.136.208:2082?security=none&type=ws&host=workerr.mcgrooge12.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.136.208:2082
 vless://f8276ba9-be27-43bf-8b04-a948c984640d@185.146.173.32:2087?security=tls&sni=aa-vpnwedbaz-tls.sibanimage.ir.&type=grpc&serviceName=@vpnwedbazTEL@vpnwedbazTEL@vpnwedbazTEL@vpnwedbazJOIN@vpnwedbazTEL@vpnwedbazJOIN@vpnwedbazTEL@vpnwedbazTEL@vpnwedbazJOIN@vpnwedbazTEL@vpnwedbaz&fp=safari&alpn=h2#🔒 VL-GRPC-TLS 🇸🇪 SE-185.146.173.32:2087
 vless://2ca42987-551b-4494-a854-da2d9178f4cd@172.67.132.209:2087?security=tls&sni=KxQhHtGc22.zImBa-zUlA.OrG&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.132.209:2087
@@ -81,5 +83,3 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@194.36.55.45:443?security=tls&sni=c
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.213:443?security=tls&sni=kk600.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.213:443
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.221.203:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.221.203:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.19.247:443?security=tls&sni=PPal03.BaiLEY-ziemANN.WorkErS.DEv&type=ws&host=PPaL03.BAIlEY-zIemAnn.workerS.DeV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.19.247:443
-vless://5ff336d5-9bea-41e9-a863-76722984da87@31.216.62.133:8080?security=tls&sni=rxopu1289.q.rxteam.ir&type=tcp&allowInsecure=1#🔒 VL-TCP-TLS 🇮🇷 IR-31.216.62.133:8080
-vless://ba7556ea-2e96-4463-a6f2-f2ab3579a653@1.1.1.1:443?security=tls&sni=vlessct-ws-channel-vpnctvip.vpnctvip.dns-dYnaMIC.NET&type=ws&path=iranukiraniukwbpbct.majidcttls.onflashdrive.app%2FMaJiDcT%2F%3Fed&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-1.1.1.1:443

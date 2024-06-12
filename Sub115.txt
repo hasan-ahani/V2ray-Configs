@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://9098b1ea-4e5e-4594-83a2-f96be3fbefd0@104.26.13.8:2053?security=tls&sni=ssl.sg-forum.info&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.26.13.8:2053
+vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.204.146:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.204.146:443
 vless://d0729562-0f87-4bf6-989f-c8406f3895cc@104.31.16.0:2083?security=tls&sni=varda2.manwe.ir&type=ws&host=varda2.manwe.ir&path=/&fp=chrome&alpn=http/1.1,h2,h3#🔒 VL-WS-TLS 🏴‍☠️ NA-104.31.16.0:2083
 vless://cffb6eba-a33e-469f-9be0-b68cfec018e4@104.18.14.19:8880?security=none&type=ws&host=falcunargo.d369616395.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.14.19:8880
 vless://2176baeb-9d5d-463c-b55f-2a429b68edd8@185.146.173.169:2095?security=none&type=ws&host=2.V2ray.debian.org.fxp.debian.org.speedtest.net.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95%E3%82%89%E3%82%8F.mralpha-vpn.com&path=%2FTelegram-thunderv2ray%2CTelegram-thunderv2ray%2CTelegram-thunderv2ray%2CTelegram-thunderv2ray%2CTelegram-thunderv2ray%2CTelegram-thunderv2ray%2CTelegram-thunderv2ray%3Fed%3D2048#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.169:2095
@@ -81,5 +83,3 @@ vless://39d06891-ee89-4316-ae0e-3fcfb9e9714c@104.16.0.35:2052?security=none&type
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.246.77:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.246.77:80
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@63.141.128.103:443?security=tls&sni=hk800.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-63.141.128.103:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa7@172.66.46.233:2096?security=tls&sni=ed9485634jkfhggh.pages.dev&type=ws&host=ed9485634jkfhggh.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.46.233:2096
-vless://ce44db58-ed9a-49f4-86b2-99053b0b54cf@213.176.6.211:2087?security=tls&sni=nl1.anonymous011.me&type=ws&path=/#🔒 VL-WS-TLS 🇮🇷 IR-213.176.6.211:2087
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.238.228.222:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇪🇸 ES-185.238.228.222:443

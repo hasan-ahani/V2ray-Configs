@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://74ee8b58-b56f-4145-b61c-9fbc1952208a@104.20.185.180:2082?security=none&type=ws&host=sg1.vlessx.us&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.185.180:2082
+vless://678ac895-92c2-4f27-a9d4-f1a89c5f5365@91.195.110.131:2083?security=tls&sni=mositr.freenods.sbs&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇨🇴 CO-91.195.110.131:2083
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@172.67.75.194:2053?security=tls&sni=jp010.ylks01.eu.org&type=ws&path=/blue#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.75.194:2053
 vless://376b9861-2fc6-4647-959c-18185cd9c95a@104.17.50.203:443?security=tls&sni=lmn39.sbs&type=ws&host=lmn39.sbs&path=%2Ffflsws#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.50.203:443
 vless://c5a265b1-d3d7-4079-9dd2-e7d5c7da3637@188.114.96.216:80?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.96.216:80
@@ -81,5 +83,3 @@ vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@162.159.138.117:443?security=tls&sn
 vless://f5a23562-b67e-48fb-b474-09251bc1a339@104.21.46.172:2096?security=tls&sni=fv2ray.freedomfv2ray.lol&type=grpc&serviceName=@Fv2ray@Fv2ray@fv2ray@fv2ray@Fv2ray#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.46.172:2096
 vless://7cfb0575-9759-4953-846e-f55127eea2d8@104.21.89.47:2083?security=tls&sni=marketepicnode3.modernstore1.ir&type=ws&path=%2F&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.89.47:2083
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.243.183.127:80?security=none&type=ws&path=/blue#🔒 VL-WS-NONE 🇭🇰 HK-47.243.183.127:80
-vless://3c39d502-8522-41a3-8604-75f9d2360882@212.80.19.125:2087?security=none&type=tcp&host=www.speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-212.80.19.125:2087
-vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@188.114.97.7:443?security=tls&sni=current.iraniancp.fun&type=ws&host=current.iraniancp.fun&path=%2F%3Fed%3D2048&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.7:443

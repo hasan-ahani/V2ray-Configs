@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://242b7fb0-d590-57bd-9924-38092b4a8f21@172.67.212.171:2053?security=tls&sni=esetsecuritylicense.ujlqwtae.WorkErS.DEV&type=ws&host=esetsecuritylicense.ujlqwtae.WorkErS.DEV&path=vless-ws%2F%3Fed%3D2048&fp=safari&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.212.171:2053
+vless://0ff7e8e6-85ee-4039-9a2f-ee78af70ea46@172.67.153.247:2096?security=tls&sni=Joinbede.mainv2ray.US.KG&type=grpc&serviceName=@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray&fp=chrome&alpn=h3,h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.153.247:2096
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.19.174.68:2096?security=tls&sni=jp111.ylks01.eu.org&type=ws&path=/blue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.174.68:2096
 vless://38535031-ccc3-4a94-bd54-c68806486406@104.26.1.72:443?security=tls&sni=furina.yaemiko.cloudns.org&type=ws&host=furina.yaemiko.cloudns.org&path=%2Fed%3F%3D2560&fp=random&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.1.72:443
 vless://4705c695-0722-4f19-cf99-6a03f6840f86@104.21.96.5:443?security=tls&sni=0321.gexiao1994.top&type=ws&path=/cfvless#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.96.5:443
@@ -81,5 +83,3 @@ vless://9500134e-7c06-49b8-97ab-8cc43828f0f3@104.24.140.135:80?security=none&typ
 vless://16e3cc71-c99f-4ab5-bff3-6247ca6cbd80@104.25.254.188:2096?security=tls&sni=forward333.maryam1500.top&type=grpc&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.25.254.188:2096
 vless://81a6fec4-037f-4a43-87f5-0f130308f456@185.211.58.105:80?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.211.58.105:80
 vless://feb31976-2a9d-40ec-e346-d9d7fcd38027@172.67.221.169:443?security=tls&sni=behemoth.wavap50279.workers.dev&type=ws&host=behemoth.wavap50279.workers.dev&path=/downloader/30836&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.221.169:443
-vless://6f14bc84-0813-41c5-8a35-9eff603b03aa@104.19.247.91:8880?security=none&type=ws&host=Daily-ConfigsV2rayGmSix6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.vigilantecollection.com.&path=%2FTel%3A%40Daily_ConfigsTel%3A%40Daily_ConfigsTel%3A%40Daily_ConfigsTel%3A%40Daily_ConfigsTel%3A%40Daily_Configs#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.247.91:8880
-vless://fdbfe0b4-6064-44ca-ade9-14335db73fd6@108.162.193.107:443?security=tls&sni=MoHa2.SsSAbZi.Com&type=ws&host=MoHa2.SsSAbZi.Com&path=/drnlws&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.193.107:443

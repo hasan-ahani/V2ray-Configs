@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://3c39d502-8522-41a3-8604-75f9d2360882@212.80.19.125:2087?security=none&type=tcp&host=www.speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-212.80.19.125:2087
+vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@188.114.97.7:443?security=tls&sni=current.iraniancp.fun&type=ws&host=current.iraniancp.fun&path=%2F%3Fed%3D2048&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.7:443
 vless://a5a11bd7-2d09-43d0-8468-febdf3eccf31@89.116.161.1:2087?security=tls&sni=LiV2raye.yoyoyo.ir&type=ws&host=LiV2raye.yoyoyo.ir.&path=%252F%2540LIGHTNING6-TEL--%2540LIGHTNING6-TEL--%2540LIGHTNING6-TEL--%2540LIGHTNING6-JOIN-%2540LIGHTNING6-TEL--%2540LIGHTNING6-JOIN-%2540LIGHTNING6-TEL-%2540LIGHTNING6-TEL--%2540LIGHTNING6-JOIN-%2540LIGHTNING6-TEL--%2540LIGHTNING6-%2540LiV2ray%253Fed%253D1024#🔒 VL-WS-TLS 🇱🇹 LT-89.116.161.1:2087
 vless://198d91bf-b239-4588-ac19-70b398003e0c@172.67.142.187:2096?security=tls&sni=selincchanelselinc.jdyece.workers.dev&type=ws&host=selincchanelselinc.jdyece.workers.dev&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.142.187:2096
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@47.236.144.208:2087?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇸🇬 SG-47.236.144.208:2087
@@ -81,5 +83,3 @@ vless://13be7b64-8a46-4724-9cf2-4c7eddd4c56b@104.21.75.237:2096?security=tls&sni
 vless://23cdfd97-b0b7-4dd7-94f6-bd269df94fb9@104.20.18.168:8443?security=tls&sni=hello-world-blue-glade-f401.vmjisexa.workers.Dev&type=ws&host=hello-world-blue-glade-f401.vmjisexa.workers.dEV&path=%2FTelegram%3A%40v2raylandd-Telegram%3A%40v2raylandd-Telegram%3A%40v2raylandd%3Fed%3D1024#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.18.168:8443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@172.66.47.7:443?security=tls&sni=jp005.ylks01.eu.org&type=ws&path=/blue#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.7:443
 vless://5f15d381-a992-45c8-aaac-5bf46f23c4d0@104.26.3.105:80?security=none&type=ws&host=nikmard.speedvadd.fun&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.3.105:80
-vless://85ac002e-cda3-42b4-8a6a-3997ff664d76@172.67.221.237:2087?security=tls&sni=dl.parhamtraberthos.ir&type=ws&host=dl.parhamtraberthos.ir&path=%2Fnew_proxy_channel%3Fed%3D2560&fp=random&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.221.237:2087
-vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.120.154:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.120.154:443

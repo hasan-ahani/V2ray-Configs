@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-ss://ODliM2NiYmEtZTZhYy00ODVhLTk0ODEtOTc2YTA0MTVlYWI5Og==@172.66.47.161:443#🚩CF | 🟢 | ss | @DeamNet_Proxy | 5
-ss://ZTRlN2IxNDktOGJkOC00MjY2LThjYmItMDk4NzYwNGRiYzg3Og==@104.19.223.37:443#🚩CF | 🟢 | ss | @DeamNet_Proxy | 6
 ss://YzllYjBmZTktMDlkZC00OTVjLWExMWEtMGYyZTU4MGM5Yzk0Og==@172.67.132.56:2096#🚩CF | 🟢 | ss | @DeamNet_Proxy | 7
 ss://ZTRlN2IxNDktOGJkOC00MjY2LThjYmItMDk4NzYwNGRiYzg3Og==@185.193.28.89:443#🇫🇷FR | 🟢 | ss | @DeamNet_Proxy | 8
 ss://MzdkMGIxNTEtMDIzZS00NzI5LTk5OTQtNDVhN2Q5ZGY1ZmQxOg==@172.64.146.118:8443#🚩CF | 🟢 | ss | @DeamNet_Proxy | 10
@@ -83,3 +81,5 @@ vless://6eccc692-3876-41a8-cfb9-65da484f097e@gcore.com:80?path=/V2ray?ed=2048&se
 vless://0c437c6f-7de9-4949-84ef-5f2969f5e722@[2a01:4f8:1c1b:7df::1]:443?mode=gun&security=reality&encryption=none&authority=&pbk=AVesZ9rUbwnESVl0YSPs98oWmZbXlhDVjR4ssJAw6yw&fp=chrome&spx=/&type=grpc&serviceName=@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN&sni=gsmarena.com&sid=32d7a82d#❔XX | 🔴 | vless | @customv2ray | 14
 vless://8a3acd18-09f2-4b27-979c-5c3338f586a9@188.114.98.224:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#🚩CF | 🔴 | vless | @UnlimitedDev | 0
 vless://8a3acd18-09f2-4b27-979c-5c3338f586a9@join-unlimiteddev-vpn.unlimiteddev.site:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8080&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#🇸🇪SE | 🔴 | vless | @UnlimitedDev | 1
+vless://80fa5052-99ab-41cd-85f2-94b346c56674@188.114.98.224:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#🚩CF | 🔴 | vless | @UnlimitedDev | 2
+vless://80fa5052-99ab-41cd-85f2-94b346c56674@join-unlimiteddev-vpn.unlimiteddev.site:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8080&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#🇸🇪SE | 🔴 | vless | @UnlimitedDev | 3

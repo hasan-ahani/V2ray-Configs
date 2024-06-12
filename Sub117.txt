@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://d48a8e46-26fe-44f7-a278-97ada3f96cd7@95.164.62.230:80?security=none&type=ws&host=be2-vless.sshmax.xyz&path=%2Fvless#🔒 VL-WS-NONE 🇧🇪 BE-95.164.62.230:80
+vless://ddb00f36-d544-4e35-afbf-64297aa68d03@188.114.96.1:2083?security=tls&sni=sisana.muzres.WORKerS.DeV&type=ws&host=sisana.muzres.WORKerS.DeV&path=vless-ws%2F%3Fed%3D2048&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.1:2083
 vless://678ac895-92c2-4f27-a9d4-f1a89c5f5365@185.146.173.12:443?security=tls&sni=mositr.freenods.sbs&type=ws&path=twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.12:443
 vless://cec345db-3d0f-4b59-8499-f9780491b717@104.17.242.82:80?type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co.&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.242.82:80
 vless://701d667b-e0b8-4601-9b95-4fd12ddbbb13@172.67.174.201:2095?security=none&type=ws&host=mahdi.net.346ewfsgv2ray.comxn--adge2535.g1ewkjd.kajdwoek2qop.lavazem456di.lavazemjanebicoffee.IR&path=%2Fi3V2ray-i3V2ray-i3V2ray-i3V2ray-i3V2ray%2Fi3V2rayi3V2rayi3V2ray%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.174.201:2095
@@ -81,5 +83,3 @@ vless://172c168f-c087-479f-b594-63dbf14aa504@172.66.44.243:443?security=tls&sni=
 vless://d37ba74f-44b5-4236-b0a1-fed4ac9531a0@104.25.191.117:2095?security=tls&sni=vipch-ipp.poshakbany.ir&type=grpc&serviceName=--------------%40Lax_vpn------------------%D8%B1%DB%8C+%D8%A7%DA%A9%D8%B4%D9%86+%DB%8C%D8%A7%D8%AF%D8%AA%D9%88%D9%86+%D9%86%D8%B1%D9%87%F0%9F%8C%BA&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.25.191.117:2095
 vless://39d06891-ee89-4316-ae0e-3fcfb9e9714c@104.16.3.35:2052?security=none&type=ws&host=worker-reza2.wbfoppa.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.3.35:2052
 vless://af2a307f-ef0e-425a-f35b-2d7c0d11f7d6@45.82.138.34:8080?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇮🇷 IR-45.82.138.34:8080
-vless://ed0dc7de-364f-4228-abf6-b027890bcd93@162.159.153.2:2053?security=tls&sni=cf.yicanny.com&type=ws&path=/?ed#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.2:2053
-vless://5a2f17fc-5b8e-4091-8754-6e5783f335c9@104.21.220.87:80?security=none&type=ws&host=bia-to-channel4.unlimiteddev.shop&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.220.87:80
