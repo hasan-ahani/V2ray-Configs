@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@162.159.138.179:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.138.179:80
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.118.75:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.118.75:80
 vless://d9bc8efd-2fd2-4028-8c68-a561ec4802f4@104.17.148.22:8880?security=none&type=ws&host=2.v2ray.debian.org.fxp.debian.org.speedtest.net.ãããªããã.taje-kabir.online.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.148.22:8880
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.208.146:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.208.146:443
@@ -82,4 +83,3 @@ vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@45.59.185.130:25176?security=tls&sn
 vless://d9c2a43c-8f02-4d79-a006-161ce108ace0@172.67.198.105:443?security=tls&sni=Digi.radiotehran.org&type=grpc&serviceName=@DigiV2ray,@DigiV2ray,@DigiV2ray,@DigiV2ray,@DigiV2ray,@DigiV2ray,@DigiV2ray,@DigiV2ray,@DigiV2ray,@DigiV2ray,@DigiV2ray,@DigiV2ray,@DigiV2ray,@DigiV2ray,@DigiV2ray,@DigiV2ray,@DigiV2ray,@DigiV2ray,@DigiV2ray&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.198.105:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@8.219.202.130:80?security=none&type=ws&path=/blue#🔒 VL-WS-NONE 🇸🇬 SG-8.219.202.130:80
 vless://3fefc100-faed-43ad-b087-d47ddfe75121@172.67.147.162:443?security=tls&sni=s92qb78mnok7yh5ykir1ayugvc49aqclfapp4qmqvixdxyd8crqppthcfpsjmm2.esmpy.workers.Dev&type=ws&host=s92qb78mnok7yh5ykir1ayugvc49aqclfapp4qmqvixdxyd8crqppthcfpsjmm2.esmpy.workers.Dev&path=%2FPath%2FTelegram@freevirgoolnet%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.147.162:443
-vless://c75fdfb7-1ce9-47c5-8c41-d0071fc3cd49@14.102.228.218:2095?security=none&type=ws&host=ios.net-server.com-mehdi.com-bmi.ir-servers.com-hetzner.net-console.monitor.bmibank-melli-saderat-tejarat-mehr-sepah-Price-New-null-site-an.com&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-14.102.228.218:2095

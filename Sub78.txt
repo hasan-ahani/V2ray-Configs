@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://7f113923-9429-48b8-d5dd-b2906a583dfe@104.21.74.214:443?security=tls&sni=frr.kanal-tel-nufilter.site&type=grpc&serviceName=Telegram%3A@NUFiLTER-Telegram%3A@NUFiLTER-Telegram%3A@NUFiLTER-Telegram%3A@NUFiLTER-Telegram%3A@NUFiLTER-Telegram%3A@NUFiLTER-Telegram%3A@NUFiLTER-Telegram%3A@NUFiLTER-Telegram%3A@NUFiLTER-Telegram%3A@NUFiLTER-Telegram%3A@NUFiLTER&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.74.214:443
 vless://9cf47438-4a75-47bf-8f86-102644470797@104.16.219.243:8080?security=none&sni=nl16.vlessx.us&type=ws#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.219.243:8080
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@45.80.111.229:443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇩🇪 DE-45.80.111.229:443
 vless://b75b3034-36ab-4979-beae-3d02db1b11ec@104.31.16.77:443?security=tls&sni=always-online1.lp-airdrop.top&type=ws&host=always-online1.lp-airdrop.top#🔒 VL-WS-TLS 🏴‍☠️ NA-104.31.16.77:443
@@ -82,4 +83,3 @@ vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.64.130.15:443?security=tls&sni=
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@160.153.0.22:443?security=tls&sni=mRARsHa-sHAItAANm0Th3rS-iNStincT-ChaLl3nGeRs.PAGES.DEV&type=ws&path=%2Fxp1jaightp2hpopv%3Fed#🔒 VL-WS-TLS 🇺🇸 US-160.153.0.22:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.16.3.189:443?security=tls&sni=gOdZillA-mR-DaRKarSha-ONETOpKIng.PaGEs.dEV&type=ws&host=GodZiLla-Mr-darkarsha-ONeTOPKING.pAGes.DEv&path=%2FhmBvkyQIpkFvHI5p%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.3.189:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.99.200:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.99.200:80
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@162.159.138.179:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.138.179:80

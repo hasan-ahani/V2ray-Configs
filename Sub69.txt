@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://319d602e-6e67-49e4-a608-3ac665cd402c@173.245.58.202:2096?security=tls&sni=arsurf.arkarain-co.WorKeRS.Dev&type=ws&host=arsurf.arkarain-co.WorKeRS.Dev&path=vless-ws%2F%3Fed%3D2048&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-173.245.58.202:2096
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.22.37.243:2087?security=tls&sni=jp010.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.37.243:2087
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.218.93:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.218.93:443
 vless://fb710ee0-f2d3-421c-8556-d23e5075f57e@104.17.3.247:443?security=tls&sni=bpb-worker-panel-chf.pages.dev&type=ws&host=bpb-worker-panel-chf.pages.dev&path=%2F%3Fed%3D2048&fp=randomized&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.3.247:443
@@ -82,4 +83,3 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.30.185:80?security=none&type
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.189.245:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.189.245:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.139.111:2083?security=tls&sni=baipiao1.curly-train.pages.dev&type=ws#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.139.111:2083
 vless://1c699aec-4ae5-4ac6-8d47-277e5ed1690e@172.66.47.105:443?security=tls&sni=cloudpage100.pages.dev.&type=ws&host=cloudpage100.pages.dev.&path=%2F%3Fed%3D2048&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.105:443
-vless://5a045a1e-d392-4c5b-b658-b57e4ea01b4f@104.21.18.147:443?security=tls&sni=virapn-d-3be7883659a1d2ba4c545dfdf85b61eda1.asiatechnicalwest.ir.&type=grpc&serviceName=@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.18.147:443
