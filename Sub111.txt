@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@43.129.171.137:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇭🇰 HK-43.129.171.137:443
+vless://310f3ef3-9b2f-4fc8-8438-30c68d834978@104.16.4.189:2083?security=tls&sni=dash.cloudzoom.online&type=grpc&serviceName=LikeVPN&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.4.189:2083
+vless://c1978266-958c-4aa3-ba34-7eacac75aca1@104.18.14.19:443?security=tls&sni=bpb-worker-panel3.pages.dev&type=ws&host=bpb-worker-panel3.pages.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.14.19:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@162.159.136.235:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.136.235:80
 vless://4045c6b7-1d53-4574-98cd-df21db40b0dc@78.46.243.6:2053?security=tls&sni=itcenteriran.blog&type=ws&host=104.16.61.8&path=%2Fp%3D19&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🇩🇪 DE-78.46.243.6:2053
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.64.225:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.64.225:443
@@ -80,6 +83,3 @@ vless://42d197f0-99ac-4837-9493-6bc416f951b9@66.235.200.1:2096?security=tls&sni=
 vless://4cc278b5-74b7-5d49-8f78-a412058cdbc3@104.16.30.14:443?security=tls&sni=satoshi.mom&type=ws&host=public.satoshi.mom&path=/&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.30.14:443
 vless://93340d90-2fe4-474f-9e12-bf6e090d9cf5@104.18.12.229:8443?security=tls&sni=pardazeshvpn-tg50.pages.dev&type=ws&host=pardazeshvpn-tg50.pages.dev&path=%2FTelegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN-Telegram%3A@PARDAZESHVPN%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.12.229:8443
 vless://3c1c3562-8545-46e5-a98a-cd0b9ca52df5@104.21.78.190:443?security=tls&sni=joinmahdiserver.pydqrxd.workers.dev&type=ws&host=joinmahdiserver.pydqrxd.workers.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.78.190:443
-vless://7e29f2e2-e0ec-47c5-94ec-38ef90f7a106@104.18.14.19:2053?security=tls&sni=qopyz.oxnetirz11.ONfLashDrIVE.app&type=ws&host=qopyz.oxnetirz11.ONfLashDrIVE.app&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.14.19:2053
-vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.31.16.109:443?security=tls&sni=current.iraniancp.click&type=ws&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.31.16.109:443
-vless://9e67f15c-178f-494c-a843-f371e3b3fa5d@198.41.223.60:8080?security=none&type=ws&path=%2F%3Fed#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.223.60:8080

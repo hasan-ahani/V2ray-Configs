@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://ebf043a0-76f0-4194-a93f-e9c8c10fb662@104.23.99.63:80?security=none&type=ws&host=rayanconf.irayanconfig.ir#🔒 VL-WS-NONE 🏴‍☠️ NA-104.23.99.63:80
+vless://a9348e7c-b216-46ab-a1e4-44e777974d6e@104.21.66.152:2053?security=tls&sni=beest.turkalphapro.ir&type=grpc&serviceName=beest.turkalphapro.ir&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.66.152:2053
+vless://11e5b771-1d4d-4362-b4b5-e39e75981f01@104.21.60.171:443?security=tls&sni=3e8B07A5.PUb000bpB.PAGes.Dev&type=ws&host=3e8B07A5.PUb000bpB.PAGes.Dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.60.171:443
 vless://118e23b4-1990-4edc-a35b-004aa46f96ee@104.26.13.8:80?security=none&type=ws&host=configt-channels.sg-forum.info&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.13.8:80
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@188.42.145.159:2096?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇷🇺 RU-188.42.145.159:2096
 vless://bef03301-0488-4ecd-8561-78d95d27ef4e@185.146.173.92:443?security=tls&sni=de3.v2vless.xyz&type=ws&host=de3.v2vless.xyz&path=%2Fvless+%40hopev2ray%2C%40hopev2ray%2C%40hopev2ray%2C%40hopev2ray%2C%40hopev2ray+ed%3D2048#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.92:443
@@ -80,6 +83,3 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@203.184.132.238:1520?security=tls&s
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.64.203.3:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.203.3:443
 vless://45daa3f1-7a14-107c-ac89-e086c4da899b@37.32.20.146:3333?security=none&type=tcp&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-37.32.20.146:3333
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@172.67.171.62:443?security=tls&sni=v010.ylkszy.eu.org&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.171.62:443
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@206.119.178.149:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-206.119.178.149:443
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.8:443?security=tls&sni=a.ssll.gay&type=ws&path=twitterfreecodes#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.8:443
-vless://01ab9337-f478-4765-9534-88f009f83ddb@47.236.80.110:2053?security=tls&sni=aut332.ylks.link&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇬 SG-47.236.80.110:2053
