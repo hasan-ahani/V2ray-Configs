@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.177.68:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.177.68:80
+vless://f1d07cfe-315b-41e7-bbf3-d12d9b61e5e8@172.67.145.251:2083?security=tls&sni=aminnode.epicmarket-cm.ir&type=ws&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.145.251:2083
+vless://d6470e59-749d-4a80-96ea-1d9c48174f54@69.84.182.50:8080?security=none&type=ws&host=Daily-ConfigsV2rayGmSix6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.vigilantecollection.com.&path=%2FTelegram%3A%40Daily_Configs-Telegram%3A%40Daily_Configs-Telegram%3A%40Daily_Configs-Telegram%3A%40Daily_Configs-Telegram%3A%40Daily_Configs%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-69.84.182.50:8080
+vless://fa6a1a81-fcec-4a8d-895c-a7bc6c80cebe@104.26.12.54:80?security=none&type=ws&host=proxystore11.kodaksho.eu.org&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.12.54:80
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.19.147.136:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.19.147.136:80
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.65.197:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.65.197:443
 vless://d42497eb-f317-4947-9930-32a707638d4a@172.64.108.106:80?security=none&type=ws&host=sacha.sachaii.%C3%BCzeildfj.fie4939.nursiii.shop&path=%2F%40Netmassk#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.108.106:80
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.26.13.140:2083?security=tls&sni=jp010.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.13.140:2083
@@ -78,8 +83,3 @@ vless://d64e0999-246e-40eb-ad1f-16221a9a3dfd@140.99.233.192:443?security=tls&sni
 vless://0757ab97-5f10-408e-9d4a-d68811cdf864@188.114.97.0:2095?security=none&type=ws&host=V2ray-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.97.0:2095
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.22.14.132:2083?security=tls&sni=jp010.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.14.132:2083
 vless://35eeca70-7160-4136-9071-ce587820fd7e@104.18.53.172:443?security=tls&sni=x2.gem1.cfd&type=ws&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.53.172:443
-vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.207.209:443?security=tls&sni=SANdWoRM.pAgEs.dEV&type=ws&host=SAndWORm.pagES.dEV&path=/p3Ad1ICVNWGhbzlV&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.207.209:443
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.214.233:80?security=none&type=ws&host=us2.rtacg.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.214.233:80
-vless://fd667cc8-7f4e-4ec4-ba4e-46d6209c128c@162.159.240.154:2096?security=tls&sni=re6.v2logy.xyz&type=grpc&fp=chrome&alpn=http%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.240.154:2096
-vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.169.105:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.169.105:443
-vless://ba34bf8f-e046-5934-a81e-b1612fb2d9b7@172.66.45.4:2095?security=none&type=ws&host=sugar.sugarbreakervpn.WorKeRs.Dev&path=vless-ws%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.45.4:2095

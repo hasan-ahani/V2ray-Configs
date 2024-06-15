@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://d480372f-6596-4177-ae85-28af07adf1cb@104.21.37.97:2053?security=tls&sni=selinc--5--selinc--5--selinc.muosqv.workers.dev&type=ws&host=selinc--5--selinc--5--selinc.muosqv.workers.dev&path=vless-ws%2F%3Fed%3D2048&fp=safari&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.37.97:2053
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@162.159.152.115:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.152.115:80
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.157.224:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.157.224:80
+vless://47700326-972e-4c3f-bda7-de3d9844e408@104.21.68.219:2083?security=tls&sni=foxc.berkeart.ir&type=grpc&host=foxc.berkeart.ir#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.68.219:2083
+vless://2e2d448c-0e95-4aff-b4ec-e5cad8699429@104.21.4.238:443?security=tls&sni=telegram-vpnhttpinjectorfree-5.buffi.workers.dev&type=ws&host=telegram-vpnhttpinjectorfree-5.buffi.workers.dev&path=%2F%3Fed%3D2048&fp=randomized&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.4.238:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@162.159.142.75:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.142.75:80
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@35.201.203.106:443?security=tls&sni=tg.dns68.cloudns.nz&type=ws&host=tg.dns68.cloudns.nz&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇹🇼 TW-35.201.203.106:443
 vless://bcbb2ad9-e760-4d0b-bf1a-80f8a173e3de@95.179.248.215:443?security=tls&sni=narcodd.numallaf.shop&type=grpc&serviceName=@narcod_ping&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇩🇪 DE-95.179.248.215:443
@@ -78,8 +83,3 @@ vless://3ff3a373-ceb3-4847-8f93-5cb628700353@172.67.171.96:2096?security=tls&sni
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@162.159.133.225:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.133.225:80
 vless://25d0ee2d-4190-52be-b892-45811c6ba210@104.18.202.232:2053?security=tls&sni=folani.iiipok.WOrKErS.DEv&type=ws&host=folani.iiipok.WOrKErS.DEv&path=%2Fvless-ws%2F%3Fed%3D2048&fp=random&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.202.232:2053
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.18.5.237:2096?security=tls&sni=jp010.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.5.237:2096
-vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.140.84:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.140.84:443
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@188.114.96.18:2053?security=tls&sni=edgood.king361.cf&type=ws&host=edgood.king361.cf&path=Path%2FTelegram..proxy_mtm%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.18:2053
-vless://82489b7a-3176-49c5-a13c-c160e1270479@104.31.16.65:80?security=none&type=ws&host=farbod.farbod.farbod.themiddlemarket.store&path=%2Ftetegram-%40notcoin_byr%2Ctetegram-%40notcoin_byr%2Ctetegram-%40notcoin_byr%2Ctetegram-%40notcoin_byr%2Ctetegram-%40notcoin_byr%2Ctelegram-%40notcoin_byr%2Ctetegram-%40notcoin_byr%2Ctetegram-%40notcoin_byr%2Ctetegram-%40notcoin_byr%2CV2ray%2Ctetegram-%40notcoin_byr%2Ctelegram-%40notcoin_byr%2Ctelegram-%40notcoin_byr%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.31.16.65:80
-vless://0a48e54b-659e-4b3c-95e6-14da04954f25@172.67.68.157:80?security=none&type=ws&host=ir.proxystorepanel.eu.org&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.68.157:80
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.168.173:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.168.173:80
