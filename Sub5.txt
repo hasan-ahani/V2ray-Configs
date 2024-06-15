@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://telegram-id-directvpn@13.49.12.115:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇸🇪SE | 🟢 | trojan | @DirectVPN | 16
+trojan://telegram-id-directvpn@44.241.4.177:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇺🇸US | 🟢 | trojan | @DirectVPN | 17
 vmess://eyJhZGQiOiIxNDYuNTkuMTQ3LjI1MCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiI4MjQ0N2FiZi1kY2I5LTQwOGEtOWNhNi03OWUwYTc2OThkMDgiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI5Nzc2Iiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGViXHVkODNjXHVkZGY3RlIgfCBcdWQ4M2RcdWRmZTIgfCB2bWVzcyB8IEB2MnJheV9vdXRsaW5laXIgfCAwIn0=
 vmess://eyJ2IjoiMiIsImFkZCI6IjE4My4yMzguMjAyLjE3MyIsInBvcnQiOiI1MTE5MyIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjoiNjQiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IlwvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzQ04gfCBcdWQ4M2RcdWRmZTIgfCB2bWVzcyB8IEBtZnRpemkgfCAwIn0=
 vmess://eyJ2IjoiMiIsImFkZCI6ImNmZC5pcGEubW9uc3RlciIsInBvcnQiOiI4MDgwIiwiaWQiOiJlNjA4ZjFiYi1lMjZkLTRiYzItOGY2OC1hYzBlOGEwNzNjN2YiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiaGthcHBlci5hMXQudG9wIiwicGF0aCI6IlwvaXRkb2c/ZWQ9MjU2MCIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOFVTIHwgXHVkODNkXHVkZmUyIHwgdm1lc3MgfCBAbWZ0aXppIHwgMSJ9
@@ -13,25 +15,24 @@ vmess://eyJ2IjoiMiIsImFkZCI6IjE4My4yMzIuMTk5LjI4IiwicG9ydCI6IjE1NjA1IiwiaWQiOiJh
 vmess://eyJ2IjoiMiIsImFkZCI6ImhrLndpc2gubWwiLCJwb3J0IjoiMjA1MiIsImlkIjoiYzI4NmRhYTItNTlkZS00NTVjLThkZTgtZWMwMzJiNmNlMmU4IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6ImhrMi53aXNoLm1sIiwicGF0aCI6IlwvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4VVMgfCBcdWQ4M2RcdWRmZTIgfCB2bWVzcyB8IEBtZnRpemkgfCAxNCJ9
 vmess://eyJ2IjoiMiIsImFkZCI6Im0uY25tamluLm5ldCIsInBvcnQiOiIxNjYzMiIsImlkIjoiMmI4Y2ZiN2ItZDNlNy00NTI1LTg0MTgtZTEzYTliOGZkNzNiIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6ImRjZWYyNzgyMzM0MzRhMTVjMzU4N2VmOTk4ZGQxMTlkLm1vYmdzbGIudGJjYWNoZS5jb20iLCJwYXRoIjoiXC8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwicHMiOiJcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZjNDTiB8IFx1ZDgzZFx1ZGZlMiB8IHZtZXNzIHwgQG1mdGl6aSB8IDE1In0=
 vmess://eyJ2IjoiMiIsImFkZCI6IjE4My4yNDAuMTc5LjE5NSIsInBvcnQiOiIxNTYwMyIsImlkIjoiYWFhYWFhYWEtYWFhYS1hYWFhLWFhYWEtZGFhYWFhYWFhYWFkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiXC8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwicHMiOiJcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZjNDTiB8IFx1ZDgzZFx1ZGZlMiB8IHZtZXNzIHwgQG1mdGl6aSB8IDE4In0=
-ss://ODI2ZTQzZDItZGJlOS00MWE2LWJiZjgtM2FlZDJmOTNmNWQ0Og==@visa.com:443#🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 0
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#🇬🇧GB | 🟢 | ss | @DeamNet_Proxy | 1
-ss://MTdhN2JmOTctZmVmNS00MTAxLWE1YzUtN2M3MzBmYWJlZWVlOg==@www.speedtest.net:443#🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 2
-vmess://eyJ2IjoiMiIsImFkZCI6IjEwNC4yMS4yMC40NSIsInBvcnQiOiI4MCIsImlkIjoiMjVmMzVlNTgtYWFiMi00NDhlLTg3MWItZmE3NDlhZDA2NTQ1IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoidWsxLXZtZXNzLnZwbmhhY2sueHl6IiwicGF0aCI6Ilwvdm1lc3MiLCJwcyI6Ilx1ZDgzZFx1ZGVhOUNGIHwgXHVkODNkXHVkZmUyIHwgdm1lc3MgfCBARGVhbU5ldF9Qcm94eSB8IDMifQ==
-ss://MWRlNDA3MjUtM2U2Yi00MmIxLTllM2UtMzMwYzg1MmQwNDllOg==@pardazeshvpn-tg56.pages.dev:8443#🇲🇾MY | 🟢 | ss | @DeamNet_Proxy | 4
-vmess://eyJ2IjoiMiIsImFkZCI6IjE3Mi42Ny4xNzIuODgiLCJwb3J0IjoiODA4MCIsImlkIjoiYjU1MWFhMjItMjJhZi0xMWVlLWI4ZDgtZjIzYzkzMmViNjhkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0Ijoib2lpY3R3Lnl5ZHNpaS5jb20iLCJwYXRoIjoiXC8iLCJwcyI6Ilx1ZDgzZFx1ZGVhOUNGIHwgXHVkODNkXHVkZmUyIHwgdm1lc3MgfCBARGVhbU5ldF9Qcm94eSB8IDUifQ==
-ss://OTMzNDBkOTAtMmZlNC00NzRmLTllMTItYmY2ZTA5MGQ5Y2Y1Og==@104.27.0.136:443#🚩CF | 🟢 | ss | @DeamNet_Proxy | 6
-ss://MGI2ZjJjY2ItZDYxYi0xMWVlLWFhYTgtMDA1MDU2MDNlNzBkOg==@104.21.49.18:443#🚩CF | 🟢 | ss | @DeamNet_Proxy | 7
-ss://OGI3ZWZhY2YtOGU4My00ZTUxLWFiNTUtMTI2M2JhY2NkNGIyOg==@www.speedtest.net:443#🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 8
-ss://M2M5NWMzZWItNTIyYS00NmEwLWE0OWEtMTRlMTBjMDNmYmY4Og==@172.67.180.15:443#🚩CF | 🟢 | ss | @DeamNet_Proxy | 9
-ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@104.18.79.173:80#🚩CF | 🟢 | ss | @DeamNet_Proxy | 10
-ss://YzZlYTQwN2QtOWYzZi00NjI1LTlkZGEtNDAxODM3ZjBmNjhmOg==@104.16.61.8:80#🚩CF | 🟢 | ss | @DeamNet_Proxy | 11
-ss://ZDdiYmZlODMtYjAzNy00OGFlLTk5NmMtYjk4ZWQwNDQxYmEyOg==@188.114.97.141:443#🚩CF | 🟢 | ss | @DeamNet_Proxy | 12
-vmess://eyJ2IjoiMiIsImFkZCI6IjE3Mi42Ny4xNzAuMTMiLCJwb3J0IjoiNDQzIiwiaWQiOiI3NjIyMWJmYi1lOTJmLTRlODAtODFjNS02ZmU0OGY1MGFjMGIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJnbHdlaWRmLnNicyIsInBhdGgiOiJcL2xpbmt3cyIsInRscyI6InRscyIsInNuaSI6Imdsd2VpZGYuc2JzIiwicHMiOiJcdWQ4M2RcdWRlYTlDRiB8IFx1ZDgzZFx1ZGZlMiB8IHZtZXNzIHwgQERlYW1OZXRfUHJveHkgfCAxMyJ9
-ss://NzFkY2U5YWYtZDc5MC00YjM4LWExZmQtNzc0NWUwOTIzYmQzOg==@104.21.16.169:443#🚩CF | 🟢 | ss | @DeamNet_Proxy | 14
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:811#🇨🇦CA | 🟢 | ss | @DeamNet_Proxy | 15
-ss://MTdhN2JmOTctZmVmNS00MTAxLWE1YzUtN2M3MzBmYWJlZWVlOg==@104.18.202.232:443#🚩CF | 🟢 | ss | @DeamNet_Proxy | 16
-ss://ODliM2NiYmEtZTZhYy00ODVhLTk0ODEtOTc2YTA0MTVlYWI5Og==@188.114.96.2:443#🚩CF | 🟢 | ss | @DeamNet_Proxy | 17
-ss://Y2NhOWE4ZTctYjZjNi00MmRhLWIyMzAtNjAxODc5NjU1Y2VhOg==@selinc-----8------selinc----8---selinc.payfhu.workers.dev:2083#🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 18
+ss://NWRjMjNiYmEtMGUzMS00MDE2LTg5NWYtNTE3Y2U0YjdjY2MwOg==@glassiest.toptechnonews.com:443#🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 0
+vmess://eyJ2IjoiMiIsImFkZCI6IjE3Mi42Ny4xNzAuMTAzIiwicG9ydCI6IjQ0MyIsImlkIjoiNzYyMjFiZmItZTkyZi00ZTgwLTgxYzUtNmZlNDhmNTBhYzBiIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiZ2x3ZWlkZi5zYnMiLCJwYXRoIjoiXC9saW5rd3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJnbHdlaWRmLnNicyIsInBzIjoiXHVkODNkXHVkZWE5Q0YgfCBcdWQ4M2RcdWRmZTIgfCB2bWVzcyB8IEBEZWFtTmV0X1Byb3h5IHwgMSJ9
+ss://ODliM2NiYmEtZTZhYy00ODVhLTk0ODEtOTc2YTA0MTVlYWI5Og==@172.66.47.161:443#🚩CF | 🟢 | ss | @DeamNet_Proxy | 2
+ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@ip.skk.moe:80#🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 3
+ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@2.58.87.221:16899#🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 4
+ss://ZjFkZDEwMjAtN2IzZi00OTFkLWE5ZTMtMGIyY2I5YTFkYWZmOg==@solid.footballlovernews.com:443#🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 5
+ss://ODliM2NiYmEtZTZhYy00ODVhLTk0ODEtOTc2YTA0MTVlYWI5Og==@ppal03.mr-lola-raynor.workers.dev:443#🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 6
+ss://ZThiODdkZDktY2M4Zi00MDdjLWExZjMtYTU2NDAwOWZlNmVlOg==@172.66.47.130:443#🚩CF | 🟢 | ss | @DeamNet_Proxy | 7
+ss://MTdhN2JmOTctZmVmNS00MTAxLWE1YzUtN2M3MzBmYWJlZWVlOg==@104.18.202.232:443#🚩CF | 🟢 | ss | @DeamNet_Proxy | 8
+ss://NDNlMDBlNGMtMjMxNi00ZGM5LTgyNjItY2VmMzE4ODZkYzU2Og==@172.67.178.12:443#🚩CF | 🟢 | ss | @DeamNet_Proxy | 9
+ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@104.21.239.174:80#🚩CF | 🟢 | ss | @DeamNet_Proxy | 10
+ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@198.41.219.239:80#🚩CF | 🟢 | ss | @DeamNet_Proxy | 11
+ss://MjcyOTZiODYtZTUyZC00MjkzLTg4MTQtMjBmMDQxYzI5MWExOg==@172.67.169.190:2087#🚩CF | 🟢 | ss | @DeamNet_Proxy | 12
+ss://NTg1NzlhNTQtZDI2MS00YTNjLWExNjEtZjk0NDZhMzA3MzQzOg==@104.21.13.85:443#🚩CF | 🟢 | ss | @DeamNet_Proxy | 13
+ss://ODkxZDk5OWYtNzg2NC00NWM1LThkYjktM2M2OWYzNWRjYjk2Og==@172.67.148.150:2083#🚩CF | 🟢 | ss | @DeamNet_Proxy | 14
+ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@104.18.66.207:80#🚩CF | 🟢 | ss | @DeamNet_Proxy | 15
+vmess://eyJ2IjoiMiIsImFkZCI6IjE4Mi4xNi4xLjE5NCIsInBvcnQiOiI4MCIsImlkIjoiMDBhMWRhMTQtZDU1Zi01Zjc1LWUzNDYtNzliOTg1ZTFhNzIzIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiaHJnZHZwbi5mbHljZG5lZGM1NS52aXAiLCJwYXRoIjoiXC9vcHRcL3ZpZGVvXC9pbWFnZXMiLCJwcyI6Ilx1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmMEhLIHwgXHVkODNkXHVkZmUyIHwgdm1lc3MgfCBARGVhbU5ldF9Qcm94eSB8IDE2In0=
+ss://ZDdiYmZlODMtYjAzNy00OGFlLTk5NmMtYjk4ZWQwNDQxYmEyOg==@188.114.97.141:443#🚩CF | 🟢 | ss | @DeamNet_Proxy | 17
 vmess://eyJhZGQiOiIxNzIuNjcuMTcwLjEzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnbHdlaWRmLnNicyIsImlkIjoiNzYyMjFiZmItZTkyZi00ZTgwLTgxYzUtNmZlNDhmNTBhYzBiIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rd3MiLCJwb3J0IjoiNDQzIiwic2N5IjoiYXV0byIsInNuaSI6Imdsd2VpZGYuc2JzIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIiwicHMiOiJcdWQ4M2RcdWRlYTlDRiB8IFx1ZDgzZFx1ZGZlMiB8IHZtZXNzIHwgQG9uZWNsaWNrdnBua2V5cyB8IDAifQ==
 vmess://eyJhZGQiOiIxMDQuMjEuNDQuMTA2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ4bWl2aWRlby5jZmQiLCJpZCI6IjkzZWE0ODZhLWJhZGEtNDJhNC1hYzM4LWQwODhiMzIwZmExZSIsIm5ldCI6IndzIiwicGF0aCI6IlwvbGlua3dzIiwicG9ydCI6IjQ0MyIsInNjeSI6ImF1dG8iLCJzbmkiOiJ4bWl2aWRlby5jZmQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIiLCJwcyI6Ilx1ZDgzZFx1ZGVhOUNGIHwgXHVkODNkXHVkZmUyIHwgdm1lc3MgfCBAb25lY2xpY2t2cG5rZXlzIHwgMSJ9
 trojan://ypDt8RkT7J@138.199.57.185:43118?type=tcp&security=tls&sni=eiety.phooeyunfold.com&alpn=http/1.1&fp=random#🇨🇦CA | 🔴 | trojan | @oneclickvpnkeys | 2
@@ -82,4 +83,3 @@ vless://28948c8d-0ec7-40ab-85e0-f71172be14ce@185.146.173.58:8080?path=/&security
 vless://2a3263e2-891c-4446-b474-a8c63acb6e25@cloud.kinononva.top:2096?path=/&security=tls&encryption=none&alpn=http/1.1&host=LB10.family2036.com&type=ws&sni=LB10.family2036.com#🇸🇪SE | 🔴 | vless | @prrofile_purple | 174
 vless://2a3263e2-891c-4446-b474-a8c63acb6e25@cloud.kinononva.top:2096?path=/&security=tls&encryption=none&alpn=http/1.1&host=nonon3.family2036.com&type=ws&sni=nonon3.family2036.com#🇸🇪SE | 🔴 | vless | @prrofile_purple | 175
 vless://2a3263e2-891c-4446-b474-a8c63acb6e25@cloud.kinononva.top:2096?path=/&security=tls&encryption=none&alpn=http/1.1&host=LB4.family2036.com&type=ws&sni=LB4.family2036.com#🇸🇪SE | 🔴 | vless | @prrofile_purple | 176
-vmess://eyJhZGQiOiIxNzIuNjcuMTcxLjQ5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJObzEudm1lc3Muc2l0ZS4iLCJpZCI6IjEwYzU4MGU0LWY4M2ItNDJmMS04ZTZhLTI1ZmM4YWRkNGRhNyIsIm5ldCI6IndzIiwicGF0aCI6IiIsInBvcnQiOiI4MCIsInNjeSI6Im5vbmUiLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJwcyI6Ilx1ZDgzZFx1ZGVhOUNGIHwgXHVkODNkXHVkZmUyIHwgdm1lc3MgfCBAcHJyb2ZpbGVfcHVycGxlIHwgMTc3In0=
