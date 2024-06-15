@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://16ecb6dd-f6ca-57c6-928c-9634d3171f8e@ip-cf.hukinghumans-655.WoRkeRS.dEV:2053?path=vless-ws/?ed=2048&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=ip-cf.hukinghumans-655.WoRkeRS.dEV&fp=firefox&type=ws&sni=ip-cf.hukinghumans-655.WoRkeRS.dEV#🇺🇸US | 🔴 | vless | @iP_CF | 2
+trojan://16ecb6dd-f6ca-57c6-928c-9634d3171f8e@ip-cf.hukinghumans-655.WorkeRs.dEv:2053?path=trojan-ws/?ed&security=tls&alpn=h2&host=ip-cf.hukinghumans-655.WorkeRs.dEv&fp=randomized&type=ws&sni=ip-cf.hukinghumans-655.WorkeRs.dEv#🇺🇸US | 🔴 | trojan | @iP_CF | 3
+trojan://8270f450-7143-548a-b311-4eeefe44f773@icy-mountain-1847.hukinghumans.WORkerS.DeV:8443?path=trojan-ws/?ed&security=tls&alpn=h3,h2,http/1.1&host=icy-mountain-1847.hukinghumans.WORkerS.DeV&fp=360&type=ws&sni=icy-mountain-1847.hukinghumans.WORkerS.DeV#❔XX | 🔴 | trojan | @iP_CF | 4
 vless://8270f450-7143-548a-b311-4eeefe44f773@icy-mountain-1847.hukinghumans.wOrkErS.deV:8443?path=vless-ws/?ed=2048&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=icy-mountain-1847.hukinghumans.wOrkErS.deV&fp=chrome&type=ws&sni=icy-mountain-1847.hukinghumans.wOrkErS.deV#❔XX | 🔴 | vless | @iP_CF | 5
 vless://8270f450-7143-548a-b311-4eeefe44f773@icy-mountain-1847.hukinghumans.WORkErs.dEV:80?path=vless-ws/?ed=2048&security=none&encryption=none&alpn=h3,h2,http/1.1&host=icy-mountain-1847.hukinghumans.WORkErs.dEV&fp=360&type=ws&sni=icy-mountain-1847.hukinghumans.WORkErs.dEV#❔XX | 🔴 | vless | @iP_CF | 6
 vless://6ed1d959-1130-4a06-899d-70bc3d68321a@103.184.44.104:8880?path=/@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-@LiV2ray?ed=1024&security=none&encryption=none&host=V2ray.B.LAMBOoOghtYooUUYh.ir.&type=ws#🇨🇳CN | 🔴 | vless | @mehrosaboran | 0
@@ -80,6 +83,3 @@ vless://8d13529a-e8ac-4f9f-941b-06696630f7a7@wgap.mesalzadani.pw:44123?type=grpc
 vless://b45d5e6f-beb2-4712-8990-a78f6deea53a@us-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Vless%20WS%20@V2rayStore
 vless://3b0d2976-a844-4181-858a-9ab9b26b5bfc@tr-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20Vless%20WS%20@V2rayStore
 vless://f65f00f9-f906-43a7-a45a-5de7eb1b342b@kz-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20Vless%20WS%20@V2rayStore
-vless://c0cb3c77-0674-4705-b8af-eba5c2b4ddd2@uk-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20Vless%20WS%20@V2rayStore
-vless://ddfaf7cb-ed2f-4ab8-8a76-32f7ad15eb02@de-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Vless%20WS%20@V2rayStore
-vless://10af440a-e560-4b03-b9a4-8e7cd055e5a4@de2-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Vless%20WS%20@V2rayStore
