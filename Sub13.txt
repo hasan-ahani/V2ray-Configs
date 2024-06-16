@@ -3,6 +3,15 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+trojan://ca6fc79c-1274-4db0-9f57-a68962902f4b@de-full.privateip.net:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Trojan%20@V2rayStore
+trojan://31bd5674-078a-4248-bc87-f609c4993ee8@de2-full.privateip.net:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Trojan%20@V2rayStore
+trojan://e0210d0d-0546-46b1-a5b6-34653255b799@au-full.privateip.net:443#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20Trojan%20@V2rayStore
+trojan://b4c35226-f245-4123-8c49-cbf02dca0d50@it-full.privateip.net:443#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20Trojan%20@V2rayStore
+trojan://9419d0ab-49dc-4df8-af4f-66290e03b7ec@ua-full.privateip.net:443#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20Trojan%20@V2rayStore
+trojan://77bbd84d-6d9b-4ede-b319-3bbbd4f2c1ab@es-full.privateip.net:443#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20Trojan%20@V2rayStore
+trojan://6a5d8ead-477a-4bc8-99ce-d9532a3ec5f1@sg-full.privateip.net:443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Trojan%20@V2rayStore
+trojan://a3711469-9ab3-46b3-8164-7e3fd1971b78@sg2-full.privateip.net:443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Trojan%20@V2rayStore
+trojan://b3965d2d-3b82-45cc-927b-1336aca3f3fe@sg3-full.privateip.net:443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Trojan%20@V2rayStore
 trojan://1abf2c21-4d65-40aa-93c7-1c5dec5525a9@id-full.privateip.net:443#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%20Trojan%20@V2rayStore
 trojan://a9d7807c-b0f9-464a-addd-f5746181b9a2@hk-full.privateip.net:443#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20Trojan%20@V2rayStore
 trojan://a44b0bc3-7632-4c30-8fad-50baaece7677@nl-full.privateip.net:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20Trojan%20@V2rayStore
@@ -74,12 +83,3 @@ vmess://eyJhZGQiOiAiZnIzLWZ1bGwucHJpdmF0ZWlwLm5ldCIsICJhaWQiOiAiMCIsICJob3N0Ijog
 vmess://eyJhZGQiOiAibmwtdjJyYXkuZnJlZXZtZXNzLmNvbSIsICJhaWQiOiAiMCIsICJhbHBuIjogImgyLGh0dHAvMS4xIiwgImhvc3QiOiAiIiwgImlkIjogImI1YTIyMTMzLWIxMjMtNGE1Zi04ZjQwLTI0OGRlNjhjMmU5OCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMjA4MyIsICJwcyI6ICIlRjAlOUYlODclQjMlRjAlOUYlODclQjElMjBOZXRoZXJsYW5kcyUyME1vYml0ZWwlMjBTZXJ2ZXIlMjAwMyUyMEBWMnJheVN0b3JlIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogInRscyIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
 vmess://eyJhZGQiOiAia3otdjJyYXkuaXByYWNldnBuLmNvbSIsICJhaWQiOiAiMCIsICJhbHBuIjogImgyLGh0dHAvMS4xIiwgImhvc3QiOiAiIiwgImlkIjogImYyNjIzYmUxLWI3YjktNDFkNi1hM2RmLTM0YzUzMzhlMzc0OCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMjA4MyIsICJwcyI6ICIlRjAlOUYlODclQjAlRjAlOUYlODclQkYlMjBLYXpha2hzdGFuJTIwTW9iaXRlbCUyMFNlcnZlciUyMDA0JTIwQFYycmF5U3RvcmUiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
 vmess://eyJhZGQiOiAianAtdjJyYXkuaXByYWNldnBuLmNvbSIsICJhaWQiOiAiMCIsICJhbHBuIjogImgyLGh0dHAvMS4xIiwgImhvc3QiOiAiIiwgImlkIjogIjEyYjUxYjdkLTQ5ZTEtNGY0MS04ZmU5LWUzZWM2NTRmYjUwZSIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjIwODMiLCAicHMiOiAiJUYwJTlGJTg3JUFGJUYwJTlGJTg3JUI1JTIwSmFwYW4lMjAwJTIwQFYycmF5U3RvcmUiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiaHR0cCIsICJ2IjogIjIifQ==
-vmess://eyJhZGQiOiAiY2EtdjJyYXkuaXByYWNldnBuLmNvbSIsICJhaWQiOiAiMCIsICJhbHBuIjogImgyLGh0dHAvMS4xIiwgImhvc3QiOiAiIiwgImlkIjogImQ4ZjA4MDYxLWIwNTAtNGZlMi04Zjk5LWNmM2IwNDg0NmMzNSIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiNDQzIiwgInBzIjogIiVGMCU5RiU4NyVBOCVGMCU5RiU4NyVBNiUyMENhbmFkYSUyMCUyMEBWMnJheVN0b3JlIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogInRscyIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
-
-vmess://eyJhZGQiOiJodHRwczovL2dpdGh1Yi5jb20vQUxJSUxBUFJPL3YycmF5TkctQ29uZmlnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IkZyZWUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQzMyIsInBzIjoi8J+SgPCfmI4gUHJvamVjdCBCeSBBTElJTEFQUk8iLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-ss://eyJhZGQiOiJodHRwczovL2dpdGh1Yi5jb20vQUxJSUxBUFJPL3YycmF5TkctQ29uZmlnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IkZyZWUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQzMyIsInBzIjoi8J+SgPCfmI4gUHJvamVjdCBCeSBBTElJTEFQUk8iLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-vless://c064eb24-643c-405f-a222-043d29e151bf@188.114.96.3:443?path=%2FTELEGRAM-PROXY_MTM%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=FaRAhDibA.pAgEs.dEv&fp=randomized&type=ws&sni=faRAHDIba.pagES.DEV#👉🆔 @v2ray_configs_pool`
-vless://1a94747b-8901-4812-ba23-7eb44cc1162f@188.114.96.3:443?path=%2FTelegram-%40proxy_mtm%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=kIngOFIRAN.PAGes.DEv&fp=randomized&type=ws&sni=kingOfIRaN.Pages.DEV#👉🆔 @v2ray_configs_pool`
-vless://95e4ad83-b412-46ac-9d1c-bec1ebf21cec@185.146.173.92:2095?path=%2F&security=none&encryption=none&host=V2ray-_-_-_-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&type=ws#👉🆔 @v2ray_configs_pool`
-vless://61d26955-59ca-4f46-bf67-5408200497cb@maz.maznet.cfd.:2083?path=@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=join20.maznet.cfd.&fp=chrome&type=ws&sni=join20.maznet.cfd#👉🆔 @v2ray_configs_pool`
-vless://cc8b6cfa-0520-44dd-a781-1fbd8b5f35e8@zula.ir.:8080?path=@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&security=none&encryption=none&host=maz.%E5%83%8F%E9%B8%9F%E4%B8%80%E6%A0%B7%E8%87%AA%E7%94%B1.online.&type=ws#👉🆔 @v2ray_configs_pool`
