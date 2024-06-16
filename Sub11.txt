@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://94d17cfe-3697-4a9c-afd9-dfb9137c5a3f@es-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20Vless%20WS%20@V2rayStore
-vless://328861dd-b949-4e19-9988-c53b07620646@sg-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Vless%20WS%20@V2rayStore
-vless://8bf15470-19d5-43c6-8084-bf0a6178d066@sg2-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Vless%20WS%20@V2rayStore
 vless://cd37e48f-b356-4bc2-9104-c4ed5b4abe8c@sg3-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Vless%20WS%20@V2rayStore
 vless://dee483c6-13a7-45e4-85cb-2c32de13c5bf@id-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%20Vless%20WS%20@V2rayStore
 vless://d9ac84b0-7e0d-4fac-bccf-dee40aecb2df@hk-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20Vless%20WS%20@V2rayStore
@@ -83,3 +80,6 @@ vmess://eyJhZGQiOiAid3d3LnNwZWVkdGVzdC5uZXQiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAi
 vmess://eyJhZGQiOiAibmwtZnVsbC5wcml2YXRlaXAubmV0IiwgImFpZCI6IDAsICJob3N0IjogIm5sLWZ1bGwucHJpdmF0ZWlwLm5ldCIsICJpZCI6ICI4ZjVlZDZkMy00NWVjLTRlNzItODA5Ny0yYjhmMTc5ZWU4N2MiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL1JBQ0VWUE4iLCAicG9ydCI6IDQ0MywgInBzIjogIiVGMCU5RiU4NyVCMyVGMCU5RiU4NyVCMSUyMFRoZSUyME5ldGhlcmxhbmRzJTIwVm1lc3MlMjBAVjJyYXlTdG9yZSIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byJ9
 vmess://eyJhZGQiOiAiMTA0LjE2LjYxLjgiLCAiYWlkIjogMCwgImhvc3QiOiAiaHlmaGhnLmphZG92YWg5Nzcud29ya2Vycy5kZXYiLCAiaWQiOiAiOTUwZGI2YWEtNDkyNi00NjE2LTgxNmUtZWMwMzEyZGNiODdiIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9qYWhma2poYS5jZmQvbGlua3dzIiwgInBvcnQiOiA4MDgwLCAicHMiOiAiJUYwJTlGJTg3JUE4JUYwJTlGJTg3JUE2JTIwQ2FuYWRhJTIwVm1lc3MlMjBAVjJyYXlTdG9yZSIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwgInNuaSI6ICJoeWZoaGcuamFkb3ZhaDk3Ny53b3JrZXJzLmRldiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byJ9
 vmess://eyJhZGQiOiAiMTA0LjE5LjQ0LjE3NCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJob3N0IjogImFtZDIuNzIwMjA4Lnh5eiIsICJpZCI6ICIzZmRmOWQ0OC01NzhhLTQyZGMtOWZkZC0wZGZjZWZhM2QwYzUiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLz9lZD0yMDQ4JlRlbGVncmFtXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIEBXYW5nQ2FpXzgiLCAicG9ydCI6ICI4MDgwIiwgInBzIjogIiVGMCU5RiU4NyVBOCVGMCU5RiU4NyVBNiUyMENhbmFkYSUyMFZtZXNzJTIwQFYycmF5U3RvcmUiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
+ss://aes-256-gcm:82ec15cd-bd54-41cd-af31-fd32f33a3909@us-full.privateip.net:8443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Shadowsocks%20@V2rayStore
+ss://aes-256-gcm:b830cf90-4d07-4899-aaec-9e454caf34b6@tr-full.privateip.net:8443#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20Shadowsocks%20@V2rayStore
+ss://aes-256-gcm:665abb10-45be-4020-9b58-094b24422645@kz-full.privateip.net:8443#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20Shadowsocks%20@V2rayStore
