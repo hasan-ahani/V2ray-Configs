@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://fb710ee0-f2d3-421c-8556-d23e5075f57e@108.162.192.79:443?path=/?ed=2048&security=tls&encryption=none&alpn=http/1.1&host=bpb-worker-panel-chf.pages.dev&type=ws&sni=bpb-worker-panel-chf.pages.dev#🚩CF | 🔴 | vless | @ShadowProxy66 | 20
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.2:443?path=/oyafdnkpgfcx0bjg?ed=2048&security=tls&encryption=none&host=miumiUMadReKoSE.pAgES.dEv&type=ws&sni=miumiUMadReKoSE.pAgES.dEv#🚩CF | 🔴 | vless | @ShadowProxy66 | 21
 vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@104.18.202.232:443?path=/?ed=2560&security=tls&encryption=none&host=bpb-worker-panel-h5f.pages.dev&type=ws&sni=bpb-worker-panel-h5f.pages.dev#🚩CF | 🔴 | vless | @ShadowProxy66 | 22
 vless://ffc92ce8-a173-58ec-bd62-2ef7ee4d675c@104.16.223.104:80?path=vless-ws/?ed=2560&security=none&encryption=none&host=worker-wild-sun-f6f8.jimena.worKerS.dev&type=ws#🚩CF | 🔴 | vless | @ShadowProxy66 | 23
 vless://2cd27152-8950-47c9-96cc-52529501b0a5@185.146.173.58:8080?path=/ServerNett&security=none&encryption=none&host=severv.servernet.fun.&type=ws#🇸🇪SE | 🔴 | vless | @ServerNett | 0
@@ -81,5 +83,3 @@ vless://ecc19b72-2cc8-4690-b23d-960d3e3c6d40@172.64.146.118:8443?path=/?ed=2048&
 trojan://ypDt8RkT7J@138.199.57.185:43118?security=tls&alpn=http/1.1&headerType=none&fp=random&type=tcp&sni=eiety.phooeyunfold.com#🇨🇦CA | 🟢 | trojan | @VmessProtocol | 2
 trojan://ypDt8RkT7J@169.150.206.186:43118?security=tls&alpn=http/1.1&headerType=none&fp=random&type=tcp&sni=tpmem.phooeyunfold.com#🇩🇪DE | 🟢 | trojan | @VmessProtocol | 5
 trojan://ypDt8RkT7J@151.115.83.178:43118?security=tls&alpn=http/1.1&headerType=none&fp=random&type=tcp&sni=eimna.phooeyunfold.com#🇵🇱PL | 🟢 | trojan | @VmessProtocol | 6
-trojan://ypDt8RkT7J@185.180.13.70:43118?security=tls&alpn=http/1.1&headerType=none&fp=random&type=tcp&sni=earya.phooeyunfold.com#🇺🇸US | 🟢 | trojan | @VmessProtocol | 7
-vless://9a9cd928-36da-4486-bfd0-42ef6b312b3b@104.168.107.230:4342?security=reality&encryption=none&pbk=nLDsqH0iqy2tsJS62RP-viiKwJoGAcCq5rGh6hKnGFU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.who.int&sid=ba345106595e9c3c#🇺🇸US | 🟢 | vless | @VmessProtocol | 8
