@@ -3,16 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.172:443?security=tls&sni=tjjd.yzyx1.v6.army&type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.172:443
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.67:2096?security=tls&sni=tjjd.yzyx1.v6.army&type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.67:2096
-trojan://3c91d857-2d40-39b9-81c0-f6adde8037ff@141.11.108.8:4583?sni=cuvip.doubledou.win#🔒 TR-TCP-NA 🇫🇷 FR-141.11.108.8:4583
-trojan://auto@104.21.72.108:443?security=tls&sni=esetsecuritylicense1.cxlrazo.workers.dev&type=ws&host=esetsecuritylicense1.cxlrazo.workers.dev&path=%2F%3Fed%3D2560&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.72.108:443
-trojan://05003b7a-8f03-41d5-b696-0119e8376a20@217.182.76.235:443?security=tls&sni=t6.teslacdn2.live&type=tcp&host=t6.teslacdn2.live#🔒 TR-TCP-TLS 🇫🇷 FR-217.182.76.235:443
-trojan://10f87a8e-a6f6-319d-a895-8310d326ecce@8.217.193.174:20897?security=tls&sni=hkhe02.bcloudv.cyou&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇭🇰 HK-8.217.193.174:20897
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.107:2087?security=tls&sni=tjjd.yzyx1.v6.army&type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.107:2087
-trojan://a2c8194b-fcfd-4c39-a6bd-31ea9f4ea671@5.135.235.163:443?security=tls&sni=upload.soft98.download&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇫🇷 FR-5.135.235.163:443
-trojan://6455f944-7c07-4ab0-b88f-440e581f41d9@182.209.240.254:443?#🔒 TR-TCP-NA 🇰🇷 KR-182.209.240.254:443
-trojan://0cb2cd1f-870b-485c-914a-60aba39eed39@82.192.82.227:443?#🔒 TR-TCP-NA 🇳🇱 NL-82.192.82.227:443
 trojan://telegram-VPNHTTPIinjectorfree@104.18.4.250:443?security=tls&sni=telegram-vpnhttpinjectorfree-016.judeen650.workers.dev&type=ws&host=telegram-vpnhttpinjectorfree-016.judeen650.workers.dev&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.4.250:443
 trojan://telegram-id-directvpn@18.153.227.153:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-18.153.227.153:22222
 trojan://2dbd2a10-9512-4b60-84e6-5d9926a9fe5b@104.18.202.232:2083?security=tls&sni=laenatbar.seyedalikhameneibinamous.site&type=grpc&serviceName=OVmkPBATL0FOwZU9iYzyeZwbq&fp=chrome&alpn=h2#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.18.202.232:2083
@@ -83,3 +73,13 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZjMwZGE1NC0zMTdmLTQ3MjYtOThiZC04YmM4ZWM4MTQ
 ss://NjZhNzYwOWEtMjE0My00NjVjLWI2OTAtNzhkY2ZhZDYyOTljOg==@162.159.130.35:443#🔒 SS-TCP-NA 🏴‍☠️ NA-162.159.130.35:443
 ss://ZTZhMDQ3ZjAtNzM0Yi00YmQ3LTgyYWEtMzY3ZjJkODhmNGE0Og==@104.21.94.125:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.94.125:443
 ss://NzBmNWQzYjgtN2QzMS00ZDdkLTk0NjctZTQzNzUyZDY2ZmNhOg==@172.67.134.202:2096#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.134.202:2096
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.75.137.71:8080#🔒 SS-TCP-NA 🇺🇸 US-38.75.137.71:8080
+ss://OTYyYTczM2QtMjYxNC0wYjliLTdmZmUtOWFjOTJmZmVhOGViOg==@104.21.36.71:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.36.71:443
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@217.182.198.219:6697#🔒 SS-TCP-NA 🇩🇪 DE-217.182.198.219:6697
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.114.114.208:5003#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.208:5003
+ss://ZWFkNmI3NGItYzE1Ni01YjJkLThmOWEtOWZjMWE4M2E1MzFlOg==@172.67.205.175:2087#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.205.175:2087
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@162.19.59.166:443#🔒 SS-TCP-NA 🇫🇷 FR-162.19.59.166:443
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@23.157.40.83:443#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.83:443
+ss://ZWRhZGUyMjQtYWIyNS00NmUwLWE0MWItYjQxNWIxODJhNTlkOg==@173.245.49.27:443#🔒 SS-TCP-NA 🏴‍☠️ NA-173.245.49.27:443
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.75.137.66:2376#🔒 SS-TCP-NA 🇺🇸 US-38.75.137.66:2376
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.162.200.225:9090#🔒 SS-TCP-NA 🇨🇦 CA-23.162.200.225:9090
