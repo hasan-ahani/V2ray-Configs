@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vmess://eyJhZGQiOiAiZGUyLWZ1bGwucHJpdmF0ZWlwLm5ldCIsICJhaWQiOiAwLCAiaG9zdCI6ICJkZTItZnVsbC5wcml2YXRlaXAubmV0IiwgImlkIjogIjEwYWY0NDBhLWU1NjAtNGIwMy1iOWE0LThlN2NkMDU1ZTVhNCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvUkFDRVZQTiIsICJwb3J0IjogNDQzLCAicHMiOiAiJUYwJTlGJTg3JUE5JUYwJTlGJTg3JUFBJTIwR2VybWFueSUyMFZtZXNzJTIwQFYycmF5U3RvcmUiLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8ifQ==
 vmess://eyJhZGQiOiAiZXMtZnVsbC5wcml2YXRlaXAubmV0IiwgImFpZCI6IDAsICJob3N0IjogImVzLWZ1bGwucHJpdmF0ZWlwLm5ldCIsICJpZCI6ICI5NGQxN2NmZS0zNjk3LTRhOWMtYWZkOS1kZmI5MTM3YzVhM2YiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL1JBQ0VWUE4iLCAicG9ydCI6IDQ0MywgInBzIjogIiVGMCU5RiU4NyVBQSVGMCU5RiU4NyVCOCUyMFNwYWluJTIwVm1lc3MlMjBAVjJyYXlTdG9yZSIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byJ9
 vmess://eyJhZGQiOiAiNDUuMTQuMjQ0LjEzMyIsICJpZCI6ICI2Y2ViNjQ1Ni02MjY0LTRlODEtYjUwNC00ZGFkYjFjZDBhMGIiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogMjAyNCwgInBzIjogIiVGMCU5RiU4NyVCMyVGMCU5RiU4NyVCMSUyMFByZW1pdW0lMjBQUkVNSVVNJTIwJTIwQFYycmF5U3RvcmUiLCAidGxzIjogIm5vbmUiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
 vless://5fb1fdf4-3bae-42bd-fb6e-0b03dfb2ad20@de1.alphav2ray.link:443?type=grpc&serviceName=&security=tls&fp=&alpn=&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Unlimited%20PREMIUM%20%20@V2rayStore
@@ -83,3 +82,4 @@ vless://fe6b171f-0996-4cca-89b6-8bf2b7f70cb4@de-full.privateip.net:443?type=tcp&
 vless://94e0bd36-57bb-4d1c-8315-0840fe0d26b3@de2-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Vless%20TCP%20@V2rayStore
 vless://d13a1784-da0e-4038-a427-3c3ab3449cfc@au-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20Vless%20TCP%20@V2rayStore
 vless://9eb195d2-7e80-4454-9ba1-62f618ef3a28@it-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20Vless%20TCP%20@V2rayStore
+vless://1f822eb3-13bc-4632-ab2e-988942526c52@ua-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20Vless%20TCP%20@V2rayStore
