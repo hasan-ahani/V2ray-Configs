@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://0a48e54b-659e-4b3c-95e6-14da04954f25@104.26.13.54:80?security=none&type=ws&host=ir.proxystorepanel.eu.org&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.13.54:80
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@160.79.104.91:443?security=tls&sni=zdy999.kpcloud.eu.org&type=ws&path=/blue#🔒 VL-WS-TLS 🇺🇸 US-160.79.104.91:443
-vless://1ff59fad-6cc6-4714-82b1-d4af47de08eb@45.131.210.26:80?security=none&type=ws&host=DiReCt49-13-163-226.CleAnMaRk.IR&path=/DiReCt49-13-163-226-CleAnMaRk-IR#🔒 VL-WS-NONE 🇳🇱 NL-45.131.210.26:80
-vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@8.209.110.27:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🇩🇪 DE-8.209.110.27:443
-vless://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?security=none&type=ws&host=v2ra1.ecrgpk.workers.dev&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.44.135:80
-vless://5da27733-3527-479e-bb81-4c5a9c75d83f@172.67.136.246:443?security=tls&sni=viphamester.wolfmoon.ir&type=grpc&serviceName=okala.com&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.136.246:443
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.234.130:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.234.130:443
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.23.19:443?security=tls&sni=56897854.PaGeS.DEv&type=ws&host=56897854.pAGES.dEv&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.23.19:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@206.238.237.151:443?security=tls&sni=zdy999.kpcloud.eu.org&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇸🇬 SG-206.238.237.151:443
 vless://c9eb0fe9-09dd-495c-a11a-0f2e580c9c94@172.67.132.56:2096?security=tls&sni=shahabbabadii.shahab-jahanbazi79.workers.dev&type=ws&host=shahabbabadii.shahab-jahanbazi79.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.132.56:2096
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@104.16.147.11:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=TG@ZDYZ2&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.147.11:443
@@ -83,3 +75,11 @@ vless://1ff59fad-6cc6-4714-82b1-d4af47de08eb@45.131.210.23:80?security=none&type
 vless://d6b3de64-f0f8-4113-b49f-2660f3c031fb@192.9.246.112:8443?security=tls&sni=159d770e-fd74-4069-a73b-fe6ececa7951.f82aee4c-752c-4b0c-9793-380d4d76435c.ddnsgeek.com&type=ws&path=/fylink.pages.dev/proxyip#🔒 VL-WS-TLS 🇺🇸 US-192.9.246.112:8443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@130.250.137.160:2082?security=none&type=ws&path=/blue#🔒 VL-WS-NONE 🇺🇸 US-130.250.137.160:2082
 vless://f29c6d40-e612-45b1-9208-a83fbd9884a7@139.162.35.118:443?security=tls&sni=sg-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇸🇬 SG-139.162.35.118:443
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@8.218.174.118:80?security=none&type=ws&path=/blue#🔒 VL-WS-NONE 🇭🇰 HK-8.218.174.118:80
+vless://4111196d-ceb2-4eda-9ffc-2d69495dd18d@159.100.18.235:443?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇩🇪 DE-159.100.18.235:443
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@63.141.128.112:443?security=tls&sni=kk999.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-63.141.128.112:443
+vless://234b7bfa-49d6-436b-fb8b-8805503209a7@188.114.98.224:2053?security=tls&sni=sima.danesh.shop&type=grpc&serviceName=wearestand#🔒 VL-GRPC-TLS 🏴‍☠️ NA-188.114.98.224:2053
+vless://770e8a1b-980e-474d-b583-2e4e98acb854@172.67.30.171:2053?security=tls&sni=notls.11111111.eu.org&type=ws&host=notls.11111111.eu.org&path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.30.171:2053
+vless://29049ec4-bb47-42ed-b37c-eb3349f4a689@172.67.73.163:8080?security=none&type=ws&host=PanelDghSGdgh54.com.net.ir.bargo.lol.&path=/PN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.73.163:8080
+vless://29f00915-4107-491d-ba71-c9328e845a00@104.18.202.209:80?type=grpc&serviceName=Telegram#🔒 VL-GRPC-NA 🏴‍☠️ NA-104.18.202.209:80
+vless://546cfb84-120f-43db-89db-5cba033bf9dc@188.114.98.2:8880?path=/@ZEDMODEON+TEL#🔒 VL-TCP-NA 🏴‍☠️ NA-188.114.98.2:8880
