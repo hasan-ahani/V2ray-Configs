@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://95330515-8391-4ffc-9032-faa66a2d99cf@185.215.231.75:7090?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.215.231.75:7090
+vless://b3a1da8a-6ba9-45cc-9526-cf9cac13fa30@94.182.137.187:80?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇮🇷 IR-94.182.137.187:80
+vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@8.219.201.245:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🇸🇬 SG-8.219.201.245:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.193.122:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.193.122:443
 vless://dfbbc8de-8a4f-407d-8069-6de38d83c4e1@104.26.14.85:443?security=tls&sni=hdfy4c2.freeairlaines.com&type=ws&host=hdfy4c2.freeairlaines.com&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.14.85:443
 vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@141.148.232.204:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🇳🇱 NL-141.148.232.204:443
@@ -80,6 +83,3 @@ vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.192.144:443?security=tls&sn
 vless://1010501a-ca9a-479c-84d0-1308d97789b5@104.21.25.228:443?security=tls&sni=abbas-boveiry1.kisigen176.workers.dev&type=ws&host=abbas-boveiry1.kisigen176.workers.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.25.228:443
 vless://887ab474-b0d6-4628-a2a2-9d3095059881@104.20.66.92:80?security=none&type=ws&host=vv.xn--blqw2a5no5ed8cm6xw0gw2i6ooehteuz1wcw61apn4a.com.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.66.92:80
 vless://b33b8d28-14d2-4325-80e0-3331ed080b1d@162.159.134.233:2083?security=tls&sni=freev2fwfjkn.mahdi-zarei1436.workers.dev&type=ws&host=freev2fwfjkn.mahdi-zarei1436.workers.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.134.233:2083
-vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@47.236.117.48:2087?security=tls&sni=tg.dns68.cloudns.nz&type=ws&host=tg.dns68.cloudns.nz&fp=chrome#🔒 VL-WS-TLS 🇸🇬 SG-47.236.117.48:2087
-vless://aa850d80-061d-4988-931e-67e91ccfe6e7@104.17.169.114:80?security=none&type=ws&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.169.114:80
-vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@132.145.11.37:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🇬🇧 GB-132.145.11.37:443

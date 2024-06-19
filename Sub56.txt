@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://6a89dc04-7781-46fe-b35c-e14a6b6e60b8@104.21.46.150:443?security=tls&sni=TeST-TESt-tEst-tESt.PagES.DEV&type=ws&host=tEST-tesT-Test-tesT.pAgeS.DEV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.46.150:443
+vless://1ad1b334-e4c2-4694-827e-190c251d5ba2@45.144.179.106:41172?type=ws&path=/#🔒 VL-WS-NA 🇷🇺 RU-45.144.179.106:41172
+vless://cec5fd94-3ff0-4ad2-ad78-423269ce9717@80.85.242.34:8263?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-80.85.242.34:8263
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@147.78.140.63:443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=/?ed&fp=chrome#🔒 VL-WS-TLS 🇧🇬 BG-147.78.140.63:443
 vless://f3c511ab-dc15-4147-ae80-6c892d6f9ad0@146.19.21.118:443?security=tls&sni=j1us1.jsjc.sbs&type=ws&path=/jsjc/us1#🔒 VL-WS-TLS 🇱🇹 LT-146.19.21.118:443
 vless://f8e5817e-8487-4239-be14-c1ea3284719c@62.60.210.169:29098?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-62.60.210.169:29098
@@ -80,6 +83,3 @@ vless://4045c6b7-1d53-4574-98cd-df21db40b0dc@172.67.112.247:2053?security=tls&sn
 vless://5512bf69-a563-4ea7-be2b-2d14d27e6323@172.67.131.187:443?security=tls&sni=falcUNArGOo.EBf9A41066.woRkErS.DEV&type=ws&host=fALcUnaRgOO.ebf9A41066.worKErs.dEv&path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.131.187:443
 vless://1ff59fad-6cc6-4714-82b1-d4af47de08eb@188.42.88.36:80?security=none&type=ws&host=DiReCt49-13-163-226.CleAnMaRk.IR&path=/DiReCt49-13-163-226-CleAnMaRk-IR#🔒 VL-WS-NONE 🇱🇺 LU-188.42.88.36:80
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.2.133:443?security=tls&sni=www.arizona.edu&type=ws&host=ton.apple#🔒 VL-WS-TLS 🇺🇸 US-151.101.2.133:443
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.139.111:2096?security=tls&sni=baipiao1.curly-train.pages.dev&type=ws&host=baipiao1.curly-train.pages.dev&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.139.111:2096
-vless://4382206f-76cf-4571-ad80-23ea7bbd1db2@141.105.130.28:40009?security=none&type=tcp#🔒 VL-TCP-NONE 🇺🇦 UA-141.105.130.28:40009
-vless://bb8f41c4-ebfe-4210-f0d9-14a65c3e433e@193.111.236.194:8443?security=tls&sni=skyroom.online.usir.pingvps.shop&type=tcp&fp=chrome#🔒 VL-TCP-TLS 🇮🇷 IR-193.111.236.194:8443

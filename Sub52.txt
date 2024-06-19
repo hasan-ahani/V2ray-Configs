@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.18.95.235:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.95.235:80
+vless://b7452373-bbe9-4a36-baf1-d3f969387444@104.18.27.94:80?security=none&type=ws&host=canal-selinc-selinc.wlezuqx.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.27.94:80
+vless://f7b8c369-6ec0-4f8f-b0f2-96cbbb13e545@172.66.47.172:443?security=tls&sni=k5z3-1h6p-9t8R-2f4B-0W7G-3x2M-5U9d-8n1C-7E4j-6q0y-5s8v-2A9.pagES.dEv&type=ws&host=K5z3-1h6p-9t8R-2f4B-0W7g-3x2m-5u9D-8N1c-7e4J-6q0Y-5S8v-2A9.pAGeS.Dev&path=%2FsQrkf0TRRzHf8DqG%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.172:443
 vless://c15b3240-bda5-4da9-8f10-528828eeb656@85.133.178.9:2082?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-85.133.178.9:2082
 vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@8.219.42.72:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🇸🇬 SG-8.219.42.72:443
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.137.198:443?security=tls&sni=3k.pureboy.eu.org&type=ws&host=3k.pureboy.eu.org&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.137.198:443
@@ -80,6 +83,3 @@ vless://e3ed372d-dd6a-4f11-9aeb-b53fd0478577@45.12.30.16:80?security=none&type=w
 vless://ee3fda1f-d8ec-44c7-942e-7e980b0b941c@104.21.85.204:2052?security=none&type=ws&host=P.a.n.jetupnet.sbs.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.85.204:2052
 vless://1e248837-a2d0-4d87-9358-ba2a91daf6cc@104.18.6.24:8080?security=none&type=ws&host=2.v2ray.debian.org.fxp.debian.org.speedtest.net.secretshop.tech#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.6.24:8080
 vless://2a3263e2-891c-4446-b474-a8c63acb6e25@185.146.173.84:2096?security=tls&sni=lg2.nicolkidman.com&type=ws&host=lg2.nicolkidman.com&path=/&alpn=http/1.1#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.84:2096
-vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@138.2.99.97:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🇸🇬 SG-138.2.99.97:443
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.109.21.146:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-185.109.21.146:443
-vless://1010501a-ca9a-479c-84d0-1308d97789b5@172.67.134.218:443?security=tls&sni=abbas-boveiry1.kisigen176.workers.dev&type=ws&host=abbas-boveiry1.kisigen176.workers.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.134.218:443

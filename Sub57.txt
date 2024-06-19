@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.139.111:2096?security=tls&sni=baipiao1.curly-train.pages.dev&type=ws&host=baipiao1.curly-train.pages.dev&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.139.111:2096
+vless://4382206f-76cf-4571-ad80-23ea7bbd1db2@141.105.130.28:40009?security=none&type=tcp#🔒 VL-TCP-NONE 🇺🇦 UA-141.105.130.28:40009
+vless://bb8f41c4-ebfe-4210-f0d9-14a65c3e433e@193.111.236.194:8443?security=tls&sni=skyroom.online.usir.pingvps.shop&type=tcp&fp=chrome#🔒 VL-TCP-TLS 🇮🇷 IR-193.111.236.194:8443
 vless://9e248b4e-2ee5-4e68-a164-633c408c118f@104.17.42.10:443?security=tls&sni=mci.eidafemini.monster&type=ws&host=mci.eidafemini.monster&path=/G296AyPNm3AYwsQVGSKX&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.42.10:443
 vless://b4453922-b52f-422a-8cee-7cbc15ae1949@104.21.1.200:2053?security=tls&sni=f1.uspro.ir&type=httpupgrade&host=f1.uspro.ir&path=/&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-HTTPUPGRADE-TLS 🏴‍☠️ NA-104.21.1.200:2053
 vless://519d3ac5-928a-42d2-9e86-7e44added154@188.114.99.180:443?security=tls&sni=hfeew16002s.7d55ddc09b.workers.dev&type=ws&host=hfeew16002s.7d55ddc09b.workers.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.99.180:443
@@ -80,6 +83,3 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@8.218.81.14:80?security=none&type=w
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.119.132:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.119.132:443
 vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@141.144.237.163:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🇩🇪 DE-141.144.237.163:443
 vless://514d4474-fe80-45ba-9b69-0c86fe4201eb@104.25.213.81:8080?security=none&type=ws&host=su2.mahanocean.ir#🔒 VL-WS-NONE 🏴‍☠️ NA-104.25.213.81:8080
-vless://95330515-8391-4ffc-9032-faa66a2d99cf@185.215.231.75:7090?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.215.231.75:7090
-vless://b3a1da8a-6ba9-45cc-9526-cf9cac13fa30@94.182.137.187:80?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇮🇷 IR-94.182.137.187:80
-vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@8.219.201.245:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🇸🇬 SG-8.219.201.245:443
