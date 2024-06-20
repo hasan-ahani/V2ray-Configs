@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://f478a594-5882-4713-bfdc-80c3e9345bd1@146.75.73.60:80?security=none&type=ws&host=dailyconfigs.com#🔒 VL-WS-NONE 🇬🇧 GB-146.75.73.60:80
-vless://b69c29ab-1efd-e40d-b713-3deb16ac6755@62.60.210.169:11166?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-62.60.210.169:11166
-vless://4534d7c9-c5dd-490a-9f14-75245f58ae01@51.195.149.115:26475?security=none&type=tcp#🔒 VL-TCP-NONE 🇬🇧 GB-51.195.149.115:26475
-vless://ea040230-e7f4-4a54-8eed-7b02956b66b9@104.17.148.22:2053?security=tls&sni=irn-vpn-irn-vpn.veboril990.workers.Dev&type=ws&host=irn-vpn-irn-vpn.veboril990.workers.Dev&path=/@IRN_VPN#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.148.22:2053
 vless://c79087c1-0efa-4145-af8e-c6c20c45ba13@94.182.136.37:2052?security=none&type=tcp&host=turbo.speedgo.lol&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-94.182.136.37:2052
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.80.111.38:2096?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=TG%40ZDYZ2&fp=random#🔒 VL-WS-TLS 🇩🇪 DE-45.80.111.38:2096
 vless://69b6d557-f883-4606-8fd3-a7a678d4c885@95.81.85.188:8071?security=none&type=tcp&serviceName=-Telegram:@UraniumVpn-Telegram:@UraniumVpn-Telegram:@UraniumVpn-Telegram:@UraniumVpn-Telegram:@UraniumVpn-Telegram:@Uranium&host=upload.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-95.81.85.188:8071
@@ -83,3 +79,7 @@ vless://206cbf43-c050-4be1-87d0-b0db774a244e@173.245.59.101:2053?security=tls&sn
 vless://661e4131-514a-457e-bbc7-748cbb92253d@172.66.47.18:443?security=tls&sni=pardazesh14.pages.dev&type=ws&host=pardazesh14.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.18:443
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@190.93.247.166:80?security=none&type=ws&host=us1.rtacg.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-190.93.247.166:80
 vless://d621d083-5ac0-4d26-8872-efe55cf57663@172.67.200.30:2095?security=none&type=ws&host=www.mehran-net.mohammad420.sbs&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.200.30:2095
+vless://1e248837-a2d0-4d87-9358-ba2a91daf6cc@104.18.7.24:8080?security=none&type=ws&host=2.v2ray.debian.org.fxp.debian.org.speedtest.net.secretshop.tech#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.7.24:8080
+vless://964a8534-28c9-4262-8bb7-d6bbbe0895f4@185.143.233.120:2086?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-185.143.233.120:2086
+vless://54ef4ecf-ff37-436a-be13-95c8a8a1114d@188.121.118.55:443?security=tls&sni=vIrGiNiAvPn-nL.pAgEs.dEv&type=ws&host=ViRgInIaVpN-Nl.PaGeS.DeV#🔒 VL-WS-TLS 🇮🇷 IR-188.121.118.55:443
+vless://12ef2fb8-4c06-4e9e-b1b6-0dbde357790b@172.67.193.36:2087?security=tls&sni=arguvpnnn.v2raycfz.cloud&type=grpc&serviceName=www.speedtest.net&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.193.36:2087

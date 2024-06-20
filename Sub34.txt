@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://0f7ec369-3529-4e73-943b-19258212f1bb@162.159.4.8:443?security=tls&sni=c.2025vless.cloudns.be&type=ws&host=c.2025vless.cloudns.be&path=%2F%3Fed%3D2056#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.4.8:443
-vless://2373c6d4-1333-4f1e-b039-ade976dcf14f@172.67.207.113:443?security=tls&sni=selinc--------------selinc.rmscipwd.workers.dev&type=ws&host=selinc--------------selinc.rmscipwd.workers.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.207.113:443
-vless://158a2a18-ba82-4208-af52-3bf650c94036@162.159.137.232:2095?security=none&type=ws&host=a.らわなさ.tech.#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.137.232:2095
-vless://b75b3034-36ab-4979-beae-3d02db1b11ec@104.18.16.149:443?security=tls&sni=always-online1.lp-airdrop.top&type=ws&host=always-online1.lp-airdrop.top&path=/?ed#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.16.149:443
 vless://cec5fd94-3ff0-4ad2-ad78-423269ce9717@80.85.242.34:8263?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-80.85.242.34:8263
 vless://a9c0613e-7b12-4c89-cb8b-6fb83c41ed33@104.21.28.188:8880?security=none&type=ws&host=join.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.r.cloudfront.net.kiava.fun#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.28.188:8880
 vless://770e8a1b-980e-474d-b583-2e4e98acb854@104.18.5.2:2053?security=tls&sni=notls.11111111.eu.org&type=ws&host=notls.11111111.eu.org#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.5.2:2053
@@ -83,3 +79,7 @@ vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.26.15.16:443?security=tls&sni=b
 vless://9af28087-87e6-44ae-a6e0-51852ecab457@104.21.44.13:8443?security=tls&sni=store.mtahaa.sbs&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.44.13:8443
 vless://bfcdde20-aff1-4ff0-81f5-c5b5e7607705@162.159.135.233:8880?security=none&type=ws&host=aksjbebqoqoshhw.debian.org.fxp.debian.org.speedtest.net.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95%E3%82%89%E3%82%8F.shahprokh.shop.&path=%2FShadowProxy66.ShadowProxy66.ShadowProxy66.ShadowProxy66.ShadowProxy66.ShadowProxy66.ShadowProxy66.ShadowProxy66.ShadowProxy66.%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.135.233:8880
 vless://5fd30283-078d-4ee6-873b-4ecb8fec1958@162.159.136.234:2082?security=none&type=ws&host=none.error_none.error_10101010.iRAN-chEck-hOst-SERVER-sitesssssssssssssssssssssss--sssssssssss.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.136.234:2082
+vless://ee797f86-e248-40be-b8fc-200b977f4bfb@185.146.173.158:8443?security=tls&sni=footlo.argha-v2pedia.monster&type=grpc&serviceName=Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇸🇪 SE-185.146.173.158:8443
+vless://7b568d25-ea44-4d41-b07f-0beb4095287f@172.67.210.56:8880?security=none&type=ws&host=Baloch.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.jetupnet.sbs.#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.210.56:8880
+vless://6f995056-7802-4a1d-bff7-61678e626c3f@20.210.64.14:443?security=tls&sni=zdfdf6.azurewebsites.net&type=ws&path=%2F#🔒 VL-WS-TLS 🇯🇵 JP-20.210.64.14:443
+vless://77a571fb-4fd2-4b37-8596-2b7d9728bb5c@172.67.20.220:2096?security=tls&sni=vpnxw.pages.dev&type=ws&host=vpnxw.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.20.220:2096
