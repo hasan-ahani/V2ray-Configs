@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-ss://aes-256-gcm:31d1af85-1419-4ff6-8b18-c26d5a316ce4@fr2-full.privateip.net:8443#%F0%9F%87%AB%F0%9F%87%B7%20France%20Shadowsocks%20@V2rayStore
-vless://35898db4-3f4f-426e-a086-3358d8d1a652@us-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Vless%20TCP%20@V2rayStore
-vless://4e2b1a01-d4b8-478f-9367-e402f66e7895@us2-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Vless%20TCP%20@V2rayStore
-vless://7b8f29a7-5a28-47ac-8cca-27234f048e61@tr-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20Vless%20TCP%20@V2rayStore
-vless://647f1c6a-50ed-45bd-a612-c7572e0de1b1@kz-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20Vless%20TCP%20@V2rayStore
-vless://4a26c7e7-ea92-4259-87d6-86833e874394@uk-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20Vless%20TCP%20@V2rayStore
-vless://cc0dc9e3-7504-4d78-904a-e856ab425c80@uk2-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20Vless%20TCP%20@V2rayStore
 vless://fe6b171f-0996-4cca-89b6-8bf2b7f70cb4@de-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Vless%20TCP%20@V2rayStore
 vless://94e0bd36-57bb-4d1c-8315-0840fe0d26b3@de2-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Vless%20TCP%20@V2rayStore
 vless://d13a1784-da0e-4038-a427-3c3ab3449cfc@au-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20Vless%20TCP%20@V2rayStore
@@ -83,3 +76,10 @@ trojan://7305ddd1-eb03-4ddd-a620-f6edfbf8d47d@ca-full.privateip.net:443#%F0%9F%8
 trojan://8c24974e-bd5e-4e71-b37c-89d87cfd3f59@in-full.privateip.net:443#%F0%9F%87%AE%F0%9F%87%B3%20India%20Trojan%20@V2rayStore
 trojan://ac121643-a54a-4565-8a49-20b8c0e2d9ce@jp-full.privateip.net:443#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20Trojan%20@V2rayStore
 trojan://9b156dab-42a2-4a4e-a1ea-974e3305376a@fr-full.privateip.net:443#%F0%9F%87%AB%F0%9F%87%B7%20France%20Trojan%20@V2rayStore
+trojan://7cc35bf2-6038-4823-9459-2b462276dd7c@fr2-full.privateip.net:443#%F0%9F%87%AB%F0%9F%87%B7%20France%20Trojan%20@V2rayStore
+trojan://fc1e07b5-840b-4446-8232-94b0606f2e0d@fr3-full.privateip.net:443#%F0%9F%87%AB%F0%9F%87%B7%20France%20Trojan%20@V2rayStore
+vless://b45d5e6f-beb2-4712-8990-a78f6deea53a@us-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Vless%20WS%20@V2rayStore
+vless://ecc63598-1f38-424d-a949-1b207ee35dff@us2-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Vless%20WS%20@V2rayStore
+vless://342387f3-a105-4492-85fe-7e899de5e72c@tr-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20Vless%20WS%20@V2rayStore
+vless://f2ff0d2e-3999-4371-bdb4-1165363f6093@kz-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20Vless%20WS%20@V2rayStore
+vless://4b973eb5-08bd-4822-86ce-165ab4e6f42e@uk-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20Vless%20WS%20@V2rayStore
