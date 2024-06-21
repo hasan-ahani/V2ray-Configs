@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vmess://eyJhZGQiOiAiMTU1LjEzOC4yNDIuMjA3IiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRkMTIgVk0tV1MtTkEgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFVTLTE1NS4xMzguMjQyLjIwNzo1NDMxNiIsICJwb3J0IjogNTQzMTYsICJpZCI6ICI2Nzc5N2M2YS1lODk4LTQ5YmQtOGY2MS01ZmIxNTIzY2UwYmQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiMTU1LjEzOC4yNDIuMjA3IiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
+vmess://eyJhZGQiOiAiMTI3LjAuMC4xIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogImFjYWJjYmEtY2FhYi1jYWFiLWRhY2ItYWJiYWJjY2NhY2JhIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6IDgwODAsICJwcyI6ICJcdWQ4M2RcdWRjNjhcdWQ4M2NcdWRmZmJcdTIwMGRcdWQ4M2RcdWRjYmIgREVWRUxPUEVELUJZIFNPUk9VU0gtTUlSWkFFSSBcdWQ4M2RcdWRjY2MgRk9MTE9XLUNPTlRBQ1QgU1lEU1JTTVJaIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==
+trojan://aabbcac-baac-abca-cdab-babaabcccabc@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 FRI-01-TIR-1403 🕑 17:10
 trojan://telegram-id-directvpn@18.219.139.16:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇺🇸 US-18.219.139.16:22222
 trojan://ypDt8RkT7J@51.158.217.130:43118?security=tls&sni=toflf.phooeyunfold.com&type=tcp&fp=random&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-51.158.217.130:43118
 trojan://4f2f34cc-d2e9-4ca8-a687-68efe5ad5959@52.175.33.117:443?#🔒 TR-TCP-NA 🇭🇰 HK-52.175.33.117:443
@@ -80,6 +83,3 @@ trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.229:2096?security=tls&sn
 trojan://ypDt8RkT7J@62.210.82.54:43118?security=tls&sni=wuxgk.phooeyunfold.com&type=tcp&fp=chrome&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-62.210.82.54:43118
 trojan://auto@172.67.205.219:443?security=tls&sni=esetsecuritylicense.nzuwcx.workers.dev&type=ws&host=esetsecuritylicense.nzuwcx.workers.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.205.219:443
 trojan://NISHIKUITAN222@104.26.12.31:2053?security=tls&sni=t070.ylks.link&type=ws&host=t070.ylks.link&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-104.26.12.31:2053
-trojan://242a3d8eee5e4ed1a6bfa4141d549a25@198.41.220.12:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.12:443
-trojan://5041df4c-b3ae-481d-adf9-79b39f4810f2@172.67.148.211:2083?security=tls&sni=taqboostan.zagros.top&type=grpc&serviceName=OVmkPBATL0FOwZU9iYzyeZwbq&fp=chrome&alpn=h2#🔒 TR-GRPC-TLS 🏴‍☠️ NA-172.67.148.211:2083
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.4:2087?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.4:2087

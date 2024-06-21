@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://90f1fa90-75f7-4691-b5b7-a8e4a84d66d9@66.90.74.84:20012?security=reality&flow=xtls-rprx-vision&sni=www.timeto.com&type=tcp&fp=chrome&pbk=Wt9cTNEcGKp6Qy2n050o5U3sDCEK1C-iuzQFYSzXknU&sid=4a3749e4#🔒 VL-TCP-RLT 🇦🇷 AR-66.90.74.84:20012
+vless://837c965b-4487-4976-99ba-dfed6b0e9c35@91.231.182.183:17552?security=reality&sni=discord.com&type=grpc&serviceName=esbesoo.vpnext.sbs&fp=chrome&pbk=Csp0v7HDJ2lGVM1l3gvB9k4Yv3URXNYLtjESyv1py3Y&sid=35866e08#🔒 VL-GRPC-RLT 🇺🇦 UA-91.231.182.183:17552
+vless://6312bb1d-fd0e-4edb-afa4-cc6779d188ae@104.168.107.230:9633?security=reality&flow=xtls-rprx-vision&sni=fr.4cdn.de&type=tcp&fp=chrome&pbk=QQHxQK7ocGHvaCmqtW3QapnKiBVd4ZjjM3zhCGVMPS4&sid=db68e802226b21cd#🔒 VL-TCP-RLT 🇺🇸 US-104.168.107.230:9633
 vless://ae5aed77-be23-4f6c-bd51-c73745038952@185.142.238.222:443?security=reality&flow=xtls-rprx-vision&sni=vu.nl&type=tcp&fp=chrome&pbk=Pk--Og6oefYaJlSVLEleq267EVt6NaNRIc0PR-4K9nk&sid=77895d125b69cf7c#🔒 VL-TCP-RLT 🇳🇱 NL-185.142.238.222:443
 vless://18e82ee0-3b88-48d1-9292-484c8051f690@49.13.135.58:443?security=reality&flow=xtls-rprx-vision&sni=github.io&type=tcp&fp=chrome&pbk=X5WLfJ82KCpBanu2EwML11CwJUM2NczTonML5hHwW2o&sid=b5b39d420f404069#🔒 VL-TCP-RLT 🇩🇪 DE-49.13.135.58:443
 vless://837c965b-4487-4976-99ba-dfed6b0e9c35@212.79.125.35:17552?security=reality&sni=discord.com&type=grpc&serviceName=esbesoo.vpnext.sbs&fp=chrome&pbk=Csp0v7HDJ2lGVM1l3gvB9k4Yv3URXNYLtjESyv1py3Y&sid=35866e08#🔒 VL-GRPC-RLT 🇺🇦 UA-212.79.125.35:17552
@@ -80,6 +83,3 @@ vless://ae78c805-f822-4d55-9a7f-281969f81ced@172.67.172.16:2083?security=tls&sni
 vless://4497407c-54ac-59ef-ab94-41ecb895cf01@104.31.16.110:80?security=none&type=ws&host=vpntest.socepol945.WOrKerS.DeV#🔒 VL-WS-NONE 🏴‍☠️ NA-104.31.16.110:80
 vless://a59739cb-8207-4878-b84d-458e1513bfac@104.21.59.27:443?security=tls&sni=pPAL03.daRREl-hArvey.wORKErs.dEv&type=ws&host=pPAl03.darrEl-HarVeY.WorkeRs.deV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.59.27:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.105.192:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.105.192:80
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.125.188:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.125.188:80
-vless://7d4e9491-4eb4-42da-926c-2c7c201e99e2@162.159.136.234:443?security=tls&sni=uk-cdn.pop-up-pool.xyz&type=ws&host=uk-cdn.pop-up-pool.xyz#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.136.234:443
-vless://b96c687a-28fd-4ad5-8411-a750ea4fdde3@89.169.55.96:59547?security=none&type=tcp&path=/soft98.ir&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-89.169.55.96:59547

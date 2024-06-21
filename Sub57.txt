@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://7f64eeb1-b5f1-40a0-d80e-e6c718f6bd6a@203.32.121.53:2096?security=tls&sni=mtn.ircf.space&type=grpc&serviceName=(&allowInsecure=1#🔒 VL-GRPC-TLS 🇻🇬 VG-203.32.121.53:2096
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.156.84:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.156.84:80
+vless://9c528672-1720-4660-8fb1-0083479719cf@104.16.104.11:2096?security=tls&sni=mjgkkhgvkutfkhg.mic-mokhaderat-irancell-shatel-irancel.shop&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.104.11:2096
 vless://7b798c2f-7f0f-48e8-d713-743c4b93cde3@104.31.16.164:80?security=none&sni=snapp.ir.iran.ir.bank-maskan.ir.isna.ir.nobat.ir.namava.ir.iauh.ac.ir.hamshahrionline.ir.emalls.ir.snappfood.ir.irna.ir.sid.ir.namava.ir.nobat.ir.blog.ir.khamenei.ir.bki.ir.iranjib.ir.avval.ir.mche.or.ir.araku.ac.ir.疯狂的莫迪17.shop.&type=ws&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.31.16.164:80
 vless://985120a0-752c-4368-9a91-50aada0ff2de@194.195.125.6:443?security=tls&sni=au-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇦🇺 AU-194.195.125.6:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@199.181.197.19:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-199.181.197.19:443
@@ -80,6 +83,3 @@ vless://d674009a-4a87-4180-a8fe-9a54f66bd7c9@104.17.58.44:443?security=tls&sni=v
 vless://514d4474-fe80-45ba-9b69-0c86fe4201eb@23.227.60.56:8080?security=none&type=ws&host=su2.mahanocean.ir#🔒 VL-WS-NONE 🇨🇦 CA-23.227.60.56:8080
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@188.114.97.143:443?security=tls&sni=current.ircp.online&type=ws&host=current.ircp.online#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.143:443
 vless://74ee8b58-b56f-4145-b61c-9fbc1952208a@104.20.185.180:2082?security=none&type=ws&host=sg1.vlessx.us#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.185.180:2082
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@63.141.128.27:443?security=tls&sni=kk600.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-63.141.128.27:443
-vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@47.245.86.230:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🇸🇬 SG-47.245.86.230:443
-vless://9e248b4e-2ee5-4e68-a164-633c408c118f@104.22.75.105:443?security=tls&sni=mci.eidafemini.monster&type=ws&host=mci.eidafemini.monster&path=/G296AyPNm3AYwsQVGSKX&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.75.105:443
