@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://9af577f2-0a7a-4448-ae0b-6985c53ea634@45.133.247.90:2083?security=tls&sni=t-netplus1.pages.dev&type=ws&host=t-netplus1.pages.dev&fp=chrome#🔒 VL-WS-TLS 🇸🇨 SC-45.133.247.90:2083
-vless://959dc846-1aa3-4aa7-bc58-7eb51114d1ce@172.67.132.41:2082?security=none&type=ws&host=nl36.vlessx.us#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.132.41:2082
-vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@188.114.97.7:443?security=tls&sni=current.iraniancp.fun&type=ws&host=current.iraniancp.fun&path=%2F%3Fed%3D2048&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.7:443
 vless://fc1191c8-e724-482f-a492-90d3d386719c@104.21.18.174:2053?security=tls&sni=sisand.waztow.WOrkerS.Dev&type=ws&host=sisand.waztow.WOrkerS.Dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.18.174:2053
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.159.218.123:443?security=tls&sni=zdy600.kpcloud.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-45.159.218.123:443
 vless://4d815963-8b34-4b71-a01a-c57c7bdc0a70@162.159.135.232:8443?security=tls&sni=zU3-G6cd-seRVEr.onfLashDrIvE.APP&type=ws&host=zu3-G6CD-ServER.OnFLASHdriVE.ApP&path=/&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.135.232:8443
@@ -83,3 +80,6 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.107.37:443?security=tls&sni=
 vless://f7e08961-ba18-4ac8-aac0-e925107417af@162.159.136.234:443?security=tls&sni=de.vpncustomize.Website&type=ws&host=de.vpncustomize.Website&path=/&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.136.234:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.159.218.192:443?security=tls&sni=kk111.ylks.link&type=ws&path=/blue#🔒 VL-WS-TLS 🇺🇸 US-45.159.218.192:443
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@45.80.111.202:443?security=tls&sni=v111.ylkszy.eu.org&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇩🇪 DE-45.80.111.202:443
+vless://5683917d-3826-4a78-8156-b9293641c41a@195.123.213.46:443?security=tls&sni=ua-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇱🇻 LV-195.123.213.46:443
+vless://e160af6e-3942-c47b-6288-afdb42ae9f66@88.135.47.250:443?security=none&type=tcp&host=divarcdn.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-88.135.47.250:443
+vless://e12e05c5-d64f-4570-df75-86dfed4edaeb@65.21.188.58:80?security=none&type=tcp&host=CDsCC77A.ahvaz1.irancell.ir,+CDsCC77A.speedtest1.shatel.ir,+CDsCC77A.AHESPD2.mci.ir,+CDsCC77A.intraspeedtest2.mobinnet.ir,+CDsCC77A.st1.aminidc.com,+CDsCC77A.speedtest.aionet.ir,+CDsCC77A.esfahan1.irancell.ir,+CDsCC77A.speedtest.faradez.ir&headerType=http#🔒 VL-TCP-NONE 🇫🇮 FI-65.21.188.58:80

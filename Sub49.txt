@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.243.26.83:2087?security=tls&sni=hk999.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇭🇰 HK-47.243.26.83:2087
-vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.17.80.220:443?security=tls&sni=BIa-PAiN-BAChe.PAGeS.dev&type=ws&host=BIA-paIN-bAcHe.PAGeS.DEV&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.80.220:443
-vless://514d4474-fe80-45ba-9b69-0c86fe4201eb@104.25.213.81:8080?security=none&type=ws&host=su2.mahanocean.ir#🔒 VL-WS-NONE 🏴‍☠️ NA-104.25.213.81:8080
 vless://e3f09ae9-ea19-4eb1-82e5-7c3473545119@62.60.210.169:8580?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-62.60.210.169:8580
 vless://f177e178-96e2-4ea3-a603-e90cea3c4a7c@104.31.16.8:80?security=none&type=ws&host=FuRnItURE.MAHdAviAt.Uk&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.31.16.8:80
 vless://61fbc4d5-bf71-44c3-bb37-a2c8c345aa37@104.18.23.19:80?security=none&type=ws&host=www.speedtest.net.1.debian.org.ftp.debian.org.speedtest.net.xn--48jyb6ec1ad.bookmarkingonline.info.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.23.19:80
@@ -83,3 +80,6 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.48:443?security=tls&sni=z
 vless://4b973eb5-08bd-4822-86ce-165ab4e6f42e@198.244.190.189:2003?security=tls&sni=uk-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇬🇧 GB-198.244.190.189:2003
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@61.77.9.219:12487?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇰🇷 KR-61.77.9.219:12487
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.3:2053?security=tls&sni=Dw-3R-b4p-Bh3C-2T1-42-v-Nww01-D0n-2k3-pFIw-n1Yw-AFReB-c65.pages.DeV&type=ws&host=dW-3R-b4P-BH3c-2t1-42-v-NwW01-d0N-2K3-pfIW-N1Yw-aFREB-c65.pAges.deV&path=%2FXZ4MZqulCnA5RiQU%2FMTA3LjE4OS43LjI1NA%3D%3D%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.3:2053
+vless://9af577f2-0a7a-4448-ae0b-6985c53ea634@45.133.247.90:2083?security=tls&sni=t-netplus1.pages.dev&type=ws&host=t-netplus1.pages.dev&fp=chrome#🔒 VL-WS-TLS 🇸🇨 SC-45.133.247.90:2083
+vless://959dc846-1aa3-4aa7-bc58-7eb51114d1ce@172.67.132.41:2082?security=none&type=ws&host=nl36.vlessx.us#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.132.41:2082
+vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@188.114.97.7:443?security=tls&sni=current.iraniancp.fun&type=ws&host=current.iraniancp.fun&path=%2F%3Fed%3D2048&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.7:443

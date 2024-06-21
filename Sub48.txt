@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@205.233.181.69:443?security=tls&sni=zdy600.kpcloud.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-205.233.181.69:443
-vless://c4516bc5-9e46-4205-983e-2b8646e498dd@104.21.8.177:2083?security=tls&sni=cf.mitowear.com&type=ws#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.8.177:2083
-vless://9237e8fb-70d3-4405-bb73-69f4ed40b26b@172.67.163.136:443?security=tls&sni=de1ocean.mohamadphp.ir&type=ws&path=/vless&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.163.136:443
 vless://e999ef63-e15f-415d-810a-c16bd245bf74@104.17.249.203:443?security=tls&sni=dl2.exoshop.ir&type=ws&host=dl2.exoshop.ir&path=/&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.249.203:443
 vless://e0de7b12-20dd-4d6b-bfaa-307fed5a1d2b@172.64.148.140:2087?security=tls&sni=Cloud.zed-zoon.tech&type=grpc&serviceName=Channel---Telegram---ZED_VPN---ZED_VPN---Telegram---ZED_VPN---ZED_VPN---Telegram---ZED_VPN---ZED_VPN&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.64.148.140:2087
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.0.144:443?security=tls&sni=GOV.UK&type=ws&host=k.kp&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-151.101.0.144:443
@@ -83,3 +80,6 @@ vless://3575d763-5557-4f01-baec-1a6fc5c5f58f@172.66.47.158:80?security=none&type
 vless://0ac87cdb-e122-46c9-f3ce-6a02d5b1678f@45.140.30.130:20569?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-45.140.30.130:20569
 vless://92505265-b1d6-40ac-ad3a-ac031970d5af@104.20.196.26:2087?security=tls&sni=melody.howareu.xyz&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.20.196.26:2087
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.81.120:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.81.120:443
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.243.26.83:2087?security=tls&sni=hk999.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇭🇰 HK-47.243.26.83:2087
+vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.17.80.220:443?security=tls&sni=BIa-PAiN-BAChe.PAGeS.dev&type=ws&host=BIA-paIN-bAcHe.PAGeS.DEV&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.80.220:443
+vless://514d4474-fe80-45ba-9b69-0c86fe4201eb@104.25.213.81:8080?security=none&type=ws&host=su2.mahanocean.ir#🔒 VL-WS-NONE 🏴‍☠️ NA-104.25.213.81:8080

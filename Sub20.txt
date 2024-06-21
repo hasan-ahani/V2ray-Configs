@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.111.114.133:2376#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%A8%F0%9F%87%A6%20CA-38.111.114.133%3A2376
-vless://d396ade5-431b-4127-a7bf-46979eb78761@79.175.177.127:443?encryption=none&security=none&type=tcp&headerType=http#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-79.175.177.127%3A443
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.19:8009#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%BA%F0%9F%87%B8%20US-23.157.40.19%3A8009
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.81:6679#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%BA%F0%9F%87%B8%20US-23.157.40.81%3A6679
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@69.50.92.116:8000#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%BA%F0%9F%87%B8%20US-69.50.92.116%3A8000
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@67.220.86.72:8882#%F0%9F%87%BA%F0%9F%87%B8US-67.220.86.72-2567
@@ -83,3 +80,6 @@ vless://8bc328a4-eeb2-44f8-9beb-8144b7c7bfd1@104.168.107.230:8884?security=reali
 vless://e82351c5-c339-4d48-b90d-3524c5547912@142.93.166.107:443?security=reality&sni=*.partyverleih-glauberg.de&type=grpc&serviceName=@ipV2Ray&fp=chrome&pbk=LD8y7bs5T8tNSLcB83NQXpo0_LfHk76WWykNwXJRG3I&sid=304a9854#🔒 VL-GRPC-RLT 🇩🇪 DE-142.93.166.107:443
 vless://fdd17480-5577-45c6-950e-aeac7396d269@104.168.107.230:4607?security=reality&flow=xtls-rprx-vision&sni=magicbus.ca&type=tcp&fp=chrome&pbk=QQHxQK7ocGHvaCmqtW3QapnKiBVd4ZjjM3zhCGVMPS4&sid=db68e802226b21cd#🔒 VL-TCP-RLT 🇺🇸 US-104.168.107.230:4607
 vless://cbbc04dc-ab1a-4410-a30b-5d83982374d5@188.116.21.168:443?security=reality&flow=xtls-rprx-vision&sni=account.zula.ir&type=tcp&fp=chrome&pbk=DNgb_P-ioc2QGkWL4fjncdvn3uMoH8_IIPEqiihwyjc&sid=7015e6&alpn=h2#🔒 VL-TCP-RLT 🇳🇱 NL-188.116.21.168:443
+vless://8d901d39-f250-46fd-db03-77276961adbe@8.217.226.145:31800?security=reality&flow=xtls-rprx-vision&sni=swdist.apple.com&type=tcp&fp=chrome&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU#🔒 VL-TCP-RLT 🇭🇰 HK-8.217.226.145:31800
+vless://d5e775de-0530-4062-a654-25dd2ba648d2@77.221.143.183:33000?security=reality&sni=www.speedtest.net&type=grpc&serviceName=b&fp=chrome&pbk=JrN7nZEbUeBJFHTAKwtz5Dmd10SGgA8UCHEMLA2xOg0&sid=be7f13dd#🔒 VL-GRPC-RLT 🇸🇪 SE-77.221.143.183:33000
+vless://e60d38a5-9617-4e9a-8e01-61c99fa080d6@104.168.107.230:9631?security=reality&flow=xtls-rprx-vision&sni=ftp.debian.org&type=tcp&fp=chrome&pbk=QQHxQK7ocGHvaCmqtW3QapnKiBVd4ZjjM3zhCGVMPS4&sid=db68e802226b21cd#🔒 VL-TCP-RLT 🇺🇸 US-104.168.107.230:9631
