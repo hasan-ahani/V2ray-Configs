@@ -3,6 +3,17 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vmess://eyJhZGQiOiAidWEtZnVsbC5wcml2YXRlaXAubmV0IiwgImFpZCI6IDAsICJob3N0IjogInVhLWZ1bGwucHJpdmF0ZWlwLm5ldCIsICJpZCI6ICI1NjgzOTE3ZC0zODI2LTRhNzgtODE1Ni1iOTI5MzY0MWM0MWEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL1JBQ0VWUE4iLCAicG9ydCI6IDQ0MywgInBzIjogIiVGMCU5RiU4NyVCMSVGMCU5RiU4NyVCQiUyMExhdHZpYSUyMFZtZXNzJTIwQFYycmF5U3RvcmUiLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8ifQ==
+vmess://eyJhZGQiOiAiMTA3LjE3NS4zNy4xODYiLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogImRjY2I1NTgwLWRlOGQtNGFjYS1hOWE1LWY5ODZkYTMzZmFhNiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA4MCwgInBzIjogIiVGMCU5RiU4NyVCQSVGMCU5RiU4NyVCOCUyMFVuaXRlZCUyMFN0YXRlcyUyMFZtZXNzJTIwQFYycmF5U3RvcmUiLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8ifQ==
+ss://aes-256-gcm:3a06f09b-ef9a-4aae-96b3-592bae64b8fa@us-full.privateip.net:8443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Shadowsocks%20@V2rayStore
+ss://aes-256-gcm:00d6e26f-543f-4447-b1e9-cb62ad589890@us2-full.privateip.net:8443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Shadowsocks%20@V2rayStore
+ss://aes-256-gcm:b830cf90-4d07-4899-aaec-9e454caf34b6@tr-full.privateip.net:8443#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20Shadowsocks%20@V2rayStore
+ss://aes-256-gcm:665abb10-45be-4020-9b58-094b24422645@kz-full.privateip.net:8443#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20Shadowsocks%20@V2rayStore
+ss://aes-256-gcm:3423c80f-03c1-49bd-a805-aacf1711e51b@uk-full.privateip.net:8443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20Shadowsocks%20@V2rayStore
+ss://aes-256-gcm:ef9cb891-bd8e-4011-9c88-1b37b675aa35@uk2-full.privateip.net:8443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20Shadowsocks%20@V2rayStore
+ss://aes-256-gcm:d4bcf71b-d966-457d-98ee-cd7c1260588b@de-full.privateip.net:8443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Shadowsocks%20@V2rayStore
+ss://aes-256-gcm:05cad9de-70fe-4d94-917d-9648885788b2@de2-full.privateip.net:8443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Shadowsocks%20@V2rayStore
+ss://aes-256-gcm:ff2324d1-2d6f-468a-8e95-d048a996716b@au-full.privateip.net:8443#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20Shadowsocks%20@V2rayStore
 ss://aes-256-gcm:5b4c746a-f944-4f1e-89ad-8a6992b34dab@it-full.privateip.net:8443#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20Shadowsocks%20@V2rayStore
 ss://aes-256-gcm:eb9c51f5-52ac-4315-b822-eec1a683572a@ua-full.privateip.net:8443#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20Shadowsocks%20@V2rayStore
 ss://aes-256-gcm:77bce8a9-8d88-4dfd-bfc8-c082f38e20fa@es-full.privateip.net:8443#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20Shadowsocks%20@V2rayStore
@@ -38,7 +49,6 @@ vless://411e6b72-30df-4397-aa04-2a8aca27dbdf@nl-full.privateip.net:443?type=tcp&
 vless://ee09cca8-c4b6-424f-abff-013076356c5c@nl2-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20Vless%20TCP%20@V2rayStore
 vless://211e6a9d-60d8-45ee-b2d1-e9a793c0b08a@ca-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20Vless%20TCP%20@V2rayStore
 vless://a12ffb13-19ab-4388-81d0-a7758c291596@in-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%AE%F0%9F%87%B3%20India%20Vless%20TCP%20@V2rayStore
-vless://17fd4223-dfe8-45fc-93c8-0a816f7bdefd@jp-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20Vless%20TCP%20@V2rayStore
 vless://301f4485-2d56-4d78-a30d-a55ca109e5ff@fr-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%AB%F0%9F%87%B7%20France%20Vless%20TCP%20@V2rayStore
 vless://30d04308-8e1c-45d0-9b6a-f414865bafe0@fr2-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%AB%F0%9F%87%B7%20France%20Vless%20TCP%20@V2rayStore
 vless://454f84df-724d-442a-a4a2-698a6d63f946@fr3-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&headerType=none#%F0%9F%87%AB%F0%9F%87%B7%20France%20Vless%20TCP%20@V2rayStore
@@ -73,13 +83,3 @@ vless://50b68499-fda4-4e56-bbfd-b608284f1a0f@de2-full.privateip.net:443?type=tcp
 vless://2be26164-bbb5-47bf-8990-bb5e985f4083@jp-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%AF%F0%9F%87%B5%20Japan%200%20@V2rayStore
 vless://6a41c2f7-6fc1-45ae-9a3c-d7aab5ba8eef@nl2-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%200%20@V2rayStore
 vless://9d290951-46ad-4ed5-8979-258e36995221@in-freevmess.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%AE%F0%9F%87%B3%20India%200%20@V2rayStore
-vless://19cd42b4-36c9-4bee-ad2a-81287569c5fa@uk-freevmess.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%200%20@V2rayStore
-trojan://1e49d916-a9ee-4c7a-b6ba-0044b00ab411@us-full.privateip.net:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Trojan%20@V2rayStore
-trojan://16b7b47f-48cc-424b-a9c0-fdd33e835042@us2-full.privateip.net:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Trojan%20@V2rayStore
-trojan://949ba53c-e322-44df-889c-77f7af870d2b@tr-full.privateip.net:443#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20Trojan%20@V2rayStore
-trojan://8f37a952-4485-4989-b3c7-735367987459@kz-full.privateip.net:443#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20Trojan%20@V2rayStore
-trojan://7c0bb54e-6d21-4d28-bd5f-34d2176a628f@uk-full.privateip.net:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20Trojan%20@V2rayStore
-trojan://6d8ab172-b064-4c44-9b16-373ec932d31a@uk2-full.privateip.net:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20Trojan%20@V2rayStore
-trojan://e500cffb-10b1-4255-8809-0a345cebe29f@de-full.privateip.net:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Trojan%20@V2rayStore
-trojan://960d44a1-6ef4-41bf-8bb8-269799142e47@de2-full.privateip.net:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Trojan%20@V2rayStore
-trojan://b9ef98dd-d5aa-4b0d-8038-fa4669ac4d30@au-full.privateip.net:443#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20Trojan%20@V2rayStore
