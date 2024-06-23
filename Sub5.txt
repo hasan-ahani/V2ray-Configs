@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vmess://eyJ2IjoiMiIsImFkZCI6IjE4My4yMzIuMTk5LjYxIiwicG9ydCI6IjE1NjA3IiwiaWQiOiJhYWFhYWFhYS1hYWFhLWFhYWEtYWFhYS1kYWFhYWFhYWFhYWQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiJcLyIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJwcyI6Ilx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRmM0NOIHwgXHVkODNkXHVkZmUyIHwgdm1lc3MgfCBAbWZ0aXppIHwgMTIifQ==
+vmess://eyJ2IjoiMiIsImFkZCI6ImNmY2RuMS5zYW5mZW5jZG45LmNvbSIsInBvcnQiOiIyMDUyIiwiaWQiOiJiYjFhZjdkMy05NTI2LTQ0ZjEtOTE1NS03ODg3NzNjYzYyOWUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoidHcxYlFpV1NFNHguZnpicWZyc2UueHl6IiwicGF0aCI6IlwvdmlkZW9cL0dRMnFFNVVzOWciLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwicHMiOiJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjhVUyB8IFx1ZDgzZFx1ZGZlMiB8IHZtZXNzIHwgQG1mdGl6aSB8IDEzIn0=
 vmess://eyJ2IjoiMiIsImFkZCI6IjE4My4yMzIuMTk5LjI4IiwicG9ydCI6IjE1NjA1IiwiaWQiOiJhYWFhYWFhYS1hYWFhLWFhYWEtYWFhYS1kYWFhYWFhYWFhYWQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiJcLyIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJwcyI6Ilx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRmM0NOIHwgXHVkODNkXHVkZmUyIHwgdm1lc3MgfCBAbWZ0aXppIHwgMTQifQ==
 ss://Y2hhY2hhMjAtcG9seTEzMDU6dTE3VDNCdnBZYWFpdVcyYw==@series-a2-mec.samanehha.co:443#🇮🇪IE | 🟢 | ss | @DeamNet_Proxy | 0
 ss://YjBlNmEyYzktZTY2Ny00ZTQyLTljYjMtNzdkN2RiM2U3MzZiOg==@bypassfilter.test-fad.workers.dev:443#🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 1
@@ -81,5 +83,3 @@ vless://776cdd74-3071-43b4-bbe1-effbd4a2266e@Ipv.acangame.ir:52852?mode=gun&secu
 vless://9c2f4be2-3dbb-48d3-b78b-85e3e884d2ce@zula.ir:443?path=/i9dmr8hSfQIsLEox?ed&security=tls&encryption=none&alpn=h2,http/1.1&host=snapp.pinobin.ir.&fp=chrome&type=ws&sni=snapp.pinobin.ir.#🇺🇸US | 🔴 | vless | @customv2ray | 6
 vless://c416be20-32b3-467f-83c2-735e04d639f7@eagle.Hafezdivan.Online.:443?path=/&security=tls&encryption=none&type=ws#🇺🇸US | 🔴 | vless | @customv2ray | 7
 vless://2b59f595-bc0e-4642-a542-e8e0fc8926b6@104.17.35.37:8080?path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed=8080&security=none&encryption=none&host=join-to.vmessorg.Community.&type=ws#🚩CF | 🔴 | vless | @customv2ray | 8
-vless://5da27733-3527-479e-bb81-4c5a9c75d83f@viphamester.wolfmoon.ir:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&type=grpc&serviceName=okala.com&sni=viphamester.wolfmoon.ir#🇺🇸US | 🔴 | vless | @customv2ray | 9
-vless://a1773345-0831-492e-acec-3077196bb02f@VPNCUSTOMIZE.Elmahstyle.ir:8080?path=/Join--VPNCUSTOMIZE.V2ray.re?ed=8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#🇸🇪SE | 🔴 | vless | @customv2ray | 11
