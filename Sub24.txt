@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.174.113:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.174.113:443
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.242.236:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.242.236:443
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@194.36.55.200:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇬🇧 GB-194.36.55.200:443
 vless://1c11222d-1aca-4ef9-8872-bf0b8a55228d@172.66.47.104:443?security=tls&sni=pardazeshvpn-tg94.pages.dev&type=ws&host=pardazeshvpn-tg94.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.104:443
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@185.174.138.141:8443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed&fp=chrome#🔒 VL-WS-TLS 🇷🇺 RU-185.174.138.141:8443
 vless://5105bb9c-048c-4926-b8b4-ad03509fa470@185.146.173.8:8880?security=none&type=ws&host=ir.fhq0la447aac5504dspeedtestircomnetmeleosjanwjdifjsnjsx.cloud.aRviNbaluch.IR.#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.8:8880
@@ -80,6 +83,3 @@ vless://eb44e1c7-e5ba-4446-807c-a0768a8f4589@104.16.12.44:2083?security=tls&sni=
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.18.182.141:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.182.141:443
 vless://f7e08961-ba18-4ac8-aac0-e925107417af@162.159.133.234:443?security=tls&sni=de.vpncustomize.Website&type=ws&host=de.vpncustomize.Website&path=/&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.133.234:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@8.218.85.128:80?security=none&type=ws&path=%2Fblue#🔒 VL-WS-NONE 🇭🇰 HK-8.218.85.128:80
-vless://97537a78-0f60-43bd-a1c4-6f84697b4f96@185.146.173.38:8080?security=none&type=ws&host=VPNCUSTOMIZE.V2ray.Community.#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.38:8080
-vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@188.114.97.46:443?path=@V2rayi_net#🔒 VL-TCP-NA 🏴‍☠️ NA-188.114.97.46:443
-vless://9a39f63e-28c8-4560-af18-b01b9916ef1b@104.18.41.138:8443?security=tls&sni=pardazesh-tgws.pages.dev&type=ws&host=pardazesh-tgws.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.41.138:8443

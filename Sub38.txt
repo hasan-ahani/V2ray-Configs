@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://7bedf632-b4c2-4e90-9d8b-f42ee7145534@141.193.213.10:443?security=tls&sni=shinobbbnbu.yaemiko.cloudns.org&type=ws&host=shinobu.yaemiko.cloudns.org&path=/&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇺🇸 US-141.193.213.10:443
+vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@192.0.54.194:443?security=tls&sni=v667.ylkszy.eu.org&type=ws&path=/?ed#🔒 VL-WS-TLS 🇺🇸 US-192.0.54.194:443
+vless://3c110307-dcf0-4002-b944-6d2c9530dd23@104.18.13.130:2083?security=tls&sni=dash.zedmodeon.lat&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.13.130:2083
 vless://38928290-00af-4255-9006-57df913e1f95@185.53.142.133:80?security=none&type=ws&host=92322070.v2rAy.speedtest.net.parSpaCk.coM.pCi.ir.xn--10-cg7e.xn--4oqa52uba3842Dca.kiNg4uSd.sHop.#🔒 VL-WS-NONE 🇮🇷 IR-185.53.142.133:80
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@83.229.4.142:8443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=/tg@zdyz2#🔒 VL-WS-TLS 🇯🇵 JP-83.229.4.142:8443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.182.195:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.182.195:80
@@ -80,6 +83,3 @@ vless://5faeeda6-bba0-485f-909a-510f6e4200d6@185.143.234.120:2095?security=none&
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@45.131.4.89:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&fp=chrome#🔒 VL-WS-TLS 🇳🇱 NL-45.131.4.89:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.27.32:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.27.32:80
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.169.230:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.169.230:80
-vless://daed9948-71e1-4f07-b357-77ed5dcb0405@162.159.138.232:8880?security=none&type=ws&host=cloudtscov2ray.v2rayng9.9.9.9.ir.Com.Site.xn--fhq0la447aac5504dea701aXr1g.caffevip.SHOP.#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.138.232:8880
-vless://d2cd2739-42eb-4307-c06a-ae85bda761a4@104.21.42.250:443?security=tls&sni=www.GozargahVPN.top&type=ws&host=www.GozargahVPN.top&path=/Telegram:,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,%3Fed%3D2048&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.42.250:443
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@192.65.217.252:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=/tg@zdyz2#🔒 VL-WS-TLS 🇦🇺 AU-192.65.217.252:443

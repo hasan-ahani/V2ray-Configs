@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.35.61:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.35.61:443
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.178.127:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.178.127:443
+vless://d7cc1574-41ed-4a8e-a70b-e87bd04e4c16@62.60.202.237:36389?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-62.60.202.237:36389
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@162.159.137.83:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.137.83:80
 vless://1ad1b334-e4c2-4694-827e-190c251d5ba2@45.144.179.106:41172?type=ws&path=/#🔒 VL-WS-NA 🇷🇺 RU-45.144.179.106:41172
 vless://0ac87cdb-e122-46c9-f3ce-6a02d5b1678f@45.140.30.130:20569?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-45.140.30.130:20569
@@ -80,6 +83,3 @@ vless://b0071e63-2d3f-4142-9b37-70eb1b5fe057@188.114.96.2:2052?security=none&typ
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.207.146:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.207.146:80
 vless://6e569c43-f7e6-4ab7-b3a7-f616a39ff6a1@104.21.70.11:8080?security=none&type=ws&host=dw.huondadalioshop.ir#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.70.11:8080
 vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@8.219.201.245:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🇸🇬 SG-8.219.201.245:443
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.18.95.52:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.95.52:80
-vless://723af342-568e-4332-9233-6f33a9ca2de8@104.20.19.168:80?security=none&sni=v2raylandd-88.vmjisexa.workers.dev&type=ws&host=v2raylandd-88.vmjisexa.workers.Dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.19.168:80
-vless://bebb4669-0a60-4b6f-be6a-b0272695a303@172.67.212.184:2083?security=tls&sni=mmad.mamadjohnny.woRkErs.DEV&type=ws&host=mmad.mamadjohnny.woRkErs.DEV&path=vless-ws%2F%3Fed%3D2048&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.212.184:2083

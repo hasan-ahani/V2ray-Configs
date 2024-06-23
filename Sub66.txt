@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://ef864178-98ac-493b-ae7e-054c362c348f@45.56.67.132:443?security=tls&sni=us2-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇺🇸 US-45.56.67.132:443
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.206.57:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.206.57:80
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@172.64.229.44:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.229.44:80
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.105.117:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.105.117:80
 vless://bf7e1009-1574-44f7-86df-6cbecd338477@172.66.44.150:443?security=tls&sni=pardazeshvpn-tg18.pages.dev&type=ws&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.150:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.2:8443?security=tls&sni=a.ssll.gay&type=ws&path=twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.2:8443
@@ -80,6 +83,3 @@ vless://37d0b151-023e-4729-9994-45a7d9df5fd1@172.67.151.51:8443?security=tls&sni
 vless://91d9b8d8-2aab-4e1a-9573-0d59e9cd7f8e@188.114.97.1:8880?security=none&type=ws&host=falcunargo-channel.be3374a836.workers.Dev&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.97.1:8880
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.221.243:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.221.243:80
 vless://6eccc692-3876-41a8-cfb9-65da484f097e@93.115.241.62:80?security=none&type=ws&host=dlrozaneh.ir.#🔒 VL-WS-NONE 🇺🇸 US-93.115.241.62:80
-vless://d5867333-9216-4523-af0d-dc3389a9312c@172.67.198.98:8080?security=none&type=ws&host=ob4-yvm-a0dy-bwcw-6knk-o-v9shh-dbe6w.armanibashbot.online&path=/mMeAjgLHu2yrbCRWchT64G#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.198.98:8080
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.198.130:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.198.130:80
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.204.113:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.204.113:80
