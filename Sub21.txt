@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://702c098f-a29a-415d-af86-cf72a437c200@38.180.1.198:443?security=reality&flow=xtls-rprx-vision&sni=cenl.org&type=tcp&fp=chrome&pbk=jwdDqazbeRaR7gxqjBTFaC566Nv10tJewF9tlKrp-Wk&sid=e520d0583ca8295d#🔒 VL-TCP-RLT 🇳🇴 NO-38.180.1.198:443
-vless://b7a3a5b8-fa6d-4339-a0e9-2bff4fe15f1f@104.168.107.230:8443?security=reality&flow=xtls-rprx-vision&sni=aws.amazon.com&type=tcp&fp=chrome&pbk=QQHxQK7ocGHvaCmqtW3QapnKiBVd4ZjjM3zhCGVMPS4&sid=db68e802226b21cd#🔒 VL-TCP-RLT 🇺🇸 US-104.168.107.230:8443
-vless://0de3b67a-2df6-4504-88b9-a7e910e799c3@159.69.114.213:8443?security=reality&flow=xtls-rprx-vision&sni=cdn.discordapp.com&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒 VL-TCP-RLT 🇩🇪 DE-159.69.114.213:8443
-vless://8bc328a4-eeb2-44f8-9beb-8144b7c7bfd1@104.168.107.230:8884?security=reality&flow=xtls-rprx-vision&sni=dnschecker.org&type=tcp&fp=chrome&pbk=QQHxQK7ocGHvaCmqtW3QapnKiBVd4ZjjM3zhCGVMPS4&sid=db68e802226b21cd#🔒 VL-TCP-RLT 🇺🇸 US-104.168.107.230:8884
 vless://ec3b9c37-7cde-46ab-aefd-7e17e1f06fa1@104.168.107.230:5676?security=reality&flow=xtls-rprx-vision&sni=arnebrachhold.de&type=tcp&fp=chrome&pbk=QQHxQK7ocGHvaCmqtW3QapnKiBVd4ZjjM3zhCGVMPS4&sid=db68e802226b21cd#🔒 VL-TCP-RLT 🇺🇸 US-104.168.107.230:5676
 vless://c9a2add5-30fd-4c9f-bef0-ad1562981a2c@217.60.244.81:8443?security=reality&sni=telewebion.com&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒 VL-TCP-RLT 🇮🇷 IR-217.60.244.81:8443
 vless://492610dd-3879-4884-b80f-d0b3685cb366@172.233.56.36:2093?security=reality&sni=stackoverflow.com&type=http&fp=chrome&pbk=7kjyM2dPWAj_zy6VnB88fevwjT4m3XRna6H2rfSEdH0&sid=d710e2b9#🔒 VL-HTTP-RLT 🇳🇱 NL-172.233.56.36:2093
@@ -83,3 +79,7 @@ vless://eb201923-0e39-4425-bd0f-6244cd24ef2a@188.114.96.223:443?security=tls&sni
 vless://0335a391-5e2c-45db-a81a-93a8295e68b7@172.67.187.56:2083?security=tls&sni=emifree2.bestgameir2.ir&type=ws&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.187.56:2083
 vless://dd5a38d3-71a0-4f22-8693-bad730adbd0b@162.159.7.247:443?security=tls&sni=sky.ararat3d.com&type=ws&host=sKy.ARaraT3d.cOm.&path=/&fp=chrome&alpn=http/1.1,h2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.7.247:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.118.87:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.118.87:80
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.188.119:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.188.119:80
+vless://9902fc94-31f9-4afe-b37a-82f5790b3d2a@104.24.20.71:443?security=tls&sni=de1-moryvpnbot.pages.dev&type=ws&host=de1-moryvpnbot.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.20.71:443
+vless://ba616a74-1186-420f-a93a-5410d2a274b2@45.140.146.223:443?security=tls&sni=sourceforge.net&type=grpc&serviceName=grpc&fp=chrome#🔒 VL-GRPC-TLS 🇲🇩 MD-45.140.146.223:443
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@176.97.73.82:8443?security=tls&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=%2F#🔒 VL-WS-TLS 🇯🇵 JP-176.97.73.82:8443

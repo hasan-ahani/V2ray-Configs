@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://7749a882-27cf-40f1-c90e-fd2040e46f60@104.31.16.161:80?security=none&sni=bpi.ir.bankmellat.ir.ilna.ir.jobinja.ir.iro.ir.karafarinbank.ir.mche.or.ir.cbi.ir.iran.gov.ir.khamenei.ir.esam.ir.bahesab.ir.ponisha.ir.parsian-bank.ir.refah-bank.ir.ime.ac.ir.irna.ir.bank-maskan.ir.bmi.ir.iauh.ac.ir.ebanksepah.ir.mahtabighadimi.sbs.&type=ws&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.31.16.161:80
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@8.218.136.25:80?security=none&type=ws&path=%2Fblue#🔒 VL-WS-NONE 🇭🇰 HK-8.218.136.25:80
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.198.134:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.198.134:80
-vless://d2369f28-4eea-41fe-998c-14bf8b5e1914@172.67.214.179:2083?security=tls&sni=le.bo3kot.com&type=grpc&serviceName=@MxV2ray,@MxV2ray,@MxV2ray,&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.214.179:2083
 vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.210.248:8919?type=tcp&serviceName=-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any&host=varzesh3.com&path=/&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-62.60.210.248:8919
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.182.251:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.182.251:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.136.102:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.136.102:443
@@ -83,3 +79,7 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.176.24.167:443?security=tls&sni
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@104.18.184.108:443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.184.108:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.160.188:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.160.188:80
 vless://661e4131-514a-457e-bbc7-748cbb92253d@172.66.47.18:443?security=tls&sni=pardazesh14.pages.dev&type=ws&host=pardazesh14.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.18:443
+vless://c416be20-32b3-467f-83c2-735e04d639f7@172.67.137.169:80?type=ws&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.137.169:80
+vless://44b68625-8022-452b-8c91-ee40abe7ff63@104.21.85.68:443?security=tls&sni=ppaL03.aLesSIA-beRNiER.wORkeRS.dEv&type=ws&host=ppaL03.alEssiA-bERNIer.wORKeRS.dEV&path=%2FTELEGRAM-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.85.68:443
+vless://0a869459-f7a2-4f93-9412-066554c869c4@104.16.120.85:2096?security=tls&sni=sd2.dwv2ray.site&type=grpc&serviceName=@Dataworld_ir&alpn=http/1.1,h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.120.85:2096
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@172.64.229.223:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.229.223:80

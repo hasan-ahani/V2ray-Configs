@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://dacc0551-b15a-47da-8543-ef088dfa5904@14.29.253.95:20650?sni=aus01.ckcloud.info#🔒 TR-TCP-NA 🇨🇳 CN-14.29.253.95:20650
-trojan://VEwhQA5jfD@181.215.205.171:36811?security=none&type=tcp#🔒 TR-TCP-NONE 🇦🇪 AE-181.215.205.171:36811
-trojan://a8d5df53-7073-406f-8c88-ac993e3fb9a1@162.251.82.187:443?security=tls&sni=AtYrGkMyE51.diamondgalery.ir&type=ws&host=AtYrGkMyE51.diamondgalery.ir&path=/U13Hsk6pJ3kV6p1uO5Avv#🔒 TR-WS-TLS 🇺🇸 US-162.251.82.187:443
-trojan://NISHIKUITAN222@35.247.124.181:443?security=tls&sni=t667.ylks.link&type=ws&host=t667.ylks.link&path=/#🔒 TR-WS-TLS 🇺🇸 US-35.247.124.181:443
 trojan://675821fd-e6d1-4e8e-b56e-efc84bc819a0@48.218.146.89:443?#🔒 TR-TCP-NA 🇯🇵 JP-48.218.146.89:443
 trojan://NISHIKUITAN222@8.219.161.129:8443?security=tls&sni=t010.ylks.link&type=ws&host=t010.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.161.129:8443
 trojan://lrdxw@172.67.197.210:443?security=tls&sni=trojan-lrdxw.ala1-f11.workers.dev&type=ws&host=trojan-lrdxw.ala1-f11.workers.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.197.210:443
@@ -83,3 +79,7 @@ trojan://0fd9b883-0551-4ed1-b978-528183b459a2@47.243.18.199:2053?security=tls&sn
 trojan://auto@172.67.2.238:2083?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.2.238:2083
 trojan://NISHIKUITAN222@8.219.199.220:8443?security=tls&sni=t010.ylks.link&type=ws&host=t010.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.199.220:8443
 trojan://lrdxw@104.21.68.185:443?security=tls&sni=trojan-lrdxw.ala1-f11.workers.dev&type=ws&host=trojan-lrdxw.ala1-f11.workers.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.68.185:443
+trojan://dacc0551-b15a-47da-8543-ef088dfa5904@14.29.166.190:16706?sni=hk05.ckcloud.info&allowInsecure=0#🔒 TR-TCP-NA 🇨🇳 CN-14.29.166.190:16706
+trojan://tIErrUuX7j@172.67.187.246:2053?security=tls&sni=vr.v2ray962.filegear-sg.me&type=grpc#🔒 TR-GRPC-TLS 🏴‍☠️ NA-172.67.187.246:2053
+trojan://2e3562a819634de686ade78e434c0963@104.16.192.148:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=/6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.192.148:443
+trojan://NISHIKUITAN222@8.219.83.71:8443?security=tls&sni=t111.ylks.link&type=ws&host=t111.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.83.71:8443
