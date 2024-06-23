@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@47.236.145.85:2096?security=tls&sni=xin555.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇸🇬 SG-47.236.145.85:2096
 vless://61817e64-10ca-47be-97e8-9d6ff6aa2a5d@172.67.147.142:443?security=tls&sni=rsfrndc.foriran.trade&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.147.142:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@205.233.181.213:443?security=tls&sni=zdy700.kpcloud.eu.org&type=ws&path=/?proxyip#🔒 VL-WS-TLS 🇺🇸 US-205.233.181.213:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.243.26.83:80?security=none&type=ws&path=/blue#🔒 VL-WS-NONE 🇭🇰 HK-47.243.26.83:80
@@ -82,4 +83,3 @@ vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@185.148.104.135:443?security=tls&sn
 vless://5427ac51-57c6-49ad-a5b3-e0652461358c@94.182.152.121:8080?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-94.182.152.121:8080
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@172.67.70.92:8443?security=tls&sni=xin555.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.70.92:8443
 vless://4f6f85f9-9d32-4684-a952-338d2208e1af@104.18.15.19:80?security=none&type=ws&host=net.de.cloudflare.cdn.discord.telegram.zula.ir.fars.ir.iranserver.dontbow.store.&path=%2Fdont%2Ftrust%2Fmelo#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.15.19:80
-vless://6e08a6cc-6c5c-4a10-b2b3-efbeede3ca0f@104.18.177.104:8880?security=none&type=ws&host=v2kingfree.6.5.4.5.ir.speedtest.shop.com.xn--fhqpqv8rrth13sbaaac958pc94anf0d8gmha8i.shop.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.177.104:8880

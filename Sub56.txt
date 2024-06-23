@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.135.9.198:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇩🇪 DE-185.135.9.198:443
 vless://8e6bf3fc-1f1d-4101-b2e9-b7142271eb9c@45.131.4.91:2083?security=tls&sni=Daily-Configs.darkmood.cfd.&type=ws&host=Daily-Configs.darkmood.cfd.&path=%2FTel--%40Daily_Configs-Tel--%40Daily_Configs-Tel--%40Daily_Configs-Tel--%40Daily_Configs-Tel--%40Daily_Configs-Tel--%40Daily_Configs&fp=chrome&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔒 VL-WS-TLS 🇳🇱 NL-45.131.4.91:2083
 vless://00c049ba-07a9-4607-afec-1e594a608df3@104.19.54.50:2095?type=ws&host=v2ray-_-_-_-_-_v2rayargon.telegramchanneljoinbede.com.&path=telegram:@v2rayargon-Telegram:@v2rayargon-Telegram:@v2rayargon-Telegram:@v2rayargon-Telegram:@v2rayargon-TelegramTelegram:@v2rayargon-Telegram:@v2rayargon-Telegram:@v2rayargon-Telegram:@v2rayargon-Telegram:@v2rayargon-Telegram#🔒 VL-WS-NA 🏴‍☠️ NA-104.19.54.50:2095
 vless://4922fb95-dc7d-4d93-9f54-2dcc4b46f752@172.67.161.70:8880?security=none&type=ws&host=xn--80ajabxfcf7ah9bi.fiErlIne.lINk#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.161.70:8880
@@ -82,4 +83,3 @@ vless://7e39754c-9924-498c-a4cf-5f13badf16a7@23.227.60.130:2087?security=tls&sni
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@63.141.128.193:443?security=tls&sni=kk700.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-63.141.128.193:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.242.125.241:80?security=none&type=ws&path=%2Fblue#🔒 VL-WS-NONE 🇭🇰 HK-47.242.125.241:80
 vless://ecb90d6e-1bbf-42ec-a742-822fad6936da@172.104.175.11:2003?security=tls&sni=sg-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇸🇬 SG-172.104.175.11:2003
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@8.210.85.222:80?security=none&type=ws&path=%2Fblue#🔒 VL-WS-NONE 🇭🇰 HK-8.210.85.222:80
