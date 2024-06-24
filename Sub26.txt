@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.151.27:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.151.27:80
+vless://349956b8-b0c8-45ac-acb9-ed7881fc88b1@162.159.137.232:2083?security=tls&sni=worker-calm-rice-ce3a.alanaziziyani88aa79.workers.dev&type=ws&host=worker-calm-rice-ce3a.alanaziziyani88aa79.workers.dev&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.137.232:2083
+vless://8d2b1217-c750-4fe6-9d07-7325cf1e300b@104.18.37.228:443?security=tls&sni=help.melov2ray.shop&type=grpc&serviceName=melov2ray&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.37.228:443
+vless://3d4e4ff0-d706-4a6c-92b1-ed4927959c3a@172.67.44.193:80?security=none&type=ws&host=cpy.cpy-teel-1-32f.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.44.193:80
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.177.139:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.177.139:80
 vless://c1af9a0c-9d50-493b-fe68-04ae841a4f99@212.113.100.106:26091?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇸🇪 SE-212.113.100.106:26091
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.198.134:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.198.134:80
@@ -79,7 +83,3 @@ vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.25.198:80?type=ws&host=kr1.1
 vless://440a5fc6-4d97-46d5-93f7-adf90996081e@104.24.57.187:80?security=none&type=ws&host=bia-to-channel4.unlimiteddev.shop&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.57.187:80
 vless://226dfc94-9413-470b-ad06-89834fd2dc41@104.25.254.35:8443?security=tls&sni=t.mmd111.sbs&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.25.254.35:8443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@203.184.132.238:1520?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=/tg@zdyz2#🔒 VL-WS-TLS 🇭🇰 HK-203.184.132.238:1520
-vless://89420825-e589-4735-bee1-6dc636fca343@104.21.80.134:443?security=tls&sni=w3.sylarsun.eu.org&type=ws&host=w3.sylarsun.eu.org#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.80.134:443
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.126.109:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.126.109:443
-vless://7d50ef82-081d-41ed-bd6a-0e7210277f9a@85.133.204.184:8080?security=none&type=ws&host=dl.tasvirezendegi.com&path=%2Fhormozvpn#🔒 VL-WS-NONE 🇮🇷 IR-85.133.204.184:8080
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.147.178:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.147.178:80

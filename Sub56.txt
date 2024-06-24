@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://847f3858-0dcf-4363-b49b-63b5337d75a7@78.110.121.208:80?security=tls&sni=t1.morgoon.com&type=tcp&host=telewebion.com&path=/&headerType=http&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-TCP-TLS 🇮🇷 IR-78.110.121.208:80
+vless://723af342-568e-4332-9233-6f33a9ca2de8@104.20.19.168:80?security=none&sni=v2raylandd-88.vmjisexa.workers.dev&type=ws&host=v2raylandd-88.vmjisexa.workers.Dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.19.168:80
+vless://f22b09c9-5fa6-4ed7-992f-1dcbc4dba3ad@172.66.44.78:443?security=tls&sni=pardazesh12.pages.dev&type=ws&host=pardazesh12.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.78:443
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.148.60:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.148.60:80
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.215.139:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.215.139:80
 vless://c6812323-833b-454d-80c0-e1ccc22e9fc5@104.21.14.115:2086?security=none&sni=app----23.dl2nextflix-inbound3html-dldl1direct2d-1.com&type=ws&host=app----23.dl2nextflix-inbound3html-dldl1direct2d-1.com&fp=chrome&alpn=h2#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.14.115:2086
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@154.83.2.176:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇸🇨 SC-154.83.2.176:443
@@ -79,7 +83,3 @@ vless://63dd3174-ca18-4dc5-95ff-b017e05639f0@162.159.135.234:2096?security=tls&s
 vless://9ad2883c-1c39-4e42-8ec0-38abd3fa914e@185.146.173.231:80?security=none&type=ws&host=xn---ndu.ntjdjpdb--a-9wl9jqtr75a136V2raya8b97V2rajdk44yjwac23607hkhja2.My-Archive69.site.&path=/@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-V2#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.231:80
 vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@172.67.165.191:443?security=tls&sni=suratquran18.xyz&type=ws&path=/current_time&fp=chrome&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.165.191:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.207.30:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.207.30:80
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@205.233.181.0:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🔒 VL-WS-TLS 🇺🇸 US-205.233.181.0:443
-vless://a54a8e51-cb42-4fe0-9c7b-1b56937e481a@188.114.97.0:2096?security=tls&sni=moal5.jokpas1.xyz&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-188.114.97.0:2096
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.18.95.235:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.95.235:80
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.179.9:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.179.9:80
