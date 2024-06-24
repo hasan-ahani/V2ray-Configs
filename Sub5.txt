@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vmess://eyJhZGQiOiIxODguMTE0Ljk3LjMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiY2hyb21lIiwiaG9zdCI6ImFmcmhtczE2di5iZXN0eHJheS5idXp6IiwiaWQiOiJmNTg0ZGUxNS0yMDM0LTQxNzAtYTcyMy1mNDhjMmJhZTVlMGYiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2xpbmt3cyIsInBvcnQiOiI0NDMiLCJzY3kiOiJhdXRvIiwic25pIjoiYWZyaG1zMTZ2LmJlc3R4cmF5LmJ1enoiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIiLCJwcyI6Ilx1ZDgzZFx1ZGVhOUNGIHwgXHVkODNkXHVkZmUyIHwgdm1lc3MgfCBAb25lY2xpY2t2cG5rZXlzIHwgMCJ9
 trojan://TfmgLMzzGi@164.90.167.137:2095?type=ws&host=164.90.167.137&path=/2.v2ray.debian.org.fxp.debian.org.speedtest.net.����ù������.madariran.filegear-sg.m#🇩🇪DE | 🔴 | trojan | @oneclickvpnkeys | 1
 trojan://ypDt8RkT7J@31.172.67.242:43118?type=tcp&security=tls&sni=tpmwh.phooeyunfold.com#🇷🇺RU | 🔴 | trojan | @oneclickvpnkeys | 2
 trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?mode=gun&security=tls&authority=&type=grpc&serviceName=443trojan&sni=cdn-21.gsmxreality.com#🚩CF | 🔴 | trojan | @oneclickvpnkeys | 3
@@ -58,7 +59,6 @@ vless://0de3b67a-2df6-4504-88b9-a7e910e799c3@159.69.114.213:8443?security=realit
 vless://ebfb6e23-32c3-47ac-8319-37f369f7a343@Ipv.acangame.ir:52852?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=Tel-@GH_v2rayng Tel-@GH_v2rayng Tel-@GH_v2rayng Tel-@GH_v2rayng Tel-@GH_v2rayng Tel-@GH_v2rayng Tel-@GH_v2rayng Tel-@GH_v2rayng#🇮🇷IR | 🔴 | vless | @customv2ray | 12
 vless://SVNTEAMm@185.146.173.90:8080?path=/SVNTEAM-LINK-SVNTEAM-LINK-SVNTEAM?ed=2048&security=none&encryption=none&host=SVNTEAM-XUI-v2rayCG7.TehranShoop.ir.&type=ws#🇸🇪SE | 🔴 | vless | @customv2ray | 15
 vless://428e8379-826d-4077-9c3b-94d38f94328d@zula.ir:443?path=/PPkdeHhAODvrGXR0?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=tap30.pinobin.ir.&fp=chrome&type=ws&sni=tap30.pinobin.ir.#🇺🇸US | 🔴 | vless | @customv2ray | 16
-vless://2a3263e2-891c-4446-b474-a8c63acb6e25@cloud.kinononva.top:2096?path=/&security=tls&encryption=none&alpn=http/1.1&host=u1.3mehdidom.net&type=ws&sni=u1.3mehdidom.net#🇺🇸US | 🔴 | vless | @customv2ray | 17
 vless://a9877123-5f57-42cd-ba49-0b0514be53f5@188.114.98.224:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#🚩CF | 🔴 | vless | @UnlimitedDev | 1
 vless://a9877123-5f57-42cd-ba49-0b0514be53f5@zula.ir:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8080&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#🇺🇸US | 🔴 | vless | @UnlimitedDev | 2
 vless://387ece1e-2b27-464b-adf5-dd98aa95e017@188.114.98.224:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#🚩CF | 🔴 | vless | @UnlimitedDev | 3
