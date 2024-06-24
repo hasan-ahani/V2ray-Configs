@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.152.98:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.152.98:80
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.159.218.73:443?security=tls&sni=kk999.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-45.159.218.73:443
-vless://0f7ec369-3529-4e73-943b-19258212f1bb@162.159.0.33:443?security=tls&sni=c.2025vless.cloudns.be&type=ws&host=c.2025vless.cloudns.be#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.0.33:443
-vless://de352a82-25dd-4cbc-98bf-2e761da633f5@172.67.130.66:8443?security=tls&sni=Fin.Melobigg.Site&type=grpc&serviceName=me&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.130.66:8443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@205.233.181.90:443?security=tls&sni=kk700.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-205.233.181.90:443
-vless://e695cbee-0c5f-48bc-8d5f-93012fd4a1ad@92.38.145.145:80?security=none&type=ws&host=music-farsi.com&path=%2FTechnoi%3Fed%3D4096#🔒 VL-WS-NONE 🇺🇸 US-92.38.145.145:80
-vless://dd8e3267-0402-4fb9-a7b7-4782b168060f@172.67.218.252:2096?security=tls&sni=xpaceteam-mci.cataba.ir&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.218.252:2096
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.106.93:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=/tg@zdyz2#🔒 VL-WS-TLS 🇺🇸 US-185.148.106.93:443
 vless://99872cdb-e049-4eff-bcaf-69150de13324@104.22.0.87:443?security=tls&sni=lt1.vless.site&type=ws&host=lt1.vless.site&path=%2Fvless%3Fed%3D%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%3Fed&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.0.87:443
 vless://51baeda8-1288-458a-b5ae-b8b080b937b6@104.27.1.52:8880?type=ws&host=cherry.berry.strawberry.我们生活在该死的地狱里.shop.#🔒 VL-WS-NA 🏴‍☠️ NA-104.27.1.52:8880
@@ -83,3 +76,10 @@ vless://7f99da38-1333-4a8e-abf1-9ecd951b9365@172.67.171.12:443?security=tls&sni=
 vless://9bc3f8e3-62cb-4b62-c3f2-5eb733cf8d62@104.25.36.133:2096?security=tls&sni=zafaran-shop-cloud01.cyberscaler.com&type=ws&host=zafaran-shop-cloud01.cyberscaler.com&path=%2FJoin%40t.me%2Fv2raygofree%2F&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.36.133:2096
 vless://9c55b81e-b44f-4e31-93bb-9c5f3f29b990@104.22.13.192:443?security=tls&sni=mtn.mdvpnsec.cfd&path=/&allowInsecure=1#🔒 VL-TCP-TLS 🏴‍☠️ NA-104.22.13.192:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.158.58:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.158.58:80
+vless://775213ac-3976-439a-8977-3277c0e4735d@5.10.245.59:443?security=tls&sni=fq521.6789.cloudns.be&type=ws&path=twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇳🇱 NL-5.10.245.59:443
+vless://85b5ac4c-364a-4703-90d3-158bace384cf@104.18.23.19:443?security=tls&sni=api2.htve.ir&type=ws&host=api2.htve.ir&path=/&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.23.19:443
+vless://f478a594-5882-4713-bfdc-80c3e9345bd1@146.75.73.60:80?security=none&type=ws&host=dailyconfigs.com#🔒 VL-WS-NONE 🇬🇧 GB-146.75.73.60:80
+vless://d74d8e62-90c2-4fee-bcf3-d239956ee51a@172.67.161.1:2096?security=tls&sni=jp.vps.wengmail.link&type=ws&host=jp.vps.wengmail.link#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.161.1:2096
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@164.38.155.75:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇬🇧 GB-164.38.155.75:443
+vless://05f816a2-4a7d-4c8e-8a52-91d5fc174d12@45.131.4.164:8080?security=none&type=ws&host=2.v2ray.mihanyas.ir.mbj.farsroid.com.列列男事的事列上赛男78.coM.#🔒 VL-WS-NONE 🇳🇱 NL-45.131.4.164:8080
+vless://134dff5d-b27f-4392-9491-92addd27f8cd@104.21.13.125:2096?security=tls&sni=tr1.vless.site&type=ws&host=tr1.vless.site&path=%2Fvless%3Fed%3D%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%3Fed&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.13.125:2096
