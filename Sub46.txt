@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://19cd42b4-36c9-4bee-ad2a-81287569c5fa@139.162.255.149:443?security=tls&flow=xtls-rprx-vision&sni=uk-freevmess.privateip.net&type=tcp#🔒 VL-TCP-TLS 🇬🇧 GB-139.162.255.149:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.205.49:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.205.49:80
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@147.185.161.149:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=/tg@zdyz2#🔒 VL-WS-TLS 🇺🇸 US-147.185.161.149:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.18.250.52:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇨🇭 CH-185.18.250.52:443
@@ -82,4 +83,3 @@ vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.59.2:80?type=ws&host=kr1.175
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.148.14:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.148.14:80
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.57.12:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.57.12:80
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.98.231:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.98.231:80
-vless://c1b972a3-9da3-5051-8dee-88e160001da1@104.25.122.104:8443?security=tls&sni=nikuw.sspeednetokala.US.kG&type=ws&host=nikuw.sspeednetokala.US.kG&fp=chrome&alpn=h3,h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.122.104:8443

@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://cae07bc9-33e8-4689-8b25-c7998bfee63a@185.59.218.48:443?security=tls&sni=join-telegraam-channel-disvpn.pages.dev&type=ws&host=join-telegraam-channel-disvpn.pages.dev&path=/server&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇷🇺 RU-185.59.218.48:443
 vless://df471c1e-7f41-4fce-9a94-e63a53baaa80@162.159.136.232:8080?security=none&type=ws&host=de2.过滤器.store.&path=/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.136.232:8080
 vless://70ea7a10-de3e-4922-bc7c-4dd7c2cef882@172.66.45.10:443?security=tls&sni=newtunnel-2xm.pages.dev&type=ws&path=%2Fvless&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.45.10:443
 vless://9e248b4e-2ee5-4e68-a164-633c408c118f@104.17.42.10:443?security=tls&sni=mci.eidafemini.monster&type=ws&host=mci.eidafemini.monster&path=/G296AyPNm3AYwsQVGSKX&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.42.10:443
@@ -82,4 +83,3 @@ vless://3c110307-dcf0-4002-b944-6d2c9530dd23@104.18.15.19:2083?security=tls&sni=
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.192.139:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.192.139:80
 vless://00e82199-4878-49f0-b4b0-0e0eb13921f4@172.66.213.38:2053?security=tls&sni=khj.mvclife.website&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.66.213.38:2053
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.172:443?security=tls&sni=zdy667.kpcloud.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.172:443
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.102.200:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.102.200:80

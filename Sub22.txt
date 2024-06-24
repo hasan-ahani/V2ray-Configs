@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@172.64.229.252:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.229.252:80
 vless://470e861d-9be1-4057-bbdd-1c7278fe375f@190.93.247.247:443?security=tls&sni=AntiV2ray.godratmand.link&type=grpc&serviceName=@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-190.93.247.247:443
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.17.80.220:443?security=tls&sni=BIa-PAiN-BAChe.PAGeS.dev&type=ws&host=BIA-paIN-bAcHe.PAGeS.DEV&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.80.220:443
 vless://c9605cb5-f9be-45f3-94d1-57ba02a9c3d0@162.159.134.233:2095?security=none&type=ws&host=Yakuza.unique69.com&path=/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.134.233:2095
@@ -82,4 +83,3 @@ vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.158.58:80?type=ws&host=kr1.1
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@194.36.55.200:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇬🇧 GB-194.36.55.200:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@162.159.128.68:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.128.68:80
 vless://cfb6d9ad-7a14-4061-b159-8902fd73bb40@104.17.147.22:2095?security=none&type=ws&host=www.speedtest.net.ftp.debian.org.xn--ihqvla424c49bba047b50okggl0rcfo5o3aus3a.website.&path=%2FDIGIV2RAY--DigiV2ray--digiv2ray--DIGIV2RAY--DigiV2ray--digiv2ray--DigiV2ray--DigiV2ray%3Fed%3D1024#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.147.22:2095
-vless://1289c2a9-046d-43f6-b8b9-ba9b5945ee84@104.18.39.123:2053?security=tls&sni=17c3681ef34a9a0c.greenbook.monster&type=ws&host=17c3681ef34a9a0c.greenbook.monster&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.39.123:2053

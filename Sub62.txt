@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://9e248b4e-2ee5-4e68-a164-633c408c118f@104.16.119.47:443?security=tls&sni=mci.eidafemini.monster&type=ws&host=mci.eidafemini.monster&path=/G296AyPNm3AYwsQVGSKX&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.119.47:443
 vless://50b68499-fda4-4e56-bbfd-b608284f1a0f@95.164.117.128:2003?security=tls&sni=de2-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇩🇪 DE-95.164.117.128:2003
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@152.228.191.232:80?security=none&type=ws&path=%2Fyoutube-%E7%94%B1%E9%9B%B6%E9%96%8B%E5%A7%8B#🔒 VL-WS-NONE 🇫🇷 FR-152.228.191.232:80
 vless://3fefc100-faed-43ad-b087-d47ddfe75121@104.21.47.122:443?security=tls&sni=s92qb78mnok7yh5ykir1ayugvc49aqclfapp4qmqvixdxyd8crqppthcfpsjmm2.esmpy.workers.Dev&type=ws&host=s92qb78mnok7yh5ykir1ayugvc49aqclfapp4qmqvixdxyd8crqppthcfpsjmm2.esmpy.workers.Dev&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.47.122:443
@@ -82,4 +83,3 @@ vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@47.236.130.95:443?security=tls&sni=
 vless://01b72230-7b65-4500-835c-957f62afd889@104.16.102.112:8080?security=none&type=ws&host=Seyyedmt-telegram-Seyyedmt-telegram.deraz.tech.&path=/Telegram:@seyyedmt-Telegram:@seyyedmt-Telegram:@seyyedmt-Telegram:@seyyedmt-Telegram:@seyyedmt-Telegram:@seyyedmt-Telegram:@seyyedmt-Telegram:@seyyedmt-Telegram:@seyyedmt#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.102.112:8080
 vless://6f995056-7802-4a1d-bff7-61678e626c3f@20.212.64.16:443?security=tls&sni=sgg1.azurewebsites.net&type=ws&path=%2F#🔒 VL-WS-TLS 🇸🇬 SG-20.212.64.16:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.221.75:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.221.75:80
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@162.159.152.210:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.152.210:80
