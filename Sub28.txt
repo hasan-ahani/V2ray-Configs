@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://e695cbee-0c5f-48bc-8d5f-93012fd4a1ad@92.223.84.84:80?security=none&type=ws&host=music-farsi.com#🔒 VL-WS-NONE 🇫🇷 FR-92.223.84.84:80
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@147.78.140.28:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=/tg@zdyz2#🔒 VL-WS-TLS 🇧🇬 BG-147.78.140.28:443
 vless://bcf50589-9654-4331-93a6-da896914ec47@172.66.47.2:443?security=tls&sni=de4ecf6b.isvphp-4g8.pages.dev&type=ws&host=de4ecf6b.isvphp-4g8.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.2:443
 vless://d6aec25f-d724-472a-b238-11ced09d4e94@162.159.129.233:80?security=none&type=ws&host=尼亞團員3尼亞團員1尼亞團員6尼亞團亞團員尼亞團尼亞團亞團員亞團員員亞團亞團員亞團員.尼亞團員4尼亞團員0尼亞團員7尼亞團亞團員尼亞團尼亞團亞團員亞團員員亞團亞團員亞團員.store.&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.129.233:80
 vless://a9c0613e-7b12-4c89-cb8b-6fb83c41ed33@172.67.147.79:2052?security=none&type=ws&host=join.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.b.cloudfront.net.kiava.fun#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.147.79:2052
@@ -81,5 +83,3 @@ vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.207.125:80?type=ws&host=kr1.
 vless://eb44e1c7-e5ba-4446-807c-a0768a8f4589@104.16.12.49:2083?security=tls&sni=amovpn6.fqservers.com&type=ws&host=amovpn6.fqservers.com&path=%2Fchannel%3A%40VPNAMOHELP_%40VPNAMOHELP_%40VPNAMOHELP_%40VPNAMOHELP_%40VPNAMOHELP_%40VPNAMOHELP&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.12.49:2083
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.151.12:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.151.12:80
 vless://45676281-ab4e-4696-d1cd-cb1b141960ad@104.21.43.63:2083?security=tls&sni=pan-4.eoeo.cam&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.43.63:2083
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@217.163.76.111:443?security=tls&sni=zdy999.kpcloud.eu.org&type=ws&path=/blue#🔒 VL-WS-TLS 🇬🇧 GB-217.163.76.111:443
-vless://f68b1ea9-3c4e-405a-98b1-35ee3db36000@104.21.94.25:80?type=ws&host=vr4RlSu.kallepache.store&path=/graphql#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.94.25:80

@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@47.242.125.241:2053?security=tls&sni=xin667.ylks.link&type=ws&path=/blue#🔒 VL-WS-TLS 🇭🇰 HK-47.242.125.241:2053
+vless://636b1684-b26c-4a9c-bc6e-8e1197a36d74@190.93.244.0:8080?security=none&type=ws&path=%2F%3Fed#🔒 VL-WS-NONE 🏴‍☠️ NA-190.93.244.0:8080
 vless://6cc5b6b6-b3d2-4c60-8197-5defdc8d6aa1@172.67.174.120:80?security=none&type=ws&host=public.列列男事的事列上赛男85.shop&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.174.120:80
 vless://69a93cbf-b851-4fe9-938a-cb2709eaa506@190.93.244.113:2087?security=tls&sni=furi-guri-allnet.poshakbany.ir&type=grpc&serviceName=@nicolV2ray/@nicolV2ray/@nicolV2ray/@nicolV2ray/@nicolV2ray/@nicolV2ray/@nicolV2ray/@nicolV2ray/@nicolV2ray/@nicolV2ray&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-190.93.244.113:2087
 vless://2ca42987-551b-4494-a854-da2d9178f4cd@104.31.16.162:2087?security=tls&sni=IxHiWwAs22.zImBa-zUlA.OrG&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.31.16.162:2087
@@ -81,5 +83,3 @@ vless://9b97bb00-48b8-46dd-a9f2-ecd2e16fc41c@104.16.114.74:2095?security=none&ty
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@220.119.139.132:39115?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=/tg@zdyz2#🔒 VL-WS-TLS 🇰🇷 KR-220.119.139.132:39115
 vless://097ab42d-c4dd-4a69-9b4b-92f0da96299e@137.74.66.90:57254?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇫🇷 FR-137.74.66.90:57254
 vless://1ef034ba-20d5-41b0-a922-d7e6def1a706@104.21.74.97:443?security=tls&sni=dd.limoo.online&type=ws&host=dd.limoo.online#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.74.97:443
-vless://b33b8d28-14d2-4325-80e0-3331ed080b1d@162.159.134.233:2083?security=tls&sni=freev2fwfjkn.mahdi-zarei1436.workers.dev&type=ws&host=freev2fwfjkn.mahdi-zarei1436.workers.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.134.233:2083
-vless://c49955ec-a0dc-496e-ea3b-c24fa5c87c82@104.21.7.50:443?security=tls&sni=reversepeyman1.cpionline.us&type=ws&host=reversepeyman1.cpionline.us&path=/ws/2053&fp=chrome&alpn=h3,h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.7.50:443
