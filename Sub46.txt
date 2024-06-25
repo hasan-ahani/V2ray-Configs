@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://dd8e3267-0402-4fb9-a7b7-4782b168060f@172.67.218.252:2096?security=tls&sni=xpaceteam-mci.cataba.ir&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.218.252:2096
-vless://91484c71-0762-47b8-82ad-8eae6f240278@162.159.128.233:2096?security=tls&sni=join-zedmodeon.zedmodeon-zedmodeon-zedmodeon.shop&type=grpc&serviceName=@ZEDMODEON+@ZEDMODEON+@ZEDMODEON&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.128.233:2096
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@205.233.181.117:443?security=tls&sni=zdy700.kpcloud.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-205.233.181.117:443
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.145.31:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.145.31:80
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@192.9.165.253:47580?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🔒 VL-WS-TLS 🇦🇺 AU-192.9.165.253:47580
 vless://f08f8ced-6fa5-4f1b-8e54-4dab0978fdf6@104.19.66.150:8080?security=none&type=ws&host=join-to.vmessorg.Community.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.66.150:8080
 vless://3c110307-dcf0-4002-b944-6d2c9530dd23@104.18.13.130:2083?security=tls&sni=dash.zedmodeon.lat&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.13.130:2083
@@ -83,3 +79,7 @@ vless://9dbaf43b-2029-4900-ad41-8dce8be516d5@185.146.173.92:8080?security=none&t
 vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.47.54:443?security=tls&sni=ircp-617.pages.dev.&type=ws&host=ircp-617.pages.dev.&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.54:443
 vless://dd8e3267-0402-4fb9-a7b7-4782b168060f@172.64.80.1:2096?security=tls&sni=xpaceteam-mci.cataba.ir&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.64.80.1:2096
 vless://d0be39fd-4bca-4e37-80d5-715d512aad7e@172.67.76.57:443?security=tls&sni=server17.aibox.tv&type=ws&host=server17.aibox.tv&path=/ws/&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.76.57:443
+vless://e8b9a3a1-88d3-4d61-9a8e-3b970f8e2d37@185.128.136.66:2086?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-185.128.136.66:2086
+vless://8545c44f-b1b4-4295-ae98-f0b6301a537f@172.66.46.214:2053?security=tls&sni=ios-azadnet.pages.dev&type=ws&host=ios-azadnet.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.46.214:2053
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.19.154.54:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.19.154.54:80
+vless://538ec70c-b386-51ad-8155-aeaed37a22b6@104.26.7.95:2053?security=tls&sni=newus.sspeednetokala.US.KG&type=ws&host=newus.sspeednetokala.US.KG&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.7.95:2053

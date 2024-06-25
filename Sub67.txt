@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@152.70.234.188:443?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org#🔒 VL-WS-TLS 🇰🇷 KR-152.70.234.188:443
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.19.57.135:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.19.57.135:80
-vless://f3bb01c4-98a9-4e9d-f5be-597cda8e1dfc@104.17.148.22:2052?security=none&type=ws&host=sahari.列列男事的事列上赛男78.com.&path=/Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.148.22:2052
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.105.192:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.105.192:80
 vless://a9c0613e-7b12-4c89-cb8b-6fb83c41ed33@104.21.28.188:2052?security=none&type=ws&host=join.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.b.cloudfront.net.kiava.fun#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.28.188:2052
 vless://c3c6a939-53fc-456b-8936-3a20048fc187@5.35.100.133:34192?security=none&type=grpc#🔒 VL-GRPC-NONE 🇷🇺 RU-5.35.100.133:34192
 vless://b0138d55-a493-4dc3-9932-c6f0391707c1@104.21.74.214:2082?security=none&type=ws&host=MalAySiAdj.CArD-937.WorKeRs.DeV.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.74.214:2082
@@ -83,3 +79,7 @@ vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.157.157:80?type=ws&host=kr1.
 vless://61958b98-d52a-420e-bb42-a3fd22985895@104.17.245.203:2096?security=tls&sni=italia.dalixw.fun&type=grpc&serviceName=.....&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.245.203:2096
 vless://9af577f2-0a7a-4448-ae0b-6985c53ea634@45.131.211.179:2083?security=tls&sni=t-netplus1.pages.dev&type=ws&path=%2F%3Fed&fp=randomized#🔒 VL-WS-TLS 🇳🇱 NL-45.131.211.179:2083
 vless://fc03933c-9b0b-4eab-9c5f-626ea67c5bff@162.159.135.233:8443?security=tls&sni=iraniancp.autos&type=ws&host=b4.iraniancp.autos#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.135.233:8443
+vless://5dc7c24a-b825-452e-9e2b-2d97f2b71105@46.245.65.175:3002?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-46.245.65.175:3002
+vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@193.123.35.165:443?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org#🔒 VL-WS-TLS 🇳🇱 NL-193.123.35.165:443
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.198.85:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.198.85:80
+vless://2a3263e2-891c-4446-b474-a8c63acb6e25@185.146.173.84:2096?security=tls&sni=lg2.nicolkidman.com&type=ws&host=lg2.nicolkidman.com&path=/&alpn=http/1.1#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.84:2096
