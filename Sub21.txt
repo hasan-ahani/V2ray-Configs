@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://9dea638e-09f1-4241-84a6-e6bf853485fe@151.80.52.21:50537?security=reality&sni=cdn.discordapp.com&type=grpc&serviceName=@nicolV2ray/@nicolV2ray/@nicolV2ray/@nicolV2ray/@nicolV2ray/@nicolV2ray/@nicolV2ray/@nicolV2ray/@nicolV2ray/@nicolV2ray&fp=chrome&pbk=qk6u8WcIivPiegu6YRvtbhAW3EARM39lZAIv95GeDgM&sid=30cc9d12#🔒 VL-GRPC-RLT 🇫🇷 FR-151.80.52.21:50537
+vless://cf0ecf99-0417-4eb5-b6ba-ddd839cad04a@116.203.200.108:443?security=reality&sni=www.speedtest.net&type=grpc&serviceName=@Shh_Proxy&fp=chrome&pbk=u4DFt-PrivHRMh7R56mwDwkOS_R19q1ts5tSgQdxqnw&sid=a715cc23#🔒 VL-GRPC-RLT 🇩🇪 DE-116.203.200.108:443
+vless://1596e7f0-2106-468f-e2b0-93f19e83bd0c@116.203.149.241:443?security=reality&sni=greenpepper.ir&type=grpc&serviceName=@ipV2Ray&fp=chrome&pbk=wxzZx9_9R0QXG4Hjc8e3_ckaUIbn9oKc5yKsBqh8ulc&sid=a18472f7#🔒 VL-GRPC-RLT 🇩🇪 DE-116.203.149.241:443
 vless://a0562dec-26ac-43d4-ba1d-785c334e644f@65.108.244.106:443?security=reality&sni=greenpepper.ir&type=grpc&serviceName=%40ipV2Ray&fp=firefox&pbk=XuBmd_9lf646T80SEzIXo5DzWFsUfoLY72OXzHLB9mE&sid=fada4f5f#🔒 VL-GRPC-RLT 🇫🇮 FI-65.108.244.106:443
 vless://637d3b63-758b-47cb-a5f6-f96fe6e4ab3b@193.228.1.157:443?security=reality&flow=xtls-rprx-vision&sni=www.microsoft.com&type=tcp&fp=chrome&pbk=zGp41QGUA2TBVirEaFS34_n05w38JxQHKbqQxS-iHzM&sid=cd2ccdd9761335d4#🔒 VL-TCP-RLT 🇹🇷 TR-193.228.1.157:443
 vless://6e4b2a33-0b48-444d-9595-2b511b6ca6e6@185.64.113.59:443?security=reality&sni=app.hubspot.com&type=tcp&path=Telegram:@HideNg_App-Telegram:@HideNg_App-Telegram:@HideNg_App&fp=chrome&pbk=QR6H1DTulqfHGU6CqoxNwl4I2EIJ0B_5zG4wYFQctQA#🔒 VL-TCP-RLT 🇩🇪 DE-185.64.113.59:443
@@ -80,6 +83,3 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.7.174:443?security=tls&sni=m
 vless://fbdd4f10-7c83-40e1-bb58-73f30843ffe1@185.146.173.92:8080?security=none&type=ws&host=Its-me.Vipnufilter.Online.#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.92:8080
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.245.102.52:80?security=none&type=ws&path=/blue#🔒 VL-WS-NONE 🇸🇬 SG-47.245.102.52:80
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.176.24.12:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-185.176.24.12:443
-vless://d2cd2739-42eb-4307-c06a-ae85bda761a4@172.67.214.21:443?security=tls&sni=www.GozargahVPN.top&type=ws&host=www.GozargahVPN.top&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.214.21:443
-vless://c6e4e86e-9063-4365-8c26-0039531edce8@104.17.148.22:2083?security=tls&sni=all5.savagev2ray.site&type=grpc&serviceName=@XvProxy,@XvProxy,@XvProxy,@XvProxy#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.148.22:2083
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@129.154.223.89:15800?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇰🇷 KR-129.154.223.89:15800

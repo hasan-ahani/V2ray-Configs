@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://947391e1-408e-4ba2-8a56-05cd972082e5@104.17.182.61:8443?security=tls&sni=ri.aminivip2023.site&type=ws&host=ri.aminivip2023.site&path=/V2zed&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.182.61:8443
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@8.217.207.60:80?security=none&type=ws&path=/blue#🔒 VL-WS-NONE 🇭🇰 HK-8.217.207.60:80
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.244.122.109:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇩🇪 DE-188.244.122.109:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@162.159.142.80:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.142.80:80
 vless://bb60ea48-70e1-414a-b441-86a5e40686de@62.60.210.189:1106?security=none&type=tcp&host=creativecommons.org&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-62.60.210.189:1106
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@193.123.233.169:39803?security=tls&sni=a.ssll.gay&type=ws&path=telegram%F0%9F%87%A8%F0%9F%87%B3+%40wangcai2+%2F%3Fed#🔒 VL-WS-TLS 🇰🇷 KR-193.123.233.169:39803
@@ -80,6 +83,3 @@ vless://4ecd1ec5-57fd-4993-934a-ba972b3ebdbb@16.170.231.188:2083?security=none&t
 vless://20334828-5963-4417-8c52-3f8bc08a074b@104.21.52.57:443?security=tls&sni=vless.mac2win.top&type=ws&host=vless.mac2win.top&path=%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.52.57:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.105.210:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.105.210:80
 vless://54ef4ecf-ff37-436a-be13-95c8a8a1114d@188.121.118.55:443?security=tls&sni=vIrGiNiAvPn-nL.pAgEs.dEv&type=ws&host=ViRgInIaVpN-Nl.PaGeS.DeV#🔒 VL-WS-TLS 🇮🇷 IR-188.121.118.55:443
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.178.127:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.178.127:443
-vless://cead5a7e-4a1d-4f93-8825-429969dd2fb8@162.159.130.234:2083?security=tls&sni=new.top-speed.shop&type=grpc&serviceName=go-ogle&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.130.234:2083
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@194.36.55.198:8443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇬🇧 GB-194.36.55.198:8443

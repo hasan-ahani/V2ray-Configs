@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://daa299ad-af63-40ac-ba13-78459047faec@85.9.98.218:443?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-85.9.98.218:443
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.201.84:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.201.84:80
+vless://e999ef63-e15f-415d-810a-c16bd245bf74@104.17.245.203:443?security=tls&sni=dl2.exoshop.ir&type=ws&host=dl2.exoshop.ir&path=/&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.245.203:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.2:8443?security=tls&sni=a.ssll.gay&type=ws&path=twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.2:8443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@199.181.197.78:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=/tg@zdyz2#🔒 VL-WS-TLS 🇺🇸 US-199.181.197.78:443
 vless://b8d718c6-7516-4259-b4e6-253e280bc6b6@104.21.69.44:443?security=tls&sni=channel-ma-vip-programs.hsjsak.ir&type=ws&host=channel-ma-vip-programs.hsjsak.ir&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.69.44:443
@@ -80,6 +83,3 @@ vless://cbf2adf8-2f40-49bf-9bd8-cfaf2094d01c@104.17.147.22:80?security=none&type
 vless://3c110307-dcf0-4002-b944-6d2c9530dd23@104.18.15.19:2083?security=tls&sni=dash.zedmodeon.lat&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.15.19:2083
 vless://b999f1a4-793d-4a13-f459-c308f27424dd@185.143.233.5:8080?security=none&type=ws&host=servermax.net&path=/#🔒 VL-WS-NONE 🇮🇷 IR-185.143.233.5:8080
 vless://79eb1ef4-ddf0-4206-a39c-fba25506ec80@172.66.46.246:443?security=tls&sni=pardazesh23-3cm.pages.dev&type=ws&host=pardazesh23-3cm.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.46.246:443
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.207.3:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.207.3:443
-vless://ecb90d6e-1bbf-42ec-a742-822fad6936da@172.104.175.11:443?security=tls&flow=xtls-rprx-vision&sni=sg-full.privateip.net&type=tcp&path=/&allowInsecure=1#🔒 VL-TCP-TLS 🇸🇬 SG-172.104.175.11:443
-vless://a61fc8cb-0012-4c4b-aa5e-d1c623ae8092@172.67.187.219:8880?security=none&type=ws&host=worker-late-feather-d436.wedome3486.workers.DEV&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.187.219:8880
