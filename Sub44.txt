@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@160.79.104.188:443?security=tls&sni=kk667.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-160.79.104.188:443
-vless://5bdf790f-0af2-4481-a624-41b66e7e3489@104.26.13.54:443?security=tls&sni=cdn.ircp.online&type=ws&host=cdn.ircp.online&path=%2F%40ln2ray%3Fed%3D2048&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.13.54:443
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.57.108:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.57.108:80
-vless://ddb133fc-d277-4c27-d518-0966796c35dc@104.31.16.37:80?security=none&type=ws&host=cEnTer.kaSHTI.woRld&path=nameless-wave-c0e0-work-new.helloworldperianscript.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-104.31.16.37:80
 vless://0f7ec369-3529-4e73-943b-19258212f1bb@162.159.9.55:443?security=tls&sni=c.2025vless.cloudns.be&type=ws&host=c.2025vless.cloudns.be#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.9.55:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@123.58.212.186:35123?security=tls&sni=80.qing1.link&type=ws&path=telegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai_8%2F%3Fed#🔒 VL-WS-TLS 🇭🇰 HK-123.58.212.186:35123
 vless://eb3d637b-9dc8-43e0-aa1b-1bc99d6f2704@188.114.96.2:2083?security=tls&sni=join20.maznet.cfd&type=ws&host=join20.maznet.cfd.&path=@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.2:2083
@@ -83,3 +79,7 @@ vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.252.205:80?type=ws&host=kr1.
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.161.13:443?security=tls&sni=PROdUcTiOn.pPaL03.aDhAM-EsSa.WoRKers.deV&type=ws&host=pROdUCtioN.PPaL03.aDhAM-ESSA.wOrKErs.dEv&path=%2FBVcSI6Btsnes5TFN%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.161.13:443
 vless://7379eb18-959d-4b33-ddf7-e9369a0e1769@170.114.46.1:443?security=tls&sni=ger.vwfghin.info&type=grpc#🔒 VL-GRPC-TLS 🇺🇸 US-170.114.46.1:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@173.242.117.79:8081?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-173.242.117.79:8081
+vless://9dfe4105-ee73-4586-9d53-f0889a3767e6@173.245.58.31:2052?security=none&type=ws&host=p1.abrarvan.xyz&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-173.245.58.31:2052
+vless://3f926686-dd36-4d3e-bc63-99eae58ddd10@95.164.88.77:443?security=none&type=tcp&host=france24.com&headerType=http#🔒 VL-TCP-NONE 🇬🇮 GI-95.164.88.77:443
+vless://d36f0f8e-edd7-4fdb-bb9f-430016c204b8@104.23.97.11:2087?security=tls&sni=Daily-Configs.darkmood.cfd&type=grpc&serviceName=%2FTel--%40Daily_Configs-Tel--%40Daily_Configs-Tel--%40Daily_Configs-Tel--%40Daily_Configs-Tel--%40Daily_Configs-Tel--%40Daily_Configs&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.23.97.11:2087
+vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.210.186:8919?type=tcp&serviceName=-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any&host=varzesh3.com&path=/&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-62.60.210.186:8919

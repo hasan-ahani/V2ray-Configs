@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://40d748ac-c130-42f0-ad3b-4eeb26c39e42@194.195.125.6:2003?security=tls&sni=au-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇦🇺 AU-194.195.125.6:2003
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.18.87.39:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.87.39:80
-vless://1c4520d8-b91d-4a6d-b21e-fbe98da8f363@172.67.205.72:2053?security=tls&sni=Frees.CConfigV2ray.workers.dev&type=ws&host=Frees.CConfigV2ray.workers.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.205.72:2053
-vless://439e2f9e-079e-4369-a712-22b942afeadd@104.21.80.183:443?security=tls&sni=download.seyfilm.ir&type=ws&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.80.183:443
 vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@129.146.243.241:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-129.146.243.241:443
 vless://40bd0854-8a76-428a-993d-fea77db2a59d@104.26.14.16:8443?security=tls&sni=telegram-falcunargo-stoniya.falcunar.asso.eu.org.&type=ws&host=telegram-falcunargo-stoniya.falcunar.asso.eu.org.&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.14.16:8443
 vless://0d7bcdc3-062e-43e0-a2ac-3ebe88823876@104.20.31.213:80?security=none&type=ws&host=fel.shopservices.ir#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.31.213:80
@@ -83,3 +79,7 @@ vless://fc5fd045-f911-4220-8f76-1ac4115e51c4@172.67.170.71:2087?security=tls&sni
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@185.176.24.140:2087?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇷🇺 RU-185.176.24.140:2087
 vless://8ae7ba42-91ba-4831-8f8e-c26a5867778b@185.146.173.185:8443?security=tls&sni=im.jomong.space&type=grpc&serviceName=Tel:+@NT_Safe&fp=chrome#🔒 VL-GRPC-TLS 🇸🇪 SE-185.146.173.185:8443
 vless://c1ba9a09-50a8-4656-959b-cd124deca7de@172.64.108.121:443?security=tls&sni=ru2.vless.site&type=ws&host=ru2.vless.site&path=%2Fvless&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.108.121:443
+vless://54ef4ecf-ff37-436a-be13-95c8a8a1114d@188.42.145.159:443?security=tls&sni=VIrgiNiavPn-nL.pagEs.dEv&type=ws&path=%2F#🔒 VL-WS-TLS 🇷🇺 RU-188.42.145.159:443
+vless://bc827d67-f095-4c65-9327-33039decb888@172.67.151.162:443?security=tls&sni=s5c.giga-downloader.com&type=ws&host=s5c.giga-downloader.com&path=/ws5/8080&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.151.162:443
+vless://0b56814b-3c31-4646-ef9c-da6e605b6be2@192.200.160.76:2096?security=tls&sni=panel.h3i0.site&type=grpc#🔒 VL-GRPC-TLS 🇺🇸 US-192.200.160.76:2096
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.252.206:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.252.206:80

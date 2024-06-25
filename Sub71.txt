@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://cdb15365-1ccb-4d5a-a5d9-6fb08d3c75ac@104.16.3.35:8880?security=none&type=ws&host=mahdihector.kewojod243.workers.dev&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.3.35:8880
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.207.142:443?security=tls&sni=PPal03.yUriEl-sIddHanTH.WOrKeRs.DEv&type=ws&host=PpAl03.yurIEl-siddhaNtH.worKErs.DeV&path=%2F4Viq5XHkDINND2Wg%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.207.142:443
-vless://cf1373d3-0089-42b5-a890-2b1c5d41735e@104.18.118.125:2087?security=tls&sni=Mo4.SahEBdELANKHodaRAnooNsHAbNiazBEKarEnotxxX-IUP.SpAcE&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.118.125:2087
-vless://3d66d33d-7c42-45a4-8eb6-21a554b87dcb@188.119.112.242:2003?security=tls&sni=nl-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇳🇱 NL-188.119.112.242:2003
 vless://9b174395-2af1-49e4-bc0c-542b6366522f@172.67.171.49:8080?security=none&type=ws&host=31ww.debian.org.3.debian.org.speedtest.net.azadistadium.com.#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.171.49:8080
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.198.71:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.198.71:80
 vless://d480372f-6596-4177-ae85-28af07adf1cb@172.67.206.221:2053?security=tls&sni=selinc--5--selinc--5--selinc.muosqv.workers.dev&type=ws&host=selinc--5--selinc--5--selinc.muosqv.workers.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.206.221:2053
@@ -83,3 +79,7 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.159.218.11:443?security=tls&sni=
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.18.85.211:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.85.211:80
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.110.83:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.110.83:80
 vless://09ceaa87-3cd5-491a-b734-e4ca15e89d35@104.16.208.90:8443?security=tls&sni=v2net-iran-v2ray-nl.morgensport.nl&type=ws&host=v2net-iran-v2ray-nl.morgensport.nl&path=/V2NET-IRAN-V2NET-IRAN-V2NET-IRAN-V2NET-IRAN-V2NET-IRAN-V2NET-IRAN-V2NET-IRAN-V2NET-IRAN-V2NET-IRAN-V2NET-IRAN-V2NET-IRAN-V2NET-IRAN-V2NET-IRAN-V2NET-IRAN&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.208.90:8443
+vless://b4f9c540-3911-4826-a274-e8d6d0cf8de1@172.67.165.213:2096?security=tls&sni=sinaazizpor.cozwao.WOrkERS.dev&type=ws&host=sinaazizpor.cozwao.WOrkERS.dev&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.165.213:2096
+vless://934e8a1a-3a81-496e-86cc-bd31b06f03d4@94.182.147.148:80?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇮🇷 IR-94.182.147.148:80
+vless://7749a882-27cf-40f1-c90e-fd2040e46f60@104.31.16.161:80?security=none&sni=bpi.ir.bankmellat.ir.ilna.ir.jobinja.ir.iro.ir.karafarinbank.ir.mche.or.ir.cbi.ir.iran.gov.ir.khamenei.ir.esam.ir.bahesab.ir.ponisha.ir.parsian-bank.ir.refah-bank.ir.ime.ac.ir.irna.ir.bank-maskan.ir.bmi.ir.iauh.ac.ir.ebanksepah.ir.mahtabighadimi.sbs.&type=ws&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.31.16.161:80
+vless://546cfb84-120f-43db-89db-5cba033bf9dc@188.114.98.1:8880?path=/@ZEDMODEON+TEL#🔒 VL-TCP-NA 🏴‍☠️ NA-188.114.98.1:8880

@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.163.59:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.163.59:443
-vless://9d68258a-453b-418a-8b90-27b7d1637a33@104.21.41.230:2053?security=tls&sni=e130917c-1b58-4136-b2d9-76dc920e0add.add97ee8-0f14-48a3-b2cd-979c56742e64.loseyourip.com&type=ws&host=e130917c-1b58-4136-b2d9-76dc920e0add.add97ee8-0f14-48a3-b2cd-979c56742e64.loseyourip.com&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.41.230:2053
-vless://713e999f-9590-4419-e49c-5a682ec5d4f7@172.67.66.177:2083?security=tls&sni=ch.RxV2ray.space&type=grpc&serviceName=@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn,@Bug_vpn#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.66.177:2083
-vless://eb44e1c7-e5ba-4446-807c-a0768a8f4589@104.16.120.182:2083?security=tls&sni=amovpn6.fqservers.com&type=ws&host=amovpn6.fqservers.com&path=%2Fchannel%3A%40VPNAMOHELP_%40VPNAMOHELP_%40VPNAMOHELP_%40VPNAMOHELP_%40VPNAMOHELP_%40VPNAMOHELP&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.120.182:2083
 vless://6a89dc04-7781-46fe-b35c-e14a6b6e60b8@104.21.46.150:443?security=tls&sni=TeST-TESt-tEst-tESt.PagES.DEV&type=ws&host=tEST-tesT-Test-tesT.pAgeS.DEV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.46.150:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.253.69:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.253.69:80
 vless://63dd3174-ca18-4dc5-95ff-b017e05639f0@162.159.134.234:2096?security=tls&sni=de-cdn.NetGurdians.tech&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.134.234:2096
@@ -83,3 +79,7 @@ vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@14.102.228.210:2096?security=tls&sn
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@185.176.24.64:443?security=tls&sni=kk999.ylks.link&type=ws&path=/blue#🔒 VL-WS-TLS 🇷🇺 RU-185.176.24.64:443
 vless://8a84e7db-6c09-4cb8-bdfb-552f0360a6cb@172.67.164.182:2096?security=tls&sni=selinc---1----selinc----1---selinc------1.gcjmjwbq.workers.dev&type=ws&host=selinc---1----selinc----1---selinc------1.gcjmjwbq.workers.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.164.182:2096
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.148.149:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.148.149:80
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.182.242:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.182.242:80
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@61.77.9.219:12487?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=/tg@zdyz2#🔒 VL-WS-TLS 🇰🇷 KR-61.77.9.219:12487
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.159.218.23:443?security=tls&sni=jp999.ylks01.eu.org&type=ws&path=/blue#🔒 VL-WS-TLS 🇺🇸 US-45.159.218.23:443
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@205.233.181.109:443?security=tls&sni=kk111.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-205.233.181.109:443

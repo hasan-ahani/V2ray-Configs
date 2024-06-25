@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://b75b3034-36ab-4979-beae-3d02db1b11ec@172.64.80.150:443?security=tls&sni=always-online1.lp-airdrop.top&type=ws&host=always-online1.lp-airdrop.top#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.80.150:443
-vless://18a3f404-572c-4f9d-a87f-4329a7c134a1@104.21.78.138:2083?security=tls&sni=selinc----7------selinc-------7------selinc.qnhvrd.workers.dev&type=ws&host=selinc----7------selinc-------7------selinc.qnhvrd.workers.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.78.138:2083
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.198.158:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.198.158:80
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@8.210.174.156:2087?security=tls&sni=hk999.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇭🇰 HK-8.210.174.156:2087
 vless://c78067fe-4e53-4dd5-8346-b9b11f42581d@104.16.0.0:8443?security=tls&sni=t5.funlifea.shop&type=grpc&alpn=http/1.1,h2,h3#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.0.0:8443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.201.109:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.201.109:443
 vless://77a571fb-4fd2-4b37-8596-1b7d9728bb5c@104.31.16.137:2082?security=none&type=ws&host=BB75bc79-8A4F-4ade-a86E-0BBB24f7816d.NEKOhanaku.ru.EU.oRG#🔒 VL-WS-NONE 🏴‍☠️ NA-104.31.16.137:2082
@@ -83,3 +79,7 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.195.62.143:443?security=tls&sni=
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.94.169.62:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇺🇦 UA-45.94.169.62:443
 vless://e115b94e-2df4-48ae-b7f5-2d70098cae55@188.245.37.194:18312?security=none&type=tcp&host=Zula.ir&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-188.245.37.194:18312
 vless://a64f0cea-ca89-40e6-b316-b3badff1eb90@104.18.4.250:443?security=tls&sni=iSaa1.PAGeS.DeV&type=ws&host=iSAA1.paGEs.DEV&path=%2FBDwnEtVwG7BS0S9f%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.4.250:443
+vless://041f929a-63f6-4af1-a492-8cbff5797b8a@104.26.14.16:2096?security=tls&sni=telegram-falcunargo-emiratess.falcunar.asso.eu.org&type=ws&host=telegram-falcunargo-emiratess.falcunar.asso.eu.org&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.14.16:2096
+vless://3d66d33d-7c42-45a4-8eb6-21a554b87dcb@188.119.112.242:443?security=tls&sni=nl-full.privateip.net&type=ws&path=/VLESS&allowInsecure=1#🔒 VL-WS-TLS 🇳🇱 NL-188.119.112.242:443
+vless://92c12734-d19e-40a1-f7a2-1735711d039b@104.21.25.178:443?security=tls&sni=slayer.mestavorze.workers.dev&type=ws&host=slayer.mestavorze.workers.dev&path=/downloader/32185&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.25.178:443
+vless://a64f0cea-ca89-40e6-b316-b3badff1eb90@104.26.6.112:443?security=tls&sni=IsaA1.pAgEs.DEV&type=ws&host=ISAa1.PAGeS.deV&path=%2FAyF2ZnYOCu2tsaS0%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.6.112:443
