@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@27.50.49.13:443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇬 SG-27.50.49.13:443
+vless://211267ce-6387-413e-b221-30c6283ab397@104.21.19.195:2087?security=tls&sni=eu.bookmarkingonline.info&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.19.195:2087
+vless://121452fd-4984-4950-870a-405eb6c09c82@49.13.146.185:48942?security=none&type=tcp&host=xbox.com&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-49.13.146.185:48942
+vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@130.61.23.77:443?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇩🇪 DE-130.61.23.77:443
 vless://cb74a4c3-f48d-4411-8f4c-2ffee5eab376@172.64.148.133:443?security=tls&sni=ae3b1077e4706405.koalalampour.space&type=ws&host=ead9935ad2d9ffaa.koalalampour.space&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.148.133:443
 vless://d52c866c-a6bc-44a3-8b18-05572d09db5b@173.245.49.110:80?security=none&type=ws&host=穆罕默德侯赛因freeforiran.net.v2rayng.8.8.8.8.free.skullbasher.wex.wex.wex.wex.mf.ssd.youcantplayinvoker.tech.#🔒 VL-WS-NONE 🏴‍☠️ NA-173.245.49.110:80
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.25.54:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.25.54:80
@@ -79,7 +83,3 @@ vless://3f266d25-21aa-4498-bb1a-ce6d1d327aaf@104.21.21.137:443?security=tls&sni=
 vless://9a840161-7464-479d-b793-a6064d5f3300@104.21.37.100:2083?security=tls&sni=berncd.edlaghiye.com&type=grpc&serviceName=xyz&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.37.100:2083
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.126.124:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.126.124:80
 vless://b69c29ab-1efd-e40d-b713-3deb16ac6755@62.60.202.193:11166?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-62.60.202.193:11166
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.107.213:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-185.148.107.213:443
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.198.103:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.198.103:80
-vless://e4e7b149-8bd8-4266-8cbb-0987604dbc87@104.18.205.181:2053?security=tls&sni=toujiediansigema.5112233.xyz&type=ws&host=toujiediansigema.5112233.xyz&path=%2FTG%40juzibaipiao%E5%81%B7%E8%8A%82%E7%82%B9%E6%AD%BB%E5%90%97#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.205.181:2053
-vless://494f08aa-e007-4336-a989-be6db932dcc5@162.159.129.233:443?security=tls&sni=shops.atmode.sbs&type=grpc&serviceName=cdn.discordapp.com&alpn=h2,http/1.1,h3#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.129.233:443

@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://e6aedcd2-24ad-4bdd-82c5-006d84179197@104.18.202.232:443?security=tls&sni=4d3d6f00.garywelch.pages.dev&type=ws&host=4d3d6f00.garywelch.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.202.232:443
+vless://01b72230-7b65-4500-835c-957f62afd889@104.16.102.112:8080?security=none&type=ws&host=Seyyedmt-telegram-Seyyedmt-telegram.deraz.tech.&path=/Telegram:@seyyedmt-Telegram:@seyyedmt-Telegram:@seyyedmt-Telegram:@seyyedmt-Telegram:@seyyedmt-Telegram:@seyyedmt-Telegram:@seyyedmt-Telegram:@seyyedmt-Telegram:@seyyedmt#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.102.112:8080
+vless://63dd3174-ca18-4dc5-95ff-b017e05639f0@162.159.133.234:2096?security=tls&sni=de-cdn.NetGurdians.tech&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.133.234:2096
+vless://f7e08961-ba18-4ac8-aac0-e925107417af@162.159.133.234:443?security=tls&sni=de.vpncustomize.Website&type=ws&host=de.vpncustomize.Website&path=/&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.133.234:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@43.153.103.203:443?security=tls&sni=zdy999.kpcloud.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-43.153.103.203:443
 vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.44.181:443?security=tls&sni=vpnmarket-8bm.pages.dev&type=ws&host=vpnmarket-8bm.pages.dev&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.181:443
 vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@104.18.37.111:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.37.111:443
@@ -79,7 +83,3 @@ vless://3d66d33d-7c42-45a4-8eb6-21a554b87dcb@188.119.112.242:2003?security=tls&s
 vless://538cc8f2-55ef-422b-ba47-f3c2433f5a7c@188.212.97.159:2025?security=none&type=tcp&host=playstation.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-188.212.97.159:2025
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@172.67.199.233:2052?type=ws&path=%2Fyoutube-%E7%94%B1%E9%9B%B6%E9%96%8B%E5%A7%8B#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.199.233:2052
 vless://94538f05-e0b2-4711-b197-58f6e76e90d1@104.16.4.103:8080?type=ws&host=join-to.vmessorg.Community.#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.4.103:8080
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.217.8:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-45.159.217.8:443
-vless://d674009a-4a87-4180-a8fe-9a54f66bd7c9@198.41.209.216:443?security=tls&sni=vpn.restia.love&type=ws&host=vpn.restia.love#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.209.216:443
-vless://538ec70c-b386-51ad-8155-aeaed37a22b6@172.67.73.98:2053?security=tls&sni=newus.sspeednetokala.US.KG&type=ws&host=newus.sspeednetokala.US.KG&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.73.98:2053
-vless://f20bcdc7-1a98-4573-aef5-653a40524c87@104.21.72.167:443?security=tls&sni=esetsecuritylicense.ltlumj.workers.dev&type=ws&host=esetsecuritylicense.ltlumj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.72.167:443
