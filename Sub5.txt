@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vmess://eyJ2IjoiMiIsImFkZCI6IjE4My4yMzIuMTk5LjYxIiwicG9ydCI6IjE1NjA3IiwiaWQiOiJhYWFhYWFhYS1hYWFhLWFhYWEtYWFhYS1kYWFhYWFhYWFhYWQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiJcLyIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJwcyI6Ilx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRmM0NOIHwgXHVkODNkXHVkZmUyIHwgdm1lc3MgfCBAbWZ0aXppIHwgMTQifQ==
 vmess://eyJ2IjoiMiIsImFkZCI6ImNmY2RuMS5zYW5mZW5jZG45LmNvbSIsInBvcnQiOiIyMDUyIiwiaWQiOiJiYjFhZjdkMy05NTI2LTQ0ZjEtOTE1NS03ODg3NzNjYzYyOWUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoidHcxYlFpV1NFNHguZnpicWZyc2UueHl6IiwicGF0aCI6IlwvdmlkZW9cL0dRMnFFNVVzOWciLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwicHMiOiJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjhVUyB8IFx1ZDgzZFx1ZGZlMiB8IHZtZXNzIHwgQG1mdGl6aSB8IDE1In0=
 vmess://eyJ2IjoiMiIsImFkZCI6IjE4My4yMzIuMTk5LjI4IiwicG9ydCI6IjE1NjA1IiwiaWQiOiJhYWFhYWFhYS1hYWFhLWFhYWEtYWFhYS1kYWFhYWFhYWFhYWQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiJcLyIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJwcyI6Ilx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRmM0NOIHwgXHVkODNkXHVkZmUyIHwgdm1lc3MgfCBAbWZ0aXppIHwgMTYifQ==
 ss://ZjFkZDEwMjAtN2IzZi00OTFkLWE5ZTMtMGIyY2I5YTFkYWZmOg==@solid.footballlovernews.com:443#🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 0
@@ -82,4 +83,3 @@ vless://10716279-b1ee-41d8-b63e-87782088305b@104.16.216.241:443?path=/iXNpb8TL5D
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.46.251:443?path=/&security=tls&encryption=none&host=bBF9c21A.tECHNeTbpb.paGEs.Dev&type=ws&sni=bBF9c21A.tECHNeTbpb.paGEs.Dev#🚩CF | 🔴 | vless | @customv2ray | 4
 vless://2d037023-06eb-4949-9708-0f2473ea7c6c@2.189.59.2:443?mode=gun&security=tls&encryption=none&authority=&fp=chrome&type=grpc&serviceName=Channel:@UnlimitedDev&sni=mci.unlimiteddev-vpn.Com.#🇮🇷IR | 🔴 | vless | @customv2ray | 5
 vless://c416be20-32b3-467f-83c2-735e04d639f7@eagle.hafezdivan.online.:80?path=/&security=none&encryption=none&type=ws#🇺🇸US | 🔴 | vless | @customv2ray | 7
-vless://5da27733-3527-479e-bb81-4c5a9c75d83f@viphamester.wolfmoon.ir:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&type=grpc&serviceName=okala.com&sni=viphamester.wolfmoon.ir#🇺🇸US | 🔴 | vless | @customv2ray | 8
