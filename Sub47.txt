@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.18.124.80:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.124.80:443
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.66.206:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.66.206:80
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@103.169.142.57:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇦🇺 AU-103.169.142.57:443
-vless://b8b1cad2-af20-4e44-9347-49af03908474@198.244.190.189:443?security=tls&flow=xtls-rprx-vision&sni=uk-full.privateip.net&type=tcp&path=%2f&allowInsecure=1#🔒 VL-TCP-TLS 🇬🇧 GB-198.244.190.189:443
 vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@104.21.38.94:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.38.94:443
 vless://eb44ea0e-d927-4ea8-8312-17888d03d3a6@104.16.231.132:80?security=none&sni=ratio-lies-kenya-egg.trycloudflare.com&type=ws&host=ratio-lies-kenya-egg.trycloudflare.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.231.132:80
 vless://d672ec4f-afba-4f61-af09-eec872f97e99@104.21.192.45:443?security=tls&sni=test57.pages.dev&type=ws&host=test57.pages.dev&path=/freecodes#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.192.45:443
@@ -83,3 +79,7 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@91.195.110.77:443?security=tls&sni=
 vless://bcbb2ad9-e760-4d0b-bf1a-80f8a173e3de@95.179.248.215:443?security=tls&sni=narcodd.numallaf.shop&type=grpc&serviceName=@narcod_ping&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇩🇪 DE-95.179.248.215:443
 vless://fc5fd045-f911-4220-8f76-1ac4115e51c4@104.21.63.77:2087?security=tls&sni=bmw.nonoal.xyz&type=grpc&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.63.77:2087
 vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@158.101.148.105:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🇯🇵 JP-158.101.148.105:443
+vless://81f8b08d-f412-49a4-8d34-9a95b84d992d@80.71.157.107:443?security=tls&sni=m.facebook.com&type=ws&host=de3.v2vless.xyz&path=%2Fvless#🔒 VL-WS-TLS 🇩🇪 DE-80.71.157.107:443
+vless://75a6d62e-a371-41c8-ab53-8c6e6e8201fb@104.18.203.232:2053?security=tls&sni=6d1.narnino.org&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.203.232:2053
+vless://14165b8b-17ee-4c86-808c-9d6afd4f3b69@104.18.22.19:443?security=tls&sni=api3.htve.ir&type=ws&host=api3.htve.ir&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.22.19:443
+vless://a74068d7-7aee-4cc9-a0a8-954df6ceafd0@104.21.70.25:2082?security=none&type=ws&host=sg1.vlessx.xyz#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.70.25:2082
