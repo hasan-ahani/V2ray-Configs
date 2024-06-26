@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.35.61:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.35.61:443
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.148.81:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.148.81:80
 vless://4c3fb6f5-1a79-454f-8ca5-1484a487b793@104.21.74.231:2083?security=tls&sni=p14ne-wall.v2rybartar.monster&type=ws&host=panel14.v2rybartar.monster&path=/&fp=chrome&alpn=http/1.1,h2&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.74.231:2083
 vless://91da4b48-1a07-4b07-8e5c-1463b6002c81@162.159.152.2:2087?security=tls&sni=Daily-Configs.darkmood.cfd&type=grpc&serviceName=%2FTel--%40Daily_Configs-Tel--%40Daily_Configs-Tel--%40Daily_Configs-Tel--%40Daily_Configs-Tel--%40Daily_Configs-Tel--%40Daily_Configs&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.152.2:2087
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@8.218.92.195:2053?security=tls&sni=zdy999.kpcloud.eu.org&type=ws&path=%2F#🔒 VL-WS-TLS 🇭🇰 HK-8.218.92.195:2053
@@ -83,3 +81,5 @@ vless://7f01595b-1195-4f98-b8ad-d06bd6ea906d@194.246.114.54:443?security=tls&sni
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.26.159:443?security=tls&sni=ppal03.CaTALeYa-AaMinA.WOrkeRS.DeV&type=ws&host=PPal03.CaTALEya-aaMiNa.wOrkERS.Dev&path=%2F6mywAHcxdhYGJ0ck%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.26.159:443
 vless://5d597030-946b-4d8a-8029-a11ca16a8fef@188.114.97.122:2053?security=tls&sni=1.windscribe.cam&type=grpc&serviceName=2053vless&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-188.114.97.122:2053
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@192.9.165.253:20001?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇦🇺 AU-192.9.165.253:20001
+vless://eaa8cb8a-fa6d-4ecf-a53e-822711014c50@172.64.80.1:2083?security=tls&sni=emifree2.bestgameir2.ir&type=ws&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.80.1:2083
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.204.19:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.204.19:80

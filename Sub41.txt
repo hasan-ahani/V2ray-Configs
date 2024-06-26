@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.59.218.169:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-185.59.218.169:443
-vless://dab6b473-1c06-4760-81b0-e56cc0beb1e3@162.159.128.233:8080?security=none&type=ws&host=de2.过滤器.store.&path=/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray/melov2ray#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.128.233:8080
 vless://09df9a35-99a0-4d6b-8800-62159224d492@94.182.137.157:51540?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-94.182.137.157:51540
 vless://77a571fb-4fd2-4b37-8596-1b7d9728bb5c@172.67.148.99:443?security=tls&sni=xw.r4d.workers.dev&type=ws&host=xw.r4d.workers.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.148.99:443
 vless://3575d763-5557-4f01-baec-1a6fc5c5f58f@172.66.47.158:80?security=none&type=ws&host=GGO5Ho.dIVaR.prO&path=/backup#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.47.158:80
@@ -83,3 +81,5 @@ vless://2e01ebcf-4bd6-4be4-9365-f5c623510512@104.20.5.172:80?security=none&type=
 vless://94538f05-e0b2-4711-b197-58f6e76e90d1@104.16.219.230:8080?security=none&type=ws&host=join-to.vmessorg.Community.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.219.230:8080
 vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@8.222.222.64:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🇸🇬 SG-8.222.222.64:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.125.188:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.125.188:80
+vless://7f01595b-1195-4f98-b8ad-d06bd6ea906d@194.246.114.54:2003?security=tls&sni=hk-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇲🇩 MD-194.246.114.54:2003
+vless://af57f6bf-6b8c-4b9e-96e6-1af79d64fd3a@172.67.25.165:2053?security=tls&sni=fr1.vless.site&type=ws&host=fr1.vless.site&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.25.165:2053

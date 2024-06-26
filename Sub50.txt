@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://1010501a-ca9a-479c-84d0-1308d97789b5@172.67.134.218:443?security=tls&sni=abbas-boveiry1.kisigen176.workers.dev&type=ws&host=abbas-boveiry1.kisigen176.workers.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.134.218:443
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.160.137:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.160.137:80
 vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@104.16.45.12:443?security=tls&sni=pages.20230619.love&type=ws&host=pages.20230619.love#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.45.12:443
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@34.123.83.237:443?security=tls&sni=v111.ylkszy.eu.org&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-34.123.83.237:443
 vless://0f7ec369-3529-4e73-943b-19258212f1bb@173.245.58.100:443?security=tls&sni=c.2025vless.cloudns.be&type=ws&host=c.2025vless.cloudns.be#🔒 VL-WS-TLS 🏴‍☠️ NA-173.245.58.100:443
@@ -83,3 +81,5 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@217.163.76.73:443?security=tls&sni=
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.47.116:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.47.116:443
 vless://6475e370-b6fb-45de-b377-5796ba96e645@104.26.7.149:2053?security=tls&sni=cconfigv2ray.ceren49639.worKErS.DeV&type=ws&host=cconfigv2ray.ceren49639.worKErS.DeV&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.7.149:2053
 vless://40d748ac-c130-42f0-ad3b-4eeb26c39e42@194.195.125.6:2003?security=tls&sni=au-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇦🇺 AU-194.195.125.6:2003
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@130.250.137.164:2082?security=none&type=ws&path=%2Fblue#🔒 VL-WS-NONE 🇺🇸 US-130.250.137.164:2082
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@8.218.207.169:80?security=none&type=ws&path=/blue#🔒 VL-WS-NONE 🇭🇰 HK-8.218.207.169:80
