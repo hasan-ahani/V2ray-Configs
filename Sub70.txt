@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@8.217.232.246:2096?security=tls&sni=hk667.ylks.link&type=ws&path=/blue#🔒 VL-WS-TLS 🇭🇰 HK-8.217.232.246:2096
 vless://e9f690e3-401f-435e-93b8-84c16471a5c0@89.235.119.73:2053?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-89.235.119.73:2053
 vless://6584ed53-90b2-45d6-aa78-ff34867c814c@206.238.236.18:8443?security=tls&sni=yalda20232112.freedns.site&type=grpc&serviceName=freevpn&fp=chrome#🔒 VL-GRPC-TLS 🇸🇬 SG-206.238.236.18:8443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.18.80.199:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.80.199:80
@@ -83,3 +82,4 @@ vless://4045c6b7-1d53-4574-98cd-df21db40b0dc@172.67.112.247:2053?security=tls&sn
 vless://b2ee64ad-2645-429e-f398-338cf87e7b63@172.66.213.38:2095?security=none&type=ws&host=al.internetnor01.sbs&path=/@mostafa_sa120#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.213.38:2095
 vless://a8940256-38a9-4fa6-afb8-a8304aa796d3@104.21.79.143:8443?security=tls&sni=no1.v2vless.xyz&type=ws&host=no1.v2vless.xyz&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.79.143:8443
 vless://2a3263e2-891c-4446-b474-a8c63acb6e25@185.146.173.84:2096?security=tls&sni=lg2.nicolkidman.com&type=ws&host=lg2.nicolkidman.com&path=/&alpn=http/1.1#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.84:2096
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.90.71:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.90.71:80
