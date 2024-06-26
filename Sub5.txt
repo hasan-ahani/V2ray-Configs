@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-ss://Nzk5NzgwMjctZWYxNi00MTM3LWIxOGUtOTA1ZjhjMThmODQ1Og==@172.67.254.45:8080#🚩CF | 🟢 | ss | @DeamNet_Proxy | 2
-ss://YzM1MzU4YmItZjExZi00MzQ4LWFiMWMtZDRkMmY4YTk4MmVjOg==@masin.minusober.com:443#🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 3
-ss://YzdiYzhkOTMtNWFiMS00OTY0LTgyOTgtODYzZjczYzI1MDMyOg==@skk.moe:80#🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 4
 ss://OWEzOWY2M2UtMjhjOC00NTYwLWFmMTgtYjAxYjk5MTZlZjFiOg==@www.visa.com.sg:8443#🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 5
 ss://VjJSQVhYOg==@185.146.173.32:8080#🇸🇪SE | 🟢 | ss | @DeamNet_Proxy | 6
 ss://Nzk5NzgwMjctZWYxNi00MTM3LWIxOGUtOTA1ZjhjMThmODQ1Og==@198.41.223.64:8080#🚩CF | 🟢 | ss | @DeamNet_Proxy | 7
@@ -81,5 +78,8 @@ vless://c416be20-32b3-467f-83c2-735e04d639f7@eagle.hafezdivan.online.:80?path=/&
 vless://5da27733-3527-479e-bb81-4c5a9c75d83f@viphamester.wolfmoon.ir:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&type=grpc&serviceName=okala.com&sni=viphamester.wolfmoon.ir#🇺🇸US | 🔴 | vless | @customv2ray | 8
 vless://94538f05-e0b2-4711-b197-58f6e76e90d1@104.16.4.103:8080?path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed=8080&security=none&encryption=none&host=join-to.vmessorg.Community.&type=ws#🚩CF | 🔴 | vless | @customv2ray | 9
 vless://c416be20-32b3-467f-83c2-735e04d639f7@eagle.hafezdivan.online.:443?path=/TELEGRAM-MARAMBASHI/?ed=2048&security=tls&encryption=none&alpn=h3&fp=randomized&type=ws#🇺🇸US | 🔴 | vless | @customv2ray | 15
-vless://8dd2dfa6-c9fc-4fba-b4fd-983a0c933458@188.114.98.224:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#🚩CF | 🔴 | vless | @UnlimitedDev | 0
-vless://8dd2dfa6-c9fc-4fba-b4fd-983a0c933458@zula.ir:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8080&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#🇺🇸US | 🔴 | vless | @UnlimitedDev | 1
+vless://51fb6d6c-2d80-443e-b7e6-062d274832b7@188.114.98.224:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#🚩CF | 🔴 | vless | @UnlimitedDev | 0
+vless://51fb6d6c-2d80-443e-b7e6-062d274832b7@zula.ir:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8080&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#🇺🇸US | 🔴 | vless | @UnlimitedDev | 1
+vless://8dd2dfa6-c9fc-4fba-b4fd-983a0c933458@188.114.98.224:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#🚩CF | 🔴 | vless | @UnlimitedDev | 2
+vless://8dd2dfa6-c9fc-4fba-b4fd-983a0c933458@zula.ir:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8080&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#🇺🇸US | 🔴 | vless | @UnlimitedDev | 3
+vless://9f79fdbc-afb7-4f50-b474-35615e7cd070@188.114.98.224:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#🚩CF | 🔴 | vless | @UnlimitedDev | 4
