@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://1477811d-82bc-42c1-b851-397eac8c83ee@45.151.62.156:8443?security=reality&flow=xtls-rprx-vision&sni=cdn.discordapp.com&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒 VL-TCP-RLT 🇷🇺 RU-45.151.62.156:8443
-vless://b750d712-0d5c-458a-82c5-54701c168fe3@45.15.159.111:8443?security=reality&sni=cdn.discordapp.com&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒 VL-TCP-RLT 🇳🇱 NL-45.15.159.111:8443
 vless://702c098f-a29a-415d-af86-cf72a437c200@172.233.51.133:443?security=reality&flow=xtls-rprx-vision&sni=cenl.org&type=tcp&fp=chrome&pbk=jwdDqazbeRaR7gxqjBTFaC566Nv10tJewF9tlKrp-Wk&sid=e520d0583ca8295d#🔒 VL-TCP-RLT 🇳🇱 NL-172.233.51.133:443
 vless://494fc59a-c1fb-440e-9075-1b8c6c5248cc@64.176.65.136:443?security=reality&sni=Pl-node.salarvand.org&type=tcp&fp=chrome&pbk=QR6H1DTulqfHGU6CqoxNwl4I2EIJ0B_5zG4wYFQctQA#🔒 VL-TCP-RLT 🇵🇱 PL-64.176.65.136:443
 vless://6312bb1d-fd0e-4edb-afa4-cc6779d188ae@104.168.107.230:9633?security=reality&flow=xtls-rprx-vision&sni=fr.4cdn.de&type=tcp&fp=chrome&pbk=QQHxQK7ocGHvaCmqtW3QapnKiBVd4ZjjM3zhCGVMPS4&sid=db68e802226b21cd#🔒 VL-TCP-RLT 🇺🇸 US-104.168.107.230:9633
@@ -83,3 +81,5 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@210.186.12.244:443?security=tls&sni
 vless://5f15d381-a992-45c8-aaac-5bf46f23c4d0@104.26.3.105:80?security=none&type=ws&host=nikmard.speedvadd.fun&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.3.105:80
 vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@150.230.149.208:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🇩🇪 DE-150.230.149.208:443
 vless://de352a82-25dd-4cbc-98bf-2e761da633f5@172.67.130.66:8443?security=tls&sni=Fin.Melobigg.Site&type=grpc&serviceName=me&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.130.66:8443
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.253.226:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.253.226:80
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.151.161:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.151.161:80

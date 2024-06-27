@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://514d4474-fe80-45ba-9b69-0c86fe4201eb@23.227.60.56:8080?security=none&type=ws&host=su2.mahanocean.ir#🔒 VL-WS-NONE 🇨🇦 CA-23.227.60.56:8080
-vless://03cc2ac6-d625-4d07-963c-a391ae1b457b@172.64.35.215:443?security=tls&sni=37cc5f.shimbot.top&type=ws&path=/wss#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.35.215:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.212.214:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.212.214:443
 vless://1ff59fad-6cc6-4714-82b1-d4af47de08eb@23.227.60.186:80?security=none&type=ws&host=DiReCt49-13-163-226.CleAnMaRk.IR&path=/DiReCt49-13-163-226-CleAnMaRk-IR#🔒 VL-WS-NONE 🇨🇦 CA-23.227.60.186:80
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.18.87.39:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.87.39:80
@@ -83,3 +81,5 @@ vless://d674009a-4a87-4180-a8fe-9a54f66bd7c9@104.18.106.64:443?security=tls&sni=
 vless://57f990df-77f3-4548-9d5a-36acd3c64916@104.16.106.177:8880?security=none&type=ws&host=aZ-nUfilTer-coPy-ShOde.列列男事的事列上赛男78.shop&path=/Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.106.177:8880
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@8.217.232.246:80?security=none&type=ws&path=%2Fblue#🔒 VL-WS-NONE 🇭🇰 HK-8.217.232.246:80
 vless://77de458b-5d58-4379-927a-7e749b2d17f8@172.67.197.82:443?security=tls&sni=test.gold15.ir&type=grpc&serviceName=fast.com&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.197.82:443
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@162.159.135.76:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.135.76:80
+vless://18a3f404-572c-4f9d-a87f-4329a7c134a1@172.67.222.107:8443?security=tls&sni=selinc----7------selinc-------7------selinc.qnhvrd.workers.dev&type=ws&host=selinc----7------selinc-------7------selinc.qnhvrd.workers.dev&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.222.107:8443

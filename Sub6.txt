@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://ab524e8e-2d41-481b-b5ba-3b58a8e7cd08@188.114.98.224:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#🚩CF | 🔴 | vless | @UnlimitedDev | 6
 vless://ab524e8e-2d41-481b-b5ba-3b58a8e7cd08@zula.ir:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8080&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#🇺🇸US | 🔴 | vless | @UnlimitedDev | 7
 vless://a9877123-5f57-42cd-ba49-0b0514be53f5@188.114.98.224:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#🚩CF | 🔴 | vless | @UnlimitedDev | 9
 vless://a9877123-5f57-42cd-ba49-0b0514be53f5@zula.ir:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8080&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#🇺🇸US | 🔴 | vless | @UnlimitedDev | 10
@@ -82,4 +83,3 @@ vless://4c504ed5-d0b9-4c1b-80f9-bdcd270cc3bb@188.136.207.110:39932?security=none
 vmess://eyJhZGQiOiI5NS4zOC4yNDguMjE3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ0ZWxld2ViaW9uLmNvbSIsImlkIjoiZTgwYTgwNjQtNzQwZS00YjkwLTg0MjMtY2U4MmE3MjVlNTNjIiwibmV0IjoidGNwIiwicGF0aCI6IlwvIiwicG9ydCI6IjI5NjYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3SVIgfCBcdWQ4M2RcdWRmZTIgfCB2bWVzcyB8IEB2bGVzc192bWVzcyB8IDUifQ==
 vless://c416be20-32b3-467f-83c2-735e04d639f7@eagle.hafezdivan.online.:443?path=/&security=tls&encryption=none&alpn=h3&fp=randomized&type=ws#🇺🇸US | 🔴 | vless | @vless_vmess | 6
 vless://6ee42f60-cd65-4ab8-bb79-991d12ae877f@3.71.246.144:8880?security=none&encryption=none&headerType=none&type=tcp#🇩🇪DE | 🔴 | vless | @vless_vmess | 7
-vless://5da27733-3527-479e-bb81-4c5a9c75d83f@104.21.7.164:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&type=grpc&serviceName=okala.com&sni=viphamester.wolfmoon.ir#🚩CF | 🔴 | vless | @vless_vmess | 8
