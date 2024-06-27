@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-trojan://share.mjj-home.com@45.154.214.159:443?sni=api.mjj-home.com#🔒 TR-TCP-NA 🇺🇸 US-45.154.214.159:443
-trojan://OVsFRZT5jG@172.67.191.189:443?security=tls&sni=web.teama.tk&type=ws&host=web.teama.tk&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.191.189:443
 trojan://ecCcV9ihvW@18.136.195.155:16576?security=none&type=ws&host=content.cdn.viber.com&path=/#🔒 TR-WS-NONE 🇸🇬 SG-18.136.195.155:16576
 trojan://0fd9b883-0551-4ed1-b978-528183b459a2@8.210.43.213:8443?security=tls&sni=mfjd.591haoka.com&type=ws&host=mfjd.591haoka.com#🔒 TR-WS-TLS 🇭🇰 HK-8.210.43.213:8443
 trojan://NISHIKUITAN222@8.219.248.47:8443?security=tls&sni=t010.ylks.link&type=ws&host=t010.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.248.47:8443
@@ -83,3 +81,5 @@ trojan://5041df4c-b3ae-481d-adf9-79b39f4810f2@172.67.148.211:2083?security=tls&s
 trojan://auto@104.20.5.134:443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=@free_shekan@free_shekan@free_shekan@free_shekan@free_shekan@free_shekan@free_shekan@free_shekan@free_shekan@free_shekan@free_shekan@free_shekan@free_shekan#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.5.134:443
 trojan://NISHIKUITAN222@8.222.134.170:8443?security=tls&sni=t222.ylks.link&type=ws&host=t222.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.222.134.170:8443
 trojan://tIErrUuX7j@172.66.213.38:2053?security=tls&sni=vr.v2ray962.filegear-sg.me&type=grpc#🔒 TR-GRPC-TLS 🏴‍☠️ NA-172.66.213.38:2053
+trojan://NISHIKUITAN222@104.21.76.195:2053?security=tls&sni=t111.ylks.link&type=ws&host=t111.ylks.link&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.76.195:2053
+trojan://dba20dcb635e430fa4d3bfc303a149d2@104.19.171.4:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=/6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.171.4:443

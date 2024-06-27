@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@162.159.128.96:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.128.96:80
-vless://c66f465d-809a-4be3-94a6-4e7d8864a877@172.64.111.9:2096?security=tls&sni=at3.v2vless.xyz&type=grpc&serviceName=vless-grpc&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.64.111.9:2096
 vless://5512bf69-a563-4ea7-be2b-2d14d27e6323@104.21.10.208:443?security=tls&sni=falcUNArGOo.EBf9A41066.woRkErS.DEV&type=ws&host=fALcUnaRgOO.ebf9A41066.worKErs.dEv&path=%2FusDY5wtPlH9B9D0X%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.10.208:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.133.252:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=L%2FTELEGRAM-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.133.252:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.245.105.224:80?security=none&type=ws&path=/blue#🔒 VL-WS-NONE 🇸🇬 SG-47.245.105.224:80
@@ -83,3 +81,5 @@ vless://9902fc94-31f9-4afe-b37a-82f5790b3d2a@104.24.20.71:443?security=tls&sni=d
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.42.89.64:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇱🇺 LU-188.42.89.64:443
 vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@144.24.85.158:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🇰🇷 KR-144.24.85.158:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@108.165.216.212:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=/tg@zdyz2#🔒 VL-WS-TLS 🇺🇸 US-108.165.216.212:443
+vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@188.114.99.243:443?security=tls&sni=w1.sylar8.eu.org&type=ws&host=w1.sylar8.eu.org#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.99.243:443
+vless://8d1cc38c-3123-4a31-b921-8fbea78670b5@188.114.98.224:80?security=none&type=ws&host=1.V2rayV2ray-_-_-V2ray.Zemestanil.Ir#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.98.224:80

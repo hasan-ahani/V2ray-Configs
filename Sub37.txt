@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.247:443?security=tls&sni=kk00.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.247:443
-vless://933412a7-ed98-4294-c31b-4d36ef13137e@91.219.148.49:2053?security=none&type=tcp&host=telewebion.com&headerType=http#🔒 VL-TCP-NONE 🇷🇺 RU-91.219.148.49:2053
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@47.242.17.250:2083?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=TG%40ZDYZ2&fp=random#🔒 VL-WS-TLS 🇭🇰 HK-47.242.17.250:2083
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.105.20:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.105.20:80
 vless://6cffb34f-2197-4037-8bbe-54cd90410922@104.21.40.63:443?security=tls&sni=jorum.toptechnonews.com&type=ws&path=/nimws#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.40.63:443
@@ -83,3 +81,5 @@ vless://38764cc7-7d2b-46c6-90d4-e3253f328778@185.146.173.92:8880?security=none&t
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@103.169.142.34:443?security=tls&sni=jp999.ylks01.eu.org&type=ws&path=/blue#🔒 VL-WS-TLS 🇦🇺 AU-103.169.142.34:443
 vless://df81e978-ef0e-4ded-bf5c-e0d8c6f02ee2@154.197.75.98:80?serviceName=-Telegram:-@UraniumVpn-Telegram:&path=/#🔒 VL-TCP-NA 🇸🇨 SC-154.197.75.98:80
 vless://6b408331-0bd5-4a8e-bd27-aa18862c90e5@91.193.58.4:8080?security=none&type=ws&host=tddu.nimserverr.xyz.&path=/#🔒 VL-WS-NONE 🇬🇧 GB-91.193.58.4:8080
+vless://2ca42987-551b-4494-a854-da2d9178f4cd@104.18.14.19:2087?security=tls&sni=MpHnPvWn22.zImBa-zUlA.OrG&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.14.19:2087
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.125.22:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.125.22:80

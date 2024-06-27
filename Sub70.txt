@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.198.34:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.198.34:80
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.59.10:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.59.10:80
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.243.86.79:2096?security=tls&sni=zdy700.kpcloud.eu.org&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇭🇰 HK-47.243.86.79:2096
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.19.154.153:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.19.154.153:80
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@132.226.21.116:6056?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇰🇷 KR-132.226.21.116:6056
@@ -83,3 +81,5 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.94.169.62:443?security=tls&sni=c
 vless://96945daf-d172-4bde-be17-687e7043a624@172.67.193.36:8080?security=none&type=ws&host=iranserver.com.47316.%E5%BE%B7%E9%BB%91%E5%85%B0%E8%B0%A2%E9%87%8C%E5%A4%AB%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E6%98%AF%E8%81%AA%E6%98%8E%E4%BA%BA%E5%8E%BB%E7%9A%84%E5%9C%B0%E6%96%B9.shop.&path=@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.193.36:8080
 vless://e3ed372d-dd6a-4f11-9aeb-b53fd0478577@45.12.30.16:80?security=none&type=ws&host=rZ0nao.Dl-vScODE.COm&path=/backup#🔒 VL-WS-NONE 🇷🇴 RO-45.12.30.16:80
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.18.81.103:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.81.103:80
+vless://18a3f404-572c-4f9d-a87f-4329a7c134a1@104.21.78.138:2083?security=tls&sni=selinc----7------selinc-------7------selinc.qnhvrd.workers.dev&type=ws&host=selinc----7------selinc-------7------selinc.qnhvrd.workers.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.78.138:2083
+vless://ea1bec01-3ead-4648-a6db-0256f490a860@162.159.1.95:2053?security=tls&sni=configt-channels.sg-forum.info&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.1.95:2053
