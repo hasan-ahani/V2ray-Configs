@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.64.109.222:443?security=tls&sni=3k.pureboy.eu.org&type=ws&host=3k.pureboy.eu.org#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.109.222:443
+vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.32.50:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.32.50:443
 vless://e358c5c6-0b2f-e6ce-5d5f-c8c11a194a92@95.81.86.113:443?security=none&type=tcp&host=divarcdn.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-95.81.86.113:443
 vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@150.230.63.93:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🇯🇵 JP-150.230.63.93:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.203.219:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.203.219:80
@@ -81,5 +83,3 @@ vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.153.246:80?type=ws&host=kr1.
 vless://1d1a7193-61a9-4fc1-9778-dd517cf9f919@172.67.136.208:2086?security=none&type=ws&host=workerr.mcgrooge12.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.136.208:2086
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@185.18.250.185:2053?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇨🇭 CH-185.18.250.185:2053
 vless://5fd30283-078d-4ee6-873b-4ecb8fec1958@162.159.135.234:2082?security=none&type=ws&host=none.error_none.error_10101010.iRAN-chEck-hOst-SERVER-sitesssssssssssssssssssssss--sssssssssss.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.135.234:2082
-vless://89894929-d005-45a6-92bd-468a8ecad6af@46.102.132.64:32942?security=none&type=tcp&host=speedtest.net&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-46.102.132.64:32942
-vless://6f995056-7802-4a1d-bff7-61678e626c3f@52.228.84.37:443?security=tls&sni=kkul8.azurewebsites.net&type=ws&host=kkul8.azurewebsites.net&path=/#🔒 VL-WS-TLS 🇨🇦 CA-52.228.84.37:443

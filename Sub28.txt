@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@155.46.213.9:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-155.46.213.9:443
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.167.20:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.167.20:80
 vless://ef864178-98ac-493b-ae7e-054c362c348f@45.56.67.132:2003?security=tls&sni=us2-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇺🇸 US-45.56.67.132:2003
 vless://d6200861-3330-47a2-b822-06e4761ffe74@104.17.148.22:443?security=tls&sni=Loop.v2rayvpn2.sbs&type=grpc&serviceName=@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.148.22:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@47.57.13.107:443?security=tls&sni=v00.ylks.link&type=ws&path=/pkms9hrhvbpq1ikg?ed#🔒 VL-WS-TLS 🇭🇰 HK-47.57.13.107:443
@@ -81,5 +83,3 @@ vless://77a571fb-4fd2-4b37-8596-1b7d9728bb5c@172.67.148.99:443?security=tls&sni=
 vless://db0cd79e-5a22-4ce2-b784-03f8c9325cc4@104.21.61.188:2052?security=none&type=ws&host=mijml3.hamedigold.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.61.188:2052
 vless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@188.114.97.141:443?security=tls&sni=e10c0e4b.oodaeq2.pages.dev&type=ws&host=e10c0e4b.oodaeq2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.141:443
 vless://51d3d249-9095-4cbd-8fd2-3e6c1039cab4@172.67.180.238:8880?security=none&type=ws&host=falcunargo.c2259d7c10.workers.dev&path=%2F%252F%253Fed%253D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.180.238:8880
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@192.65.217.57:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🔒 VL-WS-TLS 🇦🇺 AU-192.65.217.57:443
-vless://e695cbee-0c5f-48bc-8d5f-93012fd4a1ad@92.223.84.79:80?security=none&type=ws&host=music-farsi.com#🔒 VL-WS-NONE 🇱🇺 LU-92.223.84.79:80

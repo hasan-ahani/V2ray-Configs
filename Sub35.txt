@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.248.170.182:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇮🇪 IE-34.248.170.182:22222
+vless://304096c0-8852-4e61-ba9b-ece9250230e3@104.21.25.19:443?security=tls&sni=uk1vless.vpnhack.xyz&type=ws&host=uk1-vless.vpnhack.xyz&path=%2Fvless#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.25.19:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.66.44.172:2096?security=tls&sni=baipiao1.curly-train.pages.dev&type=ws&host=baipiao1.curly-train.pages.dev&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.172:2096
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@206.238.237.208:443?security=tls&sni=hk600.ylks.link&type=ws&path=/blue#🔒 VL-WS-TLS 🇸🇬 SG-206.238.237.208:443
 vless://b97cdd0e-bba9-4391-b265-b72f80b670db@172.67.205.139:2052?security=none&type=ws&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.205.139:2052
@@ -81,5 +83,3 @@ vless://c416be20-32b3-467f-83c2-735e04d639f7@172.67.137.169:80?security=none&typ
 vless://a65d68c2-ef23-498d-9a56-d34fae42a125@185.238.228.143:8443?security=tls&sni=config1.radvin.online&type=grpc#🔒 VL-GRPC-TLS 🇪🇸 ES-185.238.228.143:8443
 vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@8.219.1.169:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🇸🇬 SG-8.219.1.169:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.102.32:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.102.32:80
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.42.72:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.42.72:80
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.27.206.92:2087?security=tls&sni=jp555.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.27.206.92:2087
