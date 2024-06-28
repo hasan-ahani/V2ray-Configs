@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://a7eb4a81-4300-46c1-a6c3-851fad9d8920@fr-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=GRPC&mode=gun#%F0%9F%87%AB%F0%9F%87%B7%20France%20Vless%20gRPC%20@V2rayStore
 vless://3aa85b65-a9fb-4dad-a11d-607d318ad71a@fr2-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=GRPC&mode=gun#%F0%9F%87%AB%F0%9F%87%B7%20France%20Vless%20gRPC%20@V2rayStore
 vmess://eyJhZGQiOiAiNDUuMTQuMjQ0LjEzMyIsICJhbGxvd0luc2VjdXJlIjogdHJ1ZSwgImFscG4iOiAiaDIsaHR0cC8xLjEiLCAiaWQiOiAiNmI2MTMwZjUtNjA0MC00YmNiLWFmMmYtOWUwZDkyYmM2Mjg3IiwgIm5ldCI6ICJncnBjIiwgInBhdGgiOiAiIiwgInBvcnQiOiA0NDMsICJwcyI6ICIlRjAlOUYlODclQjMlRjAlOUYlODclQjElMjBQcmVtaXVtJTIwTmV3JTIwUFJFTUlVTSUyMCUyMEBWMnJheVN0b3JlIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
 vless://5fb1fdf4-3bae-42bd-fb6e-0b03dfb2ad20@de1.alphav2ray.link:443?type=grpc&serviceName=&security=tls&fp=&alpn=&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Premium%20PREMIUM%20%20@V2rayStore
@@ -83,3 +82,4 @@ vless://cc0dc9e3-7504-4d78-904a-e856ab425c80@uk2-full.privateip.net:443?type=tcp
 vless://fe6b171f-0996-4cca-89b6-8bf2b7f70cb4@de-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Vless%20TCP%20@V2rayStore
 vless://94e0bd36-57bb-4d1c-8315-0840fe0d26b3@de2-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Vless%20TCP%20@V2rayStore
 vless://d13a1784-da0e-4038-a427-3c3ab3449cfc@au-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20Vless%20TCP%20@V2rayStore
+vless://9eb195d2-7e80-4454-9ba1-62f618ef3a28@it-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20Vless%20TCP%20@V2rayStore
