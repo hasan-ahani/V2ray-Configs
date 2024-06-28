@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.204.79:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.204.79:80
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.151.242:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.151.242:80
-vless://504d9da5-ea6d-429e-a4e5-76d6fe9bdc54@104.21.47.137:2087?security=tls&sni=moji.xuii.sbs&type=grpc&fp=chrome&alpn=http/1.1,h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.47.137:2087
-vless://dc98af9b-99f3-4201-8259-ede343e6cad9@104.27.197.159:2053?security=tls&sni=ligliyglyugliygghy.mic-mokhaderat-shatel-irancel-digikala.shop&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.27.197.159:2053
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@205.233.181.223:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-205.233.181.223:443
 vless://440a5fc6-4d97-46d5-93f7-adf90996081e@104.18.11.114:80?security=none&type=ws&host=bia-to-channel4.unlimiteddev.shop&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.11.114:80
 vless://9ad6196e-9332-4ba8-a60f-efd3bba1f37b@23.227.39.179:443?security=tls&sni=n2vpn.projectis.ir&type=ws&host=n2vpn.projectis.ir&path=/@n2vpn&fp=chrome#🔒 VL-WS-TLS 🇨🇦 CA-23.227.39.179:443
 vless://e25aa0ce-6896-4a60-bfbe-a992c789320c@95.164.46.235:443?security=tls&sni=it-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇮🇹 IT-95.164.46.235:443
@@ -83,3 +78,8 @@ vless://b33b8d28-14d2-4325-80e0-3331ed080b1d@162.159.133.233:2083?security=tls&s
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.214.171:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.214.171:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.32:443?security=tls&sni=kk626.ylks.link&type=ws&path=/blue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.32:443
 vless://d54ebbb1-c208-4f14-8c4e-96e93d2116ff@188.114.99.99:2053?security=tls&sni=kanon.parhamtraberthos.IR.&type=grpc&serviceName=https%3A%2F%2Ft.me%2Fnew_proxy_channel-%40new_proxy_channel&fp=chrome&alpn=http%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-188.114.99.99:2053
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.156.48:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.156.48:80
+vless://d7dd3a35b68b4992b319a85b8a1fc8e5@8.222.204.128:443?security=tls&sni=dns68.putata.eu.org&type=ws&path=%2F#🔒 VL-WS-TLS 🇸🇬 SG-8.222.204.128:443
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.172.8:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.172.8:80
+vless://3f926686-dd36-4d3e-bc63-99eae58ddd10@95.164.88.77:443?security=none&type=tcp&host=france24.com&headerType=http#🔒 VL-TCP-NONE 🇬🇮 GI-95.164.88.77:443
+vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@37.32.20.25:8919?type=tcp&serviceName=-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any&host=varzesh3.com&path=/&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-37.32.20.25:8919
