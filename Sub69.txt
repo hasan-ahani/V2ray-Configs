@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@170.114.46.206:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-170.114.46.206:443
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@160.79.105.163:443?security=tls&sni=jp726.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-160.79.105.163:443
+vless://484a24c2-deec-459f-ba47-4eb059f09bd3@172.66.44.189:443?security=tls&sni=pardazesh25.pages.dev&type=ws&host=pardazesh25.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.189:443
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.95.98:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.95.98:80
+vless://06936b67-2047-42e4-a307-8c9820b67c35@103.35.189.42:443?security=tls&sni=Join-M-buy-In-Telegram.PaGeS.dEv&type=tcp&host=us1.x2fast.net&path=/http&headerType=http&fp=chrome#🔒 VL-TCP-TLS 🇺🇸 US-103.35.189.42:443
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.109.21.38:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-185.109.21.38:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@103.169.142.20:443?security=tls&sni=kk111.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇦🇺 AU-103.169.142.20:443
 vless://81f8b08d-f412-49a4-8d34-9a95b84d992d@80.71.157.107:443?security=tls&sni=m.facebook.com&type=ws&host=de3.v2vless.xyz&path=%2Fvless#🔒 VL-WS-TLS 🇩🇪 DE-80.71.157.107:443
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.182.110:443?security=tls&sni=3k.pureboy.eu.org&type=ws&host=3k.pureboy.eu.org#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.182.110:443
@@ -77,9 +83,3 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.152.87:443?security=tls&sni
 vless://d92f2c5c-5fe5-4034-b48a-6e50ff820877@104.16.124.175:8080?security=none&type=ws&host=de7.vlessx.us#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.124.175:8080
 vless://40d748ac-c130-42f0-ad3b-4eeb26c39e42@194.195.125.6:443?security=tls&sni=au-full.privateip.net&type=ws&path=/VLESS&allowInsecure=1#🔒 VL-WS-TLS 🇦🇺 AU-194.195.125.6:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.19.147.165:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.19.147.165:80
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@162.159.137.137:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.137.137:80
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.204.233:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.204.233:80
-vless://c1978266-958c-4aa3-ba34-7eacac75aca1@104.18.14.19:443?security=tls&sni=bpb-worker-panel3.pages.dev&type=ws&host=bpb-worker-panel3.pages.dev&path=%2F%3Fed%3D2560&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.14.19:443
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@198.41.208.249:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.208.249:80
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@172.64.229.27:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.229.27:80
-vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.160.177:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.160.177:443
