@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://d396ade5-431b-4127-a7bf-46979eb78761@79.175.177.127:443?encryption=none&security=none&type=tcp&headerType=http#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-79.175.177.127%3A443
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.19:8009#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%BA%F0%9F%87%B8%20US-23.157.40.19%3A8009
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.81:6679#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%BA%F0%9F%87%B8%20US-23.157.40.81%3A6679
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@69.50.92.116:8000#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%BA%F0%9F%87%B8%20US-69.50.92.116%3A8000
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@67.220.86.72:8882#%F0%9F%87%BA%F0%9F%87%B8US-67.220.86.72-2567
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@40.120.102.204:443#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%A6%F0%9F%87%AA%20AE-40.120.102.204%3A443
@@ -83,3 +80,6 @@ vless://702c098f-a29a-415d-af86-cf72a437c200@51.103.208.250:443?security=reality
 vless://ef333a80-f760-4d34-ac06-2c7962dcf8e9@192.248.188.83:443?security=reality&flow=xtls-rprx-vision&sni=www.classroom.google.com&type=tcp&fp=chrome&pbk=kI1F2xhVzvwSHGtHU0YLD9ERz554kURh7pqs9vrS_Fc&sid=02#🔒 VL-TCP-RLT 🇩🇪 DE-192.248.188.83:443
 vless://4e4822a1-9db0-42ef-abdf-d87133425a5c@135.181.151.143:443?security=reality&sni=serwus.net&type=grpc&serviceName=Channel---Telegram---ZED_VPN---ZED_VPN---Telegram---ZED_VPN---ZED_VPN---Telegram---ZED_VPN---ZED_VPN&fp=chrome&pbk=K_ud1ATa-ff70uTk82NPWUxKSt5EL797ya-BJUPVwEg&sid=dcb98a49#🔒 VL-GRPC-RLT 🇫🇮 FI-135.181.151.143:443
 vless://501ad7a2-6387-4c12-b4f2-7803e7ec9974@95.164.68.37:8443?security=reality&flow=xtls-rprx-vision&sni=104.21.70.42&type=tcp&fp=chrome&pbk=UPDaAp6tkfjOWDDIAJXNtNqRRriaSQm_C8mcAQQP8nw&sid=fabb696169ae2a95#🔒 VL-TCP-RLT 🇬🇮 GI-95.164.68.37:8443
+vless://1d392b76-07e0-4490-ac60-4c1efefedff0@45.67.32.147:34500?security=reality&sni=yandex.ru&type=http&path=/details&fp=chrome&pbk=lLLKkcHjHsbdgjmOmJ9tsjh5R0nFEvKI9Ye5Gd9YeD4&sid=2c508a3e#🔒 VL-HTTP-RLT 🇷🇺 RU-45.67.32.147:34500
+vless://5eb40b31-6d9b-461d-81c2-53909a01df5b@64.190.63.111:443?security=reality&sni=iranbax.spacex.com&type=grpc&serviceName=@iranbaxvpn-@iranbaxvpn-@iranbaxvpn-@iranbaxvpn&fp=chrome&pbk=skowtu_zROaa0Y7h0Gss2-4mPXvEAngSPxQVukyWO1U&sid=9ff0c049e20b#🔒 VL-GRPC-RLT 🇩🇪 DE-64.190.63.111:443
+vless://b755572e-9199-4acb-94f5-ee403b01bcee@84.32.84.33:80?security=reality&sni=sourceforge.net&type=grpc&serviceName=Telegram:@v2Rez,Telegram:@v2Rez,Telegram:@v2Rez,Telegram:@v2Rez,Telegram:@v2Rez,Telegram:@v2Rez,Telegram:@v2Rez,Telegram:@v2Rez,Telegram:@v2Rez,Telegram:@v2Rez,Telegram:@v2Rez,Telegram:@v2Rez,Telegram:@v2Rez,&fp=chrome&pbk=1Tl81dQeiCgNH2YwVCm6Uvfi1Bznr5VSZTUwTGec9jg&sid=584d90b9#🔒 VL-GRPC-RLT 🇱🇹 LT-84.32.84.33:80

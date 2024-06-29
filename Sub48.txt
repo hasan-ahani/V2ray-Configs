@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://3ebb18cd-0a44-441a-ab7c-bed685abc1c1@141.193.213.21:443?security=tls&sni=443.gooshttest.online&type=grpc&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇺🇸 US-141.193.213.21:443
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.27.107:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.27.107:80
-vless://08855417-a94d-5591-9abe-4ed223e8a857@104.21.13.41:443?security=tls&sni=happy.callofip.com&type=ws&host=happy.callofip.com&path=/grpc&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.13.41:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@193.123.233.169:39803?security=tls&sni=a.ssll.gay&type=ws&path=telegram%F0%9F%87%A8%F0%9F%87%B3+%40wangcai2+%2F%3Fed#🔒 VL-WS-TLS 🇰🇷 KR-193.123.233.169:39803
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.45.167:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.45.167:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.18.218.210:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.218.210:443
@@ -83,3 +80,6 @@ vless://51baeda8-1288-458a-b5ae-b8b080b937b6@104.16.61.8:8880?security=none&type
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.246.156:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.246.156:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.25.179:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.25.179:80
 vless://81d304dd-dfdd-4db3-9918-b1516dc3510d@162.159.135.232:2096?security=tls&sni=S.fruitsstore.ir&type=ws&host=S.fruitsstore.ir#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.135.232:2096
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@8.210.9.129:2053?security=tls&sni=zdy999.kpcloud.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇭🇰 HK-8.210.9.129:2053
+vless://fad6d0fb-103a-473f-bbfd-ab1b0ca487bc@104.31.16.9:80?security=none&type=ws&host=lashashin.garayane.heydas.heydasgermany.name.ng&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.31.16.9:80
+vless://1ece5097-9fbf-45bc-d81f-56a3d17ae986@172.67.190.23:2053?security=tls&sni=fruits-bazar-tajrish-online.cyberscaler.com&type=ws&host=fruits-bazar-tajrish-online.cyberscaler.com&path=%2Ffruits-bazar-tajrish-01%2F&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.190.23:2053

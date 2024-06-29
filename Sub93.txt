@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@170.114.46.46:443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-170.114.46.46:443
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.66.45.118:443?security=tls&sni=baipiao55.stunning-bassoon.pages.dev&type=ws&host=baipiao55.stunning-bassoon.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.45.118:443
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.125.22:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.125.22:80
 vless://9b76baa9-4269-4c46-aaec-4d884a305da0@[::ffff:681a:f50]:8443?security=tls&sni=g.networknim.lol&type=grpc&serviceName=8443vless&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-[::ffff:681a:f50]:8443
 vless://d672ec4f-afba-4f61-af09-eec872f97e99@188.114.98.220:443?security=tls&sni=test57.pages.dev&type=ws&host=test57.pages.dev&path=TELEGRAM+@NETMelliAnti#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.220:443
 vless://454f84df-724d-442a-a4a2-698a6d63f946@193.70.112.90:443?security=tls&sni=fr3-full.privateip.net&type=ws&path=%2fvless&allowInsecure=1#🔒 VL-WS-TLS 🇫🇷 FR-193.70.112.90:443
@@ -83,3 +80,6 @@ vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@45.133.247.196:2083?security=tls&sn
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.17.195:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.17.195:443
 vless://0a3f8b1c-ec35-46f3-abfd-18d79f260ab2@162.159.135.232:2086?security=none&type=ws&host=cfhax2.v3nom.top#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.135.232:2086
 vless://81a27cdf-06fe-49d2-a4c3-14d292fa0ac9@172.67.213.252:2052?security=none&type=ws&path=/@EsiVP#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.213.252:2052
+vless://5512bf69-a563-4ea7-be2b-2d14d27e6323@104.21.10.208:443?security=tls&sni=falcUNArGOo.EBf9A41066.woRkErS.DEV&type=ws&host=fALcUnaRgOO.ebf9A41066.worKErs.dEv&path=%2FusDY5wtPlH9B9D0X%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.10.208:443
+vless://5c484d41-4013-45c6-b502-78b8b190e958@88.135.47.60:2096?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-88.135.47.60:2096
+vless://09e9481f-585f-4ea6-81cf-f4c3f22966f0@154.219.5.96:2087?security=tls&sni=v2rayd.liopiol.ir&type=grpc&serviceName=/@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-@LiV2ray&fp=chrome#🔒 VL-GRPC-TLS 🇸🇬 SG-154.219.5.96:2087

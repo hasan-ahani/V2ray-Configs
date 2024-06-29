@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://42755b64-8ac3-4ae8-ab7a-783ad2087a31@151.101.130.219:443?security=tls&sni=speedtest.net&type=ws&host=freexraysw.com&path=%2Fvless&fp=ios&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-151.101.130.219:443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@172.67.71.122:2087?security=tls&sni=jp999.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.71.122:2087
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.59.158:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.59.158:80
 vless://2f2478a4-a459-40be-8634-12613228275e@14.102.228.41:2087?security=tls&sni=v2rayc.liopiol.ir&type=grpc&serviceName=/@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-@LiV2ray&fp=chrome#🔒 VL-GRPC-TLS 🇺🇸 US-14.102.228.41:2087
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@162.159.142.111:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.142.111:80
 vless://6f995056-7802-4a1d-bff7-61678e626c3f@40.74.100.138:443?security=tls&sni=sebbb.azurewebsites.net&type=ws&host=sebbb.azurewebsites.net&path=/#🔒 VL-WS-TLS 🇯🇵 JP-40.74.100.138:443
@@ -83,3 +80,6 @@ vless://3d74e12e-e81f-4ef6-b123-0233cd751d2a@185.146.173.146:80?security=none&ty
 vless://32f09b70-d2f7-11ee-abda-00505603e70d@104.21.49.18:443?security=tls&sni=st-gb-1.brocdn.com&type=ws&host=st-gb-1.brocdn.com&path=%2Fwebsocket#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.49.18:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.160.98:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.160.98:80
 vless://561a4ec2-7f74-4217-9856-a7684673de8c@104.20.31.213:80?security=none&type=ws&host=rel.shopservices.ir.&path=%2FSpdNet%40SpdNet%40SpdNet%40SpdNet%40SpdNet%40SpdNet%3Fed%3D2052#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.31.213:80
+vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@47.76.75.28:443?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org#🔒 VL-WS-TLS 🇭🇰 HK-47.76.75.28:443
+vless://7f55b425-a623-439b-bbd5-0b1778162054@188.114.97.0:80?security=none&type=ws&host=v2raygodvip--free24.Azaronline.Org.&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.97.0:80
+vless://cf2dd0d1-9837-4150-a420-86c498338c44@5.253.41.160:443?security=tls&sni=jp-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇨🇾 CY-5.253.41.160:443
