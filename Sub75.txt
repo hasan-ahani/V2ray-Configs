@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.206.239:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.206.239:80
 vless://0a3f8b1c-ec35-46f3-abfd-18d79f260ab2@162.159.128.233:2086?security=none&type=ws&host=cfhax2.v3nom.top#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.128.233:2086
 vless://416f18ec-11f3-4648-9693-8c6480d0662d@104.18.1.125:8080?security=none&type=ws&host=JvRqBlAk5.IuBcInScKkSdNoI1.nEt&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.1.125:8080
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.188.92:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.188.92:80
@@ -83,3 +82,4 @@ vless://e8d8328d-4c66-4b96-9a4e-e005f4397c75@172.67.147.79:443?security=tls&sni=
 vless://d672ec4f-afba-4f61-af09-eec872f97e99@162.159.135.79:443?security=tls&sni=test38.pages.dev&type=ws&host=test38.pages.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.135.79:443
 vless://c58905af-2040-413e-adbc-0e81cc8eb35f@104.24.200.13:8880?security=none&type=ws&host=vless.behradmirzaei1388.workers.dev&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.200.13:8880
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@8.217.147.230:80?security=none&type=ws&path=/blue#🔒 VL-WS-NONE 🇭🇰 HK-8.217.147.230:80
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@172.66.47.7:443?security=tls&sni=jp999.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.7:443

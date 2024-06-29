@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://ffc07d6e-8294-4e99-84a8-79a3dc928138@185.232.154.188:2083?security=none&type=tcp&host=uav2.iofc.sbs&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.232.154.188:2083
 vless://280dc615-767b-4800-8796-a8de253b88d9@190.93.247.247:8880?security=none&type=ws&host=V2ray.B.LAMBOoOghtYooUUYh.ir.&path=@bored_vpn,@bored_vpn,@bored_vpn,@bored_vpn,@bored_vpn,@bored_vpn,@bored_vpn,@bored_vpn#🔒 VL-WS-NONE 🏴‍☠️ NA-190.93.247.247:8880
 vless://02e75d78-58ad-4a73-afca-24b781d8fdff@104.21.99.250:8443?security=tls&sni=Isa.kasler.sbs&type=grpc&serviceName=کانال+@ev2rayy&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.99.250:8443
 vless://2500b5d3-b7d6-41e7-8e28-2ba244e0917a@217.60.244.15:2095?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇮🇷 IR-217.60.244.15:2095
@@ -83,3 +82,4 @@ vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.19.33.175:80?type=ws&host=kr1.1
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@205.233.181.104:443?security=tls&sni=kk111.ylks.link&type=ws&path=/blue#🔒 VL-WS-TLS 🇺🇸 US-205.233.181.104:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@162.159.142.29:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.142.29:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.135.222:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.135.222:443
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.156.84:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.156.84:80

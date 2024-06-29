@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://200e059b-51ec-4825-8e95-5e49db5d22ad@141.95.75.212:443?security=reality&sni=analytics.google.com&type=tcp&fp=chrome&pbk=yiHA11T4BplJbQxAfsQkiiAzAmyxWau-KR7dQptwjDU&sid=c741ad33#🔒 VL-TCP-RLT 🇫🇷 FR-141.95.75.212:443
 vless://f2d8cde4-ef7d-49e8-f518-33497f61be35@47.76.44.200:14566?security=reality&flow=xtls-rprx-vision&sni=swdist.apple.com&type=tcp&fp=chrome&pbk=g1f1wLjim5gOVGnI5LGUV0dL4iFXPoiepOPZfSxJe14#🔒 VL-TCP-RLT 🇭🇰 HK-47.76.44.200:14566
 vless://a0562dec-26ac-43d4-ba1d-785c334e644f@37.27.21.47:443?security=reality&sni=greenpepper.ir&type=grpc&serviceName=@ipV2Ray&fp=chrome&pbk=FVe7_gsA7lnuX9z_V0vZXI9gD5outBiWIWZQsBpIzlI&sid=fada4f5f#🔒 VL-GRPC-RLT 🇫🇮 FI-37.27.21.47:443
 vless://ac554074-ad55-41c6-9fc1-5af16ace00f1@49.13.139.192:443?security=reality&sni=*.danishshakeel.me&type=grpc&serviceName=@ipV2Ray&fp=chrome&pbk=jSxs7VtFMN2tQOo9dKG63UHNfjqcXt-krPDrEfer1n4&sid=45796768#🔒 VL-GRPC-RLT 🇩🇪 DE-49.13.139.192:443
@@ -83,3 +82,4 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.218.189:443?security=tls&sni
 vless://b97cdd0e-bba9-4391-b265-b72f80b670db@104.21.90.218:2052?type=ws&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.90.218:2052
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@154.92.9.24:443?security=tls&sni=zdy999.kpcloud.eu.org&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇯🇵 JP-154.92.9.24:443
 vless://34208027-101c-4e79-a0e3-87f62ef214e6@172.66.45.36:2083?security=tls&sni=MoRtEzA865.paGES.DEV&type=ws&host=moRTeZa865.pAGEs.Dev&path=%2FV3mqQmHKvVOzMHV5%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.45.36:2083
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@47.236.80.110:2096?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇸🇬 SG-47.236.80.110:2096
