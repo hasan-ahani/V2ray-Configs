@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.22.62.137:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.62.137:80
+vless://52de3fa6-1673-4918-a90d-21d2b69de98e@172.66.47.19:443?security=tls&sni=eb8c0c64.888766.pages.dev&type=ws&host=eb8c0c64.888766.pages.dev&path=%40VPNHTTPInjectorfree#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.19:443
+vless://cca319c7-d0d3-46bc-be9f-cf9eabd7b7f7@63.141.128.17:443?security=tls&sni=classify6.appclouddeveloper.com&type=grpc&serviceName=5e56daa0&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🇺🇸 US-63.141.128.17:443
+vless://ce12313e-dab2-49ee-8806-399eb91136b2@104.18.23.19:2096?security=tls&sni=api1.htve.ir&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.23.19:2096
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.126.213:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.126.213:80
 vless://d79f585f-7876-46c3-8e80-084a4cb53698@95.81.89.156:56025?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-95.81.89.156:56025
 vless://5387472d-fb54-4d7d-90fc-4cb93083e397@94.182.128.155:443?security=none&type=tcp&host=fast.com&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-94.182.128.155:443
@@ -79,7 +83,3 @@ vless://8a84e7db-6c09-4cb8-bdfb-552f0360a6cb@172.67.164.182:2083?security=tls&sn
 vless://d621d083-5ac0-4d26-8872-efe55cf57663@104.21.92.238:2095?security=none&type=ws&host=www.mehran-net.mohammad420.sbs&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.92.238:2095
 vless://4fff5830-c1b2-4d7c-89e6-105f4c18f5ad@104.21.40.63:2053?security=tls&sni=de3.v2vless.xyz&type=ws&host=de3.v2vless.xyz&path=%2Fvless%3Fed%3D%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%3Fed&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.40.63:2053
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.233.162:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.233.162:443
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.254.197:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.254.197:80
-vless://a64f0cea-ca89-40e6-b316-b3badff1eb90@172.66.47.151:443?security=tls&sni=iSaA1.paGes.DEv&type=ws&host=IsaA1.pAGEs.DEV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.151:443
-vless://9d68258a-453b-418a-8b90-27b7d1637a33@104.21.41.230:2053?security=tls&sni=e130917c-1b58-4136-b2d9-76dc920e0add.add97ee8-0f14-48a3-b2cd-979c56742e64.loseyourip.com&type=ws&host=e130917c-1b58-4136-b2d9-76dc920e0add.add97ee8-0f14-48a3-b2cd-979c56742e64.loseyourip.com&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.41.230:2053
-vless://4804f14b-c1f8-452d-a6ec-eff1490aeac9@104.24.176.7:443?security=tls&sni=hdfy6c1.freeairlaines.com&type=grpc&serviceName=Bc5xLs413y7FzoZoavn2kmJ&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.24.176.7:443
