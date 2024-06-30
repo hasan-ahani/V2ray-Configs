@@ -3,17 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://f35ee8d8-6ef1-49d5-a138-12b3d514e873@172.66.44.202:443?security=tls&sni=pardazeshvpn-tg6.pages.dev&type=ws&host=pardazeshvpn-tg6.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.202:443
-vless://70ea7a10-de3e-4922-bc7c-4dd7c2cef882@172.66.45.10:443?security=tls&sni=newtunnel-2xm.pages.dev&type=ws&path=%2Fvless&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.45.10:443
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.43:8443?security=tls&sni=a.ssll.gay&type=ws&path=twitterfreecodes#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.43:8443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.242.202.230:2083?security=tls&sni=hk667.ylks.link&type=ws&path=/?proxyip#🔒 VL-WS-TLS 🇭🇰 HK-47.242.202.230:2083
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.84.184:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.84.184:80
-vless://a56cf768-7fbb-4504-aa3f-4b9b33ededd3@94.182.147.227:8081?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-94.182.147.227:8081
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.157.31:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.157.31:80
-vless://79dcfd28-02af-42fd-af73-232f31ae0201@172.67.133.141:8880?security=none&type=ws&host=kiava.aws.amazon.com.f2.debian.org.speedtest.net.xn--mgba2h8quf.kiava.fun#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.133.141:8880
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.147.16:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.147.16:80
-vless://af309ad2-c943-48ea-b570-2e51a2f079d9@104.18.81.213:80?security=none&type=ws&host=vld7.topshop20.com&path=/DSDaswd22!11*fdfm55247.COM.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.81.213:80
-vless://214fdd86-c59e-4872-a854-f55eedfd982a@176.126.113.161:2003?security=tls&sni=nl2-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇳🇱 NL-176.126.113.161:2003
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@152.32.146.201:22284?security=tls&sni=zdy600.kpcloud.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇯🇵 JP-152.32.146.201:22284
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.22.228:443?security=tls&sni=PPal03.yUriEl-sIddHanTH.WOrKeRs.DEv&type=ws&host=PpAl03.yurIEl-siddhaNtH.worKErs.DeV&path=%2F4Viq5XHkDINND2Wg%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.22.228:443
 vless://4f430965-fb96-4a2e-c8cc-5e10d66e46ed@104.21.74.214:2096?security=tls&sni=sahari.savarkaraan.ir&type=grpc&serviceName=Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.74.214:2096
@@ -83,3 +72,14 @@ vless://07580b72-9788-4fa5-9463-1af36c00d16d@78.39.47.165:30000?security=none&ty
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@108.165.216.243:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-108.165.216.243:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.59.61:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.59.61:80
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.98.225:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.98.225:80
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.204.125:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.204.125:80
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.20.6.134:443?security=tls&sni=V2FIveTEL.pAGes.dev&type=ws&host=V2FiVeTeL.pAges.Dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.6.134:443
+vless://d73f7804-d488-4aae-e499-88bece38f73a@172.67.163.103:8443?security=tls&sni=are.kanal-tel-nufilter.site&type=grpc&serviceName=Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.163.103:8443
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@162.159.130.188:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.130.188:443
+vless://86632902-c329-40f8-a7a2-43fb983f7e7c@85.133.151.142:35349?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.133.151.142:35349
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.155.114:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.155.114:80
+vless://dd777f39-2996-4269-b88f-0b64436d0274@104.31.16.133:2096?security=tls&sni=joinchannel.sameasyou.sbs&type=ws&host=capitalnet.sameasyou.sbs&path=/&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.31.16.133:2096
+vless://c416be20-32b3-467f-83c2-735e04d639f7@172.67.137.169:443?security=tls&sni=eagle.hafezdivan.online.&type=ws&path=%2F&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.137.169:443
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.42.145.178:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-188.42.145.178:443
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.118.87:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.118.87:80
+vless://ab9e9a08-5af5-463f-ae12-2ebb7b3e5de2@162.55.208.181:80?security=none&type=tcp&host=discord.com&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-162.55.208.181:80
