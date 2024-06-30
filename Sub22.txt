@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://837c965b-4487-4976-99ba-dfed6b0e9c35@212.79.125.35:17552?security=reality&sni=discord.com&type=grpc&serviceName=esbesoo.vpnext.sbs&fp=chrome&pbk=Csp0v7HDJ2lGVM1l3gvB9k4Yv3URXNYLtjESyv1py3Y&sid=35866e08#🔒 VL-GRPC-RLT 🇺🇦 UA-212.79.125.35:17552
-vless://33732651-0c11-4abf-8c0c-e3744ec88230@5.161.153.141:443?security=reality&sni=gsmarena.com&type=grpc&serviceName=%40Everyday_VPN&fp=chrome&pbk=vtUa7jdhymLNbzrhq3V9Mk0CxWZtXrBGNc4elOd0wXc&sid=079d8b6e#🔒 VL-GRPC-RLT 🇺🇸 US-5.161.153.141:443
-vless://a094f50c-863c-4d3b-aa09-298c25e782b7@104.168.107.230:8339?security=reality&flow=xtls-rprx-vision&sni=sedo.com&type=tcp&fp=chrome&pbk=QQHxQK7ocGHvaCmqtW3QapnKiBVd4ZjjM3zhCGVMPS4&sid=db68e802226b21cd#🔒 VL-TCP-RLT 🇺🇸 US-104.168.107.230:8339
-vless://71a162cc-7fad-409d-87fa-5ca9e13474fb@172.233.66.98:56702?security=reality&flow=xtls-rprx-vision&sni=addons.mozilla.org&type=tcp&fp=chrome&pbk=sW8BfHeovVzmbFuAnr9nH8oJaKYze6shKoKMdek5ai8&sid=792147b8#🔒 VL-TCP-RLT 🇯🇵 JP-172.233.66.98:56702
-vless://53a37908-4cb1-4ae4-bdad-6653dce9cdaf@5.75.231.243:443?security=reality&sni=Ftp.debian.org&type=grpc&serviceName=@vp22ray@vp22ray@vp22ray&fp=chrome&pbk=QUyXIx6S7HgIqh3oryjejQl8zgWwnKWJpoWINluG22A&sid=ee6bce0a#🔒 VL-GRPC-RLT 🇩🇪 DE-5.75.231.243:443
 vless://90f1fa90-75f7-4691-b5b7-a8e4a84d66d9@66.90.74.84:20012?security=reality&flow=xtls-rprx-vision&sni=www.timeto.com&type=tcp&fp=chrome&pbk=Wt9cTNEcGKp6Qy2n050o5U3sDCEK1C-iuzQFYSzXknU&sid=4a3749e4#🔒 VL-TCP-RLT 🇦🇷 AR-66.90.74.84:20012
 vless://b0107817-029c-432c-ad4d-bd1e9e1c3471@65.108.58.248:443?security=reality&sni=greenpepper.ir&type=grpc&serviceName=@VPNwedbaz--@vpnwedbaz&fp=chrome&pbk=RL6RJY-vbjYIUpDulvSJ8LHI9zCsJ0ICWWY5I-coWwE&sid=cac59972#🔒 VL-GRPC-RLT 🇫🇮 FI-65.108.58.248:443
 vless://18e82ee0-3b88-48d1-9292-484c8051f690@49.13.135.58:443?security=reality&flow=xtls-rprx-vision&sni=github.io&type=tcp&fp=chrome&pbk=X5WLfJ82KCpBanu2EwML11CwJUM2NczTonML5hHwW2o&sid=b5b39d420f404069#🔒 VL-TCP-RLT 🇩🇪 DE-49.13.135.58:443
@@ -83,3 +78,8 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.122.6:80?security=none&type=
 vless://378ac207-38d3-4401-ba96-3a7931968bc5@148.113.175.147:80?type=ws&host=vkvd127.mycdn.me&path=%2Fhttp#🔒 VL-WS-NA 🇨🇦 CA-148.113.175.147:80
 vless://2ad2e13c-8cb1-4666-8bfb-c42b51df2f1d@86.38.214.18:443?security=tls&sni=aLi.PinobiN.iR.&type=grpc&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🇱🇹 LT-86.38.214.18:443
 vless://81905017-3193-40be-80cc-349f30149a62@104.25.144.171:8880?security=none&type=ws&host=V2ray-_-_-_-_-_-cDn.Mamadv2raYng.CoM.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.25.144.171:8880
+vless://c5a265b1-d3d7-4079-9dd2-e7d5c7da3637@188.114.96.216:80?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.96.216:80
+vless://c2d391d5-9f1e-4721-bd25-b335d14caf07@185.146.173.20:8080?type=ws&host=DUwC0ik5lWCiueUniUDG.niGc-aR.com&path=%2Fbackup#🔒 VL-WS-NA 🇸🇪 SE-185.146.173.20:8080
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.186.81:443?security=tls&sni=PpaL03.LeXandER-sHUbHam.wORKerS.DEV&type=ws&host=PpaL03.lexandeR-sHUBhAM.WORkERS.deV&path=%2F66M4b979cyne6C23%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.186.81:443
+vless://0f7ec369-3529-4e73-943b-19258212f1bb@162.159.4.8:443?security=tls&sni=c.2025vless.cloudns.be&type=ws&host=c.2025vless.cloudns.be#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.4.8:443
+vless://61a491db-7749-49fd-b3d2-e339a3fa1db2@104.17.127.233:443?security=tls&sni=v2.baradweb.com&type=ws&host=v2.baradweb.com&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.127.233:443
