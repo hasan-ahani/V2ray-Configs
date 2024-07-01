@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
-vless://c416be20-32b3-467f-83c2-735e04d639f7@eagle.hafezdivan.online.:80?path=/&security=none&encryption=none&type=ws#🇺🇸US | 🔴 | vless | @customv2ray | 14
-vless://98fc5855-232f-450d-b6d6-806daea4c931@188.114.98.224:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#🚩CF | 🔴 | vless | @UnlimitedDev | 0
-vless://98fc5855-232f-450d-b6d6-806daea4c931@zula.ir:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8080&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#🇺🇸US | 🔴 | vless | @UnlimitedDev | 1
-vless://ccacaabf-f43d-4397-b9d1-1b6a61010906@188.114.98.224:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#🚩CF | 🔴 | vless | @UnlimitedDev | 2
-vless://ccacaabf-f43d-4397-b9d1-1b6a61010906@zula.ir:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8080&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#🇺🇸US | 🔴 | vless | @UnlimitedDev | 3
-vless://e1b05154-d2f8-4540-8a19-6abc19969e55@188.114.98.224:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#🚩CF | 🔴 | vless | @UnlimitedDev | 4
 vless://e1b05154-d2f8-4540-8a19-6abc19969e55@zula.ir:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8080&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#🇺🇸US | 🔴 | vless | @UnlimitedDev | 5
 vless://15e555a9-ddd8-4d0c-8f77-4685cd06d4ef@188.114.98.224:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#🚩CF | 🔴 | vless | @UnlimitedDev | 6
 vless://15e555a9-ddd8-4d0c-8f77-4685cd06d4ef@zula.ir:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8080&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#🇺🇸US | 🔴 | vless | @UnlimitedDev | 7
@@ -83,3 +77,9 @@ vless://Source_VPNCUSTOMIZE@VPNCUSTOMIZE.Elmahstyle.ir:8080?path=/Join--VPNCUSTO
 vless://9dbaf43b-2029-4900-ad41-8dce8be516d5@188.114.98.224:8080?path=/Join--VPNCUSTOMIZE.V2ray.re?ed=8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#🚩CF | 🔴 | vless | @proxyymeliii | 39
 vless://9dbaf43b-2029-4900-ad41-8dce8be516d5@zula.ir:8080?path=/Join--VPNCUSTOMIZE.V2ray.re?ed=8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#🇺🇸US | 🔴 | vless | @proxyymeliii | 40
 vless://9dbaf43b-2029-4900-ad41-8dce8be516d5@VPNCUSTOMIZE.Elmahstyle.ir:8080?path=/Join--VPNCUSTOMIZE.V2ray.re?ed=8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#🇸🇪SE | 🔴 | vless | @proxyymeliii | 41
+vless://97537a78-0f60-43bd-a1c4-6f84697b4f96@188.114.98.224:8080?path=/Join--VPNCUSTOMIZE.V2ray.re?ed=8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#🚩CF | 🔴 | vless | @proxyymeliii | 42
+vless://97537a78-0f60-43bd-a1c4-6f84697b4f96@zula.ir:8080?path=/Join--VPNCUSTOMIZE.V2ray.re?ed=8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#🇺🇸US | 🔴 | vless | @proxyymeliii | 43
+vless://97537a78-0f60-43bd-a1c4-6f84697b4f96@VPNCUSTOMIZE.Elmahstyle.ir:8080?path=/Join--VPNCUSTOMIZE.V2ray.re?ed=8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#🇸🇪SE | 🔴 | vless | @proxyymeliii | 44
+vmess://eyJhZGQiOiIxNzIuNjcuMTc1LjU2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJvYmRpaS5jZmQiLCJpZCI6IjA1NjQxY2Y1LTU4ZDItNGJhNC1hOWYxLWIzY2RhMGIxZmIxZCIsIm5ldCI6IndzIiwicGF0aCI6IlwvbGlua3dzIiwicG9ydCI6IjQ0MyIsInNjeSI6ImF1dG8iLCJzbmkiOiJvYmRpaS5jZmQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIiLCJwcyI6Ilx1ZDgzZFx1ZGVhOUNGIHwgXHVkODNkXHVkZmUyIHwgdm1lc3MgfCBAdjJyYXkxX25nIHwgMSJ9
+vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@2.189.59.5:443?path=/Telegram/XV2ray?ed=2048&security=tls&encryption=none&host=tmcir.pages.dev&type=ws&sni=pages.dev#🇮🇷IR | 🔴 | vless | @v2ray1_ng | 3
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.133.252:443?path=/&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#🚩CF | 🔴 | vless | @vless_vmess | 2
