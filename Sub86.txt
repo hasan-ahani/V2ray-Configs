@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.105.124:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-185.148.105.124:443
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.21.76.195:2052?type=ws&path=%2Fyoutube-%E7%94%B1%E9%9B%B6%E9%96%8B%E5%A7%8B#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.76.195:2052
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@147.185.161.149:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-147.185.161.149:443
 vless://b04859a9-1156-4d22-8873-60980d5b599d@104.21.57.227:443?security=tls&sni=free.connectix.workers.dev&type=ws&path=/connectix&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.57.227:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.230:2087?security=tls&sni=a.ssll.gay&type=ws&path=twitterfreecodes#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.230:2087
@@ -81,5 +83,3 @@ vless://9c528672-1720-4660-8fb1-0083479719cf@104.16.104.11:2096?security=tls&sni
 vless://79978027-ef16-4137-b18e-905f8c18f845@172.67.254.45:8080?security=none&type=ws&host=cdnanycasteuorg.fjacz6xe.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.254.45:8080
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.159.218.214:443?security=tls&sni=zdy726.kpcloud.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-45.159.218.214:443
 vless://59c94ae0-ddf3-4218-8c47-2656f475bbdd@141.94.115.231:2003?security=tls&sni=fr-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇫🇷 FR-141.94.115.231:2003
-vless://b01e3f02-d51b-43d8-af76-227a20fb0d0a@104.26.14.85:8443?security=tls&sni=1.irancloudflare.cab&type=ws&host=1.irancloudflare.cab#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.14.85:8443
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.152.92:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.152.92:80

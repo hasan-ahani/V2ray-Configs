@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://1477811d-82bc-42c1-b851-397eac8c83ee@45.151.62.156:8443?security=reality&flow=xtls-rprx-vision&sni=cdn.discordapp.com&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒 VL-TCP-RLT 🇷🇺 RU-45.151.62.156:8443
+vless://8bc328a4-eeb2-44f8-9beb-8144b7c7bfd1@104.168.107.230:8884?security=reality&flow=xtls-rprx-vision&sni=dnschecker.org&type=tcp&fp=chrome&pbk=QQHxQK7ocGHvaCmqtW3QapnKiBVd4ZjjM3zhCGVMPS4&sid=db68e802226b21cd#🔒 VL-TCP-RLT 🇺🇸 US-104.168.107.230:8884
 vless://702c098f-a29a-415d-af86-cf72a437c200@13.58.213.12:2096?security=reality&flow=xtls-rprx-vision&sni=faa.gov&type=tcp&fp=chrome&pbk=Ixe4NAFSom9HMmwisNqezIDDV-nwsfCpMiuy19FopjE&sid=70eb395fd3494e90#🔒 VL-TCP-RLT 🇺🇸 US-13.58.213.12:2096
 vless://4eca62ca-3c6e-428a-9b11-862a0cc7639c@5.181.20.149:443?security=reality&flow=xtls-rprx-vision&sni=tradingview.com&type=tcp&fp=chrome&pbk=HFuxaahhw8wOa9zMQpGFeNhKFCcSQOsqG_AXFsogiDc#🔒 VL-TCP-RLT 🇫🇮 FI-5.181.20.149:443
 vless://ae9d4f00-3f68-4811-ba81-672ac8f1904b@199.59.243.226:24916?security=reality&sni=mega.io&type=grpc&fp=chrome&pbk=VZBW4ZiScdRuWl0PfVoYmgbJc-3sZVMvd6BXZg4ycws&sid=7a3a52136c#🔒 VL-GRPC-RLT 🇺🇸 US-199.59.243.226:24916
@@ -81,5 +83,3 @@ vless://b755572e-9199-4acb-94f5-ee403b01bcee@84.32.84.33:80?security=reality&sni
 vless://71a162cc-7fad-409d-87fa-5ca9e13474fb@170.187.231.44:56701?security=reality&flow=xtls-rprx-vision&sni=addons.mozilla.org&type=tcp&fp=chrome&pbk=sW8BfHeovVzmbFuAnr9nH8oJaKYze6shKoKMdek5ai8&sid=792147b8#🔒 VL-TCP-RLT 🇸🇬 SG-170.187.231.44:56701
 vless://7c7af2de-bb97-429f-ac3c-8ef849717491@80.253.255.10:443?security=reality&flow=xtls-rprx-vision&sni=www.upci.org&type=tcp&fp=chrome&pbk=jSuIvIWLecUXhjia1bHBwo5sHiYkKsdtdy0x6N-4A1s&sid=ee46&alpn=http/1.1#🔒 VL-TCP-RLT 🇹🇷 TR-80.253.255.10:443
 vless://ee1a92a0-936a-449a-bbe5-060ecfc057ea@128.140.78.78:443?security=reality&flow=xtls-rprx-vision&sni=direct.playstation.com&type=tcp&fp=chrome&pbk=SF3Hh2nJngYLNMf9_4gs045vCKpKu_0g3EogBDl0zj0&sid=016796fc#🔒 VL-TCP-RLT 🇩🇪 DE-128.140.78.78:443
-vless://501ad7a2-6387-4c12-b4f2-7803e7ec9974@95.164.68.37:8443?security=reality&flow=xtls-rprx-vision&sni=104.21.70.42&type=tcp&fp=chrome&pbk=UPDaAp6tkfjOWDDIAJXNtNqRRriaSQm_C8mcAQQP8nw&sid=fabb696169ae2a95#🔒 VL-TCP-RLT 🇬🇮 GI-95.164.68.37:8443
-vless://9242881f-26cf-4bce-b32b-e9f166dd0a66@199.59.243.226:14875?security=reality&flow=xtls-rprx-vision&sni=yahoo.com&type=tcp&fp=chrome&pbk=2mte9DEeo0OwNppy36bIfMqAXL4yLiFbhDqOGXu8XVI&sid=e34371db#🔒 VL-TCP-RLT 🇺🇸 US-199.59.243.226:14875
