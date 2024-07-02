@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-Configs
 #profile-web-page-url: https://github.com/barry-far/V2ray-Configs
+vless://322bd3ff-dcbc-4cd8-b636-5e0a77d6f68f@154.219.5.51:443?security=tls&sni=second.pinocchio1.ir.&type=grpc&serviceName=%2Fcustom_config%3Fed%3D2048&fp=firefox&alpn=http/1.1#🔒 VL-GRPC-TLS 🇸🇬 SG-154.219.5.51:443
+vless://c0197135-3415-45ad-992f-870f36d3c9b2@172.67.158.249:443?security=tls&sni=psychologist.aurorainiceland.com&type=ws&host=psychologist.aurorainiceland.com&path=/nimws&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.158.249:443
+vless://5c15ce17-b7e3-4e9e-bc8a-3988a0695b89@162.159.135.234:2083?security=tls&sni=re2.v2logy.xyz&type=grpc&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.135.234:2083
+vless://d9a66cc5-0e40-459f-b7aa-6272e46839ee@104.24.197.20:2053?security=tls&sni=Pm.RxV2ray.space&type=ws&host=Pm.RxV2ray.space&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.197.20:2053
+vless://cd63bacc-fb9c-492a-af22-daf2623305b6@172.67.166.121:8443?security=tls&sni=parmo.gakibe3356.workers.dev&type=ws&host=parmo.gakibe3356.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.166.121:8443
+vless://2693036c-1e7e-4b1d-e460-f725b4f1c0d9@31.40.4.84:443?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-31.40.4.84:443
 vless://a2116969-446f-4871-b345-da044dd17a61@173.245.58.28:2096?security=tls&sni=69.neilson.ir&type=grpc&serviceName=Telegram-M4Dvpn-Telegram-M4Dvpn-Telegram-M4Dvpn-Telegram-M4Dvpn-Telegram-M4Dvpn-Telegram-M4Dvpn-Telegram-M4Dvpn-Telegram-M4Dvpn&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-173.245.58.28:2096
 vless://e8d8328d-4c66-4b96-9a4e-e005f4397c75@104.21.28.188:443?security=tls&sni=cloud.kiava.fun&type=ws&host=cloud.kiava.fun&path=%2F&fp=firefox&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.28.188:443
 vless://538cc8f2-55ef-422b-ba47-f3c2433f5a7c@87.236.208.92:2025?security=none&type=tcp&host=playstation.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-87.236.208.92:2025
@@ -77,9 +83,3 @@ vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.253.73:80?type=ws&host=kr1.1
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.84.102:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.84.102:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.211.214:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.211.214:80
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@205.233.181.0:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🔒 VL-WS-TLS 🇺🇸 US-205.233.181.0:443
-vless://13e706ae-0d80-45c2-8768-554ebf5d492d@104.21.82.17:443?security=tls&sni=no1.v2vless.xyz&type=ws&host=no1.v2vless.xyz&path=Join-Telegram-Channel-%40AstroVPN_official%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.82.17:443
-vless://ca234697-1849-4ad2-b673-85a2cc96d986@172.67.157.214:443?security=tls&sni=worker-aged-boat-aa11.jajoyo1612.workers.Dev&type=ws&host=worker-aged-boat-aa11.jajoyo1612.workers.Dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.157.214:443
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@206.238.236.84:443?security=tls&sni=vt.ylks.link&type=ws&path=%2F&fp=random#🔒 VL-WS-TLS 🇸🇬 SG-206.238.236.84:443
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.239.106:80?security=none&type=ws&host=us1.rtacg.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.239.106:80
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.18.85.191:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.85.191:80
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@205.233.181.26:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-205.233.181.26:443
